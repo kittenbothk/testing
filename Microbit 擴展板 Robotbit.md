@@ -21,7 +21,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - 優質18650 鋰電池 X 1 (選購)    
 
-  <img src="D:\Kittenbothk-doc-master\Extension Board\image\37.jpg" alt="37" style="zoom:80%;" />
+  <img src="D:\Kittenbothk\Extension Board\image\37.jpg" alt="37" style="zoom:80%;" />
 
   
 
@@ -43,7 +43,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - 前置4粒可獨立編程 RGB LED, 為項目增加光元素。
 
-<img src="D:\Kittenbothk-doc-master\Extension Board\image\36.png" style="zoom:80%;" />
+<img src="D:\Kittenbothk\Extension Board\image\36.png" style="zoom:80%;" />
 
 [Robotbit 應用示範](https://youtu.be/4tjt9Iy68sY)
 
@@ -59,7 +59,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 
 
-<img src="F:\01 Kitten bot\Event\Learn Platform\Learn Robotbit\image\robotbitSize.png" alt="robotbitSize" style="zoom:50%;" />
+![robotbitSize](D:\kittenbothk\Extension Board\image\robotbitSize.png)
 
 ## 功能規格  
 
@@ -76,13 +76,13 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 ### Microsoft MakeCode
 
-### <img src="F:\01 Kitten bot\Event\Learn Platform\Learn Robotbit\image\04.png" alt="04" style="zoom:75%;" />
+### ![04](D:\kittenbothk\Extension Board\image\04.png)
 
 
 
-1. 在makecode添加包中直接搜索Robotbit（Robotbit插件已經通過微軟官方認證)<img src="D:\Kittenbothk-doc-master\Extension Board\image\38.png" alt="38" style="zoom:67%;" />
+1. 在makecode添加包中直接搜索Robotbit（Robotbit插件已經通過微軟官方認證)<img src="D:\Kittenbothk\Extension Board\image\38.png" alt="38" style="zoom:67%;" />
 
-   <img src="D:\Kittenbothk-doc-master\Extension Board\image\39.png" alt="39" style="zoom:60%;" />
+   <img src="D:\Kittenbothk\Extension Board\image\39.png" alt="39" style="zoom:60%;" />
 
    
 
@@ -96,16 +96,15 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 1. 打開Kittenblock, 把microbit 插到電腦USB port後, 按下圖次序點選
 
-
-<img src="D:\Kittenbothk-doc-master\Extension Board\image\40.png" alt="40" style="zoom:50%;" />
+<img src="D:\Kittenbothk\Extension Board\image\40.png" alt="40" style="zoom:50%;" />
 
 2. 把micro:bit 跟kittenblock 連接
 
-   <img src="D:\Kittenbothk-doc-master\Extension Board\image\41.png" alt="41" style="zoom:67%;" />
+   <img src="D:\Kittenbothk\Extension Board\image\41.png" alt="41" style="zoom:67%;" />
 
 3. 連接後，可見左側自動加載包含Robotbit的插件分欄可供使用。
 
-   <img src="D:\Kittenbothk-doc-master\Extension Board\image\43.png" alt="43" style="zoom:67%;" /> 
+   <img src="D:\Kittenbothk\Extension Board\image\43.png" alt="43" style="zoom:67%;" /> 
 
 
 
@@ -115,16 +114,16 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 利用積木塊搭建好程序段後，點擊舞台代碼切換按鈕，便可立micropython代碼框
 
-![44](D:\Kittenbothk-doc-master\Extension Board\image\44.png)
+![44](D:\Kittenbothk\Extension Board\image\44.png)
 
-![45](D:\Kittenbothk-doc-master\Extension Board\image\45.png)
+![45](D:\Kittenbothk\Extension Board\image\45.png)
 
 
 
 
 ## 接口介紹 
 
-<img src="D:\Kittenbothk-doc-master\Extension Board\image\02.png" alt="02" style="zoom:75%;" />
+<img src="D:\Kittenbothk\Extension Board\image\02.png" alt="02" style="zoom:75%;" />
 
 1. 5V外部電源端子（防反接）   
 2. 電源開關   
@@ -143,7 +142,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 15. Microbit插槽   
 16. 全彩RGB  LED x 4
 
-<img src="D:\Kittenbothk-doc-master\Extension Board\image\03.png" alt="03" style="zoom:75%;" />
+<img src="D:\Kittenbothk\Extension Board\image\03.png" alt="03" style="zoom:75%;" />
 
 17. 舵機驅動芯片   
 18. 電機驅動芯片   
@@ -156,7 +155,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 ### 18650電池座
 
-<img src="D:\Kittenbothk-doc-master\Extension Board\image\09.png" alt="09" style="zoom:75%;" />
+<img src="D:\Kittenbothk\Extension Board\image\09.png" alt="09" style="zoom:75%;" />
 
 收到擴展板首先安裝18650鋰電池，註意電池正負極，切勿裝反（雖然防反接功能）   
 當第一次安裝電池時，拓展板處於待激活狀態（電源燈不亮），此時需要短按一下電池保護激活按鈕或連接usb供電.
@@ -164,13 +163,13 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 ### 18650電源開關   
 
-<img src="D:\Kittenbothk-doc-master\Extension Board\image\11.png" alt="11" style="zoom:80%;" />
+<img src="D:\Kittenbothk\Extension Board\image\11.png" alt="11" style="zoom:80%;" />
 
 開關打開後（撥向綠色端子那邊為打開開關），為Micro:bit和擴展板的接口供電（擴展板需要裝上18650電池）  
 
 ### Micro usb 鋰電池充電口   
 
-![10](D:\Kittenbothk-doc-master\Extension Board\image\10.png)
+![10](D:\Kittenbothk\Extension Board\image\10.png)
 
 ```attention:: 只能用於充電，不是用於程序下載
 
@@ -181,32 +180,32 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 ### 電源與電量指示燈   
 
-<img src="D:\Kittenbothk-doc-master\Extension Board\image\12.png" alt="12" style="zoom:80%;" />
+<img src="D:\Kittenbothk\Extension Board\image\12.png" alt="12" style="zoom:80%;" />
 
 Led（3）為電源指示燈，打開開關後常亮   
 Led（1）為充電指示燈，充電過程中常亮，電量充滿後Led（2）常亮   
 
 ### Micro:bit立式插槽
 
-<img src="D:\Kittenbothk-doc-master\Extension Board\image\13.png" alt="13" style="zoom:80%;" />
+<img src="D:\Kittenbothk\Extension Board\image\13.png" alt="13" style="zoom:80%;" />
 
 用於安裝Microbit主板。
 
 安裝方向：Micro:bit帶按鍵一面（正面）朝向Robotbit 上的 4顆LED方向。
 
-<img src="D:\Kittenbothk-doc-master\Extension Board\image\001.jpg" alt="001" style="zoom:50%;" />
+<img src="D:\Kittenbothk\Extension Board\image\001.jpg" alt="001" style="zoom:50%;" />
 
 如若不慎反插, 只需拔出重新按正確方向插入便可; Micro:bit / Robot:bit 不會因反插而損壞 。
 
 ### 4路全彩RGB燈   
 
-<img src="D:\Kittenbothk-doc-master\Extension Board\image\14.png" alt="14" style="zoom:80%;" />
+<img src="D:\Kittenbothk\Extension Board\image\14.png" alt="14" style="zoom:80%;" />
 
 4路RGB燈實際與Micro:bit的P16相連控制   
 
 ### 8路舵機標準3Pin接口  
 
-<img src="D:\Kittenbothk-doc-master\Extension Board\image\19.png" alt="19" style="zoom:80%;" />
+<img src="D:\Kittenbothk\Extension Board\image\19.png" alt="19" style="zoom:80%;" />
 
 - 8路舵機實際通過專門的舵機擴展驅動芯片與Micro:bit的I2C口控制,而非IO口控制。  
 
@@ -228,7 +227,7 @@ Led（1）為充電指示燈，充電過程中常亮，電量充滿後Led（2）
 
 ### 蜂鳴器與跳帽 (Jumper)
 
-<img src="D:\Kittenbothk-doc-master\Extension Board\image\21.png" alt="21" style="zoom:80%;" />
+<img src="D:\Kittenbothk\Extension Board\image\21.png" alt="21" style="zoom:80%;" />
 
 - 蜂鳴器跳帽於出廠時默認已插上，把蜂鳴器與Micro:bit的P0口連接   
 - 如果想正常使用P0口的IO口讀寫功能，需要把蜂鳴器跳帽拔下來   
@@ -236,7 +235,7 @@ Led（1）為充電指示燈，充電過程中常亮，電量充滿後Led（2）
 
 ### Micro:bit的IO口引出
 
-<img src="D:\Kittenbothk-doc-master\Extension Board\image\18.png" alt="18" style="zoom:80%;" />
+<img src="D:\Kittenbothk\Extension Board\image\18.png" alt="18" style="zoom:80%;" />
 
 已經將Micro:bit上P0-P2、P8、P12-P15轉出到擴展板上（P0使用時需要拔掉跳帽）
 標準的arduino 3PIN接口，支持市面上的Arduino模塊與常用模塊
@@ -245,13 +244,13 @@ P0-P2支持數字讀寫和模擬讀寫(Analogy)，P8、P12-P15只支持數字(Di
 
 ### I2C接口
 
-<img src="D:\Kittenbothk-doc-master\Extension Board\image\19.png" alt="19" style="zoom:80%;" />
+<img src="D:\Kittenbothk\Extension Board\image\19.png" alt="19" style="zoom:80%;" />
 
 可拓展I2C模塊，只能用於插接I2C模塊，不能用於普通IO口讀寫
 
 ### 2PIN外接電源端子
 
-<img src="D:\Kittenbothk-doc-master\Extension Board\image\20.png" alt="20" style="zoom:80%;" />
+<img src="D:\Kittenbothk\Extension Board\image\20.png" alt="20" style="zoom:80%;" />
 
 - 雖然有防反接功能，但接線仍需要註意正負極。
 
@@ -269,15 +268,15 @@ P0-P2支持數字讀寫和模擬讀寫(Analogy)，P8、P12-P15只支持數字(Di
 
 ### 把Microbit插到Robotbit上，注意插接方向
 
-### ![](D:\Kittenbothk-doc-master\Extension Board\image\z4.gif)
+### ![](D:\Kittenbothk\Extension Board\image\z4.gif)
 
 ### 點擊電池激活按鈕
 
-### ![z2](D:\Kittenbothk-doc-master\Extension Board\image\z2.gif)
+### ![z2](D:\Kittenbothk\Extension Board\image\z2.gif)
 
 ### 打開18650電池開關
 
-### ![z3](D:\Kittenbothk-doc-master\Extension Board\image\z3.gif)
+### ![z3](D:\Kittenbothk\Extension Board\image\z3.gif)
 
 
 
