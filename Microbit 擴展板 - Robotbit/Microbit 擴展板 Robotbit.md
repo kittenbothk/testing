@@ -53,7 +53,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - 前置4粒可獨立編程 RGB LED, 為項目增加光元素。
 
-<img src="D:\Kittenbothk\Extension Board\image\36.png" style="zoom:80%;" />
+![](/../Microbit 擴展板 Robotbit/36.png)
 
 [Robotbit 應用示範](https://youtu.be/4tjt9Iy68sY)
 
