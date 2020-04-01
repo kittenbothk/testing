@@ -69,7 +69,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 
 
-<img src="/../image/robotbitSize.png" style="zoom:80%;" />
+![](/../image/robotbitSize.png)
 
 ## 功能規格  
 
@@ -86,11 +86,11 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 ### Microsoft MakeCode
 
-### ![04](D:\kittenbothk\Extension Board\image\04.png)
+### ![](/../image/04.png)
 
 
 
-1. 在makecode添加包中直接搜索Robotbit（Robotbit插件已經通過微軟官方認證)<img src="D:\Kittenbothk\Extension Board\image\38.png" alt="38" style="zoom:67%;" />
+1. 在makecode添加包中直接搜索Robotbit（Robotbit插件已經通過微軟官方認證)![](/../image/38.png)
 
    <img src="D:\Kittenbothk\Extension Board\image\39.png" alt="39" style="zoom:60%;" />
 
