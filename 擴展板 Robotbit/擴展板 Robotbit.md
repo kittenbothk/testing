@@ -1,7 +1,3 @@
----
-typora-root-url: Robotbit Photo
----
-
 # Kittenbot Robotbit (Micro:bit 擴展板)
 
 ## 產品名稱：
@@ -27,13 +23,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
   
 
-  ![](../image/36.png)
-  
-  
-  
-  
-  
-  
+  ![](./image/37.jpg)
   
   
 
@@ -55,7 +45,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - 前置4粒可獨立編程 RGB LED, 為項目增加光元素。
 
-![](/../Microbit 擴展板 Robotbit/36.png)
+![](../image/36.png)
 
 [Robotbit 應用示範](https://youtu.be/4tjt9Iy68sY)
 
@@ -71,7 +61,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 
 
-![](../image/robotbitSize.png)
+![](./image/robotbitSize.png)
 
 ## 功能規格  
 
@@ -88,13 +78,13 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 ### Microsoft MakeCode
 
-### ![](/../image/04.png)
+### <img src="./image/04.png" />
 
 
 
-1. 在makecode添加包中直接搜索Robotbit（Robotbit插件已經通過微軟官方認證)![](/../image/38.png)
+1. 在makecode添加包中直接搜索Robotbit（Robotbit插件已經通過微軟官方認證)![](./image/04.png)
 
-   <img src="D:\Kittenbothk\Extension Board\image\39.png" alt="39" style="zoom:60%;" />
+   ![](./image/39.png)
 
    
 
