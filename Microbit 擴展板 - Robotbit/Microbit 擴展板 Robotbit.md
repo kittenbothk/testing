@@ -25,8 +25,12 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - 優質18650 鋰電池 X 1 (選購)    
 
-  ![](37.jpg)
+  ![](/../Microbit 擴展板 Robotbit/37.jpg)
 
+  
+  
+  
+  
   
   
   
