@@ -7,4 +7,4 @@ Robotbit的全方位介绍
     :maxdepth: 1
     :glob:
 
-    Robotbit
+    Robotbitfull
