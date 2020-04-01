@@ -3,7 +3,8 @@
 ## 產品名稱：
 
 **Robotbit (Version 2.2)**
-適用人群：中小學生 / 培訓機構 / 創客一族
+
+適用於校本中小學生編程教育 / 培訓機構 / 編程愛好者
 
 *需配套Microbit進行使用*
 
@@ -45,9 +46,11 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - 前置4粒可獨立編程 RGB LED, 為項目增加光元素。
 
-![](./image/36.png)
+    [Robotbit 應用示範](https://youtu.be/4tjt9Iy68sY)
 
-[Robotbit 應用示範](https://youtu.be/4tjt9Iy68sY)
+![](./image/with base.png)
+
+
 
 
 
