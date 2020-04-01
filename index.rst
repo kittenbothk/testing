@@ -3,5 +3,6 @@
 .. toctree::
     :maxdepth: 2
     :caption: Micro:bit擴展板 說明&教程
+    :glob:
 
-    Micro:bit擴展板/index
+    Microbit eboard/index
