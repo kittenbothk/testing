@@ -59,7 +59,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 
 
-![robotbitSize](D:\kittenbothk\Extension Board\image\robotbitSize.png)
+![robotbitSize](D:\testing\_static\image\robotbitSize.png)
 
 ## 功能規格  
 
