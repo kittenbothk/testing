@@ -1,3 +1,7 @@
+---
+typora-root-url: Robotbit Photo
+---
+
 # Kittenbot Robotbit (Micro:bit 擴展板)
 
 ## 產品名稱：
@@ -21,8 +25,10 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - 優質18650 鋰電池 X 1 (選購)    
 
-  <img src="D:\Kittenbothk\Extension Board\image\37.jpg" alt="37" style="zoom:80%;" />
+  ![](37.jpg)
 
+  
+  
   
 
 ## 產品特色  
