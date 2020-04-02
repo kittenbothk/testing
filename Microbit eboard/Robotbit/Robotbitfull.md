@@ -24,7 +24,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
   
 
-  ![](./image/37.jpg)
+  ![](./image/Robotbit_18650.png)
   
   
 
@@ -48,7 +48,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
     [Robotbit 應用示範](https://youtu.be/4tjt9Iy68sY)
 
-![](./image/with base.png)
+![](./image/with_base.png)
 
 
 
@@ -158,11 +158,14 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 ![](./image/03.png)
 
 17. 舵機驅動芯片   
+
 18. 電機驅動芯片   
+
 19. 標準KittenBot機器人底盤固定孔   
+
 20. 標準樂高孔   
 
-### 
+    
 
 ## Robotbit各個部分詳解 
 
@@ -185,7 +188,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 ![](./image/10.png)
 
 ```attention:: 只能用於充電，不是用於程序下載
-
+attention: 只能用於充電，不是用於程序下載
 ```
 
 電腦供電或任意5V 1A或者1A以上的手機充電器均可為18650鋰電池充電   
@@ -227,7 +230,7 @@ Led（1）為充電指示燈，充電過程中常亮，電量充滿後Led（2）
 - 擴展板在外部電源接口（綠色端子）供電狀態下（5V 3A或者3A以上），最多能支持總電流不超過3A的舵機。  
 
 ```attention: 舵機接口不能只能驅動舵機, 作為普通IO口使用。 
-
+attention: 舵機接口不能只能驅動舵機, 作為普通IO口使用。 
 ```
 
 ### DC motor 直流電機 x 4  或 Stepper Motor 步進電機 (28BYJ ) x 2
@@ -394,7 +397,7 @@ robotbit在工廠出廠都進行過硬件程序測試，保證了功能的完好
 
 
 
-### **版本叠代更新說明 **
+### **版本佚代更新說明 **
 
 Robotbit作為一款有活力的Microbit擴展板，已經經歷過兩次的迭代更新，每次的更新都是比前面一代更加貼近用家或教學需要。   
 Robotbit版本起於2017年11月初的V1.2，中間經歷了V1.3，2018年6月中發布V2.0（由於改動提升比較大，版本直接跳到V2.0
