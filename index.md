@@ -169,6 +169,8 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 ## Robotbit各個部分詳解 
 
+![](./image/48.png)
+
 ### 18650電池座
 
 ![](./image/09.png)
