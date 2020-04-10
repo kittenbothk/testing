@@ -20,9 +20,9 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - Robotbit 專用底座   
 
-- 優質18650 鋰電池 X 1 (選購)  ![](./image/robotbit_18650_1.png)
+- 優質18650 鋰電池 X 1 (選購)                                                                         ![](./image/robotbit_18650_1.png)
 
-  <:\Users\ch_ls\Desktop\KOI with packing.png" style="zoom:25%;" />
+  
 
 ## 產品特色  
 
@@ -40,7 +40,9 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - 板載蜂鳴器，為micro:bit 發聲。
 
-- 前置4粒可獨立編程 RGB LED, 為項目增加光元素。                                                                                                                                                                               ![](./image/with_base2.png)
+- 前置4粒可獨立編程 RGB LED, 為項目增加光元素。                                                   
+
+    ​                                                                                                                                                                 ![](./image/with_base2.png)
 
 
 
@@ -93,7 +95,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 
 
-2. 把micro:bit 跟kittenblock 連接                             ![](./image/41_01.png)
+2. 把micro:bit 跟kittenblock 連接                                                                                                                                                                                                  ![](./image/41_01.png)
 
 
 
@@ -144,7 +146,9 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 15. Microbit插槽   
 
-16. 全彩RGB  LED x 4                                                                                                                                                                              ![](./image/03_1.png)
+16. 全彩RGB  LED x 4                         
+
+    ​                                                                                                                                                     ![](./image/03_1.png)
 
 17. 舵機驅動芯片   
 
@@ -168,11 +172,11 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 當第一次安裝電池時，拓展板處於待激活狀態（電源燈不亮），此時需要短按一下電池保護激活按鈕或連接usb供電.
 使拓展板進入正常工作模式（如果你重新安裝電池，就需要操作這個步驟）   
 
-### 18650電源開關                                                                                                                    ![](./image/11.png)
+### 18650電源開關                                                                                                                                                                                                              ![](./image/11.png)
 
 開關打開後（撥向綠色端子那邊為打開開關），為Micro:bit和擴展板的接口供電（擴展板需要裝上18650電池）  
 
-### Micro usb 鋰電池充電口                                                                                                ![](./image/10.png)
+### Micro usb 鋰電池充電口                                                                                                                                                                                                    ![](./image/10.png)
 
 電腦供電或任意5V 1A或者1A以上的手機充電器均可為18650鋰電池充電   
 5V1A的充電器約2.5小時充滿，建議充電時關閉電源。充滿會自動截止，指示燈變綠 **充滿電後請把USB 拔走, 不宜長充, 同時請細閱讀盒內附帶之"鋰電池使用貼士"**  
@@ -183,24 +187,24 @@ attention: 只能用於充電, 不是用於下載hex程式
 
 
 
-### 電源與電量指示燈                                                                                                           ![](./image/12.png)
+### 電源與電量指示燈                                                                                                                                                                                            ![](./image/12.png)
 
 Led（3）為電源指示燈，打開開關後常亮   
 Led（1）為充電指示燈，充電過程中常亮，電量充滿後Led（2）常亮   
 
-### Micro:bit立式插槽                                                                                                           ![](./image/13.png)
+### Micro:bit立式插槽                                                                                                                                                                                                     ![](./image/13.png)
 
 用於安裝Microbit主板。
 
-安裝方向：Micro:bit帶按鍵一面（正面）朝向Robotbit 上的 4顆LED方向。   ![](./image/001_01.png)
+安裝方向：Micro:bit帶按鍵一面（正面）朝向Robotbit 上的 4顆LED方向。                                                                                        ![](./image/001_01.png)
 
 如若不慎反插, 只需拔出重新按正確方向插入便可; Micro:bit / Robot:bit 不會因反插而損壞 。
 
-### 4路全彩RGB燈                                      ![](./image/14.png)
+### 4路全彩RGB燈                                                                                                                                               ![](./image/14.png)
 
 4路RGB燈實際與Micro:bit的P16相連控制   
 
-### 8路舵機標準3Pin接口                               
+### 8路舵機標準3Pin接口                                                                                                                             
 
 ### ![](./image/19.png)
 
@@ -216,30 +220,30 @@ Led（1）為充電指示燈，充電過程中常亮，電量充滿後Led（2）
 
   
 
-### DC motor 直流電機 x 4  或 Stepper Motor 步進電機 (28BYJ ) x 2    ![](./image/17.png)
+### DC motor 直流電機 x 4  或 Stepper Motor 步進電機 (28BYJ ) x 2                            ![](./image/17.png)
 
 在隨香港代理選購的電池下工作，一共可以同時控制4個（左右兩側合計）TT馬達，或者2個步進電機（與舵機合計總電流＜2A），禁止接大電流DC 馬逹和大電流步進馬逹 (建議選配Kittenbot的馬逹) ，以免燒毀擴展板 。  
 
 支持直流電機與步進電機混合使用（2個直流電機與1個步進電機）（與舵機合計總電流＜2A）   
 
-### 蜂鳴器與跳帽 (Jumper)                          ![](./image/21_1.png)
+### 蜂鳴器與跳帽 (Jumper)                                                                                                         ![](./image/21_1.png)
 
 - 蜂鳴器跳帽於出廠時默認已插上，把蜂鳴器與Micro:bit的P0口連接   
 - 如果想正常使用P0口的IO口讀寫功能，需要把蜂鳴器跳帽拔下來   
 - 蜂鳴器硬件上的電氣連接與Microbit的Music積木塊是對應的，可直接使用Music控制蜂鳴器。 
 
-### Micro:bit的IO口引出                             ![](./image/18.png)
+### Micro:bit的IO口引出                                                                                                         ![](./image/18.png)
 
 已經將Micro:bit上P0-P2、P8、P12-P15轉出到擴展板上（P0使用時需要拔掉跳帽）
 標準的arduino 3PIN接口，支持市面上的Arduino模塊與常用模塊
 P0-P2支持數字讀寫和模擬讀寫(Analogy)，P8、P12-P15只支持數字(Digital)讀寫
 如果需要使用5V輸出模塊，可以接3PIN接口左側的5V電源（3PIN接口的電源默認是3.3V）   
 
-### I2C接口                                                   ![](./image/19.png)
+### I2C接口                                                                                                                                                                         ![](./image/19.png)
 
 可拓展I2C模塊，只能用於插接I2C模塊，不能用於普通IO口讀寫
 
-### 2PIN外接電源端子                                               <img src="./image/20.png" style="zoom:67%;" />
+### 2PIN外接電源端子                                                                                                                                                    <img src="./image/20.png" style="zoom:67%;" />
 
 - 雖然有防反接功能，但接線仍需要註意正負極。
 
@@ -251,7 +255,9 @@ P0-P2支持數字讀寫和模擬讀寫(Analogy)，P8、P12-P15只支持數字(Di
 
 ## Robotbit新手必看快速入門教程  
 
-### 把18650電池裝到Robotbit上，注意正負極  ![](./image/z1.gif)
+### 把18650電池裝到Robotbit上，注意正負極                                                                    
+
+### ![](./image/z1.gif)
 
 
 
