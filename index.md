@@ -20,9 +20,9 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - Robotbit 專用底座   
 
-- 優質18650 鋰電池 X 1 (選購)    <img src="./image/Robotbit_18650.png"  />
+- 優質18650 鋰電池 X 1 (選購)  ![](./image/robotbit_18650_1.png)
 
-  
+  <:\Users\ch_ls\Desktop\KOI with packing.png" style="zoom:25%;" />
 
 ## 產品特色  
 
@@ -40,13 +40,11 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - 板載蜂鳴器，為micro:bit 發聲。
 
-- 前置4粒可獨立編程 RGB LED, 為項目增加光元素。
-
-    [Robotbit 應用示範](https://youtu.be/4tjt9Iy68sY)<img src="./image/with_base.png" style="zoom:50%;" />
+- 前置4粒可獨立編程 RGB LED, 為項目增加光元素。                                                        ![](./image/with_base2.png)
 
 
 
-
+[Robotbit 應用示範](https://youtu.be/4tjt9Iy68sY)
 
 ## 外觀規格 
 
@@ -75,11 +73,11 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 ### Microsoft MakeCode
 
-### <img src="./image/04.png" style="zoom:50%;" />
+### ![](./image/04_1.png)
 
 
 
-1. 在makecode添加包中直接搜索Robotbit（Robotbit插件已經通過微軟官方認證)<img src="./image/38.png" style="zoom: 33%;" /><img src="./image/39.png" style="zoom: 50%;" />
+1. 在makecode添加包中直接搜索Robotbit（Robotbit插件已經通過微軟官方認證)  ![](./image/38_01.png)          ![](./image/39_1.png)
 
 
 
@@ -91,17 +89,15 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 [下截Kittenblock](https://www.kittenbot.cn/kittenblock)
 
-1. 打開Kittenblock, 把microbit 插到電腦USB port後, 按下圖次序點選<img src="./image/40.png" style="zoom:50%;" />
+1. 打開Kittenblock, 把microbit 插到電腦USB port後, 按下圖次序點選     ![](./image/40_01.png)
 
 
 
-2. 把micro:bit 跟kittenblock 連接<img src="./image/41.png" style="zoom: 50%;" />
+2. 把micro:bit 跟kittenblock 連接    ![](./image/41_01.png)
 
 
 
-3. 連接後，可見左側自動加載包含Robotbit的插件分欄可供使用。
-
-<img src="./image/43.png" style="zoom:50%;" /> 
+3. 連接後，可見左側自動加載包含Robotbit的插件分欄可供使用。![](./image/43_1.png) 
 
 
 
@@ -109,7 +105,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - kittenblock的python代碼編程模式  !利用積木塊搭建好程序段後，點擊"舞台代碼"切換按鈕，便可立即看到micropython代碼框
 
-利用積木塊搭建好程序段後，點擊舞台代碼切換按鈕，便可立micropython代碼框<img src="./image/44.png" style="zoom:50%;" /><img src="./image/45.png" style="zoom:50%;" />
+利用積木塊搭建好程序段後，點擊舞台代碼切換按鈕，便可立micropython代碼框  ![](./image/44_1.png)    ![](./image/45_1.png)
 
 
 
