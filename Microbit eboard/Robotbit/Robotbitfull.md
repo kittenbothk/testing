@@ -20,10 +20,12 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - Robotbit 專用底座   
 
-- 優質18650 鋰電池 X 1 (選購)                                                                        
+- 優質18650 鋰電池 X 1 (選購)                  
 
-   ![](./image/robotbit_18650_1.png)
-  
+   ​                                                                                                                              
+   
+   ![](./image/robotbit_18650_1.png) 
+
   
 
 ## 產品特色  
