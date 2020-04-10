@@ -95,7 +95,9 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 
 
-2. 把micro:bit 跟kittenblock 連接                                                                                                                                                                                                  ![](./image/41_01.png)
+2. 把micro:bit 跟kittenblock 連接      
+
+   ​                                                                                                                                                                                            ![](./image/41_01.png)
 
 
 
@@ -200,7 +202,9 @@ Led（1）為充電指示燈，充電過程中常亮，電量充滿後Led（2）
 
 如若不慎反插, 只需拔出重新按正確方向插入便可; Micro:bit / Robot:bit 不會因反插而損壞 。
 
-### 4路全彩RGB燈                                                                                                                                               ![](./image/14.png)
+### 4路全彩RGB燈   
+
+​                                                                                                                                            ![](./image/14.png)
 
 4路RGB燈實際與Micro:bit的P16相連控制   
 
@@ -226,24 +230,32 @@ Led（1）為充電指示燈，充電過程中常亮，電量充滿後Led（2）
 
 支持直流電機與步進電機混合使用（2個直流電機與1個步進電機）（與舵機合計總電流＜2A）   
 
-### 蜂鳴器與跳帽 (Jumper)                                                                                                         ![](./image/21_1.png)
+### 蜂鳴器與跳帽 (Jumper)   
+
+​                                                                                                      ![](./image/21_1.png)
 
 - 蜂鳴器跳帽於出廠時默認已插上，把蜂鳴器與Micro:bit的P0口連接   
 - 如果想正常使用P0口的IO口讀寫功能，需要把蜂鳴器跳帽拔下來   
 - 蜂鳴器硬件上的電氣連接與Microbit的Music積木塊是對應的，可直接使用Music控制蜂鳴器。 
 
-### Micro:bit的IO口引出                                                                                                         ![](./image/18.png)
+### Micro:bit的IO口引出
+
+​                                                                                                        ![](./image/18.png)
 
 已經將Micro:bit上P0-P2、P8、P12-P15轉出到擴展板上（P0使用時需要拔掉跳帽）
 標準的arduino 3PIN接口，支持市面上的Arduino模塊與常用模塊
 P0-P2支持數字讀寫和模擬讀寫(Analogy)，P8、P12-P15只支持數字(Digital)讀寫
 如果需要使用5V輸出模塊，可以接3PIN接口左側的5V電源（3PIN接口的電源默認是3.3V）   
 
-### I2C接口                                                                                                                                                                         ![](./image/19.png)
+### I2C接口                
+
+​                                                                                                                                                       ![](./image/19.png)
 
 可拓展I2C模塊，只能用於插接I2C模塊，不能用於普通IO口讀寫
 
-### 2PIN外接電源端子                                                                                                                                                    <img src="./image/20.png" style="zoom:67%;" />
+### 2PIN外接電源端子             
+
+​                                                                                                                                       <img src="./image/20.png" style="zoom:67%;" />
 
 - 雖然有防反接功能，但接線仍需要註意正負極。
 
