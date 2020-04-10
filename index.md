@@ -24,7 +24,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
   
 
-  ![](./image/Robotbit_18650.png)
+  <img src="./image/Robotbit_18650.png" style="zoom:50%;" />
   
   
 
@@ -48,7 +48,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
     [Robotbit 應用示範](https://youtu.be/4tjt9Iy68sY)
 
-![](./image/with_base.png)
+<img src="./image/with_base.png" style="zoom:50%;" />
 
 
 
@@ -81,17 +81,11 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 ### Microsoft MakeCode
 
-### ![](./image/04.png)
+### <img src="./image/04.png" style="zoom:50%;" />
 
 
 
-1. 在makecode添加包中直接搜索Robotbit（Robotbit插件已經通過微軟官方認證)
-
-   
-
-   ![](./image/38.png)
-
-![](./image/39.png)
+1. 在makecode添加包中直接搜索Robotbit（Robotbit插件已經通過微軟官方認證)<img src="./image/38.png" style="zoom: 33%;" /><img src="./image/39.png" style="zoom: 50%;" />
 
 
 
@@ -103,21 +97,17 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 [下截Kittenblock](https://www.kittenbot.cn/kittenblock)
 
-1. 打開Kittenblock, 把microbit 插到電腦USB port後, 按下圖次序點選
-
-![](./image/40.png)
+1. 打開Kittenblock, 把microbit 插到電腦USB port後, 按下圖次序點選<img src="./image/40.png" style="zoom:50%;" />
 
 
 
-2. 把micro:bit 跟kittenblock 連接
-
-![](./image/41.png)
+2. 把micro:bit 跟kittenblock 連接<img src="./image/41.png" style="zoom: 50%;" />
 
 
 
 3. 連接後，可見左側自動加載包含Robotbit的插件分欄可供使用。
 
-![](./image/43.png) 
+<img src="./image/43.png" style="zoom:50%;" /> 
 
 
 
@@ -125,18 +115,14 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - kittenblock的python代碼編程模式  !利用積木塊搭建好程序段後，點擊"舞台代碼"切換按鈕，便可立即看到micropython代碼框
 
-利用積木塊搭建好程序段後，點擊舞台代碼切換按鈕，便可立micropython代碼框
-
-![](./image/44.png)
-
-![](./image/45.png)
+利用積木塊搭建好程序段後，點擊舞台代碼切換按鈕，便可立micropython代碼框<img src="./image/44.png" style="zoom:50%;" /><img src="./image/45.png" style="zoom:50%;" />
 
 
 
 
 ## 接口介紹 
 
-![](./image/02.png)
+<img src="./image/02.png" style="zoom:67%;" />
 
 1. 5V外部電源端子（防反接）   
 2. 電源開關   
@@ -153,9 +139,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 13. 18650鋰電池座   
 14. 電池保護激活按鈕   
 15. Microbit插槽   
-16. 全彩RGB  LED x 4
-
-![](./image/03.png)
+16. 全彩RGB  LED x 4    <img src="./image/03.png" style="zoom:67%;" />
 
 17. 舵機驅動芯片   
 
@@ -173,7 +157,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 ### 18650電池座
 
-![](./image/09.png)
+<img src="./image/09.png" style="zoom:67%;" />
 
 收到擴展板首先安裝18650鋰電池，註意電池正負極，切勿裝反（雖然防反接功能）   
 當第一次安裝電池時，拓展板處於待激活狀態（電源燈不亮），此時需要短按一下電池保護激活按鈕或連接usb供電.
@@ -192,6 +176,12 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 電腦供電或任意5V 1A或者1A以上的手機充電器均可為18650鋰電池充電   
 5V1A的充電器約2.5小時充滿，建議充電時關閉電源。充滿會自動截止，指示燈變綠 **充滿電後請把USB 拔走, 不宜長充, 同時請細閱讀盒內附帶之"鋰電池使用貼士"**  
 
+```
+attention: 只能用於充電, 不是用於下載hex程式
+```
+
+
+
 ### 電源與電量指示燈   
 
 ![](./image/12.png)
@@ -205,9 +195,7 @@ Led（1）為充電指示燈，充電過程中常亮，電量充滿後Led（2）
 
 用於安裝Microbit主板。
 
-安裝方向：Micro:bit帶按鍵一面（正面）朝向Robotbit 上的 4顆LED方向。
-
-![](./image/001.png)
+安裝方向：Micro:bit帶按鍵一面（正面）朝向Robotbit 上的 4顆LED方向。<img src="./image/001.png" style="zoom:50%;" />
 
 如若不慎反插, 只需拔出重新按正確方向插入便可; Micro:bit / Robot:bit 不會因反插而損壞 。
 
@@ -227,6 +215,12 @@ Led（1）為充電指示燈，充電過程中常亮，電量充滿後Led（2）
 
 - 擴展板在外部電源接口（綠色端子）供電狀態下（5V 3A或者3A以上），最多能支持總電流不超過3A的舵機。  
 
+  ```
+  attention:: 舵機接口不能作為普通IO口使用, 只能驅動舵機 
+  ```
+
+  
+
 ### DC motor 直流電機 x 4  或 Stepper Motor 步進電機 (28BYJ ) x 2
 
 ![](./image/17.png)
@@ -235,9 +229,9 @@ Led（1）為充電指示燈，充電過程中常亮，電量充滿後Led（2）
 
 支持直流電機與步進電機混合使用（2個直流電機與1個步進電機）（與舵機合計總電流＜2A）   
 
-### 蜂鳴器與跳帽 (Jumper)
+### 蜂鳴器與跳帽 (Jumper) 
 
-![](./image/21.png)
+<img src="./image/21.png" style="zoom:67%;" />
 
 - 蜂鳴器跳帽於出廠時默認已插上，把蜂鳴器與Micro:bit的P0口連接   
 - 如果想正常使用P0口的IO口讀寫功能，需要把蜂鳴器跳帽拔下來   
@@ -272,11 +266,7 @@ P0-P2支持數字讀寫和模擬讀寫(Analogy)，P8、P12-P15只支持數字(Di
 
 ## Robotbit新手必看快速入門教程  
 
-### 把18650電池裝到Robotbit上，注意正負極
-
-
-
-![](./image/z1.gif)
+### 把18650電池裝到Robotbit上，注意正負極  ![](./image/z1.gif)
 
 
 
