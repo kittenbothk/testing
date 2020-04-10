@@ -20,8 +20,10 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - Robotbit 專用底座   
 
-- 優質18650 鋰電池 X 1 (選購)                                                                         ![](./image/robotbit_18650_1.png)
+- 優質18650 鋰電池 X 1 (選購)                                                                        
 
+   ![](./image/robotbit_18650_1.png)
+  
   
 
 ## 產品特色  
@@ -202,7 +204,9 @@ Led（1）為充電指示燈，充電過程中常亮，電量充滿後Led（2）
 
 
 
-### Micro:bit立式插槽                                                                                                                                                                                                     ![](./image/13.png)
+### Micro:bit立式插槽                         
+
+​                                                                                                                                                                            ![](./image/13.png)
 
 用於安裝Microbit主板。
 
