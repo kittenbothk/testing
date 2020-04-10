@@ -20,12 +20,8 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - Robotbit 專用底座   
 
-- 優質18650 鋰電池 X 1 (選購)    
+- 優質18650 鋰電池 X 1 (選購)    <img src="./image/Robotbit_18650.png"  />
 
-  
-
-  <img src="./image/Robotbit_18650.png" style="zoom:50%;" />
-  
   
 
 ## 產品特色  
@@ -46,9 +42,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 - 前置4粒可獨立編程 RGB LED, 為項目增加光元素。
 
-    [Robotbit 應用示範](https://youtu.be/4tjt9Iy68sY)
-
-<img src="./image/with_base.png" style="zoom:50%;" />
+    [Robotbit 應用示範](https://youtu.be/4tjt9Iy68sY)<img src="./image/with_base.png" style="zoom:50%;" />
 
 
 
