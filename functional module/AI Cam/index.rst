@@ -1,7 +1,7 @@
-﻿AI鏡頭-KOI鋰鯉
+﻿AI鏡頭
 ====================
 
-支援Microbit之各種配件介紹及詳細資訊
+AI鏡頭KOI 的硬件介紹與Makecode上編程方法
 
 .. toctree::
     :maxdepth: 1
