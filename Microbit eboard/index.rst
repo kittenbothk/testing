@@ -7,4 +7,5 @@ Microbit擴展板
     :maxdepth: 1
     :glob:
 
-    Robotbit/index
+    Robotbitfull
+    Armourbit
