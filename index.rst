@@ -10,4 +10,7 @@
 
 .. toctree::
     :maxdepth: 2
-    :caption: 功能配件                           AI 鏡頭/index
+    :caption: 功能配件 
+    :glob:     
+
+    functional module/index                    
