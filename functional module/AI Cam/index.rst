@@ -8,3 +8,4 @@ AI鏡頭KOI 的硬件介紹與Makecode上編程方法
     :glob:
 
     intro
+    makecodeQs
