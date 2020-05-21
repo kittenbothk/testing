@@ -8,5 +8,15 @@
     :glob:
 
     Wifibrick_intro
+
+.. toctree::
+    :maxdepth: 1
+    :glob:
+  
     IoT平台介紹/index
+
+.. toctree::
+    :maxdepth: 1
+    :glob:
+    
     Makecode編程/index
