@@ -8,5 +8,5 @@
     :glob:
 
     Wifibrick_intro
-    Thinkspeak
-    MC_TS
+    IoT平台介紹/index
+    Makecode編程/index
