@@ -48,13 +48,13 @@ Wifibrick 是Kittenbot Powerbrick 延申的一款功能方塊; 顧名思義, Wif
 
 ## 接腳解讀
 
-在Wifibrick 背面, 會看4支針腳的標示, 分別為 G﹑V﹑ A﹑ B, 對應功能如下:
+在Wifibrick 背面, 會看4支針腳的標示, 分別為 G﹑V﹑ A﹑ B, 
 
-| G    | GND                                    |
-| ---- | -------------------------------------- |
-| V    | 3.3V / 5V                              |
-| A    | 訊號接收端 **Rx** , 接到micro:bit 的Tx |
-| B    | 訊號發放端 **Tx**, 接到micro:bit 的Rx  |
+ ![](./introimage/wifi-22-1.png)
+
+對應針腳功能如下:
+
+ ![](./introimage/wifi-23-1.png)
 
 Tx = 發送數據 Transmit(*tx*) Data 的簡寫
 
