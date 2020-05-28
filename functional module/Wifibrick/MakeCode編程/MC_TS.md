@@ -323,7 +323,7 @@ e.g. **channels/1058604/publish/NNCQRVPVJ7ZATI1F**
 
 以上2個訂閱(3.2A & 3.2B) hex 例子, 分別可對應3.1.1 及 3.1.2 的發佈程式使用。
 
->  ![](./iotimage/iot-62.png)
+ ![](./iotimage/iot-62.png)
 
 
 
