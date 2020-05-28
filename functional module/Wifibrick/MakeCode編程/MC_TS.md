@@ -84,6 +84,8 @@ Powerbrick: **https://github.com/KittenBot/pxt-powerbrick**
 
 進入下一步前, 建議先把本章程式下載到microbit 運行, 測試把wifibrick 連到網絡; 如連線順利便可進一步組織核心功能。
 
+[Wifibrick連線到網絡hex](https://bit.ly/WifibrickConnectionMC)
+
 [**短片參考**](https://youtu.be/v6yIrGqzqO4)
 
 
@@ -317,7 +319,7 @@ e.g. **channels/1058604/publish/NNCQRVPVJ7ZATI1F**
 
     ![](./iotimage/iot-58-1.png)
 
-[訂閱(Subscribe) 例子 3.2B hex下載**](https://drive.google.com/open?id=1ga04jVOFTbh-9taz_nepZAlsc4JWu0Uf)
+[**訂閱(Subscribe) 例子 3.2B hex下載**](https://drive.google.com/open?id=1ga04jVOFTbh-9taz_nepZAlsc4JWu0Uf)
 
  
 
