@@ -7,5 +7,5 @@ IoT 平台有免費或數費的選擇, Kittenbot 為大家介紹新手玩家的�
     :maxdepth: 1
     :glob:
 
-    Thinkspeak
+    Thinkspeak.md
     

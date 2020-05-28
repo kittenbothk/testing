@@ -7,5 +7,5 @@
     :maxdepth: 1
     :glob:
 
-    MC_TS
+    MC_TS.md
     
