@@ -9,4 +9,4 @@
 
     Wifibrick_intro
     IoT平台介紹/index
-    Makecode編程/index
+    MakeCode編程/index
