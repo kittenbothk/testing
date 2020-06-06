@@ -1,4 +1,4 @@
-功能示範及使用Makecode編程
+Makecode上各種功能編程指引
 ====================
 
 
@@ -12,4 +12,4 @@
     KOI04_ScreenCapture
     KOI05_RecAndPlay
     KOI06_BarQRCodeReading
-    KOI11_face
+   
