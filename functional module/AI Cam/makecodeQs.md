@@ -2,6 +2,10 @@
 
 ## 連接Micro:bit
 
+------
+
+
+
 ### 1. 與Armourbit 連接
 
 因為接線系統上, Armourbit 相對簡易便捷; 小編推薦新手使用Armourbit, 這樣可以減少因接線失誤而導致白忙半天呢~
@@ -50,6 +54,8 @@ Armourbit與KOI配合使用時，KOI必須額外提供5V電。
 
 ## 準備Makecode編程
 
+------
+
 可以使用線上版本或者離線版本的Makecode
 
 [https://makecode.microbit.org](https://makecode.microbit.org/)
@@ -84,9 +90,15 @@ KOI 插件成功載入，如圖所示
 
 ## 積木介紹
 
+------
+
+
+
 ### 連接初始化
 
-![](McQsImage/04.png)  
+
+
+​    ![](McQsImage/04.png)  
 
 **第一個積木**——針對是Robotbit或者其它Microbit擴展板
 
@@ -100,7 +112,7 @@ KOI 插件成功載入，如圖所示
 
 Classifier 分類器用於自訂學習分辨特定的物體或者場景等等
 
-![](McQsImage/05.png) 
+ ![](McQsImage/05.png) 
 
 
 
@@ -126,9 +138,7 @@ Classifier 分類器用於自訂學習分辨特定的物體或者場景等等
 
 我們也可按需要加入延時, 加長資訊顯示時間。
 
-
-
-![](McQsImage/07.png) 
+ ![](McQsImage/07.png) 
 
 
 
