@@ -6,7 +6,7 @@
 .. toctree::
     :maxdepth: 1
     :caption: Wifibrick與IoT方案
-    :glob:
+
 
     Wifibrick/index
 
