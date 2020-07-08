@@ -47,9 +47,7 @@
 
 參考短片：
 
-[Youtube](https://www.youtube.com/watch?v=UsjingLwnHc&feature=youtu.be)
-
-![](KOI09/image6365.png)
+[![](KOI09/image6365.png)](https://www.youtube.com/watch?v=UsjingLwnHc&feature=youtu.b)
 
 ## 參考程式下載
 

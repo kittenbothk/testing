@@ -6,20 +6,12 @@
 
 本教程以Robotbit為例，當然你也可以用Powerbrick，用Powerbrick就不會接錯線。
 
-不過本教程會使用OLED顯示屏，所以推薦使用Robotbit。
-
-請按照圖例連接OLED與Robotbit，確認妥當接線後再打開電源。
-
-![](KOI12/03.png)
-
-
-
+本教程會使用OLED顯示屏，所以推薦使用Robotbit。
 
 ## 編寫線條追蹤程式
 
 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
-加載OLED插件：https://github.com/KittenBot/pxt-oled
 
 [詳細方法](https://kittenbothk.readthedocs.io/en/latest/functional%20module/AI%20Cam/makecodeQs.html)
 
@@ -29,7 +21,7 @@
 
 編寫程式：
 
-![](KOI12/image4715.png)
+![](KOI12/code.png)
 
 
 
@@ -55,14 +47,32 @@
 
 將要追蹤的筆直線狀物件放在鏡頭前（例如原子筆），按下按鍵A進行顏色校正。
 
-校正成功後，可以看到被偵測線段的2組座標顯示在OLED顯示屏上。
+校正成功後，可以看到被偵測線段的2組座標顯示在Microbit的顯示屏上。
+
+
+## 進階程式
+
+由於Microbit的顯示屏不能長時間顯示信息，本教程會教大家使用OLED顯示屏。
+
+加載OLED插件：https://github.com/KittenBot/pxt-oled
+
+請按照圖例連接OLED與Robotbit，確認妥當接線後再打開電源。
+
+
+![](KOI12/03.png)
+
+編寫程式：
+
+![](KOI12/codeoled.png)
+
+程式流程與基本程式相同，可以看到被偵測線段的2組座標顯示在OLED顯示屏上。
 
 ![](KOI12/01.png)
 
 ## 參考程式下載
 
 [testing](www.google.com)
-
+[testing](www.google.com)
 
 ## FAQ
 

@@ -14,8 +14,8 @@ Makecode上各種功能編程指引
     KOI06_BarQRCodeReading
     KOI07_CircleTracing
     KOI08_RectangleTracing
-    KOI11_Face
     KOI12_linetrace
+    KOI11_Face
     KOI09_MachineLearning1.md
     KOI09_MachineLearning2.md
 
