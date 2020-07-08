@@ -15,7 +15,7 @@ Makecode上各種功能編程指引
     KOI07_CircleTracing
     KOI08_RectangleTracing
     KOI12_linetrace
-    KOI11_Face
+    KOI11_face.md
     KOI09_MachineLearning1.md
     KOI09_MachineLearning2.md
 
