@@ -12,13 +12,12 @@ Makecode上各種功能編程指引
     KOI04_ScreenCapture
     KOI05_RecAndPlay
     KOI06_BarQRCodeReading
-<<<<<<< HEAD
     KOI07_CircleTracing
     KOI08_RectangleTracing
     KOI11_Face
     KOI12_linetrace
     KOI09_MachineLearning1.md
     KOI09_MachineLearning2.md
-=======
->>>>>>> 48c291569cb03a3385baa461af65d77e513a5ff8
+
+
    
