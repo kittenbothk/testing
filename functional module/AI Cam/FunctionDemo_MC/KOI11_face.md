@@ -44,7 +44,7 @@
 
 ## FAQ
 
-1，為什麼我重新打開電源，模組螢幕顯示“Yolo not loaded”，貌似hag 機狀態, 並且每次如是?
+1，為什麼我重新打開電源，模組螢幕顯示“Yolo not loaded”，貌似hang 機狀態, 並且每次如是?
 
 ·    答：打開電源後, KOI 及microbit 同時起動; 相對上, Microbit 所需的起動時間比KOI魔塊短, 引致 Microbit的初始化程式（串口指令中, 控制載入Yolo模型）已經跑完了，KOI還沒完全起動, 最後會在螢幕中呈現報錯資訊。
 
