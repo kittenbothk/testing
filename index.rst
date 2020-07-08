@@ -10,7 +10,7 @@
 
 .. toctree::
     :maxdepth: 2
-    :caption: 功能配件 
-    :glob:     
+    :caption: 功能配件
+    :glob:
 
     functional module/index                    
