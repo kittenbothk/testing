@@ -71,8 +71,9 @@
 
 ## 參考程式下載
 
-[testing](www.google.com)
-[testing](www.google.com)
+[KOI Line Tracing](https://bit.ly/KOILineTracingHex)
+
+[KOI Line Tracing with OLED](https://bit.ly/KOILineTracingOLEDHex)
 
 ## FAQ
 

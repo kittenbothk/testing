@@ -41,7 +41,7 @@
 
 ## 參考程式下載
 
-[testing](www.google.com)
+[KOI 分類運行 HEX](https://bit.ly/KOIClassifier)
 
 ## FAQ
 1：為什麼我重新開機，按下按鍵，但按鍵沒有反應？
