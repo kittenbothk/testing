@@ -11,6 +11,13 @@
 .. toctree::
     :maxdepth: 2
     :caption: 功能配件
+
+
+    functional module/index
+
+.. toctree::
+    :maxdepth: 2
+    :caption: LED Matrix
     :glob:
 
-    functional module/index                    
+    accessories/index
