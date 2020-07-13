@@ -17,7 +17,7 @@
 
 .. toctree::
     :maxdepth: 2
-    :caption: LED Matrix
+    :caption: 電子零件／配件
     :glob:
 
     accessories/index

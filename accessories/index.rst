@@ -1,11 +1,11 @@
-ACCESSORIES
+電子零件／配件
 ===============
 
-accessories
+集合各款電子零件的資料。
 
 .. toctree::
     :maxdepth: 1
-    :caption: LED Matrix
+    :caption: 流光溢彩屏
     :glob:
 
     LEDMatrix/index
