@@ -32,13 +32,13 @@
 
     我們可以選擇多款預設顏色。
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT1_01Hex)
 
 - 彩虹色點亮
 
 ![](./LEDMatrixT1/code3.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT1_02Hex)
 
     彩虹效果使用的是HSL格式（色相，飽和度，亮度）
 
@@ -48,7 +48,7 @@
 
 ![](./LEDMatrixT1/code4.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT1_03Hex)
     
     亮度數值範圍由0-255
     
@@ -56,7 +56,7 @@
 
 ![](./LEDMatrixT1/code5.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT1_04Hex)
 
     設置後需要運行刷新顯示才會點燈。
   
@@ -68,13 +68,13 @@
 
 ![](./LEDMatrixT1/code6.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT1_05Hex)
 
 或者
 
 ![](./LEDMatrixT1/code7.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT1_06Hex)
 
     移動和迴圈的分別在於移動模式達至盡頭會消失，迴圈模式達至盡頭後仍然會重複。
     
@@ -84,7 +84,7 @@
 
 ![](./LEDMatrixT1/code9.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT1_07Hex)
 
     這裡由圖元10開始選擇4顆圖元，等於燈板上的10、11、12和13圖元。
 
@@ -94,7 +94,7 @@
 
 ![](./LEDMatrixT1/code8.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT1_08Hex)
 
     在Google搜尋RGB Color Picker可以方便地獲取顏色的數值。
     

@@ -19,7 +19,7 @@
 
 ![](./LEDMatrixT3/code3.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT3_01Hex)
 
     這裡使用的是一塊16x16燈板，所以我們將闊度設為16。
 
@@ -27,7 +27,7 @@
 
 ![](./LEDMatrixT3/code4.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT3_02Hex)
 
     大家可以看到雖然在Y為0和1這兩行上；
     我們均點亮X為0的圖元時，2行中被點亮圖元卻不一樣。
@@ -49,7 +49,7 @@
 
 ![](./LEDMatrixT3/code5.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT3_03Hex)
 
     雖然矩陣的闊度為16但由於電腦以0開始計算，我們需要減去1。（16-1=15）
 
@@ -59,7 +59,7 @@
 
 ![](./LEDMatrixT3/code7.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT3_04Hex)
     
 ## 流光溢彩屏旋轉
 
@@ -69,7 +69,7 @@
 
 ![](./LEDMatrixT3/code1.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT3_05Hex)
 
     由於旋轉方向有0、1、2這3種，我們使用除以3的餘數操控旋轉。
     
@@ -95,7 +95,7 @@ X和Y軸的方向可以參照下圖。
 
 ![](./LEDMatrixT3/code2.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT3_06Hex)
 
 ###串聯與矩陣
 
@@ -105,7 +105,7 @@ X和Y軸的方向可以參照下圖。
 
 ![](./LEDMatrixT3/code8.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT3_07Hex)
 
     Y=0和Y=16分別代表2塊燈板的第一行。
     這裡用了2塊16x16的燈板，所以我們構成了一個16x32的矩陣。

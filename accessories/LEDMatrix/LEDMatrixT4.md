@@ -13,8 +13,10 @@
 2. 本節教程亦會用到neomatrix的編輯器。
 
     - [neomatrix編輯器](https://kittenbot.github.io/pxt-neomatrix/index.html)
-         
+    
+
     請勿加載neomatrix插件！否則將會出現錯誤！
+    
     只需要在瀏覽器打開編輯器即可。
 
 ### 單幀流水動畫
@@ -82,7 +84,7 @@
 
 大功告成！
 
-[參考程式](www.google.com)
+[參考程式](https://bit.ly/LEDMatrixT4_01Hex)
 
 ### 雙幀流水動畫
 
@@ -94,7 +96,7 @@
 
  生成之後將JavaScript程式碼貼在第一幀後。
 
- 手動更改X的數值。(按照上部分即可)
+ 按照上部分手動更改X的數值。
 
  以同樣邏輯，為第二幀圖畫增添一個抵銷(offset)。Y為單數的時候要-15，否則+15。
 
@@ -113,7 +115,7 @@
 
 大功告成！
 
-[參考程式](www.google.com)
+[參考程式](https://bit.ly/LEDMatrixT4_01Hex)
 
 
 ## 串聯情況之下的編程

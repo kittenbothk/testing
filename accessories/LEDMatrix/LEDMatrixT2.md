@@ -68,7 +68,7 @@ neomatrix積木塊:
 
 ![](./LEDMatrixT2/image4144.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT2_01Hex)
 
 ## 流水式走字效果(32x8)
 
@@ -76,7 +76,7 @@ neomatrix亦都支援流水式走字的動畫。
 
 ![](./LEDMatrixT2/image4145.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/LEDMatrixT2_02Hex)
 
     注意：現階段只支援8x32溢光屏走字。
     16x16的走字請參考《流光溢彩屏進階教程》。
