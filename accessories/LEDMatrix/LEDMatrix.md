@@ -8,7 +8,6 @@
 
 ![](./LEDMatrix/rshiyitu_2.png)
 
-
 ## 產品特色
 
 - 圖像化介面編程
@@ -53,7 +52,13 @@ __16x16柔性屏__
 - 1x供電轉接板
 
 ![](./LEDMatrix/zhanshi_1.png)
+
 ![](./LEDMatrix/f.jpg)
 
+##產品展示
+
+![](./LEDMatrix/show.png)
+
+![](./LEDMatrix/show2.png)
 
 

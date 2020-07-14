@@ -11,10 +11,12 @@
 
 ## 編程教學（只限離線版makecode）
 
-**假如我們想顯示文字或圖形，使用neopixel實在太麻煩了，有見及此kittenbot推出了neomatrix插件，容許圖像化的圖案編輯。（注意，本插件只支援離線版makecode）**
+假如我們想顯示文字或圖形，使用neopixel實在太麻煩了，有見及此kittenbot推出了neomatrix插件，容許圖像化的圖案編輯。
+
+####(注意，本插件只支援離線版makecode)
 
  
-**1. 加載neomatrix插件**
+1.加載neomatrix插件
 
 neomatrix插件: https://github.com/KittenBot/pxt-neomatrix
 
@@ -28,7 +30,7 @@ neomatrix積木塊:
 
     注意：現階段並不兼容powerbrick！請使用robotbit！(Matrix Pin)
 
-**2. 點擊NeoMatrix Editor進入編輯器**
+2.點擊NeoMatrix Editor進入編輯器
 
 ![](./LEDMatrixT2/edit.png)
 
@@ -36,15 +38,23 @@ neomatrix積木塊:
 
 ![](./LEDMatrixT2/editor1.png)
 
-然後在黑色像素格上點擊，畫出你想要的圖案。（單擊填色，雙擊清除）
-
 我們亦可以在文字欄輸入文字，按Render生成圖案。
+
+![](./LEDMatrix/hello.png)
+
+可以在黑色像素格上點擊，畫出你想要的圖案。（單擊填色，雙擊清除）
 
 ![](./LEDMatrixT2/editor2.png)
 
-我們可以按Add Frame增加一幀。我們亦可以按Open Image直接生成圖案。
+我們可以按Add Frame增加一幀。
 
 ![](./LEDMatrixT2/editor3.png)
+
+我們亦可以按Open Image直接生成圖案。
+
+![](./LEDMatrix/bianjiqi4.png)
+
+![](./LEDMatrix/glasses.png)
 
 完成後在Output欄中點擊Matrix Panel，生成積木。
 
@@ -54,17 +64,22 @@ neomatrix積木塊:
 
 ![](./LEDMatrixT2/editor5.png)
 
-**3.編寫程式**
+3.編寫程式
 
 ![](./LEDMatrixT2/image4144.png)
 
-## 流水式走字效果
+[參考程式下載](www.google.com)
+
+## 流水式走字效果(32x8)
 
 neomatrix亦都支援流水式走字的動畫。
 
 ![](./LEDMatrixT2/image4145.png)
 
+[參考程式下載](www.google.com)
+
     注意：現階段只支援8x32溢光屏走字。
+    16x16的走字請參考《流光溢彩屏進階教程》。
     
 ## FAQ
 

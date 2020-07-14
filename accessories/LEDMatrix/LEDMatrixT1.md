@@ -25,14 +25,20 @@
 ![](./LEDMatrixT1/code1.png)
 
     由於8*32和16*16均有256顆LED，我們初始一條256顆燈的燈條。
-    
+
 - 單色點亮
 
 ![](./LEDMatrixT1/code2.png)
 
+    我們可以選擇多款預設顏色。
+
+[參考程式下載](www.google.com)
+
 - 彩虹色點亮
 
 ![](./LEDMatrixT1/code3.png)
+
+[參考程式下載](www.google.com)
 
     彩虹效果使用的是HSL格式（色相，飽和度，亮度）
 
@@ -41,12 +47,16 @@
 為了眼睛健康建議大家調低。
 
 ![](./LEDMatrixT1/code4.png)
+
+[參考程式下載](www.google.com)
     
     亮度數值範圍由0-255
     
 - 單燈點亮
 
 ![](./LEDMatrixT1/code5.png)
+
+[參考程式下載](www.google.com)
 
     設置後需要運行刷新顯示才會點燈。
   
@@ -58,9 +68,13 @@
 
 ![](./LEDMatrixT1/code6.png)
 
+[參考程式下載](www.google.com)
+
 或者
 
 ![](./LEDMatrixT1/code7.png)
+
+[參考程式下載](www.google.com)
 
     移動和迴圈的分別在於移動模式達至盡頭會消失，迴圈模式達至盡頭後仍然會重複。
     
@@ -70,16 +84,21 @@
 
 ![](./LEDMatrixT1/code9.png)
 
+[參考程式下載](www.google.com)
+
     這裡由圖元10開始選擇4顆圖元，等於燈板上的10、11、12和13圖元。
-    
+
 - 自訂顏色
 
 除了預設的顏色之外，我們亦可以透過RGB和HSL來自訂顏色。
 
 ![](./LEDMatrixT1/code8.png)
 
-    在Google搜尋RGB Color Picker可以方便地調校顏色的數值。
+[參考程式下載](www.google.com)
+
+    在Google搜尋RGB Color Picker可以方便地獲取顏色的數值。
     
+
 ## FAQ
 
 問：為什麼我點亮燈板的時候，燈板未能顯示我定下的顏色，燈板只點亮了紅色？
