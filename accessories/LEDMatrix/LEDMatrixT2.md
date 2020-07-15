@@ -28,7 +28,7 @@ neomatrix積木塊:
 
 ![](./LEDMatrixT2/blocks.png)
 
-    注意：現階段並不兼容powerbrick！請使用robotbit！(Matrix Pin)
+    注意：現階段並不兼容powerbrick！請使用robotbit！
 
 2.點擊NeoMatrix Editor進入編輯器
 
@@ -84,9 +84,9 @@ neomatrix亦都支援流水式走字的動畫。
 ## FAQ
 
 問：為什麼我點亮燈板的時候，燈板未能顯示我定下的顏色，燈板只點亮了紅色？
-
+\
 答：電源不足夠。
-
+\
 解決方法：將robotbit的電源打開，或者在供電轉接板加插外部電源（支援USB或5V火牛）。
 
 ## 注意事項
