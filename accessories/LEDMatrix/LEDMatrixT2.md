@@ -28,7 +28,8 @@ neomatrix積木塊:
 
 ![](./LEDMatrixT2/blocks.png)
 
-    注意：現階段並不兼容powerbrick！請使用robotbit！
+    注意：現階段溢彩屏並不兼容powerbrick！請使用robotbit！
+    PowerBrick只支援套件中的全彩點陣屏。
 
 2.點擊NeoMatrix Editor進入編輯器
 
@@ -67,6 +68,8 @@ neomatrix積木塊:
 3.編寫程式
 
 ![](./LEDMatrixT2/image4144.png)
+
+    用PowerBrick套件中的全彩點陣屏請使用PowerBrick積木。
 
 [參考程式下載](https://bit.ly/LEDMatrixT2_01Hex)
 

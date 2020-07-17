@@ -12,8 +12,13 @@
     :maxdepth: 2
     :caption: 功能配件
 
-
     functional module/index
+
+.. toctree::
+    :maxdepth: 2
+    :caption: KITS
+
+    Kits/index
 
 .. toctree::
     :maxdepth: 2
