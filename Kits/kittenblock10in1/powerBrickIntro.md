@@ -2,7 +2,7 @@
 
 ![](./images/01_01.png)
 
-PowerBrick All-I-nOne是由kittenbot設計的十合一套件，它是為BBC microbit度身訂造，
+PowerBrick All-In-One是由kittenbot設計的十合一套件，它是為BBC microbit度身訂造，
 套件包含多款感應器，令中小學生簡易地學習編程與能夠啟發他們的創客精神。
 
 ## 購買方法
@@ -105,11 +105,17 @@ PowerBrick有兩種版本，分別為PowerBrick純電子版和PowerBrick連積�
 
 ![](./images/pw02.gif)
 
-##支援Makecode編程
+## 支援Makecode編程
 
 支援最普及的編程平台makecode，配搭自家插件，功能強大易用，令學生容易上手。
 
 ![](./images/pw04.gif)
+
+## 喵家編程平台：
+
+喵家亦自己開發了自己的編程平台Kittenblock，以Scratch作基礎，加入了喵家自家插件，實現舞台與PowerBrick的互動。
+
+![](./images/kb.png)
 
 ## FAQ
 

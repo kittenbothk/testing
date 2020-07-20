@@ -8,6 +8,8 @@ PowerBrick一套支援BBC:microbit的十合一套件。這部分會詳細地介�
 
     powerBrickIntro.md
     powerBrickMC.md
+    powerBrickKB.md
+    powerBrickKBMB.md
     Armourbit.md
     powerBrickPowerBank.md
     powerBrickEnvironment.md

@@ -1,4 +1,4 @@
-# 全彩點陣模組(上)
+# 全彩點陣模組
 
 ![](./images/11_04.png)
 
@@ -68,4 +68,4 @@
 
 串聯情況下支援圖像化編輯器，詳情請參考流光溢彩屏教學。
 
-[按此前往](../../accessories/LEDMatrixT2.md)
+[按此前往](../../accessories/LEDMatrix/LEDMatrixT2.md)
