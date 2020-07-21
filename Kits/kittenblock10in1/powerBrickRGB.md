@@ -28,7 +28,7 @@
 
 ## 接線方法
 
-將RGB模組用4pin排線連接至Armourbit。
+將點陣模組用4pin排線連接至Armourbit。
 
 ![](./images/11_25.png)
 
@@ -36,7 +36,7 @@
 
 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
-### RFID模組積木塊
+### 點陣模組積木塊
 
 ![](./images/rgbblocks1.png)
 
@@ -66,8 +66,32 @@
 
 [參考程式下載](www.google.com)
 
+### Makecode教學短片
+
+[![](./images/rgbtut.png)](https://www.youtube.com/watch?v=Pmg6Gvg29jo)
+
 ## 串聯與圖像化編輯器教學
 
 串聯情況下支援圖像化編輯器，詳情請參考流光溢彩屏教學。
 
-[按此前往](../../accessories/LEDMatrix/LEDMatrixT2.md)
+[按此前往](../../accessories/LEDMatrix/LEDMatrixT3.md)
+
+## KittenBlock編程教學
+
+### 加載PowerBrick插件
+
+離線版與在線版同樣操作。
+
+在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
+
+![](./kbimages/addextension.png)
+
+### 點陣模組積木塊
+
+![](./kbimages/rgbblocks.png)
+
+### 逐顆點亮
+
+![](./kbimages/kbrgb.png)
+
+[參考程式下載](www.google.com)

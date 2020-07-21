@@ -1,10 +1,14 @@
 # 土壤濕度感應器
 
-土壤濕度感應器(HKBM8012H)
-
-這是一塊土壤濕度感應器它可以測量土壤的濕度，水位越高數值越大。
+土壤濕度感應器 (HKBM8012H)
 
 ![](./images/03.png)
+
+這是一塊土壤濕度感應器它可以測量土壤的濕度，泥土越乾燥數值越大。
+
+![](./images/IMG_2580.GIF)
+
+![](./images/IMG_2579.GIF)
 
 ## 使用注意事項：
 
@@ -31,8 +35,26 @@
 
 [參考程式下載](www.google.com)
 
-## 模組演示
+### Makecode教學短片
 
-![](./images/IMG_2580.GIF)
+[![](./images/envtut.png)](https://www.youtube.com/watch?v=ilXSpFd86DQ)
 
-![](./images/IMG_2579.GIF)
+## KittenBlock編程教學
+
+### 加載PowerBrick插件
+
+離線版與在線版同樣操作。
+
+在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
+
+![](./kbimages/addextension.png)
+
+### 環境積木塊
+
+![](./kbimages/kbenvblocks.png)
+
+### 土壤濕度探測
+
+![](./kbimages/kbsoil.png)
+
+[參考程式下載](www.google.com)

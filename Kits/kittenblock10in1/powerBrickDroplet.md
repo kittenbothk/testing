@@ -2,9 +2,13 @@
 
 雨滴水位感應器 (HKBM8012G)
 
+![](./images/03drop.png)
+
 這是一塊雨滴水位感應器它可以測量水位高低和是否有雨滴，水位越高數值越大。
 
-![](./images/03drop.png)
+![](./images/IMG_2581.GIF)
+
+![](./images/IMG_2578.GIF)
 
 ## 使用注意事項：
 
@@ -31,8 +35,26 @@
 
 [參考程式下載](www.google.com)
 
-## 模組演示
+### MakeCode教學短片
 
-![](./images/IMG_2581.GIF)
+[![](./images/envtut.png)](https://www.youtube.com/watch?v=ilXSpFd86DQ)
 
-![](./images/IMG_2578.GIF)
+## KittenBlock編程教學
+
+### 加載PowerBrick插件
+
+離線版與在線版同樣操作。
+
+在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
+
+![](./kbimages/addextension.png)
+
+### 環境積木塊
+
+![](./kbimages/kbenvblocks.png)
+
+### 水位探測編程
+
+![](./kbimages/kbwaterlevel.png)
+
+[參考程式下載](www.google.com)

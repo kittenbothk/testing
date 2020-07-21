@@ -6,6 +6,11 @@
 
 這模組包含了超聲波感應器和咪高峰。它可以用超聲波來測量與物件的距離，咪高峰可以探測環境聲音的強弱。
 
+
+![](./images/IMG_2577.GIF)
+
+![](./images/IMG_2576.GIF)
+
 ## 詳細介紹
 
 ![](./images/06_01.png)
@@ -27,8 +32,6 @@
 
 將超聲波聲音模組用4pin排線連接至Armourbit。
 
-
-
 ## MakeCode編程教學
 
 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
@@ -43,14 +46,38 @@
 
 [參考程式下載](www.google.com)
 
-### 距離檢測編程
+### 環境聲音檢測編程
 
 ![](./images/soundlevel.png)
 
 [參考程式下載](www.google.com)
 
-## 模組演示
+### Makecode教學短片
 
-![](./images/IMG_2577.GIF)
+[![](./images/ultrasoundtut.png)](https://www.youtube.com/watch?v=Jwj449zjnYE)
 
-![](./images/IMG_2576.GIF)
+## KittenBlock編程教學
+
+### 加載PowerBrick插件
+
+離線版與在線版同樣操作。
+
+在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
+
+![](./kbimages/addextension.png)
+
+### 巡線積木塊
+
+![](./kbimages/kbultrasoundblocks.png)
+
+### 距離檢測編程
+
+![](./kbimages/kbultrasounddist.png)
+
+[參考程式下載](www.google.com)
+
+### 環境聲音檢測編程
+
+![](./kbimages/kbultrasoundlevel.png)
+
+[參考程式下載](www.google.com)

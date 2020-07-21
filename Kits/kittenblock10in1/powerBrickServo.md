@@ -75,3 +75,27 @@ Geekservo舵機 (HKBD9005A)
 ![](./images/servo.png)
 
 [參考程式下載](www.google.com)
+
+### Makecode教學短片
+
+[![](./images/geekservotut.png)](https://www.youtube.com/watch?v=gUR2DbgVTCQ)
+
+## KittenBlock編程教學
+
+### 加載PowerBrick插件
+
+離線版與在線版同樣操作。
+
+在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
+
+![](./kbimages/addextension.png)
+
+### 舵機積木塊
+
+![](./kbimages/kbservoblocks.png)
+
+### 舵機編程
+
+![](./kbimages/kbservo.png)
+
+[參考程式下載](www.google.com)

@@ -49,6 +49,10 @@
 
 [參考程式下載](www.google.com)
 
+### Makecode教學短片
+
+[![](./images/envtut.png)](https://www.youtube.com/watch?v=ilXSpFd86DQ)
+
 ## KittenBlock編程教學
 
 ### 加載PowerBrick插件
@@ -59,11 +63,18 @@
 
 ![](./kbimages/addextension.png)
 
+### 環境積木塊
+
+![](./kbimages/kbenvblocks.png)
+
 ### 溫度測量編程
 
 ![](./kbimages/kbtemp.png)
+
+[參考程式下載](www.google.com)
 
 ### 相對濕度測量編程
 
 ![](./kbimages/kbhumid.png)
 
+[參考程式下載](www.google.com)

@@ -4,7 +4,9 @@
 
 ![](./images/07_03.png)
 
-這是一個IR巡線模組，它有組兩路尋線感應器，測量電平值高低，偵察到黑線後模組背面的LED會熄滅，觸發尋線事件。
+這是一個IR巡線模組，它有組兩路尋線感應器，偵察到黑線後模組背面的LED會熄滅，觸發尋線事件。
+
+![](./images/IMG_2570.GIF)
 
 ## 詳細介紹
 
@@ -43,6 +45,25 @@
 
 [參考程式下載](www.google.com)
 
-## 模組演示
+## KittenBlock編程教學
 
-![](./images/IMG_2570.GIF)
+### 加載PowerBrick插件
+
+離線版與在線版同樣操作。
+
+在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
+
+![](./kbimages/addextension.png)
+
+### 巡線積木塊
+
+![](./kbimages/kblinetraceblocks.png)
+
+### 黑線檢測
+
+![](./kbimages/kblinetrace.png)
+
+[參考程式下載](www.google.com)
+
+
+

@@ -6,11 +6,18 @@
 
 這是一塊多功能的模組，它的主要功能是識別顏色和識別手勢。
 
+![](./images/IMG_2572.GIF)
+
+![](./images/IMG_2573.GIF)
+
+![](./images/IMG_2574.GIF)
+
 它有4種模式：
-在顏色辨識模式下，4顆LED會常亮，檢測顏色的色環角度。它還可以檢測環境光度。
-在手勢辨識模式下，手的移動方向會觸發對應方向的LED閃動。
-在距離檢測模式下，最遠範圍為大約3cm。距離越近，LED越亮。
-在LED模式下，可以控制4顆LED的亮度。
+
+1. 在顏色辨識模式下，4顆LED會常亮，檢測顏色的色環角度。它還可以檢測環境光度。
+1. 在手勢辨識模式下，手的移動方向會觸發對應方向的LED閃動。
+1. 在距離檢測模式下，最遠範圍為大約3cm。距離越近，LED越亮。
+1. 在LED模式下，可以控制4顆LED的亮度。
 
 ## 詳細介紹
 
@@ -85,10 +92,50 @@ HSV色環可以參考下圖：
 
 [參考程式下載](www.google.com)
 
-## 模組演示
+### Makecode教學短片
 
-![](./images/IMG_2572.GIF)
+[![](./images/gesturetut.png)](https://www.youtube.com/watch?v=7WrkDYMc2f0)
 
-![](./images/IMG_2573.GIF)
+## KittenBlock編程教學
 
-![](./images/IMG_2574.GIF)
+### 加載PowerBrick插件
+
+離線版與在線版同樣操作。
+
+在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
+
+![](./kbimages/addextension.png)
+
+### 顏色手勢模組積木塊
+
+![](./kbimages/kbcolorgestureblocks.png)
+
+### 顏色檢測
+
+![](./kbimages/kbcolor.png)
+
+[參考程式下載](www.google.com)
+
+### 亮度檢測
+
+![](./kbimages/kbbrightness.png)
+
+[參考程式下載](www.google.com)
+
+### 距離檢測
+
+![](./kbimages/kbcolordist.png)
+
+[參考程式下載](www.google.com)
+
+### 手勢檢測
+
+![](./kbimages/kbgesture.png)
+
+[參考程式下載](www.google.com)
+
+### LED控制
+
+![](./kbimages/kbled.png)
+
+[參考程式下載](www.google.com)

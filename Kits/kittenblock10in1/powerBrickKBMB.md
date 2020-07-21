@@ -28,6 +28,10 @@
 
 ![](./kbimages/03_08.png)
 
+假如沒有顯示心形，可以按下升級韌體。
+
+![](./kbimages/upload.png)
+
 ## 連接測試
 
 任意拖曳Microbit的積木，按下積木，Microbit應該會即時有反應。

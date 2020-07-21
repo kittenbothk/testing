@@ -24,7 +24,7 @@ MP3模組 (HKBM8012E)
 ## 使用注意事项
 
 - PowerBrick套件並沒有附送microSD卡，請自行購買。
-- MP3模組一定要有內存卡，且内存卡中存有可播放的音頻，才可以按按鍵播放音樂。
+- MP3模組一定要有內存卡，且内存卡中存有可播放的音頻，才可以播放音樂。
 - 安裝microSD卡時請注意，聽到「卡嚓」一聲才代表安裝好。
 - 取出microSD卡時請不要直接用力拔，按一按microSD卡即會彈出。
 
@@ -48,15 +48,53 @@ MP3模組 (HKBM8012E)
 
 [參考程式下載](www.google.com)
 
-### 音頻播放特定序號
+### 指定序號播放音頻
 
 ![](./images/mp3id.png)
 
 [參考程式下載](www.google.com)
 
-### 音頻播放特定名稱
+### 指定名稱播放音頻
 
 ![](./images/mp3name.png)
+
+    名稱只支援英文和數字，長度不能長於8位。
+
+[參考程式下載](www.google.com)
+
+### Makecode教學短片
+
+[![](./images/mp3tut.png)](https://www.youtube.com/watch?v=h2XQ463V5CE)
+
+## KittenBlock編程教學
+
+### 加載PowerBrick插件
+
+離線版與在線版同樣操作。
+
+在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
+
+![](./kbimages/addextension.png)
+
+### MP3積木塊
+
+![](./kbimages/kbmp3blocks.png)
+
+### 音頻播放
+
+![](./kbimages/mp3play.png)
+
+[參考程式下載](www.google.com)
+
+### 指定序號播放音頻
+
+![](./kbimages/mp3playbyid.png)
+
+[參考程式下載](www.google.com)
+
+### 指定名稱播放音頻
+
+![](./kbimages/mp3playbyname.png)
 
     名稱只支援英文和數字，長度不能長於8位。
 

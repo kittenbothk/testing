@@ -1,8 +1,6 @@
 # RFID模組
 
-RFID模組 (HKBM8012L)
-
-RFID卡片 (HKBM8012M)
+RFID模組 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
 ![](./images/10_04.png)
 
@@ -12,7 +10,7 @@ RFID卡片 (HKBM8012M)
 
 附有的RFID卡有1K內存，有16個分區，每個分區有3個區塊可以寫入資料。
 
-
+![](./images/IMG_2583.GIF)
 
 ## 詳細介紹
 
@@ -76,7 +74,35 @@ RFID卡片 (HKBM8012M)
 
 [參考程式下載](www.google.com)
 
-## 模組演示
+### Makecode教學短片
 
-![](./images/IMG_2583.GIF)
+[![](./images/rfidtut.png)](https://www.youtube.com/watch?v=r1B6l7xK7So)
+
+## KittenBlock編程教學
+
+### 加載PowerBrick插件
+
+離線版與在線版同樣操作。
+
+在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
+
+![](./kbimages/addextension.png)
+
+### RFID積木塊
+
+![](./kbimages/kbrfidblocks.png)
+
+### RFID讀取UID
+
+![](./kbimages/uidread.png)
+
+[參考程式下載](www.google.com)
+
+### UID身份辨別
+
+![](./kbimages/uididentify.png)
+
+    這裡請使用您卡片的UID。
+    
+[參考程式下載](www.google.com)
 

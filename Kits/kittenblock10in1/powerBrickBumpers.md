@@ -6,6 +6,8 @@ AB按鍵模組 (HKBM8012C)
 
 這是一塊按鍵模組，可以檢測按鍵是否按下。當按鍵被按下，模組背後應對的LED會亮燈。另外按键键按鍵上亦可插上樂高十字軸。
 
+![](./images/IMG_2569.GIF)
+
 ## 詳細介紹
 
 ![](./images/08_01.png)
@@ -27,7 +29,7 @@ AB按鍵模組 (HKBM8012C)
 
 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
-### 巡線模組積木塊:
+### AB按鍵模組積木塊:
 
 ![](./images/bumperblocks.png)
 
@@ -37,6 +39,23 @@ AB按鍵模組 (HKBM8012C)
 
 [參考程式下載](www.google.com)
 
-## 模組演示
+## KittenBlock編程教學
 
-![](./images/IMG_2569.GIF)
+### 加載PowerBrick插件
+
+離線版與在線版同樣操作。
+
+在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
+
+![](./kbimages/addextension.png)
+
+### AB按鍵模組積木塊
+
+![](./kbimages/kbbumpersblock.png)
+
+### 按鍵檢測
+
+![](./kbimages/kbbumpers.png)
+
+[參考程式下載](www.google.com)
+
