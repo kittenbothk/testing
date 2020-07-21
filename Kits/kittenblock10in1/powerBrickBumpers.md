@@ -39,6 +39,10 @@ AB按鍵模組 (HKBM8012C)
 
 [參考程式下載](www.google.com)
 
+### Makecode教學短片
+
+[![](./images/bumpertut.png)](https://youtu.be/BT1TUlmbMm8?t=370)
+
 ## KittenBlock編程教學
 
 ### 加載PowerBrick插件

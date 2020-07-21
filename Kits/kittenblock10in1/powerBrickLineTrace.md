@@ -45,6 +45,10 @@
 
 [參考程式下載](www.google.com)
 
+### Makecode教學短片
+
+[![](./images/irtut.png)](https://www.youtube.com/watch?v=BT1TUlmbMm8)
+
 ## KittenBlock編程教學
 
 ### 加載PowerBrick插件

@@ -54,7 +54,7 @@
 
 ### Makecode教學短片
 
-[![](./images/ultrasoundtut.png)](https://www.youtube.com/watch?v=Jwj449zjnYE)
+[![](./kbimages/ultrasoundtut.png)](https://www.youtube.com/watch?v=Jwj449zjnYE)
 
 ## KittenBlock編程教學
 
