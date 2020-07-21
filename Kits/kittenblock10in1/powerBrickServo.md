@@ -99,3 +99,9 @@ Geekservo舵機 (HKBD9005A)
 ![](./kbimages/kbservo.png)
 
 [參考程式下載](www.google.com)
+
+## FAQ
+
+1：為什麼我點擊積木塊沒有反應呢？
+
+首先確保已經連接好Microbit，然後上載韌體再試一試。
