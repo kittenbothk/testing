@@ -1,5 +1,9 @@
 # RFID模組
 
+RFID模組 (HKBM8012L)
+
+RFID卡片 (HKBM8012M)
+
 ![](./images/10_04.png)
 
 ![](./images/10_05.png)

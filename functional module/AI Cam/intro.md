@@ -1,10 +1,10 @@
 # **KOI錦鯉介紹**
 
+KOI人工智慧鏡頭 (HKBC8006A)
+
 ### **購買連結**
 
 前往Kidslab購買 → [KOI 人工智慧鏡頭(AI Cam)](https://kidslab.boutir.com/)
-
-
 
 ### **配送清單**
 
@@ -15,8 +15,6 @@
 ·    防反插端子轉4P杜邦線 x1
 
 ![](./KOI00/KOI-packing.png)
-
-
 
 ### **產品簡介**
 

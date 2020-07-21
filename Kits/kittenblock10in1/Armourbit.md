@@ -1,4 +1,6 @@
-# Armourbit
+# Armourbit擴展盒
+
+Armourbit擴展盒 (HKBD9006A)
 
 ![](./images/01_03.png)
 

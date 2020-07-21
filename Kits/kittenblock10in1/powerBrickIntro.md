@@ -11,9 +11,9 @@ PowerBrick All-In-One是由kittenbot設計的十合一套件，它是為BBC micr
 
 ## 產品背景
 
-在香港，大多學校都使用BBC Microbit進行STEM教學。無可否認Microbit小巧玲瓏，又集成多種功能，實在對中小學生學習編程上比較方便。
+在香港，大多學校都使用BBC Microbit進行STEM教學。Microbit小巧玲瓏，又集成多種功能，實在對中小學生學習編程上比較方便。
 
-不過我們亦發現，Microbit存在接線的困難，Microbit的接線太少了，需要利用鱷魚夾或者杜邦線連接，對老師來說也免難以應付，更何況是中小學生呢。
+不過Microbit存在接線的困難，Microbit的接線電路太小了，需要利用鱷魚夾或者杜邦線連接，對老師來說也免難以應付，更何況是中小學生呢。
 而且Microbit的電路板外露亦會導致問題，輕則導致電線短路，損壞零件；重則令學生觸電受傷。
 與其要中小學生與接線糾纏，我們希望中小學生可以花更多精力在邏輯訓練上。
 
@@ -51,8 +51,8 @@ PowerBrick有兩種版本，分別為PowerBrick純電子版和PowerBrick連積�
 1. 土壤濕度感應器
 1. 雨滴水位感應器
 1. 超聲波感應器
-1. 雙路巡線感應器
-1. 雙按鍵感應器
+1. 雙路IR巡線感應器
+1. AB按鍵感應器
 1. 顏色手勢感應器
 1. RFID感應器連RFID卡片
 1. 全彩點陣燈組
@@ -79,7 +79,6 @@ PowerBrick有兩種版本，分別為PowerBrick純電子版和PowerBrick連積�
 ![](./images/01_10.png)
 
 ![](./images/01_09.png)
-
 
 ### Armourbit擴展板
 
@@ -111,9 +110,9 @@ PowerBrick有兩種版本，分別為PowerBrick純電子版和PowerBrick連積�
 
 ![](./images/pw04.gif)
 
-## 喵家編程平台：
+## Kittenblock編程平台：
 
-喵家亦自己開發了自己的編程平台Kittenblock，以Scratch作基礎，加入了喵家自家插件，實現舞台與PowerBrick的互動。
+Kittenbot亦開發了編程平台Kittenblock，以Scratch作基礎，加入了自家插件，實現舞台與PowerBrick的互動。
 
 ![](./images/kb.png)
 
@@ -121,12 +120,12 @@ PowerBrick有兩種版本，分別為PowerBrick純電子版和PowerBrick連積�
 
 **1.PowerBrick的模組就只有這10種嗎？**
 
-答：不是的，這只是小喵的第一步，為大家提供最基礎最常用的模組，下一步我們會结合需求推出新模組。
+答：不是的，這只是為大家提供最基礎最常用的模組，需要的話可以加購其他模組。
 
 **2.PowerBrick是不是只能對應套件裏的模組使用呢？**
 
-答：不是的，Kittenbot的產品都應對PowerBrick的插槽，大家有需要可以加上其他模組，連接編程方法一樣。此套件已包含大多數常用的模組，配合上額外模組，創作的可能性翻倍！
+答：不是的，Kittenbot的產品都應對PowerBrick的插槽，大家有需要可以加上其他模組。此套件已包含常用的模組，配合上額外模組，創作的可能性倍增！
 
 **3.PowerBrick裏的模組可以單獨購買嗎?**
 
-答：當然可以，PowerBrick裏的所有模組都可以單獨購買，不過當然單獨購買就沒有那麼划算啦。
+答：當然可以，PowerBrick裏的所有模組都可以單獨購買。

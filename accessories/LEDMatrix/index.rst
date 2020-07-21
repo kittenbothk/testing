@@ -8,7 +8,9 @@
     :glob:
 
     LEDMatrix
-    LEDMatrixT1
-    LEDMatrixT2
-    LEDMatrixT3
-    LEDMatrixT4
+    LEDMatrixNeoPixel1.md
+    LEDMatrixT3.md
+    LEDMatrixNeoMatrix1.md
+    LEDMatrixNeoMatrix2.md
+    LEDMatrixNeoMatrix3.md
+    LEDMatrixDaisyChain.md

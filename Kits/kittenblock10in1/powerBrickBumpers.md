@@ -1,4 +1,6 @@
-# 雙按鍵感應器
+# AB按鍵模組
+
+AB按鍵模組 (HKBM8012C)
 
 ![](./images/08_03.png)
 
@@ -19,7 +21,7 @@
 
 將按鍵模組用4pin排線連接至Armourbit。
 
-![](./images/bumperCon.jpg)
+![](./kbimages/08_02.png)
 
 ## MakeCode編程教學
 

@@ -1,5 +1,7 @@
 # Wifibrick 介紹與使用
 
+Wifibrick (HKBM8012O)
+
 ## 簡介
 
 Wifibrick 是Kittenbot Powerbrick 延申的一款功能方塊; 顧名思義, Wifibrick 提供了一個渠通, 把micro:bit 為核心的系統, 通過wifi 連接到各IoT 平台, 如國外的Thinkspeak, 本地的Makercloud 或中國移動的OneNet。

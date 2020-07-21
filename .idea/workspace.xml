@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/functional module/AI Cam/FunctionDemo_MC/KOI11_face.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/kittenblock10in1/Armourbit.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/kittenblock10in1/Armourbit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickBumpers.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickBumpers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickColorGesture.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickColorGesture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickDroplet.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickDroplet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickEnvironment.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickEnvironment.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickIntro.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickIntro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickKBMB.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickKBMB.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickLineTrace.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickLineTrace.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickMP3.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickMP3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickMotor.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickMotor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickPowerBank.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickPowerBank.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickRFID.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickRFID.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickRGB.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickRGB.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickServo.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickServo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickSoil.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickSoil.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickUltraSound.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/kittenblock10in1/powerBrickUltraSound.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accessories/LEDMatrix/LEDMatrix.md" beforeDir="false" afterPath="$PROJECT_DIR$/accessories/LEDMatrix/LEDMatrix.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accessories/LEDMatrix/LEDMatrixT1.md" beforeDir="false" afterPath="$PROJECT_DIR$/accessories/LEDMatrix/LEDMatrixT1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accessories/LEDMatrix/LEDMatrixT2.md" beforeDir="false" afterPath="$PROJECT_DIR$/accessories/LEDMatrix/LEDMatrixT2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accessories/LEDMatrix/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/accessories/LEDMatrix/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accessories/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/accessories/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional module/AI Cam/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional module/AI Cam/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional module/Wifibrick/Wifibrick_intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional module/Wifibrick/Wifibrick_intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional module/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/functional module/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/index.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

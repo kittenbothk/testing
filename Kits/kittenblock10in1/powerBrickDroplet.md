@@ -1,5 +1,7 @@
 # 雨滴水位感應器
 
+雨滴水位感應器 (HKBM8012G)
+
 這是一塊雨滴水位感應器它可以測量水位高低和是否有雨滴，水位越高數值越大。
 
 ![](./images/03drop.png)
@@ -13,7 +15,7 @@
 
 將溫度濕度感應器用4pin排線連接至Armourbit，然後用3pin排線將感應器連接至溫度濕度感應器。
 
-![](./images/dropletCon.jpg)
+![](./kbimages/06_03.png)
 
 ## MakeCode編程教學
 

@@ -1,13 +1,18 @@
-# 流光溢彩屏教程（中）
+# 流光溢彩屏靜態效果教程
 
-本教程將會教大家使用neomatrix插件對溢彩屏進行編程。
+本教程將會教大家使用neomatrix插件對溢彩屏進行編程，顯示靜態的文字或圖案。
 
 ## 接線
 
-溢彩屏需要配合robotbit使用，請如圖將屏幕與robotbit接線。
+0832溢彩屏需要配合robotbit使用，請按照下圖將屏幕與robotbit接線。
 
-![](./LEDMatrixT1/ggg.jpg)
+### 1. 將彩屏與轉接板連接。
 
+![](./LEDMatrixT1/matrixtoadapter.jpg)
+
+### 2. 將轉接板連接到robotbit。
+
+![](./LEDMatrixT3/adaptertorobotbit.png)
 
 ## 編程教學（只限離線版makecode）
 
@@ -15,8 +20,9 @@
 
 #### (注意，本插件只支援離線版makecode)
 
+KittenBot官方離線版Makecode下載：https://www.kittenbot.cn/software
  
-1.加載neomatrix插件
+### 1.加載neomatrix插件
 
 neomatrix插件: https://github.com/KittenBot/pxt-neomatrix
 
@@ -31,7 +37,7 @@ neomatrix積木塊:
     注意：現階段溢彩屏並不兼容powerbrick！請使用robotbit！
     PowerBrick只支援套件中的全彩點陣屏。
 
-2.點擊NeoMatrix Editor進入編輯器
+### 2.點擊NeoMatrix Editor進入編輯器
 
 ![](./LEDMatrixT2/edit.png)
 
@@ -57,7 +63,7 @@ neomatrix積木塊:
 
 ![](./LEDMatrix/glasses.png)
 
-完成後在Output欄中點擊Matrix Panel，生成積木。
+我們需要製作2幀圖案，完成後在Output欄中點擊Matrix Panel，生成積木。
 
 ![](./LEDMatrixT2/editor4.png)
 
@@ -65,24 +71,15 @@ neomatrix積木塊:
 
 ![](./LEDMatrixT2/editor5.png)
 
-3.編寫程式
+### 3.編寫程式
+
+每半秒，彩屏上的圖案就會跳一次。
 
 ![](./LEDMatrixT2/image4144.png)
 
     用PowerBrick套件中的全彩點陣屏請使用PowerBrick積木。
 
 [參考程式下載](https://bit.ly/LEDMatrixT2_01Hex)
-
-## 流水式走字效果(32x8)
-
-neomatrix亦都支援流水式走字的動畫。
-
-![](./LEDMatrixT2/image4145.png)
-
-[參考程式下載](https://bit.ly/LEDMatrixT2_02Hex)
-
-    注意：現階段只支援8x32溢光屏走字。
-    16x16的走字請參考《流光溢彩屏進階教程》。
     
 ## FAQ
 

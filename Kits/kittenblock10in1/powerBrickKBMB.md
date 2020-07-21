@@ -30,3 +30,16 @@
 
 ## 連接測試
 
+任意拖曳Microbit的積木，按下積木，Microbit應該會即時有反應。
+
+![](./kbimages/03_09.png)
+
+![](./kbimages/03_12.png)
+
+## 上載程式
+
+在Kittenblock平台上也可以將程式上載到MicroBit，不用永遠連着電腦使用。
+
+按下上方的升級韌體，等待數秒完成上即可。
+
+![](./kbimages/upload.png)

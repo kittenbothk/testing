@@ -1,5 +1,7 @@
 # 全彩點陣模組
 
+全彩點陣模組 (HKBM8012J)
+
 ![](./images/11_04.png)
 
 
@@ -28,7 +30,7 @@
 
 將RGB模組用4pin排線連接至Armourbit。
 
-![](./images/rgbCon.jpg)
+![](./images/11_25.png)
 
 ## MakeCode編程教學
 

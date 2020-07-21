@@ -1,5 +1,7 @@
 # 溫度濕度感應器
 
+溫度濕度感應器 (HKBM8012D)
+
 ![](./images/05_05.png)
 
 此模塊用於探測環境的溫度和濕度。附有3pin防反插接口，可以加插雨滴或土壤模組。
@@ -25,7 +27,7 @@
 
 將溫度濕度感應器用4pin排線連接至Armourbit。
 
-![](./images/enviroCon.jpg)
+![](./kbimages/05_01.png)
 
 ## MakeCode編程教學
 
@@ -46,3 +48,22 @@
 ![](./images/RH.png)
 
 [參考程式下載](www.google.com)
+
+## KittenBlock編程教學
+
+### 加載PowerBrick插件
+
+離線版與在線版同樣操作。
+
+在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
+
+![](./kbimages/addextension.png)
+
+### 溫度測量編程
+
+![](./kbimages/kbtemp.png)
+
+### 相對濕度測量編程
+
+![](./kbimages/kbhumid.png)
+
