@@ -74,7 +74,7 @@
 
 透過串聯連結多個點陣屏。
 
-###串聯接線：
+### 串聯接線：
 
 請將點陣屏A的out與點陣屏B的in連接。
 
@@ -82,7 +82,7 @@
 
 串聯情況下支援圖像化編輯器，詳情請參考流光溢彩屏教學。
 
-[按此前往](../../accessories/LEDMatrix/LEDMatrixT3.md)
+[按此前往](../../accessories/LEDMatrix/LEDMatrixDaisyChain.md)
 
 ## KittenBlock編程教學
 
