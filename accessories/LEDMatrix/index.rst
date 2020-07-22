@@ -10,7 +10,7 @@
     LEDMatrix
     LEDMatrixNeoPixel1.md
     LEDMatrixT3.md
+    LEDMatrixDaisyChain.md
     LEDMatrixNeoMatrix1.md
     LEDMatrixNeoMatrix2.md
     LEDMatrixNeoMatrix3.md
-    LEDMatrixDaisyChain.md

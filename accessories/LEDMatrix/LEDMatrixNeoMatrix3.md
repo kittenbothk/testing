@@ -100,7 +100,7 @@
 
 修正所有數值之後就大功告成了！
 
-![](./LEDMatrixT4/1fra)
+![](./LEDMatrixT4/1frame.gif)
 
 [參考程式](https://bit.ly/LEDMatrixT4_01Hex)
 
