@@ -57,6 +57,8 @@
 ![](./LEDMatrixT1/code2.png)
 
     我們可以選擇多款預設顏色。
+    
+![](./LEDMatrixT1/allred.jpg)
 
 [參考程式下載](https://bit.ly/LEDMatrixT1_01Hex)
 
@@ -66,27 +68,38 @@
 
 ![](./LEDMatrixT1/code3.png)
 
-[參考程式下載](https://bit.ly/LEDMatrixT1_02Hex)
-
     彩虹效果使用的是HSL格式（色相，飽和度，亮度）
+    彩色的電流比較大，在高亮度的情況下需要外接USB電源。
+    
+![](./LEDMatrixT1/rainbow.jpg)
+
+[參考程式下載](https://bit.ly/LEDMatrixT1_02Hex)
 
 ### 亮度調節
 
 為了眼睛健康建議大家調低亮度。
 
 ![](./LEDMatrixT1/code4.png)
+    
+    亮度數值範圍由0-255
+    在較低亮度的情況下電流需求較低，所以即使彩虹色也不需外接電源。
+
+![](./LEDMatrixT1/brightness.jpg)
 
 [參考程式下載](https://bit.ly/LEDMatrixT1_03Hex)
     
-    亮度數值範圍由0-255
-    
-### 單燈點亮
+### 單一顆燈點亮
+
+我們可以單獨控制每顆燈。
 
 ![](./LEDMatrixT1/code5.png)
 
+    設置後需要運行刷新顯示才會點燈。
+    
+![](./LEDMatrixT1/pixel.jpg)
+
 [參考程式下載](https://bit.ly/LEDMatrixT1_04Hex)
 
-    設置後需要運行刷新顯示才會點燈。
   
 ### 流水效果
    
@@ -96,11 +109,16 @@
 
 ![](./LEDMatrixT1/code6.png)
 
+![](./LEDMatrixT1/ledmove.gif)
+
 [參考程式下載](https://bit.ly/LEDMatrixT1_05Hex)
 
 #### 或者
 
 ![](./LEDMatrixT1/code7.png)
+
+
+![](./LEDMatrixT1/ledloop.gif)
 
 [參考程式下載](https://bit.ly/LEDMatrixT1_06Hex)
 
@@ -112,9 +130,11 @@
 
 ![](./LEDMatrixT1/code9.png)
 
-[參考程式下載](https://bit.ly/LEDMatrixT1_07Hex)
-
     這裡由圖元10開始選擇4顆圖元，等於燈板上的10、11、12和13圖元。
+
+![](./LEDMatrixT1/ledrange.jpg)
+
+[參考程式下載](https://bit.ly/LEDMatrixT1_07Hex)
 
 ### 自訂顏色
 
@@ -122,10 +142,11 @@
 
 ![](./LEDMatrixT1/code8.png)
 
-[參考程式下載](https://bit.ly/LEDMatrixT1_08Hex)
-
     在Google搜尋RGB Color Picker可以方便地獲取顏色的數值。
     
+![](./LEDMatrixT1/rgbhsl.gif)
+
+[參考程式下載](https://bit.ly/LEDMatrixT1_08Hex) 
 
 ## FAQ
 

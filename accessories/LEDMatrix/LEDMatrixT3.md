@@ -16,11 +16,15 @@
 
 我們先來試試初始燈板為一個16x16的矩陣。然後我們可以透過X和Y座標控制個別圖元。
 
-![](./LEDMatrixT3/code3.png)
+![](./LEDMatrixT3/code8.png)
+
+    這裡使用的是一塊16x16燈板，所以我們將闊度設為16。
+
+
 
 [參考程式下載](https://bit.ly/LEDMatrixT3_01Hex)
 
-    這裡使用的是一塊16x16燈板，所以我們將闊度設為16。
+
 
 現在我們來試試點亮首2行的第一顆圖元。
 
@@ -64,6 +68,8 @@
 
 ![](./LEDMatrixT3/code7.png)
 
+![](./LEDMatrixT3/triangle.jpg)
+
 [參考程式下載](https://bit.ly/LEDMatrixT3_04Hex)
     
 ## 流光溢彩屏矩陣旋轉
@@ -74,9 +80,13 @@
 
 ![](./LEDMatrixT3/code1.png)
 
+    由於旋轉方向有0、1、2這3種，我們使用除以3的餘數操控旋轉。
+    
+![](./LEDMatrixT3/rotate.gif)
+
 [參考程式下載](https://bit.ly/LEDMatrixT3_05Hex)
 
-    由於旋轉方向有0、1、2這3種，我們使用除以3的餘數操控旋轉。
+
     
 X和Y軸的方向可以參照下圖。
 

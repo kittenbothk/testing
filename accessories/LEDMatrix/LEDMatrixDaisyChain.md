@@ -22,6 +22,8 @@
 
 ![](./LEDMatrixT3/code2.png)
 
+![](./LEDMatrixT3/daisymatrix.jpg)
+
 [參考程式下載](https://bit.ly/LEDMatrixT3_06Hex)
 
 ### 串聯與矩陣的編程
@@ -31,18 +33,18 @@
 
 ![](./LEDMatrixT3/text4180.png)
 
-### 編程教學
-
 在這裡我們分別點亮 2塊彩屏的頭 2顆LED燈。
 
-在旋轉為0或2的時候，第二塊燈板會往Y軸伸展。旋轉為1的時候，則會往X軸伸展。
+![](./LEDMatrixT3/code3.png)
 
-![](./LEDMatrixT3/code8.png)
+    Y=0和Y=16分別代表2塊燈板的第一行。        
+    在旋轉為0或2的時候，第二塊燈板會往Y軸伸展。旋轉為1的時候，則會往X軸伸展。
+
+![](./LEDMatrixT3/daisychain.jpg)
 
 [參考程式下載](https://bit.ly/LEDMatrixT3_07Hex)
 
-    Y=0和Y=16分別代表2塊燈板的第一行。        
-    
+
 ## 串聯情況之下的流水走字效果
 
 串聯情況下要做到流水走字的話需要參考《1616溢彩屏動態效果教程》。

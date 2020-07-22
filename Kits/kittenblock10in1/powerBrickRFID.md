@@ -34,7 +34,7 @@ RFID模組 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
 將RFID模組用4pin排線連接至Armourbit的I2C接口。
 
-![](./images/rfidCon.jpg)
+![](./kbimages/rfidCon.jpg)
 
 ## MakeCode編程教學
 

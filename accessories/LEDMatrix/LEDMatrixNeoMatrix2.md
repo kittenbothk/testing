@@ -77,11 +77,15 @@ neomatrix積木塊:
 
 ![](./LEDMatrixT2/image4145.png)
 
+![](./LEDMatrixT2/1frame.gif)
+
 [參考程式下載](https://bit.ly/LEDMatrixT2_02Hex)
 
 ### 雙幀走馬燈：
 
 ![](./LEDMatrixT2/code.png)
+
+![](./LEDMatrixT2/2frame.gif)
 
 [參考程式下載](https://bit.ly/LEDMatrixT2_02Hex)
     

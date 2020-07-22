@@ -1,10 +1,10 @@
 # KittenBlock快速開始
 
-KittenBlock是喵家的自家編程平台，有在線版和離線版兩種版本。
+KittenBlock是KittenBot的自家編程平台，有在線版和離線版兩種版本。
 
 ## KittenBlock在線版
 
-###先下載klink
+### 先下載klink
 
 在瀏覽器前往 https://www.kittenbot.cn/kittenblock_download
 

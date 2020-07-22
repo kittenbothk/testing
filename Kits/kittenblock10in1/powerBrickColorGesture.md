@@ -46,7 +46,7 @@
 
 將顏色手勢模組用4pin排線連接至Armourbit的I2C接口。
 
-![](./images/gestureCon.jpg)
+![](./kbimages/gesturecon.jpg)
 
 ## MakeCode編程教學
 

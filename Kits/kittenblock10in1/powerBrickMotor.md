@@ -57,7 +57,7 @@ Geekservo電機 (HKBD9006A)
 
 將電機的紅黑線連接至Armourbit底部的電機接口。
 
-![](./images/motorCon.jpg)
+![](./kbimages/motorCon.jpg)
 
     沒有嚴格正負極之分，插的方向只會影響電機轉動方向。
 

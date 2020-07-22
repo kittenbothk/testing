@@ -32,6 +32,8 @@
 
 將超聲波聲音模組用4pin排線連接至Armourbit。
 
+![](./kbimages/ultrasoundcon.jpg)
+
 ## MakeCode編程教學
 
 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick

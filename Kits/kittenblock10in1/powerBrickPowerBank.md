@@ -48,7 +48,7 @@
 
 可以給其他5V電路板供電。
 
-![](./images/IMG_2565.gif)
+![](./kbimages/koi.jpg)
 
 
 

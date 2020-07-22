@@ -4,7 +4,7 @@ MP3模組 (HKBM8012E)
 
 ![](./images/12_03.png)
 
-這是一塊MP3模組，內建小喇叭和microSD卡插槽，可以播放SD卡裏的mp3檔案。上面還有三个按键，播放，前一首，後一首。配合Armourbit使用，可以用程式播放SD卡的指定歌曲等。
+這是一塊MP3模組，內建小喇叭和microSD卡插槽，可以播放SD卡裏的mp3檔案。上面還自帶按鍵，可以播放，前一首，後一首。配合Armourbit使用，可以用程式播放SD卡的指定歌曲等。
 
 
 ## 詳細介紹
@@ -32,7 +32,7 @@ MP3模組 (HKBM8012E)
 
 將MP3模組用4pin排線連接至Armourbit。
 
-![](./images/mp3Con.jpg)
+![](./kbimages/mp3con.jpg)
 
 ## MakeCode編程教學
 
