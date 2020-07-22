@@ -1,5 +1,9 @@
 # PowerBrick產品介紹
 
+PowerBrick純電子版 (HKBK8038A)
+
+PowerBrick連積木版 (HKBK8039B)
+
 ![](./images/01_01.png)
 
 PowerBrick All-In-One是由kittenbot設計的十合一套件，它是為BBC microbit度身訂造，
@@ -36,10 +40,12 @@ PowerBrick有兩種版本，分別為PowerBrick純電子版和PowerBrick連積�
 ### 套件內容:
 1. Armourbit擴展板x1
 1. Armourbit電池盒x1
+1. 感應器模組套裝x1
 1. 一組防反插連接線x1
 1. 270度舵機x4
 1. 電機x2
-2. 積木包x1(只限連積木版)
+1. 18650鋰電池x1
+2. 積木包x1 (只限HKBK8039B)
 
 ### 感應器模組介紹:
 

@@ -1,5 +1,7 @@
 # Armourbit
 
+Armourbit擴展盒 (HKBD9006A)
+
 ![](./images/01_03.png)
 
 跟Robotbit 性質類似, Armourbit 也是 Microbit的一款擴展配件，由於它外形像個盒子, 就稱它為Microbit 擴展盒。
