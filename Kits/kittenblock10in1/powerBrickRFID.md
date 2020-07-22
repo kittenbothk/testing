@@ -56,21 +56,21 @@ RFID模組 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
 [參考程式下載](www.google.com)
 
-### RFID讀取UID
+### RFID讀取UUID
 
-每張卡的UID也不同，請自行抄下你自己卡片的UID。
+每張卡的UUID也不同，請自行抄下你自己卡片的UUID。
 
 ![](./images/uidread.png)
 
 [參考程式下載](www.google.com)
 
-##UID身份辨別
+##UUID身份辨別
 
-我們可以用UID作身份辨別。
+我們可以用UUID作身份辨別。
 
 ![](./images/uididentify.png)
 
-    這裡請使用您卡片的UID。
+    這裡請使用您卡片的UUID。
 
 [參考程式下載](www.google.com)
 
@@ -104,17 +104,17 @@ RFID模組 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
 [參考程式下載](www.google.com)
 
-### RFID讀取UID
+### RFID讀取UUID
 
 ![](./kbimages/uidread.png)
 
 [參考程式下載](www.google.com)
 
-### UID身份辨別
+### UUID身份辨別
 
 ![](./kbimages/uididentify.png)
 
-    這裡請使用您卡片的UID。
+    這裡請使用您卡片的UUID。
     
 [參考程式下載](www.google.com)
 
