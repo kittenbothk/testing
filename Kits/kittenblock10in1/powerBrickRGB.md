@@ -72,6 +72,14 @@
 
 ## 串聯與圖像化編輯器教學
 
+透過串聯連結多個點陣屏。
+
+###串聯接線：
+
+請將點陣屏A的out與點陣屏B的in連接。
+
+![](./images/rgbchain.jpg)
+
 串聯情況下支援圖像化編輯器，詳情請參考流光溢彩屏教學。
 
 [按此前往](../../accessories/LEDMatrix/LEDMatrixT3.md)
@@ -95,6 +103,10 @@
 ![](./kbimages/kbrgb.png)
 
 [參考程式下載](www.google.com)
+
+由於顯示色彩只支援RGB，假如你有一組HSV顏色，你必需要將其轉換至RGB格式。
+
+![](./kbimages/hsvtorgb.png)
 
 ## FAQ
 

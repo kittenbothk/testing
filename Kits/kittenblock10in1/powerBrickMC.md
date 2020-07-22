@@ -8,9 +8,9 @@ PowerBrick首推的編程平台是微軟Makecode。
 
 MakeCode有兩種版本，兩個版本的功能和用法是一樣的。
 
-Microsoft MakeCode在線版: https://makecode.microbit.org/
+MakeCode在線版: https://makecode.microbit.org/
 
-Microsoft MakeCode離線版: https://makecode.microbit.org/offline-app
+MakeCode離線版: https://www.kittenbot.cn/software
 
 ## PowerBrick在MakeCode上編程
 

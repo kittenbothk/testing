@@ -1,7 +1,7 @@
-PowerBrick AllInOne
+PowerBrick 十合一
 ==========================================
 
-PowerBrick一套支援BBC:microbit的十合一套件。這部分會詳細地介紹PowerBrick與其內容。
+PowerBrick是一套支援BBC:microbit的十合一套件。這部分會詳細地介紹PowerBrick與其內容。
 
 .. toctree::
     :maxdepth: 1

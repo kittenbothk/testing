@@ -16,7 +16,7 @@
 
 ![](./kbimages/kbmbcon.png)
 
-點選『開始連線』。
+將Microbit用USB線連接到電腦，然後點選『開始連線』。
 
 ![](./kbimages/kbmbcon1.png)
 

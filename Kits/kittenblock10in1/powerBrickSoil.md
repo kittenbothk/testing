@@ -31,7 +31,7 @@
 
 ### 土壤濕度探測編程
 
-![](./images/water.png)
+![](./images/soil.png)
 
 [參考程式下載](www.google.com)
 
