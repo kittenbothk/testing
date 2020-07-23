@@ -33,7 +33,7 @@
 
 ![](./images/water.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM2_01Hex)
 
 ### MakeCode教學短片
 

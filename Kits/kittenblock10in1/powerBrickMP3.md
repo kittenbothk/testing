@@ -46,13 +46,13 @@ MP3模組 (HKBM8012E)
 
 ![](./images/mp3.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM10_01Hex)
 
 ### 指定序號播放音頻
 
 ![](./images/mp3id.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM10_02Hex)
 
 ### 指定名稱播放音頻
 
@@ -60,7 +60,7 @@ MP3模組 (HKBM8012E)
 
     名稱只支援英文和數字，長度不能長於8位。
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM10_03Hex)
 
 ### Makecode教學短片
 

@@ -46,13 +46,13 @@
 
 ![](./images/distance.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM4_01)
 
 ### 環境聲音檢測編程
 
 ![](./images/soundlevel.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM4_02Hex)
 
 ### Makecode教學短片
 

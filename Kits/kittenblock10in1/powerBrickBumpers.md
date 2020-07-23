@@ -37,7 +37,7 @@ AB按鍵模組 (HKBM8012C)
 
 ![](./images/bumper.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM6_01Hex)
 
 ### Makecode教學短片
 

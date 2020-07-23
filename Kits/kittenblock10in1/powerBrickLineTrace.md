@@ -43,7 +43,7 @@
 
 ![](./images/linefollow.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM5_01Hex)
 
 ### Makecode教學短片
 

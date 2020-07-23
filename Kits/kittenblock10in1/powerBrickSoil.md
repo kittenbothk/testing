@@ -33,7 +33,7 @@
 
 ![](./images/soil.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM3_01Hex)
 
 ### Makecode教學短片
 
