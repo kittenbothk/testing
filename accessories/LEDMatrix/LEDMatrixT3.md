@@ -2,6 +2,28 @@
 
 本節教程將會介紹流光溢彩屏的矩陣操作。矩陣可以幫我們做一些比較複雜的圖形。
 
+## 接線
+
+0832溢彩屏需要配合robotbit使用，請按照下圖將屏幕與robotbit接線。
+
+### 1. 將彩屏與轉接板連接。
+
+![](./LEDMatrixT1/matrixtoadapter.jpg)
+
+### 2. 將轉接板連接到robotbit。
+
+![](./LEDMatrixT3/adaptertorobotbit.png)
+
+### 3. 長時間使用請使用USB供電。
+
+USB供電時，不需要使用Robotbit供電，請將5V電源線拔走。
+
+![](./LEDMatrix/usb.jpg)
+
+### 4. 完整接線示範
+
+![](./LEDMatrix/usbpower.jpg)
+
 ## 流光溢彩屏與矩陣
 
 ![](./LEDMatrixT3/Matris.png)
@@ -83,6 +105,8 @@
     由於旋轉方向有0、1、2這3種，我們使用除以3的餘數操控旋轉。
     
 ![](./LEDMatrixT3/rotate.gif)
+
+![](./LEDMatrixT3/rotate32.gif)
 
 [參考程式下載](https://bit.ly/LEDMatrixT3_05Hex)
     
