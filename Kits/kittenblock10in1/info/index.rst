@@ -6,5 +6,4 @@ PowerBrick十合一資料
 .. toctree::
     :maxdepth: 1
 
-    powerBrickIntro.md
-    modules/index
+
