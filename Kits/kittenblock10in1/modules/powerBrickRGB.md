@@ -82,7 +82,7 @@
 
 串聯情況下支援圖像化編輯器，詳情請參考流光溢彩屏教學。
 
-[按此前往](../../accessories/LEDMatrix/LEDMatrixDaisyChain.md)
+[按此前往](....//../accessories/LEDMatrix/LEDMatrixDaisyChain.md)
 
 ## KittenBlock編程教學
 
