@@ -10,12 +10,7 @@
 
 .. toctree::
     :maxdepth: 2
-    :caption: 功能配件(M類型)
+    :caption: 功能配件
 
     functional module/index
 
-.. toctree::
-    :maxdepth: 2
-    :caption: 套件產品(K類型)
-
-    Kits/index
