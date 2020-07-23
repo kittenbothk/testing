@@ -76,13 +76,13 @@
 
 ![](./kbimages/kbultrasounddist.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM4_01sb3)
 
 ### 環境聲音檢測編程
 
 ![](./kbimages/kbultrasoundlevel.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM4_02sb3)
 
 ## FAQ
 

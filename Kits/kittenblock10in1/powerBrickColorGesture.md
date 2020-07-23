@@ -68,17 +68,18 @@ HSV色環可以參考下圖：
 
 ![](./images/hsv.jpg)
 
+### 亮度檢測
+
+![](./images/colorbrightness.png)
+
+[參考程式下載](https://bit.ly/PowerbrickM7_02Hex)
+
 ### 距離檢測
 
 ![](./images/colordist.png)
 
 [參考程式下載](https://bit.ly/PowerbrickM7_03Hex)
 
-### 亮度檢測
-
-![](./images/colorbrightness.png)
-
-[參考程式下載](https://bit.ly/PowerbrickM7_02Hex)
 
 ### 手勢檢測
 
@@ -114,31 +115,31 @@ HSV色環可以參考下圖：
 
 ![](./kbimages/kbcolor.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM7_01sb3)
 
 ### 亮度檢測
 
 ![](./kbimages/kbbrightness.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM7_02sb3)
 
 ### 距離檢測
 
 ![](./kbimages/kbcolordist.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM7_03sb3)
 
 ### 手勢檢測
 
 ![](./kbimages/kbgesture.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM7_04sb3)
 
 ### LED控制
 
 ![](./kbimages/kbled.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM7_05sb3)
 
 ## FAQ
 

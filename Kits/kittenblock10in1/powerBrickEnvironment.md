@@ -71,13 +71,13 @@
 
 ![](./kbimages/kbtemp.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM1_01sb3)
 
 ### 相對濕度測量編程
 
 ![](./kbimages/kbhumid.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM1_02sb3)
 
 ## FAQ
 

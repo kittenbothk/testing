@@ -102,7 +102,7 @@
 
 ![](./kbimages/kbrgb.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM9_01sb3)
 
 由於顯示色彩只支援RGB，假如你有一組HSV顏色，你必需要將其轉換至RGB格式。
 

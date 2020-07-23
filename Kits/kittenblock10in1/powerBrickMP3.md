@@ -84,13 +84,13 @@ MP3模組 (HKBM8012E)
 
 ![](./kbimages/mp3play.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM10_01sb3)
 
 ### 指定序號播放音頻
 
 ![](./kbimages/mp3playbyid.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM10_02sb3)
 
 ### 指定名稱播放音頻
 
@@ -98,7 +98,7 @@ MP3模組 (HKBM8012E)
 
     名稱只支援英文和數字，長度不能長於8位。
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM10_03sb3)
 
 ## FAQ
 

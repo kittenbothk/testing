@@ -57,4 +57,10 @@
 
 ![](./kbimages/kbwaterlevel.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM2_01sb3)
+
+## FAQ
+
+1：為什麼我點擊積木塊沒有反應呢？
+
+首先確保已經連接好Microbit，然後上載韌體再試一試。

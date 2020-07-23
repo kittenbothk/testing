@@ -96,19 +96,19 @@ RFID模組 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
 ![](./kbimages/rfidwrite.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM8_01sb3)
 
 ### RFID卡片讀取
 
 ![](./kbimages/rfidread.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM8_02sb3)
 
 ### RFID讀取UUID
 
 ![](./kbimages/uidread.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM8_03sb3)
 
 ### UUID身份辨別
 
@@ -116,7 +116,7 @@ RFID模組 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
     這裡請使用您卡片的UUID。
     
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM8_04sb3)
 
 ## FAQ
 

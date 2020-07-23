@@ -97,7 +97,7 @@ Geekservo電機 (HKBD9006A)
 
 ![](./kbimages/kbmotor.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM11_01sb3)
 
 ## FAQ
 

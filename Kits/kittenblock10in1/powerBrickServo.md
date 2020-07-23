@@ -98,7 +98,7 @@ Geekservo舵機 (HKBD9005A)
 
 ![](./kbimages/kbservo.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowerbrickM12_01sb3)
 
 ## FAQ
 

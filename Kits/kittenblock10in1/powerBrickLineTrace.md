@@ -67,7 +67,7 @@
 
 ![](./kbimages/kblinetrace.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載](https://bit.ly/PowberbrickM5_01sb3)
 
 
 ## FAQ
