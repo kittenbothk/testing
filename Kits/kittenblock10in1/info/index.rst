@@ -6,4 +6,4 @@ PowerBrick十合一資料
 .. toctree::
     :maxdepth: 1
 
-
+    partslist.md
