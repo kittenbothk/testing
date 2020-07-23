@@ -7,3 +7,4 @@ PowerBrick十合一資料
     :maxdepth: 1
 
     partslist.md
+    instructions/index

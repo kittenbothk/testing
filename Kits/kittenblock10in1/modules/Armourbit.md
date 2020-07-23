@@ -59,7 +59,7 @@ Makecode Online：https://makecode.microbit.org/
 
 ![](./images/IMG_2567.GIF)
 
-## Reset (重啟)Microbit 示範
+## Reset (重置)Microbit 示範
 
 用於重定Microbit的程式（這樣你就不用把Microbit 拿出來才能進行復位了）
 
@@ -86,14 +86,3 @@ Makecode Online：https://makecode.microbit.org/
 
 ![](./images/03_05.png)
 
-### DC motor (直流馬逹)编程
-
-注意電機介面M1、M2，程式設計對應進行控制
-
-![](./images/03_06.png)
-
-### 舵機編程
-
-注意舵機線序接法，注意舵機線序介面S1-S8，實物接線與程式程式設計需要對應。
-
-![](./images/03_07.png)

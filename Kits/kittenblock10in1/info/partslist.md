@@ -16,4 +16,4 @@ PowerBrick連積木版的零件清單，請核實積木包沒有缺少零件。
 
 ## 清單下載
 
-[積木零件清單PDF下載](partslist/Powerbrick_All_in_one-partslist.pdf)
+[積木零件清單PDF下載](www.google.com)
