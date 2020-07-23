@@ -50,7 +50,7 @@
 
 ![](./LEDMatrixT1/1.png) 
 
-完成後可以看到積木欄裏加入了neopixel的積木。
+#### neopixel積木塊:
 
 ![](./LEDMatrixT1/3.png) 
 

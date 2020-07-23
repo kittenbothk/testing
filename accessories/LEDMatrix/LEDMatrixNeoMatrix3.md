@@ -28,18 +28,22 @@ USB供電時，不需要使用Robotbit供電，請將5V電源線拔走。
 
 ## 流光溢彩屏進階編程
 
-1. 本節教程將會用到neopixel的插件，請將插件加載於makecode。
+1. 本節教程將會用到robotbit插件，請將插件加載於makecode。
+
+![](./LEDMatrixT1/2.png) 
+
+![](./LEDMatrixT1/1.png) 
 
 2. 本節教程亦會用到neomatrix的編輯器。
 
-    - [neomatrix編輯器](https://kittenbot.github.io/pxt-neomatrix/index.html)
+    ### [neomatrix編輯器](https://kittenbot.github.io/pxt-neomatrix/index.html)
     
 
 
     請勿加載neomatrix插件！否則將會出現錯誤！
     只需要在瀏覽器打開編輯器即可。
 
-- ### 單幀流水動畫
+### 單幀流水動畫
 
 #### 編程教學
 
@@ -114,7 +118,7 @@ USB供電時，不需要使用Robotbit供電，請將5V電源線拔走。
 
 [參考程式](https://bit.ly/LEDMatrixT4_01Hex)
 
-- ### 雙幀流水動畫
+### 雙幀流水動畫
 
 上文教了大家創作地單一幅幀數的動畫，有了這個基礎，我們製作多幀動畫時就較容易上手。
 

@@ -40,7 +40,7 @@ neomatrix插件: https://github.com/KittenBot/pxt-neomatrix
 
 ![](./LEDMatrixT2/ext.png) 
 
-neomatrix積木塊:
+#### neomatrix積木塊:
 
 ![](./LEDMatrixT2/blocks.png)
 
