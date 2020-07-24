@@ -2,9 +2,9 @@
 
 ![](./instruction1/08_env.png)
 
-## 說明書下載
+## 教材資源包下載
 
-[說明書下載地址]()
+包括說明書和音效檔案： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
 
 ## 參考接線
 
@@ -12,11 +12,9 @@
 
 ## 參考程式
 
+[參考程式資源包下載地址](https://bit.ly/Powerbrick10in1ModelsHex)
+
 請將MP3檔案儲存到microSD卡，並將卡插入MP3模組。
-
-[MP3檔案下載地址]()
-
-[程式下載地址]()
 
 ![](./instruction1/08_envcode.png)
 

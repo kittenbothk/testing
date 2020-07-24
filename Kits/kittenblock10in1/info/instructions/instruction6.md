@@ -2,9 +2,9 @@
 
 ![](./instruction1/06_bin.png)
 
-## 說明書下載
+## 教材資源包下載
 
-[說明書下載地址]()
+包括說明書和音效檔案： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
 
 ## 參考接線
 
@@ -12,7 +12,7 @@
 
 ## 參考程式
 
-[程式下載地址]()
+[參考程式資源包下載地址](https://bit.ly/Powerbrick10in1ModelsHex)
 
 ![](./instruction1/06_bincode.png)
 
