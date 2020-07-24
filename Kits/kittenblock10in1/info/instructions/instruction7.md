@@ -12,6 +12,10 @@
 
 ## 參考程式
 
+請將MP3檔案儲存到microSD卡，並將卡插入MP3模組。
+
+[MP3檔案下載地址]()
+
 [程式下載地址]()
 
 ![](./instruction1/07_gatecode.png)
