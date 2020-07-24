@@ -56,6 +56,10 @@ p{
     letter-spacing: 0.75px;
 }
 
+.section{
+background: #000000;
+}
+
 a:visited{
     color: #2A7EFF;
 }
@@ -136,6 +140,8 @@ nav.wy-nav-top {
 .row-odd img{
     max-width: 50%;
 }
+
+
 
 th.head{
     text-align: center;
