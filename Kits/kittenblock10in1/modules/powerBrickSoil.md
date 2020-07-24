@@ -59,7 +59,6 @@
 
 [參考程式下載](https://bit.ly/PowerbrickM3-01sb3)
 
-
 ## FAQ
 
 1：為什麼我點擊積木塊沒有反應呢？
