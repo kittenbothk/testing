@@ -84,6 +84,10 @@
 
 [按此前往](....//../accessories/LEDMatrix/LEDMatrixDaisyChain.md)
 
+#### 串聯效果演示
+
+![](./images/11_23.png)
+
 ## KittenBlock編程教學
 
 ### 加載PowerBrick插件
