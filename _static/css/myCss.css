@@ -1,0 +1,183 @@
+
+@import url("theme.css");
+
+
+body{
+    color: #ff0000;
+    margin: auto 0;
+}
+
+p{
+    line-height: 25px;
+}
+
+.fa:before{
+    color: #111111;
+}
+
+.wy-nav-side{
+    background: #111111;
+}
+
+.wy-side-nav-search{
+    background: #0000ff;
+    padding: 0  .809em .809em !important;
+    padding-bottom: 20px;
+   
+}
+
+.wy-side-nav-search>a{
+    color:#202020;
+    padding: 0px 0px !important;
+}
+
+.wy-side-nav-search img{
+    padding: 0px !important;
+}
+
+.version{
+    display: none !important;
+    
+}
+
+.fa:before{
+    color: #fdfdfd;
+}
+
+.wy-side-nav-search input[type=text]{
+    border:2px solid transparent;
+    box-shadow: none;
+    font-size: 14px;
+}
+
+.wy-menu-vertical p.caption{
+    color: #39CCCC;
+    font-size: 90% !important;
+    letter-spacing: 0.75px;
+}
+
+.section{
+background: #000000;
+}
+
+a:visited{
+    color: #2A7EFF;
+}
+
+span.toctree-expand:before{
+    color: #666 !important;
+}
+
+::selection {
+    background: #111111;
+    color: #fbfbfb;}
+::-moz-selection {
+    background: #111111;
+    color: #fbfbfb;
+}
+::-webkit-selection {
+    background: #111111;
+    color: #fbfbfb;
+}
+
+.wy-menu-vertical a{
+    color: #fbfbfb;
+} 
+
+.caption-text{
+    letter-spacing: 0.75px;
+}
+
+.wy-nav-content p>img{
+    display:block;
+    margin:20px auto;
+}
+
+.wy-nav-content a{
+    color: #2A7EFF;
+    padding: 0.1rem;
+    line-height: 1.6;
+}
+
+.wy-nav-content h2{
+    color: #202020; 
+}
+
+.wy-nav-content{
+    max-width:800px;
+
+}
+
+.wy-nav-content-wrap{
+    background-color: #fbfbfb;
+}
+
+div#rtd-p5t93tfj{
+    display: none !important;
+}
+
+.wy-breadcrumbs li a:first-child{
+    display: none;
+}
+
+.fa-plus-square-o:before, .wy-menu-vertical li span.toctree-expand:before{
+    color: #e6e6e6;
+}
+
+nav.wy-nav-top {
+    background: #111111 !important; 
+    color: #202020 !important;
+}
+
+/* table{
+    text-align: center;
+} */
+
+.simple .head p{
+    margin-bottom: 0;
+}
+
+.row-odd img{
+    max-width: 50%;
+}
+
+
+
+th.head{
+    text-align: center;
+}
+
+.rst-versions{
+    position: fixed;
+    left: inherit;
+}
+
+@media screen and (min-width:768px) {
+    .wy-nav-content-wrap {
+        background:rgba(0,0,0,0.05);
+    }
+    .wy-nav-content {
+        margin:0;
+        background:#fcfcfc;
+    }
+    nav.wy-nav-top {
+        background: #111111 !important; 
+        color: #202020 !important;
+    }
+    .wy-nav-top a{
+        color: white; 
+    }
+}
+
+@media only screen and (min-width: 768px){
+    .wy-body-for-nav {
+        max-width: 1100px;
+        margin: 0 auto;
+    }
+    .wy-nav-side {
+        left: inherit;
+}
+
+@media only screen and (min-width: 768px)
+
+}
