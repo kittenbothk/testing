@@ -3,7 +3,7 @@
 
 
 body{
-    color: #111111;
+    color: #ff0000;
     margin: auto 0;
 }
 
@@ -20,7 +20,7 @@ p{
 }
 
 .wy-side-nav-search{
-    background: #ff0000;
+    background: #ffffff00;
     padding: 0  .809em .809em !important;
     padding-bottom: 20px;
    
