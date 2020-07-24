@@ -1,7 +1,7 @@
-PowerBrick十合一說明書
+PowerBrick十合一模型組裝說明書
 ======================
 
-這處集合了PowerBrick十合一的說明書和其他模型的拼砌說明書。
+這處集合了PowerBrick十合一的說明書和其他模型的組裝說明書。
 
 .. toctree::
     :maxdepth: 1

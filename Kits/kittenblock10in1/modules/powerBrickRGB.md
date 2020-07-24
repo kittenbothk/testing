@@ -1,6 +1,6 @@
-# 全彩點陣模組
+# 全彩點陣魔塊
 
-全彩點陣模組 (HKBM8012J)
+全彩點陣魔塊 (HKBM8012J)
 
 ![](./images/11_04.png)
 
@@ -28,7 +28,7 @@
 
 ## 接線方法
 
-將點陣模組用4pin排線連接至Armourbit。
+將點陣魔塊用4pin排線連接至Armourbit。
 
 ![](./images/11_25.png)
 
@@ -36,7 +36,7 @@
 
 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
-### 點陣模組積木塊
+### 點陣魔塊積木塊
 
 ![](./images/rgbblocks1.png)
 
@@ -98,7 +98,7 @@
 
 ![](./kbimages/addextension.png)
 
-### 點陣模組積木塊
+### 點陣魔塊積木塊
 
 ![](./kbimages/rgbblocks.png)
 

@@ -1,10 +1,10 @@
-# MP3模組
+# MP3魔塊
 
-MP3模組 (HKBM8012E)
+MP3魔塊 (HKBM8012E)
 
 ![](./images/12_03.png)
 
-這是一塊MP3模組，內建小喇叭和microSD卡插槽，可以播放SD卡裏的mp3檔案。上面還自帶按鍵，包括播放、上一首和下一首。配合Armourbit使用，可以用程式播放SD卡的指定歌曲等。
+這是一塊MP3魔塊，內建小喇叭和microSD卡插槽，可以播放SD卡裏的mp3檔案。上面還自帶按鍵，包括播放、上一首和下一首。配合Armourbit使用，可以用程式播放SD卡的指定歌曲等。
 
 
 ## 詳細介紹
@@ -24,13 +24,13 @@ MP3模組 (HKBM8012E)
 ## 使用注意事项
 
 - PowerBrick套件並沒有附送microSD卡，請自行購買。
-- MP3模組一定要有內存卡，且内存卡中存有可播放的音頻，才可以播放音樂。
+- MP3魔塊一定要有內存卡，且内存卡中存有可播放的音頻，才可以播放音樂。
 - 安裝microSD卡時請注意，聽到「卡嚓」一聲才代表安裝好。
 - 取出microSD卡時請不要直接用力拔，按一按microSD卡即會彈出。
 
 ## 接線方法
 
-將MP3模組用4pin排線連接至Armourbit。
+將MP3魔塊用4pin排線連接至Armourbit。
 
 ![](./kbimages/mp3con.jpg)
 
@@ -38,7 +38,7 @@ MP3模組 (HKBM8012E)
 
 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
-### MP3模組積木塊
+### MP3魔塊積木塊
 
 ![](./images/mp3blocks.png)
 

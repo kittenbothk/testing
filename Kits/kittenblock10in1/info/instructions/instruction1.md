@@ -6,6 +6,10 @@
 
 包括說明書和音效檔案： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
 
+## 參考接線
+
+![](./instruction1/01_clawcon.jpg)
+
 ## 參考程式
 
 [參考程式資源包下載地址](https://bit.ly/Powerbrick10in1ModelsHex)

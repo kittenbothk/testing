@@ -4,7 +4,7 @@
 
 ![](./images/04_02.png)
 
-這是PowerBrick的電源模組，用於Armourbit的供電，為Microbit與電機、舵機和各種模組進行供電电。使用3pin防反插排線連接，附帶Micro USB充電口，帶短路過流保護電路。另外也可透過USB提供5V電源，為其他主板（例如robotbit，AI鏡頭KOI）。需要使用18650鋰電池。
+這是PowerBrick的電源魔塊，用於Armourbit的供電，為Microbit與電機、舵機和各種魔塊進行供電电。使用3pin防反插排線連接，附帶Micro USB充電口，帶短路過流保護電路。另外也可透過USB提供5V電源，為其他主板（例如robotbit，AI鏡頭KOI）。需要使用18650鋰電池。
 
 ## 使用注意事項
 

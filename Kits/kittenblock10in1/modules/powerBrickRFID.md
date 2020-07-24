@@ -1,12 +1,12 @@
-# RFID模組
+# RFID魔塊
 
-RFID模組 (HKBM8012L) + RFID卡片 (HKBM8012M)
+RFID魔塊 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
 ![](./images/10_04.png)
 
 ![](./images/10_05.png)
 
-這是一個RFID模組，可以對套件附有的RFID卡或者空白RFID卡進行讀寫。
+這是一個RFID魔塊，可以對套件附有的RFID卡或者空白RFID卡進行讀寫。
 
 附有的RFID卡有1K內存，有16個分區，每個分區有3個區塊可以寫入資料。
 
@@ -26,13 +26,13 @@ RFID模組 (HKBM8012L) + RFID卡片 (HKBM8012M)
 ## 使用注意事項
 
 - RFID請勿在有強力磁場的環境下使用
-- RFID卡與模組之間不能有金屬阻擋，否則無法進行讀寫。
+- RFID卡與魔塊之間不能有金屬阻擋，否則無法進行讀寫。
 - RFID卡寫入大量數據的速度比較慢，請靜待一下，等數據成功寫入再拿去RFID卡。
 - 八達通卡身份證之類的卡因為資料被加密所以不能進行寫入數據，只可以讀取UID號碼（每張卡也有獨有的ID）。
 
 ## 接線方法
 
-將RFID模組用4pin排線連接至Armourbit的I2C接口。
+將RFID魔塊用4pin排線連接至Armourbit的I2C接口。
 
 ![](./kbimages/rfidcon.jpg)
 
@@ -40,7 +40,7 @@ RFID模組 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
-### RFID模組積木塊
+### RFID魔塊積木塊
 
 ![](./images/rfidblocks.png)
 

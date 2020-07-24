@@ -1,10 +1,10 @@
-# 顏色手勢感應模組 
+# 顏色手勢感應魔塊 
 
-顏色手勢感應模組 (HKBM8012F)
+顏色手勢感應魔塊 (HKBM8012F)
 
 ![](./images/09_06.png)
 
-這是一塊多功能的模組，它的主要功能是識別顏色和識別手勢。
+這是一塊多功能的魔塊，它的主要功能是識別顏色和識別手勢。
 
 ![](./images/IMG_2572.GIF)
 
@@ -35,7 +35,7 @@
 
 ## 使用注意事項
 
-- 這模組只能連接到I2C接口，其他接口無效。
+- 這魔塊只能連接到I2C接口，其他接口無效。
 - 使用前要先設置模式，否則默認為距離模式。
 - 手勢模式下，你可能需要熟習一下手移動的方向、距離和速度才掌握到觸發技巧。
 - 顏色辨認會返回HSV角度數值，並非RGB數值。
@@ -44,7 +44,7 @@
 
 ## 接線方法
 
-將顏色手勢模組用4pin排線連接至Armourbit的I2C接口。
+將顏色手勢魔塊用4pin排線連接至Armourbit的I2C接口。
 
 ![](./kbimages/gesturecon.jpg)
 
@@ -52,7 +52,7 @@
 
 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
-### 顏色手勢模組積木塊:
+### 顏色手勢魔塊積木塊:
 
 ![](./images/colorgestureblocks1.png)
 
@@ -107,7 +107,7 @@ HSV色環可以參考下圖：
 
 ![](./kbimages/addextension.png)
 
-### 顏色手勢模組積木塊
+### 顏色手勢魔塊積木塊
 
 ![](./kbimages/kbcolorgestureblocks.png)
 

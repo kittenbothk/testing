@@ -1,7 +1,7 @@
-PowerBrick十合一教學
+PowerBrick魔塊教學
 ==========================================
 
-這裡合集了Powerbrick不同模組的教程。
+這裡合集了Powerbrick不同魔塊的教程。
 
 .. toctree::
     :maxdepth: 1
