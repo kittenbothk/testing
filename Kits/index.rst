@@ -8,3 +8,9 @@
     :caption: PowerBrick AllInOne
 
     kittenblock10in1/index
+
+.. toctree::
+    :maxdepth: 2
+    :caption: AIHealth
+
+    aihealth/index

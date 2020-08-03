@@ -38,14 +38,15 @@ PowerBrick有兩種版本，分別為PowerBrick純電子版和PowerBrick連積�
 ![](./modules/images/01_04.png)
 
 ### 套件內容:
-1. Armourbit擴展板x1
-1. Armourbit電池盒x1
-1. 感應器魔塊套裝x1
-1. 一組防反插連接線x1
-1. 270度舵機x4
-1. 電機x2
-1. 18650鋰電池x1
-2. 積木包x1 (只限HKBK8039B)
+-  Armourbit擴展板x1
+-  Armourbit電池盒x1
+-  感應器魔塊套裝x1
+-  一組防反插連接線x1
+-  270度舵機x4
+-  電機x2
+-  18650鋰電池x1
+-  積木包x1 (只限HKBK8039B)
+-  說明書 x1
 
 ### 魔塊介紹:
 
