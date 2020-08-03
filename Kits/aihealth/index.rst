@@ -1,10 +1,10 @@
 AI衛生防疫套件
 ==========================================
 
-AI衛生防疫套件介紹
+是一套針對衛生與防疫的套件，套件為BBC Microbit而設計。這部分會詳細地介紹AI衛生防疫套件與其內容。
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
 
     aiHealthIntro.md
