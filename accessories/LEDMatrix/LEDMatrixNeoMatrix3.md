@@ -26,7 +26,9 @@ USB供電時，不需要使用Robotbit供電，請將5V電源線拔走。
 
 ![](./LEDMatrix/usbpower.jpg)
 
-## 流光溢彩屏進階編程
+## 流光溢彩屏進階Makecode編程
+
+![](./images/mcbanner.png)
 
 1. 本節教程將會用到robotbit插件，請將插件加載於makecode。
 

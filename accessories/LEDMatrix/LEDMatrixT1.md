@@ -8,9 +8,11 @@
 
 ![](./LEDMatrixT1/ggg.jpg)
 
-## 編程教學
+## Makecode編程教學
 
-加載robotbit擴展
+![](./images/mcbanner.png)
+
+#### 加載robotbit擴展
 
 ![](./LEDMatrixT1/2.png) 
 

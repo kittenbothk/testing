@@ -9,14 +9,15 @@
 ![](./LEDMatrixT1/ggg.jpg)
 
 
-## 編程教學（只限離線版makecode）
+## Makecode編程教學（只限離線版makecode）
+
+![](./images/mcbanner.png)
 
 假如我們想顯示文字或圖形，使用neopixel實在太麻煩了，有見及此kittenbot推出了neomatrix插件，容許圖像化的圖案編輯。
 
 #### (注意，本插件只支援離線版makecode)
-
  
-1.加載neomatrix插件
+### 1.加載neomatrix插件
 
 neomatrix插件: https://github.com/KittenBot/pxt-neomatrix
 
@@ -24,14 +25,14 @@ neomatrix插件: https://github.com/KittenBot/pxt-neomatrix
 
 ![](./LEDMatrixT2/ext.png) 
 
-neomatrix積木塊:
+### neomatrix積木塊:
 
 ![](./LEDMatrixT2/blocks.png)
 
     注意：現階段溢彩屏並不兼容powerbrick！請使用robotbit！
     PowerBrick只支援套件中的全彩點陣屏。
 
-2.點擊NeoMatrix Editor進入編輯器
+### 2.點擊NeoMatrix Editor進入編輯器
 
 ![](./LEDMatrixT2/edit.png)
 
@@ -65,7 +66,7 @@ neomatrix積木塊:
 
 ![](./LEDMatrixT2/editor5.png)
 
-3.編寫程式
+### 3.編寫程式
 
 ![](./LEDMatrixT2/image4144.png)
 

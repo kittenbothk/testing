@@ -6,7 +6,9 @@
 
 本節教程將會教大家手動編寫16x16的流水效果。
 
-## 流光溢彩屏進階編程
+## 流光溢彩屏進階Makecode編程
+
+![](./images/mcbanner.png)
 
 1. 本節教程將會用到neopixel的插件，請將插件加載於makecode。
 
@@ -14,8 +16,7 @@
 
     - [neomatrix編輯器](https://kittenbot.github.io/pxt-neomatrix/index.html)
     
-
-
+    
     請勿加載neomatrix插件！否則將會出現錯誤！
     只需要在瀏覽器打開編輯器即可。
 
@@ -103,6 +104,7 @@
 ![](./LEDMatrixT4/js4.png)
 
     抵銷的數值為燈板闊度並因幀數調節，這裡添加了一幀，所以我們加減15(15x1=15)。
+    
  切換至積木模式，更改動畫重置的臨界點。
 
 ![](./LEDMatrixT4/code4.png)

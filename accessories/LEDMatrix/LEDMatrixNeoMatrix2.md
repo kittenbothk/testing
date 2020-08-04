@@ -24,7 +24,9 @@ USB供電時，不需要使用Robotbit供電，請將5V電源線拔走。
 
 ![](./LEDMatrix/usbpower.jpg)
 
-## 編程教學（只限離線版makecode）
+## Makecode編程教學（只限離線版makecode）
+
+![](./images/mcbanner.png)
 
 假如我們想顯示文字或圖形，使用neopixel實在太麻煩了，有見及此kittenbot推出了neomatrix插件，容許圖像化的圖案編輯。
 
@@ -34,7 +36,7 @@ KittenBot官方離線版Makecode下載：https://www.kittenbot.cn/software
  
 ### 1.加載neomatrix插件
 
-neomatrix插件: https://github.com/KittenBot/pxt-neomatrix
+#### neomatrix插件: https://github.com/KittenBot/pxt-neomatrix
 
 ![](./LEDMatrixT1/2.png) 
 
