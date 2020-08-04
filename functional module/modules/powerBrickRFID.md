@@ -38,6 +38,8 @@ RFID魔塊 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
 ## MakeCode編程教學
 
+![](./images/mcbanner.png)
+
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### RFID魔塊積木塊
@@ -79,6 +81,8 @@ RFID魔塊 (HKBM8012L) + RFID卡片 (HKBM8012M)
 [![](./images/rfidtut.png)](https://www.youtube.com/watch?v=r1B6l7xK7So)
 
 ## KittenBlock編程教學
+
+![](./images/kbbanner.png)
 
 ### 加載PowerBrick插件
 

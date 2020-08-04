@@ -65,7 +65,7 @@ Geekservo舵機 (HKBD9005A)
 
 ## MakeCode編程教學
 
-![](../functional module/modules/images/mcbanner.png)
+![](./images/mcbanner.png)
 
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
@@ -85,7 +85,7 @@ Geekservo舵機 (HKBD9005A)
 
 ## KittenBlock編程教學
 
-![](../functional module/modules/images/kbbanner.png)
+![](./images/kbbanner.png)
 
 ### 加載PowerBrick插件
 

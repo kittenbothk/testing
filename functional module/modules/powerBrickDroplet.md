@@ -23,6 +23,8 @@
 
 ## MakeCode編程教學
 
+![](./images/mcbanner.png)
+
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### 雨滴水位感應器積木塊:
@@ -40,6 +42,8 @@
 [![](./images/envtut.png)](https://www.youtube.com/watch?v=ilXSpFd86DQ)
 
 ## KittenBlock編程教學
+
+![](./images/kbbanner.png)
 
 ### 加載PowerBrick插件
 

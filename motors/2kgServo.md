@@ -20,6 +20,7 @@
 - 接口：橙紅啡線
 
 ## 產品特色：
+
 繼承了GeekServo 9G舵機電機的優點，增強了扭力與速度，改善了結構
 
 - 採用十字沉孔作輸出軸
@@ -61,7 +62,7 @@
     
 ## MakeCode編程教學
 
-![](../functional module/modules/images/mcbanner.png)
+![](./images/mcbanner.png)
 
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
@@ -75,7 +76,7 @@
 
 ## KittenBlock編程教學
 
-![](../functional module/modules/images/kbbanner.png)
+![](./images/kbbanner.png)
 
 ### 加載PowerBrick插件
 

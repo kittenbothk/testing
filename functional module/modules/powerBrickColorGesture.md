@@ -97,11 +97,11 @@ HSV色環可以參考下圖：
 
 ### Makecode教學短片
 
-![](./images/kbbanner.png)
-
 [![](./images/gesturetut.png)](https://www.youtube.com/watch?v=7WrkDYMc2f0)
 
 ## KittenBlock編程教學
+
+![](./images/kbbanner.png)
 
 ### 加載PowerBrick插件
 

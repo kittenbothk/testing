@@ -2,8 +2,6 @@
 
 矩形與圓形追踪在生活中用得比較少，一般用在工業流水線上的視覺分揀與碼垛場景。
 
-
-
 ## 編寫圓形追踪程式
 
 ![](../../modules/images/mcbanner.png)
@@ -20,8 +18,6 @@
 
   ![](KOI07/02-1.png)
 
-
-
 ### 臨界值
 
  ![](KOI07/04-1.png)
@@ -31,9 +27,6 @@
 臨界值越大，干擾越少，但識別難度也會提高。因此需要自己根據場景多做測試。
 
   ![](KOI06/02-1.png)
-
-
-
 
 ## **程式運行流程**
 
@@ -45,57 +38,33 @@
 1. 把Bar Code 放到KOI 鏡頭前, 按下Microbit的按鍵A，進行識別;  Bar Code 數字便會顯示在KOI 的螢幕上。
 2. 把QR Code 放到KOI 鏡頭前, 按下Microbit的按鍵B，進行識別;  QR Code 所含的資訊便會顯示在KOI 的螢幕上。
 
-
-
-
 ## 進階程式
-
 
 為方便讀取圓形資訊, 我們便可考慮多加一塊OLED顯示屏, 以提高資訊的可讀性。
 
 讀取Bar Code 及 QR Code 後可能出現大量資訊, 在KOI 的螢幕上未必有足夠時間閱讀; 此時我們便可考慮多加一塊OLED顯示屏, 以提高資訊的可讀性。
 
-
 ### OLED接線
 
 本例子以Robotbit 示範, 把OLED 屏接到I2C 接口上
 
+![](KOI06/03-1.png)
 
-​      ![](KOI06/03-1.png)
-
- ![](KOI06/03-1.png)
-
-
-
+![](KOI06/03-1.png)
 
 ### 編寫程式
 
 **加入OLED的插件： https://github.com/KittenBot/pxt-oled**
 
-
  ![](KOI07/03-1.png)
 
  ![](KOI06/04-1.png)
 
-
-
-
-
-
 ## 參考程式下載
-
 
 [1. 圓形追踪 Hex](https://bit.ly/KOICircleRegHex)
 
 [2. 圓形追踪, OLED顯示](https://bit.ly/KOICircleRegOLEDHex)
-
-[1. 讀取Bar Code及QR Code Hex](https://bit.ly/KOIQRBarCodeScannerHex)
-
-[2. 讀取Bar Code 及QR Code, OLED顯示](https://bit.ly/KOIBarAndQRCodeReadOLEDHex)
-
-[Bar Code 及 QR Code Sample](https://bit.ly/KOIBarAndQRCodeSample)
-
-
 
 ## FAQ
 
