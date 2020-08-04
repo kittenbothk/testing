@@ -16,7 +16,7 @@
 
 .. toctree::
     :maxdepth: 2
-    :caption: (D類型)
+    :caption: 電機與舵機(D類型)
 
     motors/index
 

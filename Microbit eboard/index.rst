@@ -8,4 +8,4 @@ Microbit擴展板
     :glob:
 
     Robotbitfull
-    Armourbit
+    ../functional module/modules/Armourbit.md

@@ -1,6 +1,6 @@
-Motors D Type
+電機與舵機(D類型)
 ================
-Motors
+Kittenbot各款電機與舵機的資料。
 
 .. toctree::
     :maxdepth: 1

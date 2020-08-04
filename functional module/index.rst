@@ -11,10 +11,9 @@
 
 .. toctree::
     :maxdepth: 1
-    :caption: 魔塊
+    :caption: KittenBot魔塊
 
     modules/index
-
 
 .. toctree::
     :maxdepth: 1
