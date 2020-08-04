@@ -15,6 +15,12 @@
     functional module/index
 
 .. toctree::
+    :maxdepth: 2
+    :caption: (D類型)
+
+    motors/index
+
+.. toctree::
     :maxdepth: 3
     :caption: 套件產品(K類型)
 

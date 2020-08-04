@@ -1,4 +1,4 @@
-﻿各種功能配件配件 (M類型)
+﻿各種功能配件 (M類型)
 ====================
 
 支援Microbit之各種配件介紹及詳細資訊
@@ -7,8 +7,14 @@
     :maxdepth: 1
     :caption: Wifibrick與IoT方案
 
-
     Wifibrick/index
+
+.. toctree::
+    :maxdepth: 1
+    :caption: 魔塊
+
+    modules/index
+
 
 .. toctree::
     :maxdepth: 1

@@ -2,7 +2,7 @@
 
 2KG電機 (HKBD8009A)
 
-![](./images/.png)
+![](./images/2kg_1.jpg)
 
 這是一款兼容樂高插孔的高扭力的電機，相對於9g電機，在同等供電下具有更高轉速。輸出軸為兩組樂高十字孔，主要用在驅動動力機械。
 
@@ -17,6 +17,20 @@
 - 最高轉速：45rpm(3V供電情况下)
 - 重量：20g
 - 接口：紅黑線
+
+## 產品特色：
+
+繼承了GeekServo 9G舵機電機的優點，增強了扭力與速度，改善了結構
+
+- 採用十字沉孔作輸出軸
+    - 可以因使用情況自由插入不得了長度的十字軸
+
+- 轉動角度更大
+    - 舵機控制範圍為0至360度
+
+- 扭力更大
+    - 扭力為GeekServo 9G的三倍左右
+
 
 ## 規格尺寸
 
@@ -34,17 +48,25 @@
 - 高度：24mm
 - 輸出軸：樂高十字軸
 
+![](./images/0111.png)
+
+## 接線方法
+
+![](./images/2kmotorCon.jpg)
+
+    沒有嚴格正負極之分，插的方向只會影響電機轉動方向。
+
 ## MakeCode編程教學
 
 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### 電機積木塊:
 
-![](./images/motorblocks.png)
+![](./images/2kmotorblocks.png)
 
 ### 電機編程
 
-![](./images/motorcode.png)
+![](./images/2kmotorcode.png)
 
 ## KittenBlock編程教學
 
@@ -58,11 +80,11 @@
 
 ### 電機積木塊
 
-![](./images/kbmotorblocks.png)
+![](./images/2kkbmotorblocks.png)
 
 ### 電機編程
 
-![](./images/kbmotor.png)
+![](./images/2kkbmotor.png)
 
 [參考程式下載](https://bit.ly/PowerbrickM12_01sb3)
 

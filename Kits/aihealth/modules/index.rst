@@ -6,11 +6,11 @@ AI衛生防疫套件魔塊教學
 .. toctree::
     :maxdepth: 1
 
-    ../../kittenblock10in1/modules/Armourbit.md
-    ../../kittenblock10in1/modules/PowerBank.md
-    infratemp.md
-    2kgServo.md
-    2kgMotor.md
-    waterTank.md
-    ../../kittenblock10in1/modules/RGB.md
+    ../../../functional module/modules/Armourbit.md
+    ../../../functional module/modules/powerBrickPowerBank.md
+    ../../../functional module/modules/infratemp.md
+    ../../../motors/2kgServo.md
+    ../../../motors/2kgMotor.md
+    ../../../functional module/modules/waterTank.md
+    ../../../functional module/modules/RGB.md
     ../../../functional module/AI Cam/intro.md

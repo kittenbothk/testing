@@ -2,7 +2,7 @@
 
 2KG舵機 (HKBD8008A)
 
-![](./images/.png)
+![](./images/2kg_1.jpg)
 
 這是一款兼容樂高插孔的高扭力的舵機，相對於9g舵機，在同等供電下具有更高扭力。輸出軸為兩組樂高十字孔，主要用在需求精細控制的結構上。
 
@@ -18,6 +18,20 @@
 - 角度範圍：0°~360°
 - 重量：20g
 - 接口：橙紅啡線
+
+## 產品特色：
+繼承了GeekServo 9G舵機電機的優點，增強了扭力與速度，改善了結構
+
+- 採用十字沉孔作輸出軸
+    - 可以因使用情況自由插入不得了長度的十字軸
+- 雙邊輸出
+    - 左右均有輸出軸
+
+- 轉動角度更大
+    - 舵機控制範圍為0至360度
+
+- 扭力更大
+    - 扭力為GeekServo 9G的三倍左右
 
 ## 規格尺寸
 
@@ -35,7 +49,11 @@
 - 高度：24mm
 - 輸出軸：樂高十字軸
 
+![](./images/0111.png)
+
 ## 接線方法
+
+![](./images/2kservoCon.jpg)
 
     啡色接負極，紅色接正極，橙色接數據
     
@@ -45,11 +63,11 @@
 
 ### 舵機積木塊:
 
-![](./images/servoblocks.png)
+![](./images/2kservoblocks.png)
 
 ### 舵機編程
 
-![](./images/servocode.png)
+![](./images/2kservocode.png)
 
 ## KittenBlock編程教學
 
@@ -63,11 +81,11 @@
 
 ### 舵機積木塊
 
-![](./images/kbservoblocks.png)
+![](./images/2kkbservoblocks.png)
 
 ### 舵機編程
 
-![](./images/kbservo.png)
+![](./images/2kkbservo.png)
 
 [參考程式下載](https://bit.ly/PowerbrickM12_01sb3)
 

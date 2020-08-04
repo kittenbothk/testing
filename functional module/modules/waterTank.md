@@ -2,7 +2,7 @@
 
 All in 1水箱連水泵組合 (HKBM8015A)
 
-![](./images/.png)
+![](./images/image--010.png)
 
 內置浸入式水泵一體化水箱，簡潔方便；水箱頂蓋和底部兼容樂高顆粒件，適合用作智能灌溉、自動洗手機等。
 
@@ -17,6 +17,12 @@ All in 1水箱連水泵組合 (HKBM8015A)
 - 膠管長度：60cm
 - 接口：紅黑線
 
+## 接線方法
+
+![](./images/pumpCon.jpg)
+
+    沒有嚴格正負極之分，插的方向只會影響電機轉動方向。
+
 ## MakeCode編程教學
 
 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
@@ -27,7 +33,7 @@ All in 1水箱連水泵組合 (HKBM8015A)
 
 ### 電機編程
 
-![](./images/motorcode.png)
+![](./images/motor.png)
 
 ## KittenBlock編程教學
 
