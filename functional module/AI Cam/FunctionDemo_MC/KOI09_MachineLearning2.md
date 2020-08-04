@@ -15,6 +15,9 @@
 
 
 ## 編寫模型訓練程式
+
+![](../../modules/images/mcbanner.png)
+
 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
 按鍵積木塊：

@@ -10,6 +10,8 @@
 
 ## 編寫線條追蹤程式
 
+![](../../modules/images/mcbanner.png)
+
 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
 

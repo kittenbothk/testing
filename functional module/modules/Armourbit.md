@@ -66,9 +66,11 @@ Makecode Online：https://makecode.microbit.org/
 ![](./images/IMG_2568.GIF)
 
 
-## 编程介绍
+## MakeCode編程教學
 
-### 點陣屏编程
+![](./images/mcbanner.png)
+
+### 點陣屏編程
 
 與Microbit操作一樣
 

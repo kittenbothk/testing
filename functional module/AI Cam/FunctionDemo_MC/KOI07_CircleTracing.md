@@ -6,30 +6,15 @@
 
 ## 編寫圓形追踪程式
 
-·    條碼 (Bar Code) 廣泛用於我們生活中，例如產品的識別標籤。
+![](../../modules/images/mcbanner.png)
 
-·    二維碼(QR Code)用於支付場景或者社交場景。
-
-
-
-## 編寫Bar Code及QR Code讀取程式
-
-
-**加載KOI插件：https://github.com/KittenBot/pxt-koi**
-
-
+加載KOI插件：https://github.com/KittenBot/pxt-koi
 
 按鍵積木塊：
 
-
-
-
-​             ![](KOI07/01-1.png)
+ ![](KOI07/01-1.png)
 
  ![](KOI06/01.png)
-
-
-
 
 完整參考程式：
 

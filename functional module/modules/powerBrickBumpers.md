@@ -27,7 +27,9 @@ AB按鍵模組 (HKBM8012C)
 
 ## MakeCode編程教學
 
-加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+![](./images/mcbanner.png)
+
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### AB按鍵模組積木塊:
 
@@ -41,9 +43,12 @@ AB按鍵模組 (HKBM8012C)
 
 ### Makecode教學短片
 
+
 [![](./images/bumpertut.png)](https://youtu.be/BT1TUlmbMm8?t=370)
 
 ## KittenBlock編程教學
+
+![](./images/kbbanner.png)
 
 ### 加載PowerBrick插件
 

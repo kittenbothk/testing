@@ -36,7 +36,9 @@
 
 ## MakeCode編程教學
 
-加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+![](./images/mcbanner.png)
+
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### 超聲波聲音魔塊積木塊:
 
@@ -59,6 +61,8 @@
 [![](./kbimages/ultrasoundtut.png)](https://www.youtube.com/watch?v=Jwj449zjnYE)
 
 ## KittenBlock編程教學
+
+![](./images/kbbanner.png)
 
 ### 加載PowerBrick插件
 

@@ -10,7 +10,9 @@ KOI上自帶兩個AB側按鍵與一個Reset按鍵。
 
 ## 編寫A,B按鍵程式
 
-**加載KOI插件：https://github.com/KittenBot/pxt-koi**
+![](../../modules/images/mcbanner.png)
+
+加載KOI插件：https://github.com/KittenBot/pxt-koi
 
 [詳細方法](https://kittenbothk.readthedocs.io/en/latest/functional%20module/AI%20Cam/makecodeQs.html)
 

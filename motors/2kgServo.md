@@ -53,13 +53,17 @@
 
 ## 接線方法
 
+將舵機的橙紅啡線連接至Armourbit背部的舵機接口。
+
 ![](./images/2kservoCon.jpg)
 
     啡色接負極，紅色接正極，橙色接數據
     
 ## MakeCode編程教學
 
-加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+![](../functional module/modules/images/mcbanner.png)
+
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### 舵機積木塊:
 
@@ -70,6 +74,8 @@
 ![](./images/2kservocode.png)
 
 ## KittenBlock編程教學
+
+![](../functional module/modules/images/kbbanner.png)
 
 ### 加載PowerBrick插件
 

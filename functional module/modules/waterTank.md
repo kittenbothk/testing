@@ -19,13 +19,17 @@ All in 1水箱連水泵組合 (HKBM8015A)
 
 ## 接線方法
 
+將電機的紅黑線連接至Armourbit底部的電機接口。
+
 ![](./images/pumpCon.jpg)
 
     沒有嚴格正負極之分，插的方向只會影響電機轉動方向。
 
 ## MakeCode編程教學
 
-加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+![](./images/mcbanner.png)
+
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### 電機積木塊:
 
@@ -36,6 +40,8 @@ All in 1水箱連水泵組合 (HKBM8015A)
 ![](./images/motor.png)
 
 ## KittenBlock編程教學
+
+![](./images/kbbanner.png)
 
 ### 加載PowerBrick插件
 

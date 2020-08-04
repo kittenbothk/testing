@@ -45,13 +45,13 @@ Geekservo電機 (HKBD9006A)
 ## Geekservo特色
 
 - 極力子過載保護:
-遇到輸出軸被暴力扭擰會啟動極力子進行跳齒保護，發出「噠噠噠」的聲音。不會損毀齒輪。
+    - 遇到輸出軸被暴力扭擰會啟動極力子進行跳齒保護，發出「噠噠噠」的聲音。不會損毀齒輪。
 
 - 安裝方式靈活:
-支援樂高標準磚和Technic插孔，輸出軸亦是樂高標準十字軸。
+    - 支援樂高標準磚和Technic插孔，輸出軸亦是樂高標準十字軸。
 
 - 輕盈小巧:
-方便製作各種小型機械。
+    - 方便製作各種小型機械。
 
 ## 接線方法
 
@@ -63,7 +63,9 @@ Geekservo電機 (HKBD9006A)
 
 ## MakeCode編程教學
 
-加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+![](../functional module/modules/images/mcbanner.png)
+
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### 電機積木塊:
 
@@ -80,6 +82,8 @@ Geekservo電機 (HKBD9006A)
 [![](./images/geekservotut.png)](https://www.youtube.com/watch?v=gUR2DbgVTCQ)
 
 ## KittenBlock編程教學
+
+![](../functional module/modules/images/kbbanner.png)
 
 ### 加載PowerBrick插件
 

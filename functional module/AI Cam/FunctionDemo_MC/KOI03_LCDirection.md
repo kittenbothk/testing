@@ -4,11 +4,13 @@ KOI有個優勢，可以旋轉攝像頭，旋轉範圍0~180°。但螢幕是不�
 
 
 
-## 编寫顯示資訊程式
+## 编寫方向設定程式
 
-**加載KOI插件：https://github.com/KittenBot/pxt-koi**
+![](../../modules/images/mcbanner.png)
 
+加載KOI插件：https://github.com/KittenBot/pxt-koi
 
+[詳細方法](https://kittenbothk.readthedocs.io/en/latest/functional%20module/AI%20Cam/makecodeQs.html)
 
 按鍵積木塊：
 

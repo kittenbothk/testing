@@ -14,6 +14,8 @@ MakeCode離線版: https://www.kittenbot.cn/software
 
 ## PowerBrick在MakeCode上編程
 
+![](./images/mcbanner.png)
+
 首先進入MakeCode，建立新專案。
 
 ![](./images/02_01.png)

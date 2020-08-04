@@ -50,7 +50,9 @@
 
 ## MakeCode編程教學
 
-加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+![](./images/mcbanner.png)
+
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### 顏色手勢魔塊積木塊:
 
@@ -94,6 +96,8 @@ HSV色環可以參考下圖：
 [參考程式下載](https://bit.ly/PowerbrickM7_05Hex)
 
 ### Makecode教學短片
+
+![](./images/kbbanner.png)
 
 [![](./images/gesturetut.png)](https://www.youtube.com/watch?v=7WrkDYMc2f0)
 

@@ -23,7 +23,7 @@
 
 ## MakeCode編程教學
 
-加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### 雨滴水位感應器積木塊:
 

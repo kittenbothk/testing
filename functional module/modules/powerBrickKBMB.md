@@ -4,6 +4,8 @@
 
 ## 加載PowerBrick插件
 
+![](./images/kbbanner.png)
+
 離線版與在線版同樣操作。
 
 在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
@@ -12,7 +14,7 @@
 
 ## 建立連接
 
-在Microbit的積木欄中按下感嘆號（！）按鈕。
+在Microbit的積木欄中按下感嘆號 ( ! ) 按鈕。
 
 ![](./kbimages/kbmbcon.png)
 
@@ -45,6 +47,8 @@
 在Kittenblock平台上也可以將程式上載到MicroBit，不用永遠連着電腦使用。
 
 按下上方的升級韌體，等待數秒完成即可。
+
+    暫時升級韌體只支援Microbit程式，未支援PowerBrick程式。
 
 ![](./kbimages/upload.png)
 

@@ -16,9 +16,11 @@ KOI上自帶收音咪和喇叭，可以實現錄音與播放的功能。同時�
 
 ## 编寫錄音與播放程式
 
-**加載KOI插件：https://github.com/KittenBot/pxt-koi**
+![](../../modules/images/mcbanner.png)
 
+加載KOI插件：https://github.com/KittenBot/pxt-koi
 
+[詳細方法](https://kittenbothk.readthedocs.io/en/latest/functional%20module/AI%20Cam/makecodeQs.html)
 
 按鍵積木塊：
 

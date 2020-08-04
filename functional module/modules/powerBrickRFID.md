@@ -38,7 +38,7 @@ RFID魔塊 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
 ## MakeCode編程教學
 
-加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### RFID魔塊積木塊
 

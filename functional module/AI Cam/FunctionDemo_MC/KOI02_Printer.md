@@ -6,9 +6,11 @@
 
 ## 编寫顯示資訊程式
 
-**加載KOI插件：https://github.com/KittenBot/pxt-koi**
+![](../../modules/images/mcbanner.png)
 
+加載KOI插件：https://github.com/KittenBot/pxt-koi
 
+[詳細方法](https://kittenbothk.readthedocs.io/en/latest/functional%20module/AI%20Cam/makecodeQs.html)
 
 ![](KOI02/01.png)
 

@@ -52,13 +52,17 @@
 
 ## 接線方法
 
+將電機的紅黑線連接至Armourbit底部的電機接口。
+
 ![](./images/2kmotorCon.jpg)
 
     沒有嚴格正負極之分，插的方向只會影響電機轉動方向。
 
 ## MakeCode編程教學
 
-加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+![](../functional module/modules/images/mcbanner.png)
+
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### 電機積木塊:
 
@@ -69,6 +73,8 @@
 ![](./images/2kmotorcode.png)
 
 ## KittenBlock編程教學
+
+![](../functional module/modules/images/kbbanner.png)
 
 ### 加載PowerBrick插件
 

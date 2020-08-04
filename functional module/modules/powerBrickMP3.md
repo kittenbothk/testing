@@ -36,7 +36,9 @@ MP3魔塊 (HKBM8012E)
 
 ## MakeCode編程教學
 
-加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+![](./images/mcbanner.png)
+
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### MP3魔塊積木塊
 
@@ -67,6 +69,8 @@ MP3魔塊 (HKBM8012E)
 [![](./images/mp3tut.png)](https://www.youtube.com/watch?v=h2XQ463V5CE)
 
 ## KittenBlock編程教學
+
+![](./images/kbbanner.png)
 
 ### 加載PowerBrick插件
 

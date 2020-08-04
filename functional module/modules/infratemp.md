@@ -15,11 +15,15 @@
 
 ## 接線教學
 
+將紅外線測溫魔塊用4pin排線連接至Armourbit的I2C接口。
+
 ![](./images/infraCon.jpg)
 
 ## MakeCode編程教學
 
-加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+![](./images/mcbanner.png)
+
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### 紅外線測溫積木塊：
 

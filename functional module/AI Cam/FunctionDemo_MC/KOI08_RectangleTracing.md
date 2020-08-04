@@ -1,12 +1,14 @@
 # **方形追踪**
 
-方形與圓形追踪在生活中用得比較少，一般用在工業流水線上的視覺分揀與碼垛場景。
+方形與圓形追踪在生活中用得比較少，一般用在工業流水線上的視覺分揀。
 
 
 
 ## 編寫方形追踪程式
 
-**加載KOI插件：https://github.com/KittenBot/pxt-koi**
+![](../../modules/images/mcbanner.png)
+
+加載KOI插件：https://github.com/KittenBot/pxt-koi
 
 
 

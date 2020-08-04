@@ -31,7 +31,9 @@
 
 ## MakeCode編程教學
 
-加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+![](./images/mcbanner.png)
+
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### 巡線魔塊積木塊:
 
@@ -50,6 +52,8 @@
 [![](./images/irtut.png)](https://www.youtube.com/watch?v=BT1TUlmbMm8)
 
 ## KittenBlock編程教學
+
+![](./images/kbbanner.png)
 
 ### 加載PowerBrick插件
 

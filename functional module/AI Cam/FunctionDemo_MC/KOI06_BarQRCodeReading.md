@@ -8,7 +8,9 @@
 
 ## 編寫Bar Code及QR Code讀取程式
 
-**加載KOI插件：https://github.com/KittenBot/pxt-koi**
+![](../../modules/images/mcbanner.png)
+
+加載KOI插件：https://github.com/KittenBot/pxt-koi
 
 
 
