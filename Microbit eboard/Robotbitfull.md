@@ -83,6 +83,8 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 ### Microsoft MakeCode
 
+![](../functional module/modules/images/mcbanner.png)
+
 ### ![](./image/04_1.png)
 
 
@@ -95,7 +97,9 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
  
 
-### KittenBlock（Kittenbot 圖形化編程軟件 基於Scratch 3.0） 
+### KittenBlock（Kittenbot 圖形化編程軟件 基於Scratch 3.0）
+
+![](../functional module/modules/images/kbbanner.png) 
 
 [下截Kittenblock](https://www.kittenbot.cn/kittenblock)
 

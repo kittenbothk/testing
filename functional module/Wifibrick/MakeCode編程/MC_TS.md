@@ -2,6 +2,8 @@
 
 # Makecode 編程與Thinkspeak
 
+![](../../modules/images/mcbanner.png)
+
 ## 前言
 
 當硬件及IoT平台準備就緒, 我們便可開始為Micro:bit 編程。
