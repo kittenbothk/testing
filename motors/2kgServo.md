@@ -74,6 +74,8 @@
 
 ![](./images/2kservocode.png)
 
+[參考程式下載](https://bit.ly/PowerbrickM10_01Hex)
+
 ## KittenBlock編程教學
 
 ![](./images/kbbanner.png)

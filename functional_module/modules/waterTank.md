@@ -37,7 +37,9 @@ All in 1水箱連水泵組合 (HKBM8015A)
 
 ### 電機編程
 
-![](./images/motor.png)
+![](./images/pumpcode.png)
+
+[參考程式下載](https://bit.ly/PowerbrickM10_01Hex)
 
 ## KittenBlock編程教學
 
@@ -53,11 +55,11 @@ All in 1水箱連水泵組合 (HKBM8015A)
 
 ### 電機積木塊
 
-![](./images/kbmotorblocks.png)
+![](./kbimages/kbmotorblocks.png)
 
 ### 電機編程
 
-![](./images/kbmotor.png)
+![](./kbimages/kbpumpcode.png)
 
 [參考程式下載](https://bit.ly/PowerbrickM12_01sb3)
 
