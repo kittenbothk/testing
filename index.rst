@@ -21,7 +21,7 @@
     motors/index
 
 .. toctree::
-    :maxdepth: 3
+    :maxdepth: 2
     :caption: 套件產品(K類型)
 
     Kits/index
