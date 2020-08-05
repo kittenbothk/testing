@@ -6,13 +6,13 @@
     :maxdepth: 2
     :caption: Micro:bit擴展板說明及入門教程
     
-    Microbit eboard/index
+    Microbit_eboard/index
 
 .. toctree::
     :maxdepth: 2
     :caption: 功能配件(M類型)
 
-    functional module/index
+    functional_module/index
 
 .. toctree::
     :maxdepth: 2
