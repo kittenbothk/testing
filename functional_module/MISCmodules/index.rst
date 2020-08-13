@@ -6,6 +6,7 @@
 .. toctree::
     :maxdepth: 1
 
+    ../PWmodules/powerBrickMC.md
     infratemp.md
     waterTank.md
     Wifibrick/index

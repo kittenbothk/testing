@@ -5,6 +5,12 @@
 
 .. toctree::
     :maxdepth: 1
+    :caption: KittenBot魔塊與MakeCode
+
+    codingPlatform/index
+
+.. toctree::
+    :maxdepth: 1
     :caption: Powerbrick魔塊
 
     PWmodules/index

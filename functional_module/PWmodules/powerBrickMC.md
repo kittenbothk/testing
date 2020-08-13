@@ -1,4 +1,4 @@
-# PowerBrick魔塊與MakeCode
+# KittenBot魔塊與MakeCode
 
 ![](./images/RE25mkU.png)
 
@@ -28,7 +28,7 @@ MakeCode離線版: https://www.kittenbot.cn/software
 
 複製以下地址，在搜尋欄貼上並搜尋。
 
-https://github.com/KittenBot/pxt-powerbrick
+### https://github.com/KittenBot/pxt-powerbrick
 
 ![](./images/02_02.png)
 
