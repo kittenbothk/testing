@@ -6,17 +6,17 @@ PowerBrick魔塊教學
 .. toctree::
     :maxdepth: 1
 
-    ../../../functional_module/modules/Armourbit.md
-    ../../../functional_module/modules/powerBrickPowerBank.md
-    ../../../functional_module/modules/powerBrickEnvironment.md
-    ../../../functional_module/modules/powerBrickSoil.md
-    ../../../functional_module/modules/powerBrickDroplet.md
-    ../../../functional_module/modules/powerBrickUltraSound.md
-    ../../../functional_module/modules/powerBrickLineTrace.md
-    ../../../functional_module/modules/powerBrickBumpers.md
-    ../../../functional_module/modules/powerBrickColorGesture.md
-    ../../../functional_module/modules/powerBrickRFID.md
-    ../../../functional_module/modules/powerBrickRGB.md
-    ../../../functional_module/modules/powerBrickMP3.md
+    ../../../functional_module/PWmodules/Armourbit.md
+    ../../../functional_module/PWmodules/powerBrickPowerBank.md
+    ../../../functional_module/PWmodules/powerBrickEnvironment.md
+    ../../../functional_module/PWmodules/powerBrickSoil.md
+    ../../../functional_module/PWmodules/powerBrickDroplet.md
+    ../../../functional_module/PWmodules/powerBrickUltraSound.md
+    ../../../functional_module/PWmodules/powerBrickLineTrace.md
+    ../../../functional_module/PWmodules/powerBrickBumpers.md
+    ../../../functional_module/PWmodules/powerBrickColorGesture.md
+    ../../../functional_module/PWmodules/powerBrickRFID.md
+    ../../../functional_module/PWmodules/powerBrickRGB.md
+    ../../../functional_module/PWmodules/powerBrickMP3.md
     ../../../motors/powerBrickMotor.md
     ../../../motors/powerBrickServo.md

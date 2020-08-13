@@ -5,15 +5,15 @@
 
 .. toctree::
     :maxdepth: 1
-    :caption: Wifibrick與IoT方案
-
-    Wifibrick/index
-
-.. toctree::
-    :maxdepth: 1
     :caption: Powerbrick魔塊
 
     PWmodules/index
+
+.. toctree::
+    :maxdepth: 1
+    :caption: 其他魔塊
+
+    MISCmodules/index
 
 .. toctree::
     :maxdepth: 1

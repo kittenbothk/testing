@@ -14,7 +14,7 @@ KittenBlock是KittenBot的自家編程平台，有在線版和離線版兩種版
 
 下載之後解壓運行，防火牆有機會阻擋運行，請允許運行。
 
-![](./images/online01.png)
+![](../functional_module/PWmodules/images/online01.png)
 
 首次運行時需要：
 
