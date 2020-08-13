@@ -6,9 +6,6 @@ PowerBrick魔塊教學
 .. toctree::
     :maxdepth: 1
 
-    ../../../functional_module/modules/powerBrickMC.md
-    ../../../functional_module/modules/powerBrickKB.md
-    ../../../functional_module/modules/powerBrickKBMB.md
     ../../../functional_module/modules/Armourbit.md
     ../../../functional_module/modules/powerBrickPowerBank.md
     ../../../functional_module/modules/powerBrickEnvironment.md

@@ -4,43 +4,43 @@
 
 ## 加載PowerBrick插件
 
-![](./images/kbbanner.png)
+![](../functional_module/PWmodules/images/kbbanner.png)
 
 離線版與在線版同樣操作。
 
 在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
 
-![](./kbimages/addextension.png)
+![](../functional_module/PWmodules/kbimages/addextension.png)
 
 ## 建立連接
 
 在Microbit的積木欄中按下感嘆號 ( ! ) 按鈕。
 
-![](./kbimages/kbmbcon.png)
+![](../functional_module/PWmodules/kbimages/kbmbcon.png)
 
 將Microbit用USB線連接到電腦，然後點選『開始連線』。
 
-![](./kbimages/kbmbcon1.png)
+![](../functional_module/PWmodules/kbimages/kbmbcon1.png)
 
 連接完成！
 
-![](./kbimages/kbmbcon2.png)
+![](../functional_module/PWmodules/kbimages/kbmbcon2.png)
 
 成功連接後，MicroBit會顯示心形。
 
-![](./kbimages/03_08.png)
+![](../functional_module/PWmodules/kbimages/03_08.png)
 
 假如沒有顯示心形，可以按下升級韌體。
 
-![](./kbimages/upload.png)
+![](../functional_module/PWmodules/kbimages/upload.png)
 
 ## 連接測試
 
 任意拖曳Microbit的積木，按下積木，Microbit應該會即時有反應。
 
-![](./kbimages/03_09.png)
+![](../functional_module/PWmodules/kbimages/03_09.png)
 
-![](./kbimages/03_12.png)
+![](../functional_module/PWmodules/kbimages/03_12.png)
 
 ## 上載程式
 
@@ -50,7 +50,7 @@
 
     暫時升級韌體只支援Microbit程式，未支援PowerBrick程式。
 
-![](./kbimages/upload.png)
+![](../functional_module/PWmodules/kbimages/upload.png)
 
 ## FAQ
 

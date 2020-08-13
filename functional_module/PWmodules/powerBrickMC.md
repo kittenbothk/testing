@@ -1,4 +1,4 @@
-# PowerBrick與MakeCode
+# PowerBrick魔塊與MakeCode
 
 ![](./images/RE25mkU.png)
 

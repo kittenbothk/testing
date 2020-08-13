@@ -10,6 +10,12 @@
 
 .. toctree::
     :maxdepth: 2
+    :caption: KittenBlock使用方法
+
+    KittenBlock/index
+
+.. toctree::
+    :maxdepth: 2
     :caption: 功能配件(M類型)
 
     functional_module/index

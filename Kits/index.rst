@@ -7,7 +7,7 @@
     :maxdepth: 2
     :caption: PowerBrick AllInOne
 
-    kittenblock10in1/index
+    PowerBrick10in1/index
 
 .. toctree::
     :maxdepth: 2

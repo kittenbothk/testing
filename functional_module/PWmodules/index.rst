@@ -1,14 +1,11 @@
-KittenBot魔塊教學
+PowerBrick魔塊教學
 ==========================================
 
-這裡合集了KittenBot不同魔塊的教程。
+這裡合集了PowerBrick魔塊的教程。
 
 .. toctree::
     :maxdepth: 1
 
-    powerBrickMC.md
-    powerBrickKB.md
-    powerBrickKBMB.md
     Armourbit.md
     powerBrickPowerBank.md
     powerBrickEnvironment.md
@@ -21,5 +18,3 @@ KittenBot魔塊教學
     powerBrickRFID.md
     powerBrickRGB.md
     powerBrickMP3.md
-    infratemp.md
-    waterTank.md

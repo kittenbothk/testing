@@ -2,7 +2,7 @@
 
 All in 1水箱連水泵組合 (HKBM8015A)
 
-![](./images/image--010.png)
+![](../PWmodules/images/image--010.png)
 
 內置浸入式水泵一體化水箱，簡潔方便；水箱頂蓋和底部兼容樂高顆粒件，適合用作智能灌溉、自動洗手機等。
 
@@ -21,29 +21,29 @@ All in 1水箱連水泵組合 (HKBM8015A)
 
 將電機的紅黑線連接至Armourbit底部的電機接口。
 
-![](./images/pumpCon.jpg)
+![](../PWmodules/images/pumpCon.jpg)
 
     沒有嚴格正負極之分，插的方向只會影響電機轉動方向。
 
 ## MakeCode編程教學
 
-![](./images/mcbanner.png)
+![](../PWmodules/images/mcbanner.png)
 
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### 電機積木塊:
 
-![](./images/motorblocks.png)
+![](../PWmodules/images/motorblocks.png)
 
 ### 電機編程
 
-![](./images/pumpcode.png)
+![](../PWmodules/images/pumpcode.png)
 
 [參考程式下載](https://bit.ly/PowerbrickM10_01Hex)
 
 ## KittenBlock編程教學
 
-![](./images/kbbanner.png)
+![](../PWmodules/images/kbbanner.png)
 
 ### 加載PowerBrick插件
 
@@ -51,15 +51,15 @@ All in 1水箱連水泵組合 (HKBM8015A)
 
 在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
 
-![](./images/addextension.png)
+![](../PWmodules/images/addextension.png)
 
 ### 電機積木塊
 
-![](./kbimages/kbmotorblocks.png)
+![](../PWmodules/kbimages/kbmotorblocks.png)
 
 ### 電機編程
 
-![](./kbimages/kbpumpcode.png)
+![](../PWmodules/kbimages/kbpumpcode.png)
 
 [參考程式下載](https://bit.ly/PowerbrickM12_01sb3)
 

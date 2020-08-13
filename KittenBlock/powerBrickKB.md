@@ -10,7 +10,7 @@ KittenBlock是KittenBot的自家編程平台，有在線版和離線版兩種版
 
 選擇下載Windows或Mac版本。
 
-![](./kbimages/klinkwinormac.png)
+![](../functional_module/PWmodules/kbimages/klinkwinormac.png)
 
 下載之後解壓運行，防火牆有機會阻擋運行，請允許運行。
 
@@ -23,7 +23,7 @@ KittenBlock是KittenBot的自家編程平台，有在線版和離線版兩種版
 
 如圖所見，更新Klink和插件需要等待一段時間。
 
-![](./images/online02.png)
+![](../functional_module/PWmodules/images/online02.png)
 
 完成後就可以點啟動kittenblock，自動開啟瀏覽器前往線上版KittenBlock。
 
@@ -31,7 +31,7 @@ KittenBlock是KittenBot的自家編程平台，有在線版和離線版兩種版
     
 完成！點左下方的藍色按鈕來加載各種插件（例如PowerBrick）。
 
-![](./images/online03.png)
+![](../functional_module/PWmodules/images/online03.png)
 
 ## Kittenblock離線版
 
@@ -39,31 +39,31 @@ KittenBlock是KittenBot的自家編程平台，有在線版和離線版兩種版
 
 到瀏覽器前往 http://www.kittenbot.cn ，點選軟件，下載KittenBlock。
 
-![](./kbimages/an01.png)
+![](../functional_module/PWmodules/kbimages/an01.png)
 
 選擇下載Windows或Mac版本。
 
-![](./kbimages/winormac.png)
+![](../functional_module/PWmodules/kbimages/winormac.png)
 
 ### 雙擊安裝
 
 下載後雙擊圖示安裝
 
-![](./kbimages/an03.png)
+![](../functional_module/PWmodules/kbimages/an03.png)
 
 假如安裝時有防毒軟件，或者系統提示不安全，請安心允許安裝。
 
-![](./kbimages/an04.png)
+![](../functional_module/PWmodules/kbimages/an04.png)
 
 選擇安裝目錄，請盡量選擇英文名字目錄，否則可能會出錯。
 
-![](./kbimages/an05.png)
+![](../functional_module/PWmodules/kbimages/an05.png)
 
 ### 安裝完成
 
 打開應用程式
 
-![](./kbimages/an06.png)
+![](../functional_module/PWmodules/kbimages/an06.png)
 
 ## 安裝應用程式後，還要安裝驅動
 
@@ -71,7 +71,7 @@ KittenBlock是KittenBot的自家編程平台，有在線版和離線版兩種版
 
 安裝過程大約需要數分鐘。
 
-![](./kbimages/an08.png)
+![](../functional_module/PWmodules/kbimages/an08.png)
 
     MacOS只需安裝CH340。
     

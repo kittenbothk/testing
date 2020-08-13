@@ -11,9 +11,9 @@
 
 .. toctree::
     :maxdepth: 1
-    :caption: KittenBot魔塊
+    :caption: Powerbrick魔塊
 
-    modules/index
+    PWmodules/index
 
 .. toctree::
     :maxdepth: 1
