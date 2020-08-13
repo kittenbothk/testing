@@ -5,6 +5,12 @@
 
 .. toctree::
     :maxdepth: 2
+    :caption: Kittenbot套件編程平台教學
+
+    functional_module/codingPlatform/index
+
+.. toctree::
+    :maxdepth: 2
     :caption: PowerBrick AllInOne
 
     PowerBrick10in1/index
@@ -14,3 +20,5 @@
     :caption: AIHealth
 
     aihealth/index
+
+
