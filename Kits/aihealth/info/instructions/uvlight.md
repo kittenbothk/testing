@@ -6,7 +6,7 @@
 
 ## 教材資源包下載
 
-包括說明書： [資源包下載地址]()
+包括說明書： [資源包下載地址](https://bit.ly/AIHealthCareSetBuildingGuide)
 
 ## 參考接線
 
@@ -14,7 +14,7 @@
 
 ## 參考程式
 
-[參考程式資源包下載地址]()
+[參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
 
 ![](./images/uvlightcode.png)
 

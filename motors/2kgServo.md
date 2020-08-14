@@ -76,7 +76,7 @@
 
 ![](./images/2kservocode.png)
 
-[參考程式下載](https://bit.ly/PowerbrickM10_01Hex)
+[參考程式下載](https://bit.ly/M132kgGeekServoSampleCode)
 
 ## KittenBlock編程教學
 

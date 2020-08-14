@@ -35,10 +35,10 @@
 
 ![](../PWmodules/images/infratempcode.png)
 
-[參考程式下載](https://bit.ly/PowerbrickM10_01Hex)
+[參考程式下載](https://bit.ly/ContactlessIRSampleHex)
 
 #### LED編程：
 
 ![](../PWmodules/images/infraLEDcode.png)
 
-[參考程式下載](https://bit.ly/PowerbrickM10_01Hex)
+

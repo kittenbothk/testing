@@ -1,49 +1,18 @@
 # KittenBlock快速開始
 
-KittenBlock是KittenBot的自家編程平台，有在線版和離線版兩種版本。
+KittenBlock是KittenBot的自家編程平台。
 
-## KittenBlock在線版
-
-### 先下載klink
-
-在瀏覽器前往 https://www.kittenbot.cn/kittenblock_download
-
-選擇下載Windows或Mac版本。
-
-![](../functional_module/PWmodules/kbimages/klinkwinormac.png)
-
-下載之後解壓運行，防火牆有機會阻擋運行，請允許運行。
-
-![](../functional_module/PWmodules/images/online01.png)
-
-首次運行時需要：
-
-1. 更新Klink
-1. 更新插件
-
-如圖所見，更新Klink和插件需要等待一段時間。
-
-![](../functional_module/PWmodules/images/online02.png)
-
-完成後就可以點啟動kittenblock，自動開啟瀏覽器前往線上版KittenBlock。
-
-    推薦使用Google Chrome瀏覽器。
-    
-完成！點左下方的藍色按鈕來加載各種插件（例如PowerBrick）。
-
-![](../functional_module/PWmodules/images/online03.png)
-
-## Kittenblock離線版
+## Kittenblock下載
 
 ### 下載地址
 
-到瀏覽器前往 http://www.kittenbot.cn ，點選軟件，下載KittenBlock。
+到瀏覽器前往 https://bit.ly/KittenblcokdownloadHK ，點選Download下載KittenBlock。
 
-![](../functional_module/PWmodules/kbimages/an01.png)
+![](../functional_module/PWmodules/kbimages/aas.png)
 
-選擇下載Windows或Mac版本。
+選擇安裝檔案。
 
-![](../functional_module/PWmodules/kbimages/winormac.png)
+![](../functional_module/PWmodules/kbimages/gd.png)
 
 ### 雙擊安裝
 
@@ -81,7 +50,7 @@ KittenBlock是KittenBot的自家編程平台，有在線版和離線版兩種版
 
 在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
 
-![](./kbimages/addextension.png)
+![](../functional_module/PWmodules/kbimages/addextension.png)
     
 ## FAQ
 
@@ -105,7 +74,7 @@ KittenBlock是KittenBot的自家編程平台，有在線版和離線版兩種版
 
 解決方法，右鍵Kittenblock圖示點擊屬性，更改兼容性和權限。
 
-![](./kbimages/an07.png)
+![](../functional_module/PWmodules/kbimages/an07.png)
 
 ### 安裝驅動程式時沒有反應？
 
@@ -119,4 +88,7 @@ KittenBlock是KittenBot的自家編程平台，有在線版和離線版兩種版
 
 手動雙擊安裝：
 
-![](./kbimages/an09.png)
+![](../functional_module/PWmodules/kbimages/an09.png)
+
+或者以管理員身份開啓。
+

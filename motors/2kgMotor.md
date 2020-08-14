@@ -74,7 +74,7 @@
 
 ![](./images/2kmotorcode.png)
 
-[參考程式下載](https://bit.ly/PowerbrickM10_01Hex)
+[參考程式下載](https://bit.ly/PowerbrickM11_01Hex)
 
 ## KittenBlock編程教學
 
@@ -96,7 +96,7 @@
 
 ![](./images/2kkbmotor.png)
 
-[參考程式下載](https://bit.ly/PowerbrickM12_01sb3)
+[參考程式下載](https://bit.ly/PowerbrickM11_01sb3)
 
 ## FAQ
 
