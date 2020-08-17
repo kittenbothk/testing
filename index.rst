@@ -4,15 +4,21 @@
 
 .. toctree::
     :maxdepth: 2
-    :caption: Micro:bit擴展板說明及入門教程
-    
-    Microbit_eboard/index
+    :caption: KittenBlock介紹與使用方法
+
+    KittenBlock/index
 
 .. toctree::
     :maxdepth: 2
-    :caption: KittenBlock使用方法
+    :caption: MakeCode介紹與使用方法
 
-    KittenBlock/index
+    Makecode/index
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Micro:bit擴展板說明及入門教程
+    
+    Microbit_eboard/index
 
 .. toctree::
     :maxdepth: 2

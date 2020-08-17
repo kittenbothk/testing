@@ -6,33 +6,39 @@ KittenBlock是KittenBot的自家編程平台。
 
 ### 下載地址
 
-到瀏覽器前往 https://bit.ly/KittenblcokdownloadHK ，點選Download下載KittenBlock。
+到瀏覽器前往  [http://www.kittenbot.hk/software/platform/](http://www.kittenbot.hk/software/編程平台/) ‎，按系統點選相應的Download鍵, 下載KittenBlock。
 
-![](../functional_module/PWmodules/kbimages/aas.png)
+![](../functional_module/PWmodules/kbimages/aas.png)  
 
-選擇安裝檔案。
+點選下載
 
-![](../functional_module/PWmodules/kbimages/gd.png)
+![](../functional_module/PWmodules/kbimages/gd.png) 
+
+
 
 ### 雙擊安裝
 
 下載後雙擊圖示安裝
 
-![](../functional_module/PWmodules/kbimages/an03.png)
+![](../functional_module/PWmodules/kbimages/an03.png)  
 
 假如安裝時有防毒軟件，或者系統提示不安全，請安心允許安裝。
 
 ![](../functional_module/PWmodules/kbimages/an04.png)
 
-選擇安裝目錄，請盡量選擇英文名字目錄，否則可能會出錯。
+選擇安裝目錄，必須選擇英文名字目錄，否則可能會出錯。
 
 ![](../functional_module/PWmodules/kbimages/an05.png)
+
+
 
 ### 安裝完成
 
 打開應用程式
 
 ![](../functional_module/PWmodules/kbimages/an06.png)
+
+
 
 ## 安裝應用程式後，還要安裝驅動
 
@@ -43,7 +49,9 @@ KittenBlock是KittenBot的自家編程平台。
 ![](../functional_module/PWmodules/kbimages/an08.png)
 
     MacOS只需安裝CH340。
-    
+
+
+
 ## 加載PowerBrick插件
 
 離線版與在線版同樣操作。
