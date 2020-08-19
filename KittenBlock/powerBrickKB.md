@@ -1,10 +1,16 @@
-# KittenBlock快速開始
+# Kittenblock安裝
 
 KittenBlock是KittenBot的自家編程平台。
 
 ## Kittenblock下載
 
 ### 下載地址
+
+Windows 10系統：
+
+到瀏覽器前往  [http://www.kittenbot.hk/software/platform/](http://www.kittenbot.hk/software/編程平台/) ‎，按系統點選相應的Download鍵, 下載KittenBlock。
+
+Windows 10以下或MacOS用戶：
 
 到瀏覽器前往  [http://www.kittenbot.hk/software/platform/](http://www.kittenbot.hk/software/編程平台/) ‎，按系統點選相應的Download鍵, 下載KittenBlock。
 
@@ -14,11 +20,9 @@ KittenBlock是KittenBot的自家編程平台。
 
 ![](../functional_module/PWmodules/kbimages/gd.png) 
 
-
-
 ### 雙擊安裝
 
-下載後雙擊圖示安裝
+下載後雙擊圖示安裝。
 
 ![](../functional_module/PWmodules/kbimages/an03.png)  
 
@@ -30,15 +34,11 @@ KittenBlock是KittenBot的自家編程平台。
 
 ![](../functional_module/PWmodules/kbimages/an05.png)
 
-
-
 ### 安裝完成
 
 打開應用程式
 
 ![](../functional_module/PWmodules/kbimages/an06.png)
-
-
 
 ## 安裝應用程式後，還要安裝驅動
 
@@ -48,47 +48,39 @@ KittenBlock是KittenBot的自家編程平台。
 
 ![](../functional_module/PWmodules/kbimages/an08.png)
 
-    MacOS只需安裝CH340。
+## Kittenblock軟件更新
 
+由於Kittenbot一直開發此軟件為用戶提供新的功能，大家需要不定時更新Kittenblock。
 
+當有更新發佈的時候，Kittenblock會顯示更新提示。
 
-## 加載PowerBrick插件
+![](../functional_module/PWmodules/kbimages/update1.png)
 
-離線版與在線版同樣操作。
+此時你就可以按右上角的火箭圖示更新。
 
-在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
+![](../functional_module/PWmodules/kbimages/update2.png)
 
-![](../functional_module/PWmodules/kbimages/addextension.png)
-    
-## FAQ
+下載完成後按下OK，Kittenblock會自動重啟。
 
-1問：我應該如何選擇離線版或在線版呢？
-
-1答：如果你的網速快而穩，推薦使用在線版本。假如你是機構或者用家太多，或網絡不太暢順，推薦使用離線版。
-
-2問：在線版的功能比離線版強大得多嗎？
-
-2答：大家功能是一致的。
-
-3問：在線版支援平板電腦嗎？
-
-3答：Klink的平板版本(Android或iPadOS)還未完成。
+![](../functional_module/PWmodules/kbimages/update3.png)
 
 ## 軟件排錯：
 
-### KittenBlock打開時白屏或藍屏？
+### 1. KittenBlock打開時白屏或藍屏？
 
 這是因為管理員權限不夠。
 
-解決方法，右鍵Kittenblock圖示點擊屬性，更改兼容性和權限。
+### 解決方法，右鍵Kittenblock圖示點擊屬性，更改兼容性和權限。
+
+![](../functional_module/PWmodules/kbimages/an10.png)
 
 ![](../functional_module/PWmodules/kbimages/an07.png)
 
-### 安裝驅動程式時沒有反應？
+### 2. 安裝驅動程式時沒有反應？
 
 有可能你的電腦權限要求太高，限制了軟件的操作。
 
-解決方法：
+### 解決方法：
 
 打開軟件的目錄：
 
@@ -98,5 +90,12 @@ KittenBlock是KittenBot的自家編程平台。
 
 ![](../functional_module/PWmodules/kbimages/an09.png)
 
-或者以管理員身份開啓。
+### 3. 為什麼下載更新後按OK但是沒有反應？
 
+這是因為管理員權限不夠。
+
+### 解決方法：
+
+以管理員身份開啓Kittenblock再進行更新。
+
+![](../functional_module/PWmodules/kbimages/update4.png)
