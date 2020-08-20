@@ -5,3 +5,6 @@ Kittenblock介面介紹
     :maxdepth: 1
 
     toolbar.md
+    codingblocks.md
+    codingarea.md
+    stage.md

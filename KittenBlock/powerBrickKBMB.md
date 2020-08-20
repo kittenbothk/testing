@@ -1,4 +1,4 @@
-# 在Kittenblock使用Micro:bit
+# 在Kittenblock連接Micro:bit
 
 我們要在Kittenblock上使用Microbit，就首先要與Microbit建立連接。
 

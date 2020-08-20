@@ -76,6 +76,7 @@ Kittenblock 1.85R
 
 您可以在這裡設定IOT本地伺服器。
 
+
 ![](./images/toolbar10.png)
 
 ![](./images/toolbar11.png)
@@ -83,6 +84,8 @@ Kittenblock 1.85R
 ### 11. 編程區截圖
 
 您可以在這裡對編程區的內容截圖。
+
+編程區為空的時候不允許截圖。
 
 ![](./images/toolbar12.png)
 
@@ -97,5 +100,7 @@ Kittenblock 1.85R
 ### 13. 設定
 
 您可以在這裡打開設定。
+
+這裡可以安裝驅動，更改外觀等。
 
 ![](./images/toolbar15.png)
