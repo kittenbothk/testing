@@ -4,7 +4,7 @@ PowerBrick純電子版 (HKBK8038A)
 
 PowerBrick連積木版 (HKBK8039B)
 
-![](./modules/images/01_01.png)
+![](../../functional_module/PWmodules/images/01_01.png)
 
 PowerBrick All-In-One是由kittenbot設計的十合一套件，它是為BBC microbit度身訂造，
 套件包含多款感應器，令中小學生簡易地學習編程與能夠啟發他們的創客精神。
@@ -35,7 +35,7 @@ PowerBrick All-In-One是由kittenbot設計的十合一套件，它是為BBC micr
 PowerBrick有兩種版本，分別為PowerBrick純電子版和PowerBrick連積木版，兩者都包含Armourbit與十種感應器魔塊和電機。
 兩者的分別在於連積木版本會包括一包樂高機械件，讓你可以立即運用積木進行創作。
 
-![](./modules/images/01_04.png)
+![](../../functional_module/PWmodules/images/01_04.png)
 
 ### 套件內容:
 -  Armourbit擴展板x1
@@ -61,61 +61,61 @@ PowerBrick有兩種版本，分別為PowerBrick純電子版和PowerBrick連積�
 1. 全彩點陣魔塊
 2. MP3魔塊
 
-![](./modules/images/01_17.png)
+![](../../functional_module/PWmodules/images/01_17.png)
 
 ## 與樂高裝插方法
 
 ### 3x7魔塊（以樂高標準孔位作單位）
 
-![](./modules/images/01_06.png)
+![](../../functional_module/PWmodules/images/01_06.png)
 
-![](./modules/images/01_05.png)
+![](../../functional_module/PWmodules/images/01_05.png)
 
 ### 7x7魔塊
 
-![](./modules/images/01_08.png)
+![](../../functional_module/PWmodules/images/01_08.png)
 
-![](./modules/images/01_07.png)
+![](../../functional_module/PWmodules/images/01_07.png)
 
 ### 電池盒
 
-![](./modules/images/01_10.png)
+![](../../functional_module/PWmodules/images/01_10.png)
 
-![](./modules/images/01_09.png)
+![](../../functional_module/PWmodules/images/01_09.png)
 
 ### Armourbit擴展板
 
-![](./modules/images/01_11.png)
+![](../../functional_module/PWmodules/images/01_11.png)
 
-![](./modules/images/01_12.png)
+![](../../functional_module/PWmodules/images/01_12.png)
 
 ### 大小尺寸孔位位置尺寸
 
 完美兼容樂高，符合樂高尺寸標準，輕鬆使用自己的樂高零件進行創作。
 
-![](./modules/images/01_13.png)
+![](../../functional_module/PWmodules/images/01_13.png)
 
 ## 電線連接方法
 
 使用4pin防反插排線，不用再擔心接線錯誤、接觸不良、電路損壞之類問題。讓課堂上接線十分輕鬆，提升教師教學效率。
 
-![](./modules/images/01_15.jpg)
+![](../../functional_module/PWmodules/images/01_15.jpg)
 
 ### 4pin柔軟防反插排線
 
-![](./modules/images/01_14.png)
+![](../../functional_module/PWmodules/images/01_14.png)
 
 ## 支援Makecode編程
 
 支援最普及的編程平台makecode，配搭自家插件，功能強大易用，令學生容易上手。
 
-![](./modules/images/pw04.gif)
+![](../../functional_module/PWmodules/images/pw04.gif)
 
 ## Kittenblock編程平台：
 
 Kittenbot亦開發了編程平台Kittenblock，以Scratch作基礎，加入了自家插件，實現舞台與PowerBrick的互動。
 
-![](./modules/images/kb.png)
+![](../../functional_module/PWmodules/images/kb.png)
 
 ## FAQ
 

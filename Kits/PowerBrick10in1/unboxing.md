@@ -2,8 +2,8 @@
 
 ## 開箱短片
 
-[![](./modules/images/unbox.png)](https://www.youtube.com/watch?v=jl-mkDHETU0)
+[![](../../functional_module/PWmodules/images/unbox.png)](https://www.youtube.com/watch?v=jl-mkDHETU0)
 
 ## 介紹短片
 
-[![](./modules/images/trailer.png)](https://www.youtube.com/watch?v=zwVS4kmnVBw&feature=youtu.be)
+[![](../../functional_module/PWmodules/images/trailer.png)](https://www.youtube.com/watch?v=zwVS4kmnVBw&feature=youtu.be)
