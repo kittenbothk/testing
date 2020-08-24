@@ -16,3 +16,5 @@ Kittenbot一直致力為用家帶來流暢好用的用戶體驗，特別在人�
     powerBrickKBMBcode.md
     scratch_function/index
     kittenbot_function/index
+    python/python.md
+    extensions/index
