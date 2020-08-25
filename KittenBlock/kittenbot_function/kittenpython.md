@@ -20,6 +20,8 @@
 
 打開或保存當前的Python代碼。
 
+其他選項不需要理會。
+
 ![](./images/python4.png)
 
 ### 4. 運行/上載
@@ -27,3 +29,5 @@
 運行程式或上載程式到硬件。
 
 ![](./images/python5.png)
+
+![](./images/python6.png)

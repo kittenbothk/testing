@@ -4,10 +4,6 @@
 
 ### Kittenblock支援USB連接或藍芽連接，請根據您使用的方式參考連接方法。
 
-### 注意：藍芽連接並不支援下載程式到Microbit！
-
-### 注意：藍芽連接並不支援下載程式到Microbit！
-
 ![](../functional_module/PWmodules/images/kbbanner.png)
 
 ## 使用USB線連接
@@ -116,7 +112,11 @@
 
 ## 上載程式
 
-#### 在Kittenblock平台上也可以將程式上載到MicroBit，不用永遠連着電腦使用。
+### 注意：藍芽連接並不支援上載程式到Microbit！
+
+### 注意：藍芽連接並不支援上載程式到Microbit！
+
+在Kittenblock平台上也可以將程式上載到MicroBit，不用永遠連着電腦使用。
 
 首先按右上角的代碼按鈕，切換至代碼模式。
 
