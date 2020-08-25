@@ -1,4 +1,4 @@
-在Kittenblock使用scratch功能
+在Kittenblock使用Scratch功能
 ============================
 
 Kittenblock也支援原本Scratch的功能。

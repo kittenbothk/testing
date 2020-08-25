@@ -6,7 +6,7 @@
 
 ## 使用Python編輯器
 
-有關Python編輯器的介面介紹可以參考： [參考](../kittenbot_function/kittenpython.md)
+有關Python編輯器的介面介紹可以參考： [Python編輯器介面介紹](../kittenbot_function/kittenpython.md)
 
 按右上角的舞台切換按鈕，切換到編程模式。
 
@@ -16,7 +16,7 @@
 
 ![](./images/2.png)
 
-完成之後我們就可以按下運行，運行結果會顯示在編輯器的下半部份。
+完成之後我們就可以按下運行，運行結果會顯示在編輯器的主控台。
 
 ![](./images/3.png)
 
