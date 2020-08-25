@@ -48,11 +48,17 @@ USB供電時，不需要使用Robotbit供電，請將5V電源線拔走。
 
 [參考程式下載](https://bit.ly/LEDMatrixT3_01Hex)
 
+[參考程式網址](https://makecode.microbit.org/_WWiYHp7F50Cg)
+
+
 現在我們來試試點亮首2行的第一顆圖元。
 
 ![](./LEDMatrixT3/code4.png)
 
 [參考程式下載](https://bit.ly/LEDMatrixT3_02Hex)
+
+[參考程式網址](https://makecode.microbit.org/_T02XMz8ooihy)
+
 
 大家可以看到雖然在Y為0和1這兩行上；
 
@@ -79,6 +85,9 @@ USB供電時，不需要使用Robotbit供電，請將5V電源線拔走。
 
 [參考程式下載](https://bit.ly/LEDMatrixT3_03Hex)
 
+[參考程式網址](https://makecode.microbit.org/_bjMWtxVJpffc)
+
+
     雖然矩陣的闊度為16但由於電腦以0開始計算，我們需要減去1。（16-1=15）
     用PowerBrick套件中的全彩點陣屏的話不需要更改。
     
@@ -93,7 +102,10 @@ USB供電時，不需要使用Robotbit供電，請將5V電源線拔走。
 ![](./LEDMatrixT3/triangle.jpg)
 
 [參考程式下載](https://bit.ly/LEDMatrixT3_04Hex)
-    
+   
+[參考程式網址](https://makecode.microbit.org/_5Fiag7F001ec)
+
+ 
 ## 流光溢彩屏矩陣旋轉
 
 我們可以在這程式中看到旋轉對於X和Y軸的影響。
@@ -109,6 +121,8 @@ USB供電時，不需要使用Robotbit供電，請將5V電源線拔走。
 ![](./LEDMatrixT3/rotate32.gif)
 
 [參考程式下載](https://bit.ly/LEDMatrixT3_05Hex)
+   
+[參考程式網址](https://makecode.microbit.org/_E95HhRdT5gPX)
     
 X和Y軸的方向可以參照下圖。
 

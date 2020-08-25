@@ -120,6 +120,8 @@ USB供電時，不需要使用Robotbit供電，請將5V電源線拔走。
 
 [參考程式](https://bit.ly/LEDMatrixT4_01Hex)
 
+[參考程式網址](https://makecode.microbit.org/_dtwYPt8zvXEp)
+
 ### 雙幀流水動畫
 
 上文教了大家創作地單一幅幀數的動畫，有了這個基礎，我們製作多幀動畫時就較容易上手。
@@ -152,6 +154,8 @@ USB供電時，不需要使用Robotbit供電，請將5V電源線拔走。
 ![](./LEDMatrixT4/2frame.gif)
 
 [參考程式](https://bit.ly/LEDMatrixT4_02Hex)
+
+[參考程式網址](https://makecode.microbit.org/_AxqhpeafJ8jv)
 
 ## FAQ
 

@@ -26,6 +26,8 @@
 
 [參考程式下載](https://bit.ly/LEDMatrixT3_06Hex)
 
+[參考程式網址](https://makecode.microbit.org/_W6eTxHa4cEj5)
+
 ### 串聯與矩陣的編程
 
 串聯燈板可以與矩陣同時操作。我們設置矩陣的時候可以先將闊度設為1塊燈板的闊。
@@ -44,6 +46,9 @@
 
 [參考程式下載](https://bit.ly/LEDMatrixT3_07Hex)
 
+[參考程式網址](https://makecode.microbit.org/_ipJh3qVgdbtr)
+
+
 
 ## 串聯情況之下的流水走字效果
 
@@ -60,6 +65,9 @@
 假如你想做多幀動畫的話你可能要將幀的次序調節才能夠無縫連接。
 
 [參考程式](https://bit.ly/LEDMatrixT4_03Hex)
+
+[參考程式網址](https://makecode.microbit.org/_8Xy2mWWLoDtg)
+
 
     例如：在2塊燈板的串聯之下要播放2幀動畫，燈板1的幀次序為幀1->幀2，但燈板2的幀次序會變成幀2>幀1。
 

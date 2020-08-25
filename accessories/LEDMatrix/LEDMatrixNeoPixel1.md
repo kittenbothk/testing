@@ -74,6 +74,8 @@
 
 [參考程式下載](https://bit.ly/LEDMatrixT1_01Hex)
 
+[參考程式網址](https://makecode.microbit.org/_XDpRDjarw5cH)
+
 ### 彩虹色點亮
 
 我們可以將整個屏幕以彩虹色點亮。
@@ -88,6 +90,8 @@
 
 [參考程式下載](https://bit.ly/LEDMatrixT1_02Hex)
 
+[參考程式網址](https://makecode.microbit.org/_Kj80s46jqCju)
+
 ### 亮度調節
 
 為了眼睛健康建議大家調低亮度。
@@ -100,6 +104,8 @@
 ![](./LEDMatrixT1/brightness.jpg)
 
 [參考程式下載](https://bit.ly/LEDMatrixT1_03Hex)
+
+[參考程式網址](https://makecode.microbit.org/_2diVmMKc4ThV)
     
 ### 單一顆燈點亮
 
@@ -113,6 +119,7 @@
 
 [參考程式下載](https://bit.ly/LEDMatrixT1_04Hex)
 
+[參考程式網址](https://makecode.microbit.org/_AsPV8k5RqTbR)
   
 ### 流水效果
    
@@ -126,14 +133,17 @@
 
 [參考程式下載](https://bit.ly/LEDMatrixT1_05Hex)
 
+[參考程式網址](https://makecode.microbit.org/_J0hJf2AmrUsY)
+  
 #### 或者
 
 ![](./LEDMatrixT1/code7.png)
 
-
 ![](./LEDMatrixT1/ledloop.gif)
 
 [參考程式下載](https://bit.ly/LEDMatrixT1_06Hex)
+
+[參考程式網址](https://makecode.microbit.org/_RACcp4VzPD21)
 
     移動和迴圈的分別在於移動模式達至盡頭會消失，迴圈模式達至盡頭後仍然會重複。
     
@@ -149,6 +159,8 @@
 
 [參考程式下載](https://bit.ly/LEDMatrixT1_07Hex)
 
+[參考程式網址](https://makecode.microbit.org/_FTRb2M4hm2Ke)
+
 ### 自訂顏色
 
 除了預設的顏色之外，我們亦可以透過RGB和HSL來自訂顏色。
@@ -160,6 +172,8 @@
 ![](./LEDMatrixT1/rgbhsl.gif)
 
 [參考程式下載](https://bit.ly/LEDMatrixT1_08Hex) 
+
+[參考程式網址](https://makecode.microbit.org/_KirTzVa9JX6q)
 
 ## FAQ
 

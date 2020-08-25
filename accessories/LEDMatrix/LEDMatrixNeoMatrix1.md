@@ -92,7 +92,9 @@ neomatrix插件: https://github.com/KittenBot/pxt-neomatrix
     用PowerBrick套件中的全彩點陣屏請使用PowerBrick積木。
 
 [參考程式下載](https://bit.ly/LEDMatrixT2_01Hex)
-    
+
+[參考程式網址](https://makecode.microbit.org/_02iY5iJkJfy2)
+
 ## FAQ
 
 問：為什麼我點亮燈板的時候，燈板未能顯示我定下的顏色，燈板只點亮了紅色？

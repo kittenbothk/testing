@@ -93,6 +93,8 @@ KittenBot官方離線版Makecode下載：https://www.kittenbot.cn/software
 
 [參考程式下載](https://bit.ly/LEDMatrixT2_02Hex)
 
+[參考程式網址](https://makecode.microbit.org/_37yRrvXKcFeu)
+
 ### 雙幀走馬燈：
 
 ![](./LEDMatrixT2/code.png)
@@ -101,6 +103,8 @@ KittenBot官方離線版Makecode下載：https://www.kittenbot.cn/software
 
 [參考程式下載](https://bit.ly/LEDMatrixT2_03Hex)
     
+[參考程式網址](https://makecode.microbit.org/_DRheuAWbJcpo)
+
 ## FAQ
 
 問：為什麼我點亮燈板的時候，燈板未能顯示我定下的顏色，燈板只點亮了紅色？
