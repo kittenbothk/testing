@@ -1,4 +1,4 @@
-# 塗鴉RNN
+# Machine Learning 5 塗鴉RNN
 
 利用內建神經網絡，我們可以叫Kittenblock幫我們繪畫。
 
