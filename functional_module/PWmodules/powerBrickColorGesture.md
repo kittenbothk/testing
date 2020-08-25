@@ -66,6 +66,8 @@
 
 [參考程式下載](https://bit.ly/PowerbrickM7_01Hex)
 
+[參考程式網址](https://makecode.microbit.org/_LLbfYx40CEdX)
+
 HSV色環可以參考下圖：
 
 ![](./images/hsv.jpg)
@@ -76,12 +78,15 @@ HSV色環可以參考下圖：
 
 [參考程式下載](https://bit.ly/PowerbrickM7_02Hex)
 
+[參考程式網址](https://makecode.microbit.org/_LTt5ugP2f00K)
+
 ### 距離檢測
 
 ![](./images/colordist.png)
 
 [參考程式下載](https://bit.ly/PowerbrickM7_03Hex)
 
+[參考程式網址](https://makecode.microbit.org/_RhKfYUJwu0AK)
 
 ### 手勢檢測
 
@@ -89,11 +94,15 @@ HSV色環可以參考下圖：
 
 [參考程式下載](https://bit.ly/PowerbrickM7_04Hex)
 
+[參考程式網址](https://makecode.microbit.org/_4eiKzMXot5Vy)
+
 ### LED控制
 
 ![](./images/led.png)
 
 [參考程式下載](https://bit.ly/PowerbrickM7_05Hex)
+
+[參考程式網址](https://makecode.microbit.org/_c5s6sFH3mgXY)
 
 ### Makecode教學短片
 

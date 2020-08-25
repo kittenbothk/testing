@@ -37,6 +37,8 @@
 
 [參考程式下載](https://bit.ly/PowerbrickM3_01Hex)
 
+[參考程式網址](https://makecode.microbit.org/_i33W9gCyueDr)
+
 ### Makecode教學短片
 
 [![](./images/envtut.png)](https://www.youtube.com/watch?v=ilXSpFd86DQ)

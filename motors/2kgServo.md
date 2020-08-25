@@ -78,6 +78,8 @@
 
 [參考程式下載](https://bit.ly/M132kgGeekServoSampleCode)
 
+[參考程式網址](https://makecode.microbit.org/_Fxq45rHFrD8s)
+
 ## KittenBlock編程教學
 
 ![](./images/kbbanner.png)
@@ -98,7 +100,7 @@
 
 ![](./images/2kkbservo.png)
 
-[參考程式下載](https://bit.ly/PowerbrickM12_01sb3)
+[參考程式下載](https://bit.ly/M132kgGeekServoSampleCode)
 
 ## FAQ
 

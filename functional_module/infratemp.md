@@ -37,8 +37,14 @@
 
 [參考程式下載](https://bit.ly/ContactlessIRSampleHex)
 
+[參考程式網址](https://makecode.microbit.org/_1EDarvXwJ3bA)
+
 #### LED編程：
 
 ![](./PWmodules/images/infraLEDcode.png)
+
+[參考程式下載](https://bit.ly/ContactlessIRSampleHex)
+
+[參考程式網址](https://makecode.microbit.org/_2F4YLsCpF9fd)
 
 

@@ -52,11 +52,15 @@ RFID魔塊 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
 [參考程式下載](https://bit.ly/PowerbrickM8_01Hex)
 
+[參考程式網址](https://makecode.microbit.org/_XdP0Pye1rFA0)
+
 ### RFID卡片讀取
 
 ![](./images/rfidread.png)
 
 [參考程式下載](https://bit.ly/PowerbrickM8_02Hex)
+
+[參考程式網址](https://makecode.microbit.org/_TEz6D45qgDaa)
 
 ### RFID讀取UUID
 
@@ -66,7 +70,9 @@ RFID魔塊 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
 [參考程式下載](https://bit.ly/PowerbrickM8_03Hex)
 
-##UUID身份辨別
+[參考程式網址](https://makecode.microbit.org/_a6wiKdUqWaXL)
+
+### UUID身份辨別
 
 我們可以用UUID作身份辨別。
 
@@ -75,6 +81,8 @@ RFID魔塊 (HKBM8012L) + RFID卡片 (HKBM8012M)
     這裡請使用您卡片的UUID。
 
 [參考程式下載](https://bit.ly/PowerbrickM8_04Hex)
+
+[參考程式網址](https://makecode.microbit.org/_c4rcrE76Tc6Y)
 
 ### Makecode教學短片
 

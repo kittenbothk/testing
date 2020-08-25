@@ -50,11 +50,15 @@ MP3魔塊 (HKBM8012E)
 
 [參考程式下載](https://bit.ly/PowerbrickM10_01Hex)
 
+[參考程式網址](https://makecode.microbit.org/_1zuJ9JUkK3WT)
+
 ### 指定序號播放音頻
 
 ![](./images/mp3id.png)
 
 [參考程式下載](https://bit.ly/PowerbrickM10_02Hex)
+
+[參考程式網址](https://makecode.microbit.org/_PqF5VqYgp6Yu)
 
 ### 指定名稱播放音頻
 
@@ -63,6 +67,8 @@ MP3魔塊 (HKBM8012E)
     名稱只支援英文和數字，長度不能長於8位。
 
 [參考程式下載](https://bit.ly/PowerbrickM10_03Hex)
+
+[參考程式網址](https://makecode.microbit.org/_2uChE8PtC8fT)
 
 ### Makecode教學短片
 

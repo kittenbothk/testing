@@ -4,7 +4,7 @@ Geekservo舵機 (HKBD9005A)
 
 ![](./images/13_04.png)
 
-這是一款兼容樂高件的舵機。輸出軸為樂高十字軸。主要用在需求精細控制的結構上，例如關節機械臂。
+這是一款兼容樂高件的舵機。輸出軸為樂高十字軸。主要用在需求精細控制的結構上，例如關節，機械臂。
 
 ## 產品參數
 
@@ -78,6 +78,8 @@ Geekservo舵機 (HKBD9005A)
 ![](./images/servo.png)
 
 [參考程式下載](https://bit.ly/PowerbrickM12_01Hex)
+
+[參考程式網址](https://makecode.microbit.org/_APuPfVUHtMpe)
 
 ### Makecode教學短片
 

@@ -98,6 +98,8 @@
 
 [參考程式下載](https://bit.ly/PowerbrickM11_01sb3)
 
+[參考程式網址](https://makecode.microbit.org/_RYHivyayYL4q)
+
 ## FAQ
 
 1：為什麼我點擊積木塊沒有反應呢？

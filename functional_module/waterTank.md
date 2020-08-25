@@ -41,6 +41,8 @@ All in 1水箱連水泵組合 (HKBM8015A)
 
 [參考程式下載](https://bit.ly/M15WaterTankSampleHex)
 
+[參考程式網址](https://makecode.microbit.org/_RYHivyayYL4q)
+
 ## KittenBlock編程教學
 
 ![](./PWmodules/images/kbbanner.png)

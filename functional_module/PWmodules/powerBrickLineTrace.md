@@ -47,6 +47,8 @@
 
 [參考程式下載](https://bit.ly/PowerbrickM5_01Hex)
 
+[參考程式網址](https://makecode.microbit.org/_3tj8kdf8jhft)
+
 ### Makecode教學短片
 
 [![](./images/irtut.png)](https://www.youtube.com/watch?v=BT1TUlmbMm8)

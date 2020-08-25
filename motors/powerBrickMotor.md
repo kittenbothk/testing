@@ -77,6 +77,8 @@ Geekservo電機 (HKBD9006A)
 
 [參考程式下載](https://bit.ly/PowerbrickM11_01Hex)
 
+[參考程式網址](https://makecode.microbit.org/_RYHivyayYL4q)
+
 ### Makecode教學短片
 
 [![](./images/geekservotut.png)](https://www.youtube.com/watch?v=gUR2DbgVTCQ)
