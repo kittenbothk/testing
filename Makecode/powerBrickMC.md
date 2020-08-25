@@ -4,12 +4,11 @@
 
 ## 快速開始
 
-KittenBot產品首推的編程平台是微軟Makecode。
+KittenBot產品其中一款的編程平台是微軟Makecode。
 
 MakeCode: 
 
 [https://makecode.microbit.org/]()
-
 
 ## KittenBot產品在MakeCode上編程
 
