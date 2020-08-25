@@ -6,7 +6,6 @@
 .. toctree::
     :maxdepth: 1
 
-    ../codingPlatform/index
     infratemp.md
     waterTank.md
     Wifibrick/index

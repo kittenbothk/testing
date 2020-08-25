@@ -5,8 +5,7 @@ PowerBrick魔塊教學
 
 .. toctree::
     :maxdepth: 1
-    
-    ../codingPlatform/index
+
     Armourbit.md
     powerBrickPowerBank.md
     powerBrickEnvironment.md

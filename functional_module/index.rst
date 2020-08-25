@@ -5,21 +5,21 @@
 
 .. toctree::
     :maxdepth: 1
-    :caption: KittenBot魔塊與MakeCode
-
-    codingPlatform/index
-
-.. toctree::
-    :maxdepth: 1
     :caption: Powerbrick魔塊
 
     PWmodules/index
 
 .. toctree::
     :maxdepth: 1
-    :caption: 其他魔塊
 
-    MISCmodules/index
+    infratemp.md
+    waterTank.md
+
+.. toctree::
+    :maxdepth: 1
+    :caption: WifiBrick與IoT方案
+
+    Wifibrick/index
 
 .. toctree::
     :maxdepth: 1
