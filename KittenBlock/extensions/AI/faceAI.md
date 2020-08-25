@@ -68,4 +68,7 @@ FaceAI亦都可以辨認相中人的性別(男或女)。
 
 ![](../images/faceai13.png)
 
+## References
+
+    By Original full portrait: &quot;Playmate of the Month&quot;. Playboy Magazine. November 1972, photographed by Dwight Hooker.This 512x512 electronic/mechanical scan of a section of the full portrait: Alexander Sawchuk and two others[1] - The USC-SIPI image database, Fair use, https://en.wikipedia.org/w/index.php?curid=20658476
 

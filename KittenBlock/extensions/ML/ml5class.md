@@ -48,14 +48,12 @@ MobileNet模型只是包含一些日常生活常見的物件，日常生活比�
 
 ![](../images/ml13.png)
 
-#### References
+## References
 
-https://en.wikipedia.org/wiki/Scottish_Fold
+    https://www.hellotech.com/blog/whats-a-gpu-what-gpu-do-you-have
+    
+    By Prathyush Thomas - Own work, GFDL 1.2, https://commons.wikimedia.org/w/index.php?curid=37417848
+    
+    By User:Magicwolf - https://i.imgur.com/jn0fLtw.jpg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5110106
 
-https://en.wikipedia.org/wiki/Siberian_Husky
-
-https://en.wikipedia.org/wiki/Strawberry
-
-https://www.hellotech.com/blog/whats-a-gpu-what-gpu-do-you-have
-
-
+    By Psihopat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12724979

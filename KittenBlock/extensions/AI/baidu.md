@@ -90,7 +90,10 @@
 
 ## References
 
-https://en.wikipedia.org/wiki/Lamborghini_Aventador
+    By Damian Morys from New York City, United States - Aventador., CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=41292267
 
-https://en.wikipedia.org/wiki/Hamburger
+    By Hongreddotbrewhouse - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=33551162
 
+    By Prathyush Thomas - Own work, GFDL 1.2, https://commons.wikimedia.org/w/index.php?curid=37417848
+    
+    By User:Magicwolf - https://i.imgur.com/jn0fLtw.jpg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5110106
