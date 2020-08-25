@@ -6,7 +6,9 @@
 
 ![](../../PWmodules/images/mcbanner.png)
 
-加載KOI插件：https://github.com/KittenBot/pxt-koi
+### 加載KOI插件：https://github.com/KittenBot/pxt-koi
+
+### [詳細方法](../makecodeQs.md)
 
 按鍵積木塊：
 
@@ -28,7 +30,7 @@
 
   ![](KOI06/02-1.png)
 
-## **程式運行流程**
+## 程式運行流程
 
 
 把程式下載到Microbit 上, 按下Microbit 上的A鍵. Microbit 點陣會顯示出檢測所得之半徑值 (佔KOI 的螢幕長度計算, 最大r 值在105 - 110 左右); 
@@ -51,7 +53,7 @@
 
 ### 編寫程式
 
-**加入OLED的插件： https://github.com/KittenBot/pxt-oled**
+### 加入OLED的插件： https://github.com/KittenBot/pxt-oled
 
  ![](KOI07/03-1.png)
 

@@ -8,9 +8,9 @@
 
 ![](../../PWmodules/images/mcbanner.png)
 
-加載KOI插件：https://github.com/KittenBot/pxt-koi
+### 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
-[詳細方法](https://kittenbothk.readthedocs.io/en/latest/functional%20module/AI%20Cam/makecodeQs.html)
+### [詳細方法](../makecodeQs.md)
 
 ![](KOI02/01.png)
 
@@ -30,7 +30,7 @@
 
 
 
-## **程式運行流程**
+## 程式運行流程
 
 把程式下載到Microbit上，按下Microbit的按鍵A，KOI螢幕上會顯示Kittenbot; 按下Microbit的按鍵B，KOI螢幕上會顯示KOI , 維持2秒。
 

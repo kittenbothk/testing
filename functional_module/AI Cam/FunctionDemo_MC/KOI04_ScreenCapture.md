@@ -1,4 +1,4 @@
-# **影像截圖與顯示**
+# 影像截圖與顯示
 
 既然我們的AI模組有攝像頭，那麼我們能不能做成類似拍照功能，把圖片保存下載來呢？答案當然，可以，而且還能進行圖片瀏覽。
 
@@ -16,9 +16,9 @@
 
 ![](../../PWmodules/images/mcbanner.png)
 
-加載KOI插件：https://github.com/KittenBot/pxt-koi
+### 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
-[詳細方法](https://kittenbothk.readthedocs.io/en/latest/functional%20module/AI%20Cam/makecodeQs.html)
+### [詳細方法](../makecodeQs.md)
 
 按鍵積木塊：
 
@@ -34,7 +34,7 @@
 
 
 
-## **程式運行流程**
+## 程式運行流程
 
 把程式下載到Microbit上
 

@@ -10,8 +10,9 @@
 
 ![](../../PWmodules/images/mcbanner.png)
 
-加載KOI插件：https://github.com/KittenBot/pxt-koi
+### 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
+### [詳細方法](../makecodeQs.md)
 
 
 按鍵積木塊：
@@ -26,7 +27,7 @@
 
 
 
-## **程式運行流程**
+## 程式運行流程
 
 把程式下載到Microbit 上, 
 
@@ -49,7 +50,7 @@
 
 ### 編寫程式
 
-**加入OLED的插件： https://github.com/KittenBot/pxt-oled**
+### 加入OLED的插件： https://github.com/KittenBot/pxt-oled
 
  ![](KOI06/04-1.png)
 

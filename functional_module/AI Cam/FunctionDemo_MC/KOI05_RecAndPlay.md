@@ -1,4 +1,4 @@
-# **錄音與播放**
+# 錄音與播放
 
 KOI上自帶收音咪和喇叭，可以實現錄音與播放的功能。同時錄音功能作為語音辨識的前置準備操作，喇叭播放作為語音合成的輸出。
 
@@ -6,7 +6,7 @@ KOI上自帶收音咪和喇叭，可以實現錄音與播放的功能。同時�
 
  ![](KOI05/01.png)
 
-### 裝上micro SD 卡
+### 裝上micro SD卡
 
  ![](KOI05/02-1.png)
 
@@ -18,9 +18,9 @@ KOI上自帶收音咪和喇叭，可以實現錄音與播放的功能。同時�
 
 ![](../../PWmodules/images/mcbanner.png)
 
-加載KOI插件：https://github.com/KittenBot/pxt-koi
+### 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
-[詳細方法](https://kittenbothk.readthedocs.io/en/latest/functional%20module/AI%20Cam/makecodeQs.html)
+### [詳細方法](../makecodeQs.md)
 
 按鍵積木塊：
 
@@ -34,7 +34,7 @@ KOI上自帶收音咪和喇叭，可以實現錄音與播放的功能。同時�
 
 
 
-## **程式運行流程**
+## 程式運行流程
 
 把程式下載到Microbit, 
 

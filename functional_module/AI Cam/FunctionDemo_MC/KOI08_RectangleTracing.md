@@ -8,7 +8,9 @@
 
 ![](../../PWmodules/images/mcbanner.png)
 
-加載KOI插件：https://github.com/KittenBot/pxt-koi
+### 加載KOI插件：https://github.com/KittenBot/pxt-koi
+
+### [詳細方法](../makecodeQs.md)
 
 按鍵積木塊：
 
@@ -26,7 +28,7 @@
 
 臨界值越大，干擾越少，但識別難度也會提高。因此需要自己根據場景多做測試。
 
-## **程式運行流程**
+## 程式運行流程
 
 程式下載到Microbit 上, 按下Microbit 上的A鍵. KOI 的螢幕上顯示出左下角的x, y 位置值, 還有當時測得的長度與寬度 (KOI 螢幕單位佔比計算)
 
@@ -42,7 +44,7 @@
 
 ### 編寫程式
 
-**加入OLED的插件： https://github.com/KittenBot/pxt-oled**
+### 加入OLED的插件： https://github.com/KittenBot/pxt-oled**
 
 ![](KOI08/03-1.png)
 

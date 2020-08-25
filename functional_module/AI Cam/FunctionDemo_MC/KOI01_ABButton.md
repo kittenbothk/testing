@@ -8,9 +8,9 @@ KOI上自帶兩個AB側按鍵與一個Reset按鍵。
 
 ![](../../PWmodules/images/mcbanner.png)
 
-加載KOI插件：https://github.com/KittenBot/pxt-koi
+### 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
-[詳細方法](https://kittenbothk.readthedocs.io/en/latest/functional%20module/AI%20Cam/makecodeQs.html)
+### [詳細方法](../makecodeQs.md)
 
 按鍵積木塊：
 
@@ -24,7 +24,7 @@ btn1和btn2分別指的是按鍵A與按鍵B的按鍵狀態。
 
 ![](KOI01/03-1.png)
 
-## **程式運行流程**
+## 程式運行流程
 
 把程式下載到Microbit上, 當按下KOI的按鍵A，Microbit點陣顯示笑臉，且蜂鳴器播放一個短曲 power up; 當按下KOI 的按鍵B，Microbit點陣顯示張嘴的表情，且蜂鳴器播放一個短曲 ba ding。
 

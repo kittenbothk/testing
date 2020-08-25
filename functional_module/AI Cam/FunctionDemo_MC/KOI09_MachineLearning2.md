@@ -18,7 +18,9 @@
 
 ![](../../PWmodules/images/mcbanner.png)
 
-加載KOI插件：https://github.com/KittenBot/pxt-koi
+### 加載KOI插件：https://github.com/KittenBot/pxt-koi
+
+### [詳細方法](../makecodeQs.md)
 
 按鍵積木塊：
 
