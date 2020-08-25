@@ -41,7 +41,7 @@ p{
 }
 
 .fa:before{
-    color: #fdfdfd;
+    color: #aebed6;
 }
 
 .wy-side-nav-search input[type=text]{
@@ -57,7 +57,7 @@ p{
 }
 
 a:visited{
-    color: #2A7EFF;
+    color: #0f274d;
 }
 
 span.toctree-expand:before{

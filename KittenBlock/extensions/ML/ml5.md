@@ -1,4 +1,4 @@
-# Machine Learning 5插件
+# Machine Learning 5 插件
 
 Machine Learning 5是來自ml5.js的一個插件，它是為了令機器學習變得平易近人而開發的。它是建構於Google的TensorFlow上，所以功能和可靠性都很好。
 
