@@ -4,7 +4,7 @@
 
 ## 編寫圓形追踪程式
 
-![](../../modules/images/mcbanner.png)
+![](../../PWmodules/images/mcbanner.png)
 
 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
@@ -31,12 +31,9 @@
 ## **程式運行流程**
 
 
-把程式下載到Microbit 上, 按下Microbit 上的A鍵. Microbit 點陣會顯示出檢測所得之半徑值 (佔KOI 的螢幕長度計算, 最大r 值在105 - 110 右左); 同時在KOI 的螢幕上顯示出圓中心的X, Y 位置值。
+把程式下載到Microbit 上, 按下Microbit 上的A鍵. Microbit 點陣會顯示出檢測所得之半徑值 (佔KOI 的螢幕長度計算, 最大r 值在105 - 110 左右); 
 
-把程式下載到Microbit 上, 
-
-1. 把Bar Code 放到KOI 鏡頭前, 按下Microbit的按鍵A，進行識別;  Bar Code 數字便會顯示在KOI 的螢幕上。
-2. 把QR Code 放到KOI 鏡頭前, 按下Microbit的按鍵B，進行識別;  QR Code 所含的資訊便會顯示在KOI 的螢幕上。
+同時在KOI 的螢幕上顯示出圓中心的X, Y 位置值。
 
 ## 進階程式
 
@@ -60,11 +57,15 @@
 
  ![](KOI06/04-1.png)
 
-## 參考程式下載
+## 參考程式
 
-[1. 圓形追踪 Hex](https://bit.ly/KOICircleRegHex)
+[1. 圓形追踪 HEX下載](https://bit.ly/KOICircleRegHex)
 
-[2. 圓形追踪, OLED顯示](https://bit.ly/KOICircleRegOLEDHex)
+[2. 圓形追踪, OLED顯示HEX下載](https://bit.ly/KOICircleRegOLEDHex)
+
+[1. 圓形追踪 HEX網址](https://makecode.microbit.org/_hKMV8JRWePxH)
+
+[2. 圓形追踪, OLED顯示HEX網址](https://makecode.microbit.org/_8XiW1V3R20WA)
 
 ## FAQ
 

@@ -8,7 +8,7 @@
 
 ## 編寫Bar Code及QR Code讀取程式
 
-![](../../modules/images/mcbanner.png)
+![](../../PWmodules/images/mcbanner.png)
 
 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
@@ -57,11 +57,15 @@
 
 
 
-## 參考程式下載
+## 參考程式
 
-[1. 讀取Bar Code及QR Code Hex](https://bit.ly/KOIQRBarCodeScannerHex)
+[1. 讀取Bar Code及QR Code HEX下載](https://bit.ly/KOIQRBarCodeScannerHex)
 
-[2. 讀取Bar Code 及QR Code, OLED顯示](https://bit.ly/KOIBarAndQRCodeReadOLEDHex)
+[2. 讀取Bar Code及QR Code, OLED顯示HEX下載](https://bit.ly/KOIBarAndQRCodeReadOLEDHex)
+
+[1. 讀取Bar Code及QR Code HEX網址](https://makecode.microbit.org/_78kPzddrzaVq)
+
+[2. 讀取Bar Code及QR Code, OLED顯示HEX網址](https://makecode.microbit.org/_KJp1r3UD4bkL)
 
 [Bar Code 及 QR Code Sample](https://bit.ly/KOIBarAndQRCodeSample)
 

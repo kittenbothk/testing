@@ -16,7 +16,7 @@ KOI上自帶收音咪和喇叭，可以實現錄音與播放的功能。同時�
 
 ## 编寫錄音與播放程式
 
-![](../../modules/images/mcbanner.png)
+![](../../PWmodules/images/mcbanner.png)
 
 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
@@ -43,11 +43,11 @@ KOI上自帶收音咪和喇叭，可以實現錄音與播放的功能。同時�
 
 
 
-## 參考程式下載
+## 參考程式
 
-[KOI錄音與播放Hex](https://bit.ly/KOIVoiceRecandPlayHex)
+[KOI錄音與播放Hex下載](https://bit.ly/KOIVoiceRecandPlayHex)
 
-
+[KOI錄音與播放Hex網址](https://makecode.microbit.org/_ausc1e8vmEJU)
 
 ## FAQ
 

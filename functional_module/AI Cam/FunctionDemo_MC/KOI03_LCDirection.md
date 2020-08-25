@@ -6,7 +6,7 @@ KOI有個優勢，可以旋轉攝像頭，旋轉範圍0~180°。但螢幕是不�
 
 ## 编寫方向設定程式
 
-![](../../modules/images/mcbanner.png)
+![](../../PWmodules/images/mcbanner.png)
 
 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
@@ -44,11 +44,11 @@ KOI有個優勢，可以旋轉攝像頭，旋轉範圍0~180°。但螢幕是不�
 
 
 
-## 參考程式下載
+## 參考程式
 
-[LCD方向設定](https://bit.ly/KOILCDDirectionHex)
+[LCD方向設定HEX下載](https://bit.ly/KOILCDDirectionHex)
 
-
+[LCD方向設定HEX網址](https://makecode.microbit.org/_69hHYwTw6hEM)
 
 ## FAQ
 

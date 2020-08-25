@@ -6,7 +6,7 @@
 
 ## 编寫顯示資訊程式
 
-![](../../modules/images/mcbanner.png)
+![](../../PWmodules/images/mcbanner.png)
 
 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
@@ -36,11 +36,11 @@
 
 
 
-## 參考程式下載
+## 參考程式
 
-[螢幕顯示資訊HEX](https://bit.ly/KOIDisplayInfoHex)
+[螢幕顯示資訊HEX下載](https://bit.ly/KOIDisplayInfoHex)
 
-
+[螢幕顯示資訊HEX網址](https://makecode.microbit.org/_42kMpRLg7HC4)
 
 ## FAQ
 

@@ -16,7 +16,7 @@
 
 ## 編寫模型訓練程式
 
-![](../../modules/images/mcbanner.png)
+![](../../PWmodules/images/mcbanner.png)
 
 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
@@ -42,9 +42,11 @@
 
 [![](KOI09/9.png)](https://www.youtube.com/watch?v=UsjingLwnHc&feature=youtu.b)
 
-## 參考程式下載
+## 參考程式
 
-[KOI 分類運行 HEX](https://bit.ly/KOIClassifier)
+[KOI 分類運行 HEX下載](https://bit.ly/KOIClassifier)
+
+[KOI 分類運行 HEX網址](https://makecode.microbit.org/_H7z8TeXHw9ib)
 
 ## FAQ
 1：為什麼我重新開機，按下按鍵，但按鍵沒有反應？

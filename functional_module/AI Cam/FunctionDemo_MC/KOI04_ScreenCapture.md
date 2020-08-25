@@ -4,7 +4,7 @@
 
 
 
-### 裝上SD 卡
+### 裝上SD卡
 
  ![](KOI04/02-1.png)
 
@@ -14,7 +14,7 @@
 
 ## 编寫顯示資訊程式
 
-![](../../modules/images/mcbanner.png)
+![](../../PWmodules/images/mcbanner.png)
 
 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
@@ -50,13 +50,15 @@
 
 ![](KOI04/05.png)
 
-## 參考程式下載
+## 參考程式
 
-[影像截圖與顯示HEX](https://bit.ly/KOIPicCaptureAndShowHex)
+[影像截圖與顯示HEX下載](https://bit.ly/KOIPicCaptureAndShowHex)
 
-[連續影像截圖與顯示HEX](https://bit.ly/KOIConsCapandShowPic)
+[連續影像截圖與顯示HEX下載](https://bit.ly/KOIConsCapandShowPic)
 
+[影像截圖與顯示HEX網址](https://makecode.microbit.org/_Udf2CAaqa2Ej)
 
+[連續影像截圖與顯示HEX網址](https://makecode.microbit.org/_gqfFu3TU8dsd)
 
 ## FAQ
 

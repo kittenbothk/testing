@@ -10,7 +10,7 @@
 
 ## 編寫線條追蹤程式
 
-![](../../modules/images/mcbanner.png)
+![](../../PWmodules/images/mcbanner.png)
 
 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
@@ -71,11 +71,15 @@
 
 ![](KOI12/01.png)
 
-## 參考程式下載
+## 參考程式
 
-[1. KOI Line Tracing](https://bit.ly/KOILineTracingHex)
+[1. 線條檢測HEX下載](https://bit.ly/KOILineTracingHex)
 
-[2. KOI Line Tracing with OLED](https://bit.ly/KOILineTracingOLEDHex)
+[2. 線條檢測+OLED HEX下載](https://bit.ly/KOILineTracingOLEDHex)
+
+[1. 線條檢測HEX網址](https://makecode.microbit.org/_4a793LP4m9jh)
+
+[2. 線條檢測+OLED HEX網址](https://makecode.microbit.org/_Twe7TJeF2VYj)
 
 ## FAQ
 

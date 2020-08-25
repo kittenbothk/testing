@@ -4,13 +4,9 @@ KOI上自帶兩個AB側按鍵與一個Reset按鍵。
 
  ![](KOI01/01-1.png)
 
-
-
-
-
 ## 編寫A,B按鍵程式
 
-![](../../modules/images/mcbanner.png)
+![](../../PWmodules/images/mcbanner.png)
 
 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
@@ -24,23 +20,20 @@ btn1和btn2分別指的是按鍵A與按鍵B的按鍵狀態。
 
 當按鍵按下時，狀態為1，否則為0。通過判斷btn1或者btn2的變數是否為1時，就可判斷按鍵是否按下。
 
-  
+完整參考程式：
 
-完整參考程式：![](KOI01/03-1.png)
-
-
+![](KOI01/03-1.png)
 
 ## **程式運行流程**
 
 把程式下載到Microbit上, 當按下KOI的按鍵A，Microbit點陣顯示笑臉，且蜂鳴器播放一個短曲 power up; 當按下KOI 的按鍵B，Microbit點陣顯示張嘴的表情，且蜂鳴器播放一個短曲 ba ding。
 
 
+## 參考程式
 
-## 參考程式下載
+[KOI AB 按鍵應用HEX下載](https://bit.ly/KOIButtonTestHex)
 
-[KOI AB 按鍵應用HEX](https://bit.ly/KOIButtonTestHex)
-
-
+[KOI AB 按鍵應用HEX網址](https://makecode.microbit.org/_cRJJaAfW3bmw)
 
 ## FAQ
 

@@ -5,9 +5,6 @@
 在本節教程，大家將會學到如何使用內建的機器學習功能，輕鬆簡易地為機器學習模型進行訓練。
 
 
-
-
-
 ## 插入MicroSD卡
 
 雖然使用機器學習辨認特徵並毋須MicroSD卡，但是想永久儲存訓練模型的話就一定要加插MicroSD卡了。
@@ -18,7 +15,7 @@
 
 ## 編寫模型訓練程式
 
-![](../../modules/images/mcbanner.png)
+![](../../PWmodules/images/mcbanner.png)
 
 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
@@ -53,9 +50,11 @@
 
 [![](KOI09/image6365.png)](https://www.youtube.com/watch?v=UsjingLwnHc&feature=youtu.b)
 
-## 參考程式下載
+## 參考程式
 
-[KOI 分類Trainer HEX](https://bit.ly/KOIClassifierTrainer)
+[KOI 分類Trainer HEX下載](https://bit.ly/KOIClassifierTrainer)
+
+[KOI 分類Trainer HEX網址](https://makecode.microbit.org/_85DXX1gg9JVt)
 
 ## FAQ
 1：為什麼我重新開機，按下按鍵A，但按下A鍵沒有反應？

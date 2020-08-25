@@ -6,41 +6,29 @@
 
 ## 編寫方形追踪程式
 
-![](../../modules/images/mcbanner.png)
+![](../../PWmodules/images/mcbanner.png)
 
 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
-
-
 按鍵積木塊：
 
-
-
-​             ![](KOI08/01-1.png)
-
-
+![](KOI08/01-1.png)
 
 完整參考程式：
 
-  ![](KOI08/02-1.png)
-
-
+![](KOI08/02-1.png)
 
 ### 臨界值
 
- ![](KOI08/04-1.png)
+![](KOI08/04-1.png)
 
 臨界值是影響識別率的一個參數, 需要自主嘗試並調整臨界值。
 
 臨界值越大，干擾越少，但識別難度也會提高。因此需要自己根據場景多做測試。
 
-
-
 ## **程式運行流程**
 
 程式下載到Microbit 上, 按下Microbit 上的A鍵. KOI 的螢幕上顯示出左下角的x, y 位置值, 還有當時測得的長度與寬度 (KOI 螢幕單位佔比計算)
-
-
 
 ## 進階程式
 
@@ -50,25 +38,23 @@
 
 本例子以Robotbit 示範, 把OLED 屏接到I2C 接口上
 
-​      ![](KOI06/03-1.png)
-
-
+![](KOI06/03-1.png)
 
 ### 編寫程式
 
 **加入OLED的插件： https://github.com/KittenBot/pxt-oled**
 
- ![](KOI08/03-1.png)
+![](KOI08/03-1.png)
 
+## 參考程式
 
+[1. 方形追踪 HEX下載](https://bit.ly/KOIRectangleRecHex)
 
-## 參考程式下載
+[2. 方形追踪, OLED顯示HEX下載](https://bit.ly/KOIRectangleOLEDHex)
 
-[1. 方形追踪 Hex](https://bit.ly/KOIRectangleRecHex)
+[1. 方形追踪 HEX網址](https://makecode.microbit.org/_K7k65CVufTJE)
 
-[2. 方形追踪, OLED顯示](https://bit.ly/KOIRectangleOLEDHex)
-
-
+[2. 方形追踪, OLED顯示HEX網址](https://makecode.microbit.org/_RUii9YfwFapW)
 
 ## FAQ
 
