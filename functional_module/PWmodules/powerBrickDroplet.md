@@ -49,8 +49,6 @@
 
 ### 加載PowerBrick插件
 
-離線版與在線版同樣操作。
-
 在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
 
 ![](./kbimages/addextension.png)
