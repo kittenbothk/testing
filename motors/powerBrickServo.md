@@ -68,9 +68,9 @@ Geekservo舵機 (HKBD9005A)
 
 將舵機的橙紅啡線連接至RobotBit的舵機接口。
 
-![](./images/servoconRB.jpg)
+![](./images/servoConRB.jpg)
 
-![](./images/2kservoconRB1.jpg)
+![](./images/2kservoConRB1.jpg)
 
     啡色接負極，紅色接正極，橙色接數據
 

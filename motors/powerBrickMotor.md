@@ -67,9 +67,9 @@ Geekservo電機 (HKBD9006A)
 
 將電機的紅黑線連接至RobotBit的電機接口。
 
-![](./images/motorconRB.jpg)
+![](./images/motorConRB.jpg)
 
-![](./images/2kmotorconRB1.jpg)
+![](./images/2kmotorConRB1.jpg)
 
     沒有嚴格正負極之分，插的方向只會影響電機轉動方向。
 
