@@ -58,11 +58,13 @@ FaceAI亦都可以辨認相中人的性別(男或女)。
 
 ![](../images/faceai10.png)
 
+![](../images/faceai16.png)
+
 運行程式，完成之後更改名字再運行，錄入一下塊人臉的資料。
 
 ![](../images/faceai11.png)
 
-最後我們修改程式，要小貓說出人的名稱。
+最後我們搭建程式，要小貓說出人的名稱。
 
 ![](../images/faceai12.png)
 

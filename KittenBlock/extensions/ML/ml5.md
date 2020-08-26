@@ -30,6 +30,12 @@ Machine Learning 5是來自ml5.js的一個插件，它是為了令機器學習�
 
 ![](../images/ml4.png)
 
+### 人臉追蹤
+
+透過FaceAPI，可以追蹤人臉。
+
+![](../images/ml34.png)
+
 ## 加載Machine Learning 5插件
 
 按下左下角的插件加載按鈕。

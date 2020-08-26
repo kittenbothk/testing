@@ -88,6 +88,14 @@
 
 ![](../images/baidu17.png)
 
+### 智能對話
+
+百度大腦擁有智能對話能力，可以像手機的智能助理一樣和你對話。
+
+![](../images/baidu18.png)
+
+![](../images/baidu19.png)
+
 ## References
 
     By Damian Morys from New York City, United States - Aventador., CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=41292267
