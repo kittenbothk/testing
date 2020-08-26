@@ -87,6 +87,8 @@ Kittenblock也支援像Makecode那樣將程序上載到Microbit，程序保留�
 
 從這件事我們可以知道，假如想上載程式到Microbit，我們就不可以使用只限舞台的積木。
 
+舞台積木與硬件積木的解釋可以參考：[編程積木欄](./interfaceIntro/codingblocks.md)
+
 ![](./images/example2b2.png)
 
 我們只要改一改錯誤的積木，然後再翻譯。
