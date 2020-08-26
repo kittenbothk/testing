@@ -83,7 +83,7 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 ### Microsoft MakeCode
 
-![](../functional_module/modules/images/mcbanner.png)
+![](../functional_module/PWmodules/images/mcbanner.png)
 
 ### ![](./image/04_1.png)
 
