@@ -11,3 +11,4 @@
     ml5knn.md
     ml5rnn.md
     ml5posenet.md
+    ml5face.md
