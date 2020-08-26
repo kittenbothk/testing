@@ -16,7 +16,7 @@
 
 ![](../images/ml6.png)
 
-電腦配置比較弱（例如：缺乏顯示卡）的用戶，可以點選CPU模式提升效能。
+電腦配置比較弱(例如：缺乏獨立顯示卡)的用戶，可以點選CPU模式提升效能。
 
 ![](../images/ml14.png)
 
@@ -31,6 +31,8 @@
 ![](../images/ml8.png)
 
 點選主角色然後編程。
+
+我們可以選擇MobileNet或者MobileNetLocal，兩者分別在於MobileNetLocal能夠在沒有網絡的情況下仍能使用。
 
 ![](../images/ml9.png)
 
