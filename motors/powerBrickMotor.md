@@ -55,15 +55,29 @@ Geekservo電機 (HKBD9006A)
 
 ## 接線方法
 
+### ArmourBit
+
 將電機的紅黑線連接至Armourbit底部的電機接口。
 
 ![](./kbimages/motorcon.jpg)
+
+    沒有嚴格正負極之分，插的方向只會影響電機轉動方向。
+    
+### RobotBit
+
+將電機的紅黑線連接至RobotBit的電機接口。
+
+![](./images/motorconRB.jpg)
+
+![](./images/2kmotorconRB1.jpg)
 
     沒有嚴格正負極之分，插的方向只會影響電機轉動方向。
 
 ## MakeCode編程教學
 
 ![](./images/mcbanner.png)
+
+### ArmourBit
 
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
@@ -83,13 +97,21 @@ Geekservo電機 (HKBD9006A)
 
 [![](./images/geekservotut.png)](https://www.youtube.com/watch?v=gUR2DbgVTCQ)
 
+### RobotBit
+
+### 加載RobotBit插件：
+
+![](./images/robotbitExtension.png)
+
+### 電機積木塊:
+
+![](./images/2kmotorblocks_rb.png)
+
 ## KittenBlock編程教學
 
 ![](./images/kbbanner.png)
 
 ### 加載PowerBrick插件
-
-離線版與在線版同樣操作。
 
 在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
 

@@ -56,18 +56,39 @@ Geekservo舵機 (HKBD9005A)
 
 ## 接線方法
 
+### ArmourBit
+
 將舵機的橙紅啡線連接至Armourbit背部的舵機接口。
 
 ![](./kbimages/servocon.jpg)
 
     啡色接負極，紅色接正極，橙色接數據
+    
+### RobotBit
 
+將舵機的橙紅啡線連接至RobotBit的舵機接口。
+
+![](./images/servoconRB.jpg)
+
+![](./images/2kservoconRB1.jpg)
+
+    啡色接負極，紅色接正極，橙色接數據
 
 ## MakeCode編程教學
 
 ![](./images/mcbanner.png)
 
+### ArmourBit與RobotBit的編程是一樣的。
+
+### ArmourBit
+
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+
+### RobotBit
+
+### 加載RobotBit插件：
+
+![](./images/robotbitExtension.png)
 
 ### 舵機積木塊:
 

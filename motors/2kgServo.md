@@ -56,9 +56,21 @@
 
 ## 接線方法
 
+### ArmourBit
+
 將舵機的橙紅啡線連接至Armourbit背部的舵機接口。
 
 ![](./images/2kservoCon.jpg)
+
+    啡色接負極，紅色接正極，橙色接數據
+    
+### RobotBit
+
+將舵機的橙紅啡線連接至RobotBit的舵機接口。
+
+![](./images/2kservoConRB.jpg)
+
+![](./images/2kservoConRB1.jpg)
 
     啡色接負極，紅色接正極，橙色接數據
     
@@ -66,7 +78,17 @@
 
 ![](./images/mcbanner.png)
 
+### ArmourBit與RobotBit的編程是一樣的。
+
+### ArmourBit
+
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+
+### RobotBit
+
+### 加載RobotBit插件：
+
+![](./images/robotbitExtension.png)
 
 ### 舵機積木塊:
 
@@ -80,13 +102,13 @@
 
 [參考程式網址](https://makecode.microbit.org/_Fxq45rHFrD8s)
 
+
+
 ## KittenBlock編程教學
 
 ![](./images/kbbanner.png)
 
 ### 加載PowerBrick插件
-
-離線版與在線版同樣操作。
 
 在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
 
