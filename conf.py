@@ -27,6 +27,7 @@ copyright = '2020, Kittenbot HK'
 author = 'Kittenbot HK'
 
 import recommonmark
+import sphinx_markdown_tables
 from recommonmark.parser import CommonMarkParser
 from recommonmark.transform import AutoStructify
 
@@ -56,7 +57,7 @@ source_suffix = {
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx_markdown_tables',
+    # 'sphinx_markdown_tables',
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.coverage',
     'sphinx.ext.autodoc',
@@ -69,6 +70,7 @@ extensions = [
 
     # 'sphinxcontrib.httpdomain',
     # "sphinx_rtd_theme"
+    'sphinx_markdown_tables',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
