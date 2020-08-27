@@ -27,7 +27,7 @@ copyright = '2020, Kittenbot HK'
 author = 'Kittenbot HK'
 
 import recommonmark
-import sphinx_markdown_tables
+
 from recommonmark.parser import CommonMarkParser
 from recommonmark.transform import AutoStructify
 
@@ -70,7 +70,6 @@ extensions = [
 
     # 'sphinxcontrib.httpdomain',
     # "sphinx_rtd_theme"
-    'sphinx_markdown_tables',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
