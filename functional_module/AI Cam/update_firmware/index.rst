@@ -10,4 +10,5 @@ Kittenbot不定時會推出固件更新，改進KOI AI鏡頭的功能。
     :glob:
 
     updateTut.md
+    updateHist.md
 

@@ -11,3 +11,4 @@ AI鏡頭KOI 的硬件介紹與Makecode上編程方法
     intro
     makecodeQs
     FunctionDemo_MC/index
+    update_firmware/index
