@@ -35,11 +35,7 @@
 
 ## 參考程式
 
-[1. 語音識別HEX下載]()
-
 [1. 語音識別HEX網址](https://makecode.microbit.org/_9Kui7vMu39Ah)
-
-[1. 語音識別HEX下載(v1.8.2)]()
 
 [1. 語音識別HEX網址(v1.8.2)](https://makecode.microbit.org/_V6MeYw0YU4WY)
 
@@ -55,6 +51,3 @@
 
 ·    答：不行，必須要接5V！
 
-3：如何提高巡線的準確性？
-
-·    答：盡量保持簡潔的背景，並使用與背景顏色有明顯分別的物件。
