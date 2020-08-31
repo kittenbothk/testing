@@ -22,7 +22,7 @@ Armourbit與KOI配合使用時，KOI必須額外提供5V電。
 
 ### 2. 與Robotbit連接
 
-#### 固件版本: v1.8.2 之前
+#### 2.1 固件版本: v1.8.2 之前
 
 由於Robobit 上提供了5V 的輸出接口, 我們可以不用再接USB線為KOI 供電。
 
@@ -48,7 +48,7 @@ Armourbit與KOI配合使用時，KOI必須額外提供5V電。
 
 ![](McQsImage/robotbit_connection3-1.png) 
 
-#### 固件版本: v1.8.2 之後
+#### 2.2 固件版本: v1.8.2 之後
 
 KOI在v1.8.2的固件上修改了接線的順序，將藍線和綠線次序掉轉。
 
@@ -134,7 +134,7 @@ KOI 插件成功載入，如圖所示
 
 如果大家熟悉PC端的KittenbotML5外掛程式，那麼理解KOI的Classifier 積木塊也就很簡單了。
 
-Classifier 分類器用於自訂學習分辨特定的物體或者場景等等
+Classifier 分類器用於自訂學習分辨特定的物體或者場景等等。
 
  ![](McQsImage/05.png) 
 
