@@ -31,9 +31,9 @@ btn1和btn2分別指的是按鍵A與按鍵B的按鍵狀態。
 
 ## 參考程式
 
-[KOI AB 按鍵應用HEX下載](https://bit.ly/KOIButtonTestHex)
-
 [KOI AB 按鍵應用HEX網址](https://makecode.microbit.org/_cRJJaAfW3bmw)
+
+[KOI AB 按鍵應用HEX網址](https://makecode.microbit.org/_H8h9jjh4RdTH)
 
 ## FAQ
 

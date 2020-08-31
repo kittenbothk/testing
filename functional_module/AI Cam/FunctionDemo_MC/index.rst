@@ -6,6 +6,7 @@ Makecode上KOI各種功能編程指引
     :maxdepth: 1
     :glob:
 
+    init.md
     KOI01_ABButton
     KOI02_Printer
     KOI03_LCDirection

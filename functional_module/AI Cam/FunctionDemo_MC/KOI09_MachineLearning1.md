@@ -54,9 +54,9 @@
 
 ## 參考程式
 
-[KOI 分類Trainer HEX下載](https://bit.ly/KOIClassifierTrainer)
-
 [KOI 分類Trainer HEX網址](https://makecode.microbit.org/_85DXX1gg9JVt)
+
+[KOI 分類Trainer HEX網址(v1.8.2)](https://makecode.microbit.org/_H0icywATVC98)
 
 ## FAQ
 1：為什麼我重新開機，按下按鍵A，但按下A鍵沒有反應？

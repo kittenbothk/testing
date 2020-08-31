@@ -38,9 +38,9 @@
 
 ## 參考程式
 
-[螢幕顯示資訊HEX下載](https://bit.ly/KOIDisplayInfoHex)
-
 [螢幕顯示資訊HEX網址](https://makecode.microbit.org/_42kMpRLg7HC4)
+
+[螢幕顯示資訊HEX網址(v1.8.2)](https://makecode.microbit.org/_3yA2htRD6ERr)
 
 ## FAQ
 

@@ -2,7 +2,7 @@
 
 # Makecode 編程與Thinkspeak
 
-![](../../modules/images/mcbanner.png)
+![](../../PWmodules/images/mcbanner.png)
 
 ## 前言
 

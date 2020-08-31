@@ -60,17 +60,15 @@
 
 ## 參考程式
 
-[1. 讀取Bar Code及QR Code HEX下載](https://bit.ly/KOIQRBarCodeScannerHex)
-
-[2. 讀取Bar Code及QR Code, OLED顯示HEX下載](https://bit.ly/KOIBarAndQRCodeReadOLEDHex)
-
 [1. 讀取Bar Code及QR Code HEX網址](https://makecode.microbit.org/_78kPzddrzaVq)
 
 [2. 讀取Bar Code及QR Code, OLED顯示HEX網址](https://makecode.microbit.org/_KJp1r3UD4bkL)
 
+[1. 讀取Bar Code及QR Code HEX網址(v1.8.2)](https://makecode.microbit.org/_Wr7g0Rh0YXtW)
+
+[2. 讀取Bar Code及QR Code, OLED顯示HEX網址(v1.8.2)](https://makecode.microbit.org/_g2tJJVbmT1EM)
+
 [Bar Code 及 QR Code Sample](https://bit.ly/KOIBarAndQRCodeSample)
-
-
 
 ## FAQ
 

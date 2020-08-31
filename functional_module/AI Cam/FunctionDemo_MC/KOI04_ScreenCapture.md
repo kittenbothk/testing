@@ -52,13 +52,13 @@
 
 ## 參考程式
 
-[影像截圖與顯示HEX下載](https://bit.ly/KOIPicCaptureAndShowHex)
-
-[連續影像截圖與顯示HEX下載](https://bit.ly/KOIConsCapandShowPic)
-
 [影像截圖與顯示HEX網址](https://makecode.microbit.org/_Udf2CAaqa2Ej)
 
 [連續影像截圖與顯示HEX網址](https://makecode.microbit.org/_gqfFu3TU8dsd)
+
+[影像截圖與顯示HEX網址(v1.8.2)](https://makecode.microbit.org/_dEbXqaFcCCd3)
+
+[連續影像截圖與顯示HEX網址(v1.8.2)](https://makecode.microbit.org/_PkigfFKUMR0r)
 
 ## FAQ
 

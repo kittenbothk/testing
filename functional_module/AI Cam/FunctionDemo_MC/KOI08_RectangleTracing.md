@@ -50,13 +50,13 @@
 
 ## 參考程式
 
-[1. 方形追踪 HEX下載](https://bit.ly/KOIRectangleRecHex)
+[1. 方形追踪 HEX網址](https://makecode.microbit.org/_71rRF96xwgJJ)
 
-[2. 方形追踪, OLED顯示HEX下載](https://bit.ly/KOIRectangleOLEDHex)
+[2. 方形追踪, OLED顯示HEX網址](https://makecode.microbit.org/_HD46mYF88YCF)
 
-[1. 方形追踪 HEX網址](https://makecode.microbit.org/_K7k65CVufTJE)
+[1. 方形追踪 HEX網址(v1.8.2)](https://makecode.microbit.org/_eErea8E16Xsq)
 
-[2. 方形追踪, OLED顯示HEX網址](https://makecode.microbit.org/_RUii9YfwFapW)
+[2. 方形追踪, OLED顯示HEX網址(v1.8.2)](https://makecode.microbit.org/_18tc0TAkdR80)
 
 ## FAQ
 
