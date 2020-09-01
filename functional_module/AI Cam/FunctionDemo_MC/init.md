@@ -26,4 +26,4 @@ KOI支援Robotbit與Armourbit，兩者分別只是在於初始化積木的分別
 
 ![](init/4.png)
 
-在後面教學中的編程我們會用Robotbit為例子，假如你用Armourbit，只要使用相應的初始化積木即可。
+### 在後面教學中的編程我們會用Robotbit為例子，假如你用Armourbit，只要使用相應的初始化積木即可。
