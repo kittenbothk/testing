@@ -11,7 +11,7 @@
 
 ### [詳細方法](../makecodeQs.md)
 
-按鍵積木塊：
+語音識別積木塊：
 
 ![](KOI13/1.png)
 
@@ -34,8 +34,6 @@
 6: 完成訓練後，同時按下A和B，KOI會開始辨識指令。成功辨認的話會顯示綠色，否則顯示紅色。Microbit上亦會顯示辨識到指令的編號。
 
 ## 參考程式
-
-[1. 語音識別HEX網址](https://makecode.microbit.org/_9Kui7vMu39Ah)
 
 [1. 語音識別HEX網址(v1.8.2)](https://makecode.microbit.org/_V6MeYw0YU4WY)
 
