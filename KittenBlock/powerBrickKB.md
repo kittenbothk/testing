@@ -8,17 +8,17 @@ KittenBlock是KittenBot的自家編程平台。
 
 Windows 10系統：
 
-到瀏覽器前往  [http://www.kittenbot.hk/software/platform/](http://www.kittenbot.hk/software/編程平台/) ‎，按系統點選相應的Download鍵, 下載KittenBlock。
+前往 [http://www.kittenbot.hk](http://www.kittenbot.hk/software/platform/) ，按系統點選相應的Download鍵‎，下載KittenBlock。
 
 Windows 10以下或MacOS用戶：
 
-到瀏覽器前往  [http://www.kittenbot.hk/software/platform/](http://www.kittenbot.hk/software/編程平台/) ‎，按系統點選相應的Download鍵, 下載KittenBlock。
+到瀏覽器前往 [http://www.kittenbot.hk](http://www.kittenbot.hk/software/platform/) ，按系統點選相應的Download鍵，下載KittenBlock。
 
 ![](../functional_module/PWmodules/kbimages/aas.png)  
 
 點選下載
 
-![](../functional_module/PWmodules/kbimages/gd.png) 
+![](../functional_module/PWmodules/kbimages/download.png) 
 
 ### 雙擊安裝
 
