@@ -5,8 +5,14 @@ IoT 平台有免費或付費的選擇, Kittenbot 為大家介紹新手玩家的�
 
 .. toctree::
     :maxdepth: 1
+    :caption: ThingSpeak:
     :glob:
 
     Thinkspeak.md
-    Makercloud創客雲: https://learn.makercloud.io/zh_TW/latest/
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Makercloud創客雲:
+
+    https://learn.makercloud.io/zh_TW/latest/
     
