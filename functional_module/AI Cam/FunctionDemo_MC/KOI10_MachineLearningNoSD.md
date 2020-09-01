@@ -1,6 +1,8 @@
 # **機器學習--自定義物件識別(不使用SD卡)**
 
-KOI上的機器學習不是必須要SD卡的，在這次教程我們將會試試在不用SD卡的情況下在一個程式裏完成機器學習的訓練與辨認的功能。
+KOI上的機器學習不是必須要SD卡的，資料可以臨時儲存在KOI上面，重啟後就會清除資料。
+
+在這次教程我們將會試試在不用SD卡的情況下在一個程式裏完成機器學習的訓練與辨認的功能。
 
 ## 編寫機器學習程式
 
@@ -34,10 +36,11 @@ KOI上的機器學習不是必須要SD卡的，在這次教程我們將會試試
 
 6：將物件放在鏡頭前，Microbit點陣上會顯示辨識物件的分類編號。
 
+    在沒有將模型儲存到SD卡的情況下，我們的訓練模型只能暫存在KOI上面，所以當我們重啟程式或者KOI後就會清除資料，需要重新訓練。
 
 ## 參考程式
 
-[KOI 分類Trainer HEX網址](https://makecode.microbit.org/_8Ag5b2gjogvq)
+[KOI 分類Trainer HEX網址(v0.43)](https://makecode.microbit.org/_8Ag5b2gjogvq)
 
 [KOI 分類Trainer HEX網址(v1.8.2)](https://makecode.microbit.org/_07VXAdMz0Wsg)
 

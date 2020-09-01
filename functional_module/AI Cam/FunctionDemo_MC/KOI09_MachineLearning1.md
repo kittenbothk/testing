@@ -54,7 +54,7 @@
 
 ## 參考程式
 
-[KOI 分類Trainer HEX網址](https://makecode.microbit.org/_85DXX1gg9JVt)
+[KOI 分類Trainer HEX網址(v0.43)](https://makecode.microbit.org/_85DXX1gg9JVt)
 
 [KOI 分類Trainer HEX網址(v1.8.2)](https://makecode.microbit.org/_H0icywATVC98)
 

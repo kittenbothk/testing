@@ -34,7 +34,7 @@ KOI不定時會推出固件更新，改進KOI AI鏡頭的功能。
 
 ![](./images/5.png)
 
-在Board選擇Sispeed Maixduino。
+在Board選擇Sipeed Maixduino。
 
 ![](./images/6.png)
 
@@ -61,6 +61,8 @@ KOI不定時會推出固件更新，改進KOI AI鏡頭的功能。
 ## 2. 用Kittenblock更新
 
 有安裝Kittenblock的用家可以使用Kittenblock更新。
+
+[下載Kittenblock](../../Kittenblock/powerBrickKB.md)
 
 將KOI插入電腦的USB接口。
 

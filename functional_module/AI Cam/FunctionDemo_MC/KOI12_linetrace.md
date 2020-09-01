@@ -67,11 +67,11 @@
 
 ## 參考程式
 
-[1. 線條檢測HEX網址](https://makecode.microbit.org/_LvRAHfgD8Au9)
+[1. 線條檢測HEX網址(v0.43)](https://makecode.microbit.org/_LvRAHfgD8Au9)
 
 [1. 線條檢測HEX網址(v1.8.2)](https://makecode.microbit.org/_bJdXpF8scDhJ)
 
-[2. 線條檢測+OLED HEX網址](https://makecode.microbit.org/_CLj4H8Lgfhji)
+[2. 線條檢測+OLED HEX網址(v0.43)](https://makecode.microbit.org/_CLj4H8Lgfhji)
 
 [2. 線條檢測+OLED HEX網址(v1.8.2)](https://makecode.microbit.org/_cuq78EWetbVD)
 
