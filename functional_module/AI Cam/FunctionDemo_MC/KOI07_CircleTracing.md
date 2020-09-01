@@ -61,9 +61,9 @@
 
 ## 參考程式
 
-[1. 圓形追踪 HEX網址](https://makecode.microbit.org/_hKMV8JRWePxH)
+[1. 圓形追踪 HEX網址(v0.43)](https://makecode.microbit.org/_hKMV8JRWePxH)
 
-[2. 圓形追踪, OLED顯示HEX網址](https://makecode.microbit.org/_8KfVpedkbh7k)
+[2. 圓形追踪, OLED顯示HEX網址(v0.43)](https://makecode.microbit.org/_8KfVpedkbh7k)
 
 [1. 圓形追踪 HEX網址(v1.8.2)](https://makecode.microbit.org/_Fe8EH2EJyYfm)
 

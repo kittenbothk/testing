@@ -60,9 +60,9 @@
 
 ## 參考程式
 
-[1. 讀取Bar Code及QR Code HEX網址](https://makecode.microbit.org/_78kPzddrzaVq)
+[1. 讀取Bar Code及QR Code HEX網址(v0.43)](https://makecode.microbit.org/_78kPzddrzaVq)
 
-[2. 讀取Bar Code及QR Code, OLED顯示HEX網址](https://makecode.microbit.org/_KJp1r3UD4bkL)
+[2. 讀取Bar Code及QR Code, OLED顯示HEX網址(v0.43)](https://makecode.microbit.org/_KJp1r3UD4bkL)
 
 [1. 讀取Bar Code及QR Code HEX網址(v1.8.2)](https://makecode.microbit.org/_Wr7g0Rh0YXtW)
 
