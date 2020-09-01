@@ -37,7 +37,7 @@
 
 ## 參考程式
 
-[1. 人面辨識HEX網址(v1.8.2)](https://makecode.microbit.org/_9WmR66246bta)
+[1. 人面辨識HEX網址(v1.8.2)](https://makecode.microbit.org/_6bc4yRL4L3R0)
 
 ## FAQ
 
