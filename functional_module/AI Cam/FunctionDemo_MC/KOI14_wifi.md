@@ -21,7 +21,7 @@ KOI上面也有Wifi的功能，我們可以透過Wifi存取物聯網平台的數
 
 有關創客雲的資料可以參考： [創客雲介紹](https://learn.makercloud.io/zh_TW/latest/)
     
-![](KOI14/2.png)
+![](KOI14/5.png)
 
 ## 程式流程
 
