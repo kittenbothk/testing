@@ -19,6 +19,7 @@ Makecode上KOI各種功能編程指引
     KOI11_face.md
     KOI09_MachineLearning1.md
     KOI09_MachineLearning2.md
+    KOI10_MachineLearningNoSD.md
     KOI13_VoiceRec.md
     KOI14_wifi.md
     KOI15_FaceRecog.md
