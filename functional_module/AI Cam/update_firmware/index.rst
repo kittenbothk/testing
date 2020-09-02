@@ -8,5 +8,5 @@ Kittenbot不定時會推出固件更新，改進KOI AI鏡頭的功能。
 .. toctree::
     :maxdepth: 2
 
-    updateTut.md
     updateHist.md
+    updateTut.md
