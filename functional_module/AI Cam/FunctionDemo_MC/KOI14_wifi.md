@@ -21,7 +21,7 @@ KOI上面也有Wifi的功能，我們可以透過Wifi存取物聯網平台的數
 
 有關創客雲的資料可以參考： [創客雲介紹](https://learn.makercloud.io/zh_TW/latest/)
     
-![](KOI14/5.png)
+![](KOI14/6.png)
 
 ## 程式流程
 
@@ -40,7 +40,7 @@ KOI上面也有Wifi的功能，我們可以透過Wifi存取物聯網平台的數
 
 ## 參考程式
 
-[1. 物聯網HEX網址(v1.8.2)](https://makecode.microbit.org/_X7iWq8XtJega)
+[1. 物聯網HEX網址(v1.8.2)](https://makecode.microbit.org/_EaVUucXWW7Cv)
 
 ## FAQ
 
