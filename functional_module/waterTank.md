@@ -43,6 +43,12 @@ All in 1水箱連水泵組合 (HKBM8015A)
 
 [參考程式網址](https://makecode.microbit.org/_RYHivyayYL4q)
 
+## 插件版本與更新
+
+PowerBrick插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+
+詳情請參考: [Makecode插件版本更換](../../Makecode/makecode_extensionUpdate)
+
 ## KittenBlock編程教學
 
 ![](./PWmodules/images/kbbanner.png)
@@ -68,3 +74,4 @@ All in 1水箱連水泵組合 (HKBM8015A)
 1：為什麼我點擊積木塊沒有反應呢？
 
 首先確保已經連接好Microbit，然後上載韌體再試一試。
+

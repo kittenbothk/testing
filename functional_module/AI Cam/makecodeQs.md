@@ -50,6 +50,7 @@ Armourbit與KOI配合使用時，KOI必須額外提供5V電。
 ## 準備Makecode編程
 
 ------
+![](../PWmodules/images/mcbanner.png)
 
 可以使用線上版本或者離線版本的Makecode
 
@@ -124,7 +125,6 @@ Classifier 分類器用於自訂學習分辨特定的物體或者場景等等。
 
 
  ![](McQsImage/06.png)
-
 
 
 ### **顯示資訊**
@@ -232,7 +232,12 @@ Apriltag廣泛應用到機器人視覺識別的場景中
 
 ### KOI的AB按鍵檢測
 
- ![](McQsImage/18.png)
+ ![](./FunctionDemo_MC/KOI01/02-1.png)
 
 按鍵檢測事件，btn1與btn2分別是按鍵的狀態值; 當按下鬆開會傳回迅間值1，閒置狀態為0。
 
+## 插件版本與更新
+
+KOI插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+
+詳情請參考: [Makecode插件版本更換](../../Makecode/makecode_extensionUpdate)
