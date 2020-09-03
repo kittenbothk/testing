@@ -52,13 +52,13 @@
 
 ## 參考程式
 
-[1. 影像截圖與顯示HEX網址(v0.43)](https://makecode.microbit.org/_Udf2CAaqa2Ej)
+[1. 影像截圖與顯示HEX網址 (固件0.43_插件0.5.4)](https://makecode.microbit.org/_7a17i82DHb0T)
 
-[2. 連續影像截圖與顯示HEX網址(v0.43)](https://makecode.microbit.org/_gqfFu3TU8dsd)
+[2. 連續影像截圖與顯示HEX網址 (固件0.43_插件0.5.4)](https://makecode.microbit.org/_X0uKbWTomM00)
 
-[1. 影像截圖與顯示HEX網址(v1.8.2)](https://makecode.microbit.org/_dEbXqaFcCCd3)
+[1. 影像截圖與顯示HEX網址 (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_9Xa3c5TEcdrd)
 
-[2. 連續影像截圖與顯示HEX網址(v1.8.2)](https://makecode.microbit.org/_PkigfFKUMR0r)
+[2. 連續影像截圖與顯示HEX網址 (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_3auKC1C50aep)
 
 ## FAQ
 

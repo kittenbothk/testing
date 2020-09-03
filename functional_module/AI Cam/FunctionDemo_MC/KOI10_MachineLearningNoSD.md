@@ -40,9 +40,9 @@ KOI上的機器學習不是必須要SD卡的，資料可以臨時儲存在KOI上
 
 ## 參考程式
 
-[KOI 分類Trainer HEX網址(v0.43)](https://makecode.microbit.org/_8Ag5b2gjogvq)
+[KOI 機器學習 HEX (固件0.43_插件0.5.4)](https://makecode.microbit.org/_8Ag5b2gjogvq)
 
-[KOI 分類Trainer HEX網址(v1.8.2)](https://makecode.microbit.org/_07VXAdMz0Wsg)
+[KOI 機器學習 HEX (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_7pKCuq5TVfiA)
 
 ## FAQ
 ### 1： 為什麼我重新開機，按下按鍵A，但按下A鍵沒有反應？

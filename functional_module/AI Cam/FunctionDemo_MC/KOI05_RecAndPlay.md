@@ -45,9 +45,9 @@ KOI上自帶收音咪和喇叭，可以實現錄音與播放的功能。同時�
 
 ## 參考程式
 
-[KOI錄音與播放Hex網址(v0.43)](https://makecode.microbit.org/_ausc1e8vmEJU)
+[KOI錄音與播放Hex (固件0.43_插件0.5.4)](https://makecode.microbit.org/_YwWd6dKrfVux)
 
-[KOI錄音與播放Hex網址(v1.8.2)](https://makecode.microbit.org/_855AryUjVUwe)
+[KOI錄音與播放Hex (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_4jJcFD2W8PiR)
 
 ## FAQ
 

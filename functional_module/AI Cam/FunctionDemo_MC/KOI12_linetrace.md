@@ -67,13 +67,13 @@
 
 ## 參考程式
 
-[1. 線條檢測HEX網址(v0.43)](https://makecode.microbit.org/_LvRAHfgD8Au9)
+[1. 線條檢測HEX (固件0.43_插件0.5.4)](https://makecode.microbit.org/_YRA2chTMo1DA)
 
-[1. 線條檢測HEX網址(v1.8.2)](https://makecode.microbit.org/_bJdXpF8scDhJ)
+[2. 線條檢測+OLED HEX (固件0.43_插件0.5.4)](https://bit.ly/KOILineTracingOLEDHex)
 
-[2. 線條檢測+OLED HEX網址(v0.43)](https://makecode.microbit.org/_CLj4H8Lgfhji)
+[1. 線條檢測HEX (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_YU1Lxh7F0XhY)
 
-[2. 線條檢測+OLED HEX網址(v1.8.2)](https://makecode.microbit.org/_cuq78EWetbVD)
+[2. 線條檢測+OLED HEX (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_J28C7YAJK0et)
 
 ## FAQ
 

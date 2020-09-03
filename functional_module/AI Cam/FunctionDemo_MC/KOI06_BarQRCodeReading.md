@@ -60,13 +60,13 @@
 
 ## 參考程式
 
-[1. 讀取Bar Code及QR Code HEX網址(v0.43)](https://makecode.microbit.org/_78kPzddrzaVq)
+[1. 讀取Bar Code及QR Code HEX (固件0.43_插件0.5.4)](https://makecode.microbit.org/_DwP2eT4atLDc)
 
-[2. 讀取Bar Code及QR Code, OLED顯示HEX網址(v0.43)](https://makecode.microbit.org/_KJp1r3UD4bkL)
+[2. 讀取Bar Code及QR Code, OLED顯示HEX (固件0.43_插件0.5.4)](https://makecode.microbit.org/_0tJfsPK0w0yj)
 
-[1. 讀取Bar Code及QR Code HEX網址(v1.8.2)](https://makecode.microbit.org/_Wr7g0Rh0YXtW)
+[1. 讀取Bar Code及QR Code HEX (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_f4ufDJb4dD4R)
 
-[2. 讀取Bar Code及QR Code, OLED顯示HEX網址(v1.8.2)](https://makecode.microbit.org/_g2tJJVbmT1EM)
+[2. 讀取Bar Code及QR Code, OLED顯示HEX (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_PLk5pvMPm15f)
 
 [Bar Code 及 QR Code Sample](https://bit.ly/KOIBarAndQRCodeSample)
 

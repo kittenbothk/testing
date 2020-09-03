@@ -38,9 +38,9 @@
 
 ## 參考程式
 
-[螢幕顯示資訊HEX網址(v0.43)](https://makecode.microbit.org/_42kMpRLg7HC4)
+[螢幕顯示資訊HEX (固件0.43_插件0.5.4)](https://makecode.microbit.org/_AWmHj17td2Dg)
 
-[螢幕顯示資訊HEX網址(v1.8.2)](https://makecode.microbit.org/_3yA2htRD6ERr)
+[螢幕顯示資訊HEX (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_603KXCL20fa0)
 
 ## FAQ
 

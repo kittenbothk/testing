@@ -54,9 +54,9 @@
 
 ## 參考程式
 
-[KOI 分類Trainer HEX網址(v0.43)](https://makecode.microbit.org/_85DXX1gg9JVt)
+[KOI 分類Trainer HEX網址 (固件0.43_插件0.5.4)](https://makecode.microbit.org/_fk8A3Y6bYKdr)
 
-[KOI 分類Trainer HEX網址(v1.8.2)](https://makecode.microbit.org/_H0icywATVC98)
+[KOI 分類Trainer HEX網址 (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_2LbfAm9zXR63)
 
 ## FAQ
 ### 1： 為什麼我重新開機，按下按鍵A，但按下A鍵沒有反應？

@@ -50,13 +50,13 @@
 
 ## 參考程式
 
-[1. 方形追踪 HEX網址(v0.43)](https://makecode.microbit.org/_71rRF96xwgJJ)
+[1. 方形追踪 HEX (固件0.43_插件0.5.4)](https://makecode.microbit.org/_06FL4KiHs5rd)
 
-[2. 方形追踪, OLED顯示HEX網址(v0.43)](https://makecode.microbit.org/_HD46mYF88YCF)
+[2. 方形追踪, OLED顯示HEX (固件0.43_插件0.5.4)](https://makecode.microbit.org/_92x4wqRbATYw)
 
-[1. 方形追踪 HEX網址(v1.8.2)](https://makecode.microbit.org/_eErea8E16Xsq)
+[1. 方形追踪 HEX (固件0.43_插件0.5.4)](https://makecode.microbit.org/_A2r3pwCxFfeP)
 
-[2. 方形追踪, OLED顯示HEX網址(v1.8.2)](https://makecode.microbit.org/_18tc0TAkdR80)
+[2. 方形追踪, OLED顯示HEX (固件0.43_插件0.5.4)](https://makecode.microbit.org/_00o1sy37r7TF)
 
 ## FAQ
 

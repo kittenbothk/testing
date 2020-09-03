@@ -46,9 +46,9 @@
 
 ## 參考程式
 
-[KOI 分類運行 HEX網址(v0.43)](https://makecode.microbit.org/_H7z8TeXHw9ib)
+[KOI 分類運行 HEX網址 (固件0.43_插件0.5.4)](https://makecode.microbit.org/_TVTRoUL2E4Ue)
 
-[KOI 分類運行 HEX網址(v1.8.2)](https://makecode.microbit.org/_1RWPCgbhARiL)
+[KOI 分類運行 HEX網址 (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_c1WAXqiHUdM6)
 
 ## FAQ
 ### 1： 為什麼我重新開機，按下按鍵，但按鍵沒有反應？
