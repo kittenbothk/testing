@@ -40,7 +40,10 @@
 
 1. 打開專案設定
 2. 點擊「以純文字模式編輯設定」
-3. 在KOI的插件("koi": "github:kittenbot/pxt-koi#v0.5.4")中，更改版本。
+3. 在KOI的插件中，更改版本
+
+        ( "koi" : "github:kittenbot/pxt-koi#v0.5.4" )
+    
 4. 右擊然後儲存
 5. 切換至Javascript模式
 6. 檢查插件版本
