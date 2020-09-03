@@ -4,7 +4,7 @@ Wifibrick (HKBM8012O)
 
 ## 簡介
 
-Wifibrick 是Kittenbot Powerbrick 延申的一款功能方塊; 顧名思義, Wifibrick 提供了一個渠通, 把micro:bit 為核心的系統, 通過wifi 連接到各IoT 平台, 如國外的Thinkspeak, 本地的Makercloud 或中國移動的OneNet。
+Wifibrick 是Kittenbot Powerbrick 延伸的一款功能魔塊; 顧名思義, Wifibrick 提供了一個渠道, 把micro:bit 作為核心的系統, 通過wifi 連接到各IoT 平台, 如國外的Thinkspeak, 本地的Makercloud 或中國移動的OneNet。
 
  ![](./introimage/wifi-01-1.png)
 
@@ -24,7 +24,7 @@ Wifibrick 是Kittenbot Powerbrick 延申的一款功能方塊; 顧名思義, Wif
 
 尺寸: 56 (L) x 25 (W) x 20 (H)
 
-接線位置: PH2.0, 4 pin 公
+接線位置: PH2.0, 4 pin防反接排線
 
  ![](./introimage/wifi-05-1.png)
 
