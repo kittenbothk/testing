@@ -30,7 +30,7 @@
 1. 切換至JavaScript模式
 2. 打開資源管理器
 3. 點擊插件版本
-4. 插件就會被更新
+4. 插件就會自動更新到最新版本
 
 ![](./images/update.gif)
 
@@ -42,7 +42,7 @@
 2. 點擊「以純文字模式編輯設定」
 3. 在KOI的插件中，更改版本
 
-        ( "koi" : "github:kittenbot/pxt-koi#v0.5.4" )
+        ( "koi" : "github:kittenbot/pxt-koi#v0.5.4" )->( "koi" : "github:kittenbot/pxt-koi#v0.2.4" )
     
 4. 右擊然後儲存
 5. 切換至Javascript模式

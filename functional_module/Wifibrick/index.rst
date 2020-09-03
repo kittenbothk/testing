@@ -8,5 +8,6 @@
     :glob:
 
     Wifibrick_intro
+    wifiUpdate.md
     IoT平台介紹/index
     MakeCode編程/index

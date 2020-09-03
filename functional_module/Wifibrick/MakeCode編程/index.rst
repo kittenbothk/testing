@@ -8,4 +8,6 @@
     :glob:
 
     MC_TS.md
-    
+    https://learn.makercloud.io/zh_TW/latest/ch4_connect/microbit/connect_microbit/
+    https://learn.makercloud.io/zh_TW/latest/ch5_publish/microbit/publish_microbit/
+    https://learn.makercloud.io/zh_TW/latest/ch6_subscribe/microbit/subscribe_microbit/
