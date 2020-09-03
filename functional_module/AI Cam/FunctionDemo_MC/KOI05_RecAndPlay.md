@@ -49,6 +49,12 @@ KOI上自帶收音咪和喇叭，可以實現錄音與播放的功能。同時�
 
 [KOI錄音與播放Hex (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_4jJcFD2W8PiR)
 
+## 插件版本與更新
+
+插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+
+詳情請參考: [Makecode插件版本更換](../../../Makecode/makecode_extensionUpdate)
+
 ## FAQ
 
 ### 1: 為什麼我打開電源，按Microbit的A按鍵，怎麼沒反應？

@@ -35,6 +35,12 @@ btn1和btn2分別指的是按鍵A與按鍵B的按鍵狀態。
 
 [KOI AB 按鍵應用HEX (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_WdVd3YY9zgpY)
 
+## 插件版本與更新
+
+插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+
+詳情請參考: [Makecode插件版本更換](../../../Makecode/makecode_extensionUpdate)
+
 ## FAQ
 
 ### 1: 為什麼我打開電源，按KOI的按鍵A或者按鍵B，怎麼沒反應？

@@ -42,6 +42,12 @@
 
 [螢幕顯示資訊HEX (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_603KXCL20fa0)
 
+## 插件版本與更新
+
+插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+
+詳情請參考: [Makecode插件版本更換](../../../Makecode/makecode_extensionUpdate)
+
 ## FAQ
 
 ### 1: 為什麼螢幕顯示資訊，顯示一下就消失了。

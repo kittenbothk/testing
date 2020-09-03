@@ -50,6 +50,12 @@
 
 [KOI 分類運行 HEX網址 (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_c1WAXqiHUdM6)
 
+## 插件版本與更新
+
+插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+
+詳情請參考: [Makecode插件版本更換](../../../Makecode/makecode_extensionUpdate)
+
 ## FAQ
 ### 1： 為什麼我重新開機，按下按鍵，但按鍵沒有反應？
 

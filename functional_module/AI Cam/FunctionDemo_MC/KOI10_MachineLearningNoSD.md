@@ -44,6 +44,12 @@ KOI上的機器學習不是必須要SD卡的，資料可以臨時儲存在KOI上
 
 [KOI 機器學習 HEX (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_7pKCuq5TVfiA)
 
+## 插件版本與更新
+
+插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+
+詳情請參考: [Makecode插件版本更換](../../../Makecode/makecode_extensionUpdate)
+
 ## FAQ
 ### 1： 為什麼我重新開機，按下按鍵A，但按下A鍵沒有反應？
 

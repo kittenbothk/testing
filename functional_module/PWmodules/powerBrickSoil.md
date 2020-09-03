@@ -39,6 +39,12 @@
 
 [參考程式網址](https://makecode.microbit.org/_i33W9gCyueDr)
 
+## 插件版本與更新
+
+插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+
+詳情請參考: [Makecode插件版本更換](../../../Makecode/makecode_extensionUpdate)
+
 ### Makecode教學短片
 
 [![](./images/envtut.png)](https://www.youtube.com/watch?v=ilXSpFd86DQ)

@@ -327,12 +327,14 @@ e.g. **channels/1058604/publish/NNCQRVPVJ7ZATI1F**
 
 以上2個訂閱(3.2A & 3.2B) hex 例子, 分別可對應3.1.1 及 3.1.2 的發佈程式使用。
 
- ![](./iotimage/iot-62.png)
-
 
 
 相信大家已具體掌握如何利用免費Thinkspeak 的方法, 歡迎把所製作的IoT 項目whatsapp到micro:bit 群組分享與交流！
 
  ![](./iotimage/iot-59.png)
 
- 
+ ## 插件版本與更新
+
+插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+
+詳情請參考: [Makecode插件版本更換](../../../../Makecode/makecode_extensionUpdate)
