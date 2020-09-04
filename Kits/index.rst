@@ -15,4 +15,8 @@
 
     aihealth/index
 
+.. toctree::
+    :maxdepth: 2
+    :caption: 12合1套件
 
+    12in1/index
