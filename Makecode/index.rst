@@ -7,4 +7,4 @@ MakeCode編程平台的教學。
     :maxdepth: 2
 
     powerBrickMC.md
-    makecode_extentionUpdate.md
+    makecode_extensionUpdate.md
