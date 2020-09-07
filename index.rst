@@ -12,7 +12,7 @@
     :maxdepth: 2
     :caption: MakeCode介紹與使用方法
 
-    Makecode/powerBrickMC.md
+    Makecode/index
 
 .. toctree::
     :maxdepth: 2
