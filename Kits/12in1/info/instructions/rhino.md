@@ -10,7 +10,7 @@
 
 ## 參考接線
 
-
+![](images/rhino_wire.png)
 
 ## 模型玩法
 
