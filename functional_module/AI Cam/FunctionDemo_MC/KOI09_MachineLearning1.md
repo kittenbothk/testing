@@ -54,9 +54,7 @@
 
 ## 參考程式
 
-[KOI 分類Trainer HEX網址 (固件0.43_插件0.5.4)](https://makecode.microbit.org/_fk8A3Y6bYKdr)
-
-[KOI 分類Trainer HEX網址 (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_2LbfAm9zXR63)
+[KOI 分類Trainer HEX網址 (插件0.5.4)](https://makecode.microbit.org/_fk8A3Y6bYKdr)
 
 ## 插件版本與更新
 
@@ -75,13 +73,7 @@
 
 ·    答：不行，必須要接5V！
 
-### 3: KOI開啟的時候出現選項菜單，我應該按下A還是B呢？
-
-·    答：KOI在新的固件上新增了開機選項，選擇主控板或被動運行模式。
-
-·    解決辦法：連接Microbit時我們選擇被動模式，按下KOI的B按鍵（右面的按鍵），進入被動模式。
-
-### 4: 為什麼我在KOI固件版本v1.8.2上嘗試訓練分類器時，螢幕出現紅字警告，不能成功訓練分類器？
+### 3: 為什麼我在KOI固件版本v1.8.2上嘗試訓練分類器時，螢幕出現紅字警告，不能成功訓練分類器？
 
 ·    答：KOI還未重設分類器。
 

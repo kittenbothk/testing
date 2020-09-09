@@ -2,32 +2,26 @@
 
 這裡集合了KOI最新與過往的固件檔案。
 
-## 最新固件(版本25/08/2020)
+## 最新固件(版本v1.9.1)
 
-固件版本: v1.8.2
+固件版本: v1.9.1
 
-固件日期：25/08/2020
+固件日期：08/09/2020
 
-[下載地址](http://bit.ly/KOIFW20200825)
+[下載地址](https://www.yuque.com/attachments/yuque/0/2020/zip/1432972/1599365983250-f1aef440-6ff3-41a4-ad4e-783af3dc4cf6.zip?from=https%3A%2F%2Fwww.yuque.com%2Fkittenbot%2Fhardwares%2Fkoi-firmware%23Lynwq)
 
 固件更新摘要：
 
-1. 修改接線
-2. 新增開機選項(主控或被控)
-3. IOT功能更新
-4. 語音辨識功能更新
+1. IOT功能更新
+2. 語音辨識功能更新
 
 開機畫面：
 
 ![](./images/25081.jpg)
 
-開機選項：按A選擇主控，按B選擇Microbit控制。
-
-![](./images/25082.jpg)
-
 版本提示：
 
-![](./images/25083.jpg)
+![](./images/191_1.jpg)
 
 ## 固件版本0.43
 

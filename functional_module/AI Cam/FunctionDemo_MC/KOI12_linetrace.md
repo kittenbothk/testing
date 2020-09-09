@@ -67,13 +67,9 @@
 
 ## 參考程式
 
-[1. 線條檢測HEX (固件0.43_插件0.5.4)](https://makecode.microbit.org/_YRA2chTMo1DA)
+[1. 線條檢測HEX (插件0.5.4)](https://makecode.microbit.org/_YRA2chTMo1DA)
 
-[2. 線條檢測+OLED HEX (固件0.43_插件0.5.4)](https://bit.ly/KOILineTracingOLEDHex)
-
-[1. 線條檢測HEX (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_YU1Lxh7F0XhY)
-
-[2. 線條檢測+OLED HEX (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_J28C7YAJK0et)
+[2. 線條檢測+OLED HEX (插件0.5.4)](https://bit.ly/KOILineTracingOLEDHex)
 
 ## 插件版本與更新
 
@@ -97,9 +93,4 @@
 
 ·    答：盡量保持簡潔的背景，並使用與背景顏色有明顯分別的物件。
 
-### 4: KOI開啟的時候出現選項菜單，我應該按下A還是B呢？
-
-·    答：KOI在新的固件上新增了開機選項，選擇主控板或被動運行模式。
-
-·    解決辦法：連接Microbit時我們選擇被動模式，按下KOI的B按鍵（右面的按鍵），進入被動模式。
 

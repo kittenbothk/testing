@@ -38,9 +38,8 @@
 
 ## 參考程式
 
-[螢幕顯示資訊HEX (固件0.43_插件0.5.4)](https://makecode.microbit.org/_AWmHj17td2Dg)
+[螢幕顯示資訊HEX (插件0.5.4)](https://makecode.microbit.org/_AWmHj17td2Dg)
 
-[螢幕顯示資訊HEX (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_603KXCL20fa0)
 
 ## 插件版本與更新
 
@@ -64,10 +63,5 @@
 
 ·    答：不行，必須要接5V！
 
-### 4: KOI開啟的時候出現選項菜單，我應該按下A還是B呢？
-
-·    答：KOI在新的固件上新增了開機選項，選擇主控板或被動運行模式。
-
-·    解決辦法：連接Microbit時我們選擇被動模式，按下KOI的B按鍵（右面的按鍵），進入被動模式。
 
 

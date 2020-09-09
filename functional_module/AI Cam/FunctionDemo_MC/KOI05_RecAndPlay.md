@@ -45,9 +45,8 @@ KOI上自帶收音咪和喇叭，可以實現錄音與播放的功能。同時�
 
 ## 參考程式
 
-[KOI錄音與播放Hex (固件0.43_插件0.5.4)](https://makecode.microbit.org/_YwWd6dKrfVux)
+[KOI錄音與播放Hex (插件0.5.4)](https://makecode.microbit.org/_YwWd6dKrfVux)
 
-[KOI錄音與播放Hex (固件1.8.2_插件0.5.4)](https://makecode.microbit.org/_4jJcFD2W8PiR)
 
 ## 插件版本與更新
 
@@ -81,10 +80,4 @@ KOI上自帶收音咪和喇叭，可以實現錄音與播放的功能。同時�
 
    ·    答：不支持，只支持wav格式，且wav音訊不能超過512K。因此播放歌曲這種就無法實現了。
 
-
-### 5: KOI開啟的時候出現選項菜單，我應該按下A還是B呢？
-
-·    答：KOI在新的固件上新增了開機選項，選擇主控板或被動運行模式。
-
-·    解決辦法：連接Microbit時我們選擇被動模式，按下KOI的B按鍵（右面的按鍵），進入被動模式。
 
