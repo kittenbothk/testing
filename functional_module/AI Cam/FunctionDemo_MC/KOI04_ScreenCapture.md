@@ -54,7 +54,7 @@
 
 [1. 影像截圖與顯示HEX網址 (插件0.5.4)](https://makecode.microbit.org/_7a17i82DHb0T)
 
-[2. 連續影像截圖與顯示HEX網址 (插件0.5.4)](https://makecode.microbit.org/_X0uKbWTomM00)
+[2. 連續影像截圖與顯示HEX網址 (插件0.5.4)](https://makecode.microbit.org/_E0eC53AHA3vq)
 
 
 ## 插件版本與更新
