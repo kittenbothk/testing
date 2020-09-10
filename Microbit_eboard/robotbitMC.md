@@ -22,17 +22,23 @@ Robotbit支援Makecode上編程。
 
 將電機連接在robotbit的M1A和M1B上。
 
+![](./image/motor_wire.png)
+
 ![](./image/robotbit_code1.png)
 
 ### 2. 舵機編程
 
 將舵機連接在Robotbit的S1上。
 
+![](./image/servo_wire.png)
+
 ![](./image/robotbit_code2.png)
 
 ### 3. 步進電機編程
 
 將步進電機連接到Robotbit的M1和M2上（將紅色電線連接到VM）。
+
+![](./image/stepper_wire.png)
 
 ![](./image/robotbit_code3.png)
 
