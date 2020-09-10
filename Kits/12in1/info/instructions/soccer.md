@@ -4,12 +4,13 @@
 
 ![](images/soccer.png)
 
-## 組裝說明書
+## 組裝說明書和參考程式
 
-說明書資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+說明書和參考程式資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
 
 ## 參考接線
 
+![](images/soccer_wire.png)
 
 ## 模型玩法
 

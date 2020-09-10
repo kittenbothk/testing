@@ -4,17 +4,17 @@
 
 ![](images/turrent.png)
 
-## 組裝說明書
+## 組裝說明書和參考程式
 
-說明書資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+說明書和參考程式資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
 
 ## 參考接線
 
-
+![](images/turret_wire.png)
 
 ## 模型玩法
 
 1. 在炮台頂部齒輪上裝好橡筋，然後將模型打開。
 2. 按下左邊的按鈕調整炮台發射角度。
 3. 按下Microbit的A和B鍵調教炮台方向。
-4. 瞄準之後按左邊按鈕，將橡筋發射。
+4. 瞄準之後按右邊按鈕，將橡筋發射。

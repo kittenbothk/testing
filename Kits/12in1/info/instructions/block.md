@@ -1,16 +1,16 @@
-### 9. 路障剋星
+# 路障剋星
 
-利用機械人的大夾子，將大型的障礙物搬到戰場上阻擋敵方前進，或者負責將得分高的物資搬回基地。
+利用機械人的大夾子，將大型的障礙物搬到戰場上阻擋敵方前進，或者負責清除路障。
 
 ![](images/block.png)
 
-## 組裝說明書
+## 組裝說明書和參考程式
 
-說明書資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+說明書和參考程式資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
 
 ## 參考接線
 
-
+![](images/block_wire.png)
 
 ## 模型玩法
 
