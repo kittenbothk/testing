@@ -9,5 +9,6 @@ Microbit擴展板
 
     Robotbitfull
     robotbitMC.md
+    robotbitKB.md
     ../functional_module/PWmodules/Armourbit.md
     JoyFrog.md
