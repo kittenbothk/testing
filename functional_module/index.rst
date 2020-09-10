@@ -14,6 +14,9 @@
 
     infratemp.md
     waterTank.md
+    nekoUltrasound.md
+    KBbutton.md
+    5wayLine.md
 
 .. toctree::
     :maxdepth: 1
