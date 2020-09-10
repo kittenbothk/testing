@@ -90,6 +90,10 @@ Robotbit示範短片:
 
 #### 2. 在Kittenbot makecode離線版本中，添加包列表可以顯示Robotbit以及其他集成擴展包（Robotbit可以離線加載不依靠網絡，其他的擴展包不可以）  
 
+#### 加載成功
+
+![](./images/success.png)
+
 ### KittenBlock（Kittenbot 圖形化編程軟件 基於Scratch 3.0）
 
 ![](../functional_module/PWmodules/images/kbbanner.png) 
