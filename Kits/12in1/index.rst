@@ -7,4 +7,5 @@ SumoBot 12合1套件
     :maxdepth: 1
 
     intro.md
+    modules/index
     info/index

@@ -1,6 +1,8 @@
-# SumoBot 12合1套件(HKBK8017A)
+# SumoBot 12合1套件
 
-SumoBot 12合1套件是一套針對Microbit而設計的擴充套件，它是一套競技性的遊樂套件。
+SumoBot 12合1套件(HKBK8017A)
+
+SumoBot 12合1套件是一套針對Microbit而設計的一套競技性遊樂擴充套件。
 
 透過組裝不同的模型和針對模型進行編程然後與人比拼，用家可以在刺激的競技遊戲之中學會動手搭建和邏輯編程，培養玩家對編程和工程的興趣。
 
@@ -39,7 +41,7 @@ SumoBot 12合1套件是一套針對Microbit而設計的擴充套件，它是一�
 
 ## 產品參數：
 
-請參考[Robotbit介紹]()。
+請參考[Robotbit介紹](../../Microbit_eboard/Robotbitfull.md)。
 
 ## 介紹短片
 

@@ -99,9 +99,8 @@ __網上訂購__----------→[Robotbit v2.2](https://kidslab.boutir.com/i/SXu22l
 
 ### KittenBlock（Kittenbot 圖形化編程軟件 基於Scratch 3.0）
 
-![](../functional_module/modules/images/kbbanner.png) 
+![](../functional_module/PWmodules/images/kbbanner.png) 
 
-[下截Kittenblock](https://www.kittenbot.cn/kittenblock)
 
 1. 打開Kittenblock, 把microbit 插到電腦USB port後, 按下圖次序點選     ![](./image/40_01.png)
 

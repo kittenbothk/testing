@@ -9,3 +9,6 @@
     infratemp.md
     waterTank.md
     Wifibrick/index
+    nekoUltrasound.md
+    KBbutton.md
+    5wayLine.md
