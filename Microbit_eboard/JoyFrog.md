@@ -15,189 +15,90 @@ JoyFrog是Kittenbot推出的Microbit擴展版，它為Microbit增加了按鍵和
 
 ## 產品特色
 
-- 作為主控板：可以在Kittenblock用作遊戲手掣
+- 作為主控板：可以在Kittenblock或者Scratch用作遊戲手掣
 - 作為擴展版：可以為Microbit提供遊戲般的控制
 - 可以透過3pin和4pin接口連接傳感器
 - 作為遊戲手掣：連接可以當基本的遊戲手掣使用
 
 ## 產品規格
 
-尺寸：128mmx80mmx35mm    
-主控晶片：GD32F350C8T6   
-頻率：108MHz   
-快閃記憶體：64K   
-內存：8K   
-工作電壓：3.3V   
-供電：Micro USB(5v)/3v(AAA電池x2，JST接口)
+- 尺寸：128mmx80mmx35mm    
+- 主控晶片：GD32F350C8T6   
+- 頻率：108MHz   
+- 快閃記憶體：64K   
+- 內存：8K   
+- 工作電壓：3.3V   
+- 供電：Micro USB(5v)/3v(AAA電池x2，JST接口)
 
-## MakeCode編程教學
+## 主控板上零件
 
-![](../functional_module/PWmodules/images/mcbanner.png)
+- 2軸遊戲搖桿（有按鈕）
+- 四粒按鍵
+- 紅外線發射器和接收器（可以對NEC紅外碼解碼）
+- 8條金手指，可以配搭鱷魚夾使用
+- 蜂鳴器
+- 喇叭開關（切換蜂鳴器或者喇叭輸出）
 
-#### 加載JoyFrog插件：github.com/KittenBot/pxt-joyfrog
+## 主控板接口
 
-#### JoyFrog積木塊：
+- Microbit 40PIN接口x1
+- GVAB 4PIN PH2.0防反接接口x2
+- GVS 3PIN PH2.0防反接接口x2
+- 3.5音頻接口x1(可以連接喇叭或耳機)
+- NRF24L01 8PIN 2.4G無綫x1
 
-![](./images/joyfrog2.png)
+## 支援軟件
 
-#### 搖桿編程：
+- Kittenblock
 
-推動搖桿，Microbit就會顯示搖桿值。
+    [Kittenblock大全](../Kittenblock/index)
+    
+- MakeCode
 
-![](./images/joyfrog3.png)
+    [MakeCode編程平台教學](../Makecode/index)
+    
+## 主控板指示圖
 
-[參考程式網址](https://makecode.microbit.org/_Ty95YCWwUC3s)
+![](./images/joyfrog_diag1.png)
 
-#### 按鈕編程：
+![](./images/joyfrog_diag2.png)
 
-按下按鈕，Microbit會顯示您按下的按鈕。
+1. 紅外線接收器
+2. 3.5mm音頻接口
+3. 蜂鳴器切換開關
+4. 重置按鍵
+5. DFU模式按鍵
+6. 4pin模塊防反接接口
+7. 2軸搖桿
+8. 金手指接觸片（1~8、GND）
+9. Microbit 40PIN接口
+10. 主控芯片
+11. 蜂鳴器
+12. 4粒按鍵
+13. 4pin 防反接I2C接口
+14. MicroUSB接口
+15. 紅外線發射器
+16. 3pin模塊防反接接口
+17. 3pin模塊防反接接口
 
-![](./images/joyfrog4.png)
+## JoyFrog電池盒安裝教學
 
-[參考程式網址](https://makecode.microbit.org/_THaPh5RTVRRt)
+安裝Microbit電池盒之後，就不用永遠連著電線啦～
 
-#### 鋼琴編程：
+![](./images/joyfrog_bat1.png)
+![](./images/joyfrog_bat2.png)
+![](./images/joyfrog_bat3.png)
+![](./images/joyfrog_bat4.png)
+![](./images/joyfrog_bat5.png)
 
-利用JoyFrog底部的金手指，我們可以當作鋼琴使用。
+## JoyFrog雙人模式
 
-嘗試連接不同的導電物件，例如水果，餐具等，創作你獨一無二的鋼琴吧。
+考慮到大家用Kittenblock或者Scratch做遊戲的時候可能會做多人遊戲，Kittenbot特地加了雙人模式，讓大家可以在一部電腦上使用兩隻JoyFrog手掣。
 
-![](./images/joyfrog18.png)
+按著X鍵不放手，用USB線連接到電腦。JoyFrog會發出兩下較長的聲音，代表成功進入2號玩家模式。
 
-[參考程式網址](https://makecode.microbit.org/_79zhcpKDT9o0)
+![](./images/joyfrog_2p1.png)
 
-![](./images/piano.png)
+在2號玩家模式下，JoyFrog所充當的鍵盤按鍵會改變。
 
-這裡使用了JoyFrog的蜂鳴器發聲，大家還可以加插喇叭發聲。
-
-![](./images/joyfrog_3.5.png)
-
-#### 紅外線發訊號編程：
-
-按下按鍵，發射紅外線訊號。
-
-    紅外線訊號只支援16進位數值(hexadecimal)。
-
-![](./images/joyfrog5.png)
-
-[參考程式網址](https://makecode.microbit.org/_Wvp6vxiPMLWr)
-
-#### 紅外線收訊號編程：
-
-顯示紅外線收到的訊號。
-
-    紅外線訊號只支援16進位數值(hexadecimal)。
-
-![](./images/joyfrog6.png)
-
-[參考程式網址](https://makecode.microbit.org/_DoM9fj6Cj97U)
-
-#### 類比讀取編程：
-
-按下按鍵，讀取類比模組(例如電位器)的數字。
-
-![](./images/joyfrogPoten.png)
-
-![](./images/joyfrog7.png)
-
-[參考程式網址](https://makecode.microbit.org/_HLtdh2Ha6KMp)
-
-#### 類比寫入(PWM)編程：
-
-按下按鍵，以PWM寫入類比數值(例如LED燈或者舵機)。
-
-![](./images/joyfrog8.png)
-
-![](./images/joyfrogLED.png)
-
-[參考程式網址](https://makecode.microbit.org/_1y8ET7e7A8TF)
-
-#### 數位數字讀取：
-
-按下按鍵，讀取數位模組(例如按鍵)的數字。
-
-![](./images/joyfrogButton.png)
-
-![](./images/joyfrog9.png)
-
-[參考程式網址](https://makecode.microbit.org/_Dd71FegibTs3)
-
-#### 數位數字寫入：
-
-按下按鍵，寫入數位數字。
-
-![](./images/joyfrog10.png)
-
-[參考程式網址](https://makecode.microbit.org/_UKU0K75uYcyL)
-
-## Kittenblock編程教學
-
-![](../functional_module/PWmodules/images/kbbanner.png)
-
-首先將JoyFrog用USB線連接到電腦。
-
-![](./images/joyfrogcon.png)
-
-在左上角小貓logo旁邊的硬件欄選擇硬件，加載JoyFrog的插件。
-
-![](./images/joyfrogadd.png)
-
-加載成功。
-
-![](./images/joyfrogsuccess.png)
-
-在JoyFrog的積木欄中按下感嘆號 ( ! ) 按鈕。然後點選『開始連線』。
-
-![](./images/joyfrog11.png)
-
-連接成功後，JoyFrog會哼出旋律。
-
-![](./images/joyfrog12.png)
-
-#### 按鍵和搖桿編程：
-
-JoyFrog的按鍵和搖桿是充當了鍵盤的方向鍵和ABXY鍵。按下搖桿會觸發空白鍵。
-
-JoyFrog底部的金手指亦會觸發1-8數字鍵。
-
-![](./images/joyfrog13.png)
-
-#### 金手指鋼琴編程：
-
-利用JoyFrog底部的金手指，我們可以當作鋼琴使用。
-
-嘗試連接不同的導電物件，例如水果，餐具等，創作你獨一無二的鋼琴吧。
-
-    鍵盤(Do-Do~)觸碰的積木與按鈕(1-8)按下的積木是一樣的，只是為了方便大家對音調編程，特意用這個積木。
-
-![](./images/joyfrog14.png)
-
-![](./images/piano.png)
-
-這裡使用了JoyFrog的蜂鳴器發聲，大家還可以加插喇叭發聲，或者使用音樂插件用電腦發聲呢！
-
-![](./images/joyfrog_3.5.png)
-
-#### 紅外線收發信號編程：
-
-按下A鍵，發送紅外線訊號，JoyFrog收到訊號之後會叫小貓說出來。
-
-    紅外線訊號只支援16進位數值(hexadecimal)。
-
-![](./images/joyfrog15.png)
-
-#### 數位數值讀取：
-
-按下A鍵寫入數位數值。讀取到數位模組(例如按鍵)數字的時候小貓會說Hello。
-
-![](./images/joyfrogButton.png)
-
-![](./images/joyfrog16.png)
-
-#### 類比數值讀寫：
-
-按下A鍵讀取類比數值(例如電位器)。使用PWM寫入類比數值(例如LED燈或者舵機)。
-
-![](./images/joyfrogServo.png)
-
-![](./images/joyfrog17.png)
+![](./images/joyfrog_2p2.png)
