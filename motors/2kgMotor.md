@@ -56,6 +56,8 @@
 
 ### Armourbit
 
+---
+
 將電機的紅黑線連接至Armourbit底部的電機接口。
 
 ![](./images/2kmotorCon.jpg)
@@ -63,6 +65,8 @@
     沒有嚴格正負極之分，插的方向只會影響電機轉動方向。
     
 ### Robotbit
+
+---
 
 將電機的紅黑線連接至RobotBit的電機接口。
 
@@ -75,6 +79,8 @@
 ## MakeCode編程教學
 
 ### Armourbit
+
+---
 
 ![](./images/mcbanner.png)
 
@@ -92,6 +98,8 @@
 
 ### RobotBit
 
+---
+
 ### 加載RobotBit插件：
 
 ![](./images/robotbitExtension.png)
@@ -108,7 +116,7 @@
 
 ## 插件版本與更新
 
-PowerBrick插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
 詳情請參考: [Makecode插件版本更換](../Makecode/makecode_extensionUpdate)
 

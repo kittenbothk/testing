@@ -10,3 +10,4 @@ RobotBit的資訊。
     Robotbitfull
     robotbitMC.md
     robotbitKB.md
+    robotbitShield.md

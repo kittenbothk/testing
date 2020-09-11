@@ -2,6 +2,8 @@
 
 Kittenbot 原廠貓耳造型超聲波模組 (HKBM8014A)
 
+![](./images/ultraSound1.jpg)
+
 這是一隻超聲波測距模組。
 
 ## 產品參數
@@ -56,3 +58,26 @@ Kittenbot 原廠貓耳造型超聲波模組 (HKBM8014A)
 ![](./images/ultraSound_code3.png)
 
 [參考程式網址](https://makecode.microbit.org/_5vf48tf6xdVc)
+
+## 插件版本與更新
+
+Robotbit插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+
+詳情請參考: [Makecode插件版本更換](../../Makecode/makecode_extensionUpdate)
+
+
+## KittenBlock編程教學
+
+![](./PWmodules/images/kbbanner.png)
+
+### 加載Robotbit插件
+
+![](./images/addRB.png)
+
+#### 距離檢測編程：
+
+![](./images/ultraSound_code4.png)
+
+### RGB燈編程(只限v2)：
+
+![](./images/ultraSound_code5.png)

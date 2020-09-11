@@ -9,3 +9,4 @@ Kittenbot各款電機與舵機的資料。
     powerBrickServo.md
     2kgMotor.md
     2kgServo.md
+    ttmotor.md

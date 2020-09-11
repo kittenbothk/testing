@@ -29,23 +29,44 @@ All in 1水箱連水泵組合 (HKBM8015A)
 
 ![](./PWmodules/images/mcbanner.png)
 
+### ArmourBit
+
+---
+
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### 電機積木塊:
 
-![](./PWmodules/images/motorblocks.png)
+![](../motors/images/motorblocks.png)
 
-### 電機編程
+## 電機編程
 
-![](./PWmodules/images/pumpcode.png)
+![](../motors/images/motor.png)
 
-[參考程式下載](https://bit.ly/M15WaterTankSampleHex)
+[參考程式下載](https://bit.ly/PowerbrickM11_01Hex)
 
 [參考程式網址](https://makecode.microbit.org/_RYHivyayYL4q)
 
+### Robotbit
+
+---
+
+### 加載robotbit插件：https://github.com/KittenBot/pxt-robotbit
+
+### 電機積木塊:
+
+![](../motors/images/2kmotorblocks_rb.png)
+
+### 電機編程
+
+![](../motors/images/2kmotorcode_rb.png)
+
+[參考程式網址](https://makecode.microbit.org/_33HMywgx9H97q)
+
+
 ## 插件版本與更新
 
-PowerBrick插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
 詳情請參考: [Makecode插件版本更換](../../Makecode/makecode_extensionUpdate)
 

@@ -17,6 +17,13 @@
     nekoUltrasound.md
     KBbutton.md
     5wayLine.md
+    legofan.md
+    potentialmeter.md
+    ambient.md
+    fire.md
+    soilhumid.md
+    watelevel.md
+    magnetic.md
 
 .. toctree::
     :maxdepth: 1

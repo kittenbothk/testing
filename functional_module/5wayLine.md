@@ -31,3 +31,21 @@
 ![](./images/line_code.png)
 
 [參考程式網址](https://makecode.microbit.org/_c7rXpLY791Cw)
+
+## 插件版本與更新
+
+插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+
+詳情請參考: [Makecode插件版本更換](../../Makecode/makecode_extensionUpdate)
+
+## KittenBlock編程教學
+
+![](./PWmodules/images/kbbanner.png)
+
+### 加載Robotbit插件
+
+![](./images/addRB.png)
+
+#### 讀取按鍵編程
+
+![](./images/line_code2.png)

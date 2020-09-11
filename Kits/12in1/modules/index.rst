@@ -9,3 +9,4 @@ SumoBot 12合1套件模塊教學
     ../../../functional_module/nekoUltrasound.md
     ../../../functional_module/KBbutton.md
     ../../../functional_module/5wayLine.md
+    ../.././Microbit_eboard/JoyFrog/index

@@ -79,6 +79,8 @@ Geekservo電機 (HKBD9006A)
 
 ### ArmourBit
 
+--------
+
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### 電機積木塊:
@@ -99,6 +101,8 @@ Geekservo電機 (HKBD9006A)
 
 ### RobotBit
 
+--------
+
 ### 加載RobotBit插件：
 
 ![](./images/robotbitExtension.png)
@@ -107,13 +111,11 @@ Geekservo電機 (HKBD9006A)
 
 ![](./images/2kmotorblocks_rb.png)
 
-## 電機編程
+### 電機編程
 
-![](./images/motor.png)
+![](./images/2kmotorcode_rb.png)
 
-[參考程式下載](https://bit.ly/PowerbrickM11_01Hex)
-
-[參考程式網址](https://makecode.microbit.org/_RYHivyayYL4q)
+[參考程式網址](https://makecode.microbit.org/_33HMywgx9H97q)
 
 ## 插件版本與更新
 
@@ -124,6 +126,28 @@ PowerBrick插件可能會不定時推出更新，改進功能。亦有時候我�
 ## KittenBlock編程教學
 
 ![](./images/kbbanner.png)
+
+### Robotbit
+
+---
+
+### 加載Robotbit插件
+
+在左上角小貓logo旁邊的硬件欄選擇Microbit，加載Microbit與Robotbit插件。
+
+![](./images/addRB.png)
+
+### 電機積木塊
+
+![](./images/rbmotorblocks.png)
+
+### 電機編程
+
+![](./images/rbmotorcode.png)
+
+### Armourbit
+
+--- 
 
 ### 加載PowerBrick插件
 
@@ -140,6 +164,7 @@ PowerBrick插件可能會不定時推出更新，改進功能。亦有時候我�
 ![](./kbimages/kbmotor.png)
 
 [參考程式下載](https://bit.ly/PowerbrickM11_01sb3)
+
 
 ## FAQ
 
