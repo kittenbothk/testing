@@ -18,6 +18,7 @@ JoyFrog是Kittenbot推出的Microbit擴展版，它為Microbit增加了按鍵和
 - 作為主控板：可以在Kittenblock用作遊戲手掣
 - 作為擴展版：可以為Microbit提供遊戲般的控制
 - 可以透過3pin和4pin接口連接傳感器
+- 作為遊戲手掣：連接可以當基本的遊戲手掣使用
 
 ## 產品規格
 
@@ -55,6 +56,22 @@ JoyFrog是Kittenbot推出的Microbit擴展版，它為Microbit增加了按鍵和
 
 [參考程式網址](https://makecode.microbit.org/_THaPh5RTVRRt)
 
+#### 鋼琴編程：
+
+利用JoyFrog底部的金手指，我們可以當作鋼琴使用。
+
+嘗試連接不同的導電物件，例如水果，餐具等，創作你獨一無二的鋼琴吧。
+
+![](./images/joyfrog18.png)
+
+[參考程式網址](https://makecode.microbit.org/_79zhcpKDT9o0)
+
+![](./images/piano.png)
+
+這裡使用了JoyFrog的蜂鳴器發聲，大家還可以加插喇叭發聲。
+
+![](./images/joyfrog_3.5.png)
+
 #### 紅外線發訊號編程：
 
 按下按鍵，發射紅外線訊號。
@@ -79,6 +96,8 @@ JoyFrog是Kittenbot推出的Microbit擴展版，它為Microbit增加了按鍵和
 
 按下按鍵，讀取類比模組(例如電位器)的數字。
 
+![](./images/joyfrogPoten.png)
+
 ![](./images/joyfrog7.png)
 
 [參考程式網址](https://makecode.microbit.org/_HLtdh2Ha6KMp)
@@ -89,11 +108,15 @@ JoyFrog是Kittenbot推出的Microbit擴展版，它為Microbit增加了按鍵和
 
 ![](./images/joyfrog8.png)
 
+![](./images/joyfrogLED.png)
+
 [參考程式網址](https://makecode.microbit.org/_1y8ET7e7A8TF)
 
 #### 數位數字讀取：
 
 按下按鍵，讀取數位模組(例如按鍵)的數字。
+
+![](./images/joyfrogButton.png)
 
 ![](./images/joyfrog9.png)
 
@@ -112,6 +135,8 @@ JoyFrog是Kittenbot推出的Microbit擴展版，它為Microbit增加了按鍵和
 ![](../functional_module/PWmodules/images/kbbanner.png)
 
 首先將JoyFrog用USB線連接到電腦。
+
+![](./images/joyfrogcon.png)
 
 在左上角小貓logo旁邊的硬件欄選擇硬件，加載JoyFrog的插件。
 
@@ -133,6 +158,8 @@ JoyFrog是Kittenbot推出的Microbit擴展版，它為Microbit增加了按鍵和
 
 JoyFrog的按鍵和搖桿是充當了鍵盤的方向鍵和ABXY鍵。按下搖桿會觸發空白鍵。
 
+JoyFrog底部的金手指亦會觸發1-8數字鍵。
+
 ![](./images/joyfrog13.png)
 
 #### 金手指鋼琴編程：
@@ -141,7 +168,15 @@ JoyFrog的按鍵和搖桿是充當了鍵盤的方向鍵和ABXY鍵。按下搖桿
 
 嘗試連接不同的導電物件，例如水果，餐具等，創作你獨一無二的鋼琴吧。
 
+    鍵盤(Do-Do~)觸碰的積木與按鈕(1-8)按下的積木是一樣的，只是為了方便大家對音調編程，特意用這個積木。
+
 ![](./images/joyfrog14.png)
+
+![](./images/piano.png)
+
+這裡使用了JoyFrog的蜂鳴器發聲，大家還可以加插喇叭發聲，或者使用音樂插件用電腦發聲呢！
+
+![](./images/joyfrog_3.5.png)
 
 #### 紅外線收發信號編程：
 
@@ -155,10 +190,14 @@ JoyFrog的按鍵和搖桿是充當了鍵盤的方向鍵和ABXY鍵。按下搖桿
 
 按下A鍵寫入數位數值。讀取到數位模組(例如按鍵)數字的時候小貓會說Hello。
 
+![](./images/joyfrogButton.png)
+
 ![](./images/joyfrog16.png)
 
 #### 類比數值讀寫：
 
-按下A鍵讀取類比數值。使用PWM寫入類比數值(例如LED燈或者舵機)。
+按下A鍵讀取類比數值(例如電位器)。使用PWM寫入類比數值(例如LED燈或者舵機)。
+
+![](./images/joyfrogServo.png)
 
 ![](./images/joyfrog17.png)
