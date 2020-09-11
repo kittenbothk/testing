@@ -4,7 +4,7 @@ Kittenbot JoyFrog micro:bit遙控綠色(HKBA8027A)
 
 Kittenbot JoyFrog micro:bit遙控紫色(HKBA8027B)
 
-![](./images/joyfrog1.png)
+![](../images/joyfrog1.png)
 
 JoyFrog是Kittenbot推出的Microbit擴展版，它為Microbit增加了按鍵和搖桿等的輸入方式，適合作為遙距控制機械人的遙控器。它還可以用作主控板，在Kittenblock中充當遊戲手掣使用。
 
@@ -51,17 +51,17 @@ JoyFrog是Kittenbot推出的Microbit擴展版，它為Microbit增加了按鍵和
 
 - Kittenblock
 
-    [Kittenblock大全](../Kittenblock/index)
+    [Kittenblock大全](../../KittenBlock/index)
     
 - MakeCode
 
-    [MakeCode編程平台教學](../Makecode/index)
+    [MakeCode編程平台教學](../../Makecode/index)
     
 ## 主控板指示圖
 
-![](./images/joyfrog_diag1.png)
+![](../images/joyfrog_diag1.png)
 
-![](./images/joyfrog_diag2.png)
+![](../images/joyfrog_diag2.png)
 
 1. 紅外線接收器
 2. 3.5mm音頻接口
@@ -85,11 +85,15 @@ JoyFrog是Kittenbot推出的Microbit擴展版，它為Microbit增加了按鍵和
 
 安裝Microbit電池盒之後，就不用永遠連著電線啦～
 
-![](./images/joyfrog_bat1.png)
-![](./images/joyfrog_bat2.png)
-![](./images/joyfrog_bat3.png)
-![](./images/joyfrog_bat4.png)
-![](./images/joyfrog_bat5.png)
+![](../images/joyfrog_bat1.png)
+
+![](../images/joyfrog_bat2.png)
+
+![](../images/joyfrog_bat3.png)
+
+![](../images/joyfrog_bat4.png)
+
+![](../images/joyfrog_bat5.png)
 
 ## JoyFrog雙人模式
 
@@ -97,8 +101,8 @@ JoyFrog是Kittenbot推出的Microbit擴展版，它為Microbit增加了按鍵和
 
 按著X鍵不放手，用USB線連接到電腦。JoyFrog會發出兩下較長的聲音，代表成功進入2號玩家模式。
 
-![](./images/joyfrog_2p1.png)
+![](../images/joyfrog_2p1.png)
 
 在2號玩家模式下，JoyFrog所充當的鍵盤按鍵會改變。
 
-![](./images/joyfrog_2p2.png)
+![](../images/joyfrog_2p2.png)

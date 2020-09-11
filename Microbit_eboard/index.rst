@@ -7,10 +7,6 @@ Microbit擴展板
     :maxdepth: 1
     :glob:
 
-    Robotbitfull
-    robotbitMC.md
-    robotbitKB.md
+    RobotBit/index
     ../functional_module/PWmodules/Armourbit.md
-    JoyFrog.md
-    JoyFrogMC.md
-    JoyFrogKB.md
+    JoyFrog/index
