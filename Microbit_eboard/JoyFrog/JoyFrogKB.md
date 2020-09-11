@@ -28,6 +28,8 @@
 
 JoyFrog的按鍵和搖桿是充當了鍵盤的方向鍵和ABXY鍵。按下搖桿會觸發空白鍵。
 
+![](../images/joyfrog_2p3.png)
+
 JoyFrog底部的金手指亦會觸發1-8數字鍵。
 
 ![](../images/joyfrog13.png)

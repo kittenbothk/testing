@@ -10,3 +10,4 @@ Kittenbot JoyFrog micro:bit遙控的資訊。
     JoyFrog.md
     JoyFrogMC.md
     JoyFrogKB.md
+    JoyFrogSC.md
