@@ -40,7 +40,7 @@ Robotbit支援Makecode上編程。
 
 ![](./image/stepper_wire.png)
 
-![](./image/robotbit_code3.png)
+![](./image/robotbit_code12.png)
 
 ### 4. 蜂鳴器編程
 
