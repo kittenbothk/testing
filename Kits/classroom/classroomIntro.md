@@ -41,5 +41,3 @@
 ![](./images/makecode.png)
 - Kittenblock
 ![](./images/kittenblock.png)
-- Micropython IDE(例如Mu Editor)
-![](./images/mu.png)

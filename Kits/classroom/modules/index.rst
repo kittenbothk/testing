@@ -6,8 +6,8 @@ Robotbit 大班教學套件模組教學
 .. toctree::
     :maxdepth: 1
 
-    ../../../Microbit_eboard/Robotbit/Robotbitfull.md
-    ../../../Microbit_eboard/Robotbit/robotShield.md
+    ../../../Microbit_eboard/Robotbit/index
+    ../../../Microbit_eboard/Robotbit/robotbitShield.md
     ../../../functional_module/ambient.md
     ../../../functional_module/fire.md
     ../../../functional_module/magnetic.md

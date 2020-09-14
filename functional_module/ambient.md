@@ -42,3 +42,9 @@ Robotbit插件可能會不定時推出更新，改進功能。亦有時候我們
 #### 讀取環境光度數值編程
 
 ![](./images/poten_codekb.png)
+
+## Mu Editor編程教學
+
+#### 讀取環境光度數值編程
+
+![](./images/poten_codemu.png)
