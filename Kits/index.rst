@@ -19,7 +19,7 @@
     :maxdepth: 2
     :caption: Robotbit 大班教學套件
 
-    classromm/index
+    classroom/index
 
 .. toctree::
     :maxdepth: 2
