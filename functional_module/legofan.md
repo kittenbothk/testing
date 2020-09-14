@@ -2,11 +2,13 @@
 
 這是一個兼容樂高孔的風扇模組。
 
-![](./images/fan1.jpg)
+![](./images/fan2.png)
 
 ## 接線教學
 
 風扇模組和電機一樣，將風扇連接在Robotbit或者Armourbit的電機接口就可以了。
+
+![](./images/fan1.jpg)
 
 ![](../motors/images/2kmotorConRB1.jpg)
 

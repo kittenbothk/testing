@@ -1,14 +1,18 @@
 # 磁場感應器模組
 
-![](./images/magnet1.jpg)
+![](./images/magnet2.png)
 
 這是一隻可以感應磁場的模組，它返回的數值是數位形式。
+
+數值範圍由0-1，沒有磁石影響時返回1，探測到磁石時返回0。
 
 ## 接線教學
 
 ### Robotbit Shield
 
 將磁場感應器模組連接到Robotbit Shield的3PIN接口。
+
+![](./images/magnet1.jpg)
 
 ### Robotbit
 

@@ -3,6 +3,8 @@
 為針對香港學校課堂裏對STEM教育的需求，Kittenbot特意推出了Robotbit大班教學套件。      
 以提升學校計劃式教學效率為目標，大班教學套件包括了Robotbit的擴展板和多款常用電子模組，涉及光、水、電、火等領域，讓學生在學習編程之餘還能學習科學。
 
+![](./images/list.jpg)
+
 ## 套件特色：
 
 1. 以導師和學生都熟悉的Microbit作為主控板，讓大家能夠輕易上手，提升課堂效率
@@ -41,3 +43,8 @@
 ![](./images/makecode.png)
 - Kittenblock
 ![](./images/kittenblock.png)
+
+
+## 介紹短片：
+
+[![](./images/video.png)](https://www.youtube.com/watch?v=i35FuFmxtQQ&feature=youtu.be)

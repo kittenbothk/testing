@@ -1,14 +1,18 @@
 # 水位感應器模組
 
-![](./images/water1.jpg)
+![](./images/water2.png)
 
 這是一隻可以感應水位的模組，它返回的數值是類比形式。
+
+數值範圍由0-1023，數值越大代表水位越高。
 
 ## 接線教學
 
 ### Robotbit Shield
 
 將水位感應器模組連接到Robotbit Shield的3PIN接口。
+
+![](./images/water1.jpg)
 
 ### Robotbit
 

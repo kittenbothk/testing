@@ -1,14 +1,18 @@
 # 土壤濕度感應器模組
 
-![](./images/soil1.jpg)
+![](./images/soil2.png)
 
 這是一隻可以感應土壤濕度的模組，它返回的數值是類比形式。
+
+數值範圍由0-1023，數值越大代表土壤越濕。
 
 ## 接線教學
 
 ### Robotbit Shield
 
 將土壤濕度感應器模組連接到Robotbit Shield的3PIN接口。
+
+![](./images/soil1.jpg)
 
 ### Robotbit
 

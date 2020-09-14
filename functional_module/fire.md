@@ -1,14 +1,18 @@
 # 火焰感應器模組
 
-![](./images/fire1.jpg)
+![](./images/fire2.png)
 
 這是一隻可以感應火源的模組，它返回的數值是類比形式。
+
+數值範圍由0-1023，數值越大代表越近火焰。
 
 ## 接線教學
 
 ### Robotbit Shield
 
 將火焰感應器模組連接到Robotbit Shield的3PIN接口。
+
+![](./images/fire1.jpg)
 
 ### Robotbit
 

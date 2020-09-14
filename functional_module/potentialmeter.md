@@ -1,14 +1,18 @@
 # 電位器模組
 
-![](./images/poten1.jpg)
+![](./images/poten2.png)
 
-這是一隻電位器模組，它返回的數值是類比形式。
+這是一隻電位器模組，它可以檢測旋轉角度，它返回的數值是類比形式。
+
+數值範圍由0-1023，數值越大代表角度越大。
 
 ## 接線教學
 
 ### Robotbit Shield
 
 將定位器連接到Robotbit Shield的3PIN接口。
+
+![](./images/poten1.jpg)
 
 ### Robotbit
 

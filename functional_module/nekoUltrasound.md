@@ -2,9 +2,11 @@
 
 Kittenbot 原廠貓耳造型超聲波模組 (HKBM8014A)
 
-![](./images/ultraSound1.jpg)
+![](./images/ultraSound2.png)
 
 這是一隻超聲波測距模組。
+
+
 
 ## 產品參數
 
@@ -15,9 +17,12 @@ Kittenbot 原廠貓耳造型超聲波模組 (HKBM8014A)
 - 接口：杜邦線
 
 
+
 ## 接線教學
 
 超聲波模組需要接5v電源。
+
+![](./images/ultraSound1.jpg)
 
 ### 超聲波模組v2
 

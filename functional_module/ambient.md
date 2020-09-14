@@ -1,14 +1,18 @@
 # 光度感應器模組
 
-![](./images/light1.jpg)
+![](./images/light2.png)
 
 這是一隻可以感應環境光度的模組，它返回的數值是類比形式。
+
+數值範圍由0-1023，數值越大代表環境光度越高。
 
 ## 接線教學
 
 ### Robotbit Shield
 
 將光度感應器連接到Robotbit Shield的3PIN接口。
+
+![](./images/light1.jpg)
 
 ### Robotbit
 
