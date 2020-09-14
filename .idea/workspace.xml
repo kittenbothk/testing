@@ -1,11 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="" />
+    <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/ambient.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/ambient.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/fire.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/fire.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/magnetic.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/magnetic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/potentialmeter.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/potentialmeter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/soilhumid.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/soilhumid.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/watelevel.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/watelevel.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,6 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,5 +68,26 @@
       <updated>1594200816776</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1600052763078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600052763078" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1600053244997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600053244997" />
   </component>
 </project>

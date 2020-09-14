@@ -17,6 +17,12 @@
 
 .. toctree::
     :maxdepth: 2
+    :caption: Robotbit 大班教學套件
+
+    classromm/index
+
+.. toctree::
+    :maxdepth: 2
     :caption: SumoBot 12合1套件
 
     12in1/index
