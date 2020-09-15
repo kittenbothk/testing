@@ -24,6 +24,8 @@
 
 將磁場感應器模組連接到Robotbit的針線和3V接口。
 
+![](./images/magnet_wire1.png)
+
 ## MakeCode編程教學
 
 ![](./PWmodules/images/mcbanner.png)

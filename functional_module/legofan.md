@@ -12,6 +12,8 @@
 
 ![](../motors/images/2kmotorConRB1.jpg)
 
+![](./images/fan_wire1.png)
+
     沒有嚴格正負極之分，插的方向只會影響電機轉動方向。
 
 ## MakeCode編程教學
