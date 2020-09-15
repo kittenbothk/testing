@@ -6,6 +6,12 @@
 
 數值範圍由0-1023，數值越大代表角度越大。
 
+## 產品參數
+
+- 工作電壓：3.3V~5V
+- 類型：類比模組
+- 接口：3Pin防反插
+
 ## 接線教學
 
 ### Robotbit Shield
@@ -24,7 +30,7 @@
 
 ### 加載robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
-#### 讀取電位數值編程
+#### 讀取電位器角度編程
 
 ![](./images/poten_code.png)
 
@@ -43,6 +49,12 @@ Robotbit插件可能會不定時推出更新，改進功能。亦有時候我們
 
 ![](./images/addRB.png)
 
-#### 讀取電位數值編程
+#### 讀取電位器角度編程
 
 ![](./images/poten_codekb.png)
+
+## Mu Editor編程教學
+
+#### 讀取電位器角度編程
+
+![](./images/poten_codemu.png)

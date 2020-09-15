@@ -1,4 +1,4 @@
-# T/T電機
+# T/T減速直流電機
 
 ![](./images/tt2.png)
 
@@ -76,24 +76,6 @@
 
 ![](./images/kbbanner.png)
 
-### Robotbit
-
----
-
-### 加載Robotbit插件
-
-在左上角小貓logo旁邊的硬件欄選擇Microbit，加載Microbit與Robotbit插件。
-
-![](./images/addRB.png)
-
-### 電機積木塊
-
-![](./images/rbmotorblocks.png)
-
-### 電機編程
-
-![](./images/rbmotorcode.png)
-
 ### Armourbit
 
 --- 
@@ -111,6 +93,24 @@
 ### 電機編程
 
 ![](./kbimages/kbmotor.png)
+
+### Robotbit
+
+---
+
+### 加載Robotbit插件
+
+在左上角小貓logo旁邊的硬件欄選擇Microbit，加載Microbit與Robotbit插件。
+
+![](./images/addRB.png)
+
+### 電機積木塊
+
+![](./images/rbmotorblocks.png)
+
+### 電機編程
+
+![](./images/rbmotorcode.png)
 
 
 ## FAQ
