@@ -36,6 +36,7 @@
 - 母杜邦線對4Pin防反插接口線x2
 - 3Pin防反插線x2
 - 18650鋰電池x1
+- USB線x1
 
 ## 支援編程平台
 
@@ -48,3 +49,9 @@
 ## 介紹短片：
 
 [![](./images/video.png)](https://www.youtube.com/watch?v=i35FuFmxtQQ&feature=youtu.be)
+
+## 開箱圖
+
+![](./images/pack1.png)
+
+![](./images/pack2.png)
