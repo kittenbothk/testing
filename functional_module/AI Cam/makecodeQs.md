@@ -36,6 +36,8 @@ Armourbit與KOI配合使用時，KOI必須額外提供5V電。
 
 分別對應Robotbit 上 - GND, 5V, P1(TX), P12(RX)
 
+    KOI的藍色線只可以接類比引腳（Pin0-2）！使用Pin0的話請拔除蜂鳴器跳線帽。
+
 ![](McQsImage/robotbit_connection1.png) 
 
 #### 重要事項: 黑 (GND) 及 紅(5V) 切勿反接!!!

@@ -18,3 +18,4 @@ Robotbit 大班教學套件模組教學
     ../../../functional_module/legofan.md
     ../../../motors/ttmotor.md
     ../../../motors/powerBrickServo.md
+    ../../../functional_module/Wifibrick/index

@@ -32,9 +32,23 @@ RFID魔塊 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
 ## 接線方法
 
+### Armourbit
+
+---
+
 將RFID魔塊用4pin排線連接至Armourbit的I2C接口。
 
 ![](./kbimages/rfidcon.jpg)
+
+### Robotbit
+
+--- 
+將RFID魔塊連接至Robotbit的I2C接口。
+
+    藍色線（A）請接到SDA，綠色線（B）請接到SCL。
+
+![](./images/gesture_wire1.png)
+
 
 ## MakeCode編程教學
 

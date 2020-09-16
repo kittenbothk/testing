@@ -14,6 +14,8 @@
 
 ## 接線教學
 
+    由於這是類比模組，所以只能使用robotbit的PIN0-2。（使用PIN0的話需要拔除蜂鳴器跳線帽）
+
 ### Robotbit Shield
 
 將定位器連接到Robotbit Shield的3PIN接口。

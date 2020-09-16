@@ -30,6 +30,7 @@
 - 磁場感應器模組x1
 - 土壤濕度感應器模組x1
 - 水位感應器模組x1
+- Wifibrick魔塊x1(只限IoT版)
 - Robotbit底座x1
 - Microbit矽膠保護套x1
 - 母對母杜邦線x20
