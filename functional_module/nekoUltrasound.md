@@ -2,7 +2,7 @@
 
 Kittenbot 原廠貓耳造型超聲波模組 (HKBM8014A)
 
-![](./images/ultraSound2.png)
+![](./images/ultrasound2.png)
 
 這是一隻超聲波測距模組。
 
@@ -94,7 +94,3 @@ Robotbit插件可能會不定時推出更新，改進功能。亦有時候我們
 ![](./images/ultraSound_code6.png)
 
     超聲波模組的原理是使用數位寫入發射訊號，然後量度訊號反彈回到模組的時間，然後將時間乘以音波速度得知距離。
-
-### RGB燈編程(只限v2)：
-
-![](./images/ultraSound_code7.png)

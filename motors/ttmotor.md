@@ -10,15 +10,15 @@
 
 將電機的紅黑線連接至Armourbit底部的電機接口。
 
-![](./images/tt1.jpg)
-
-![](./images/tt_wire1.png)
+![](./images/tt_wire2.png)
 
     沒有嚴格正負極之分，插的方向只會影響電機轉動方向。
     
 ### RobotBit
 
 將電機的紅黑線連接至RobotBit的電機接口。
+
+![](./images/tt_wire1.png)
 
 ![](./images/2kmotorConRB1.jpg)
 

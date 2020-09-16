@@ -65,23 +65,6 @@
 
 ![](../motors/images/kbbanner.png)
 
-### Robotbit
-
----
-
-### 加載Robotbit插件
-
-在左上角小貓logo旁邊的硬件欄選擇Microbit，加載Microbit與Robotbit插件。
-
-![](../motors/images/addRB.png)
-
-### 電機積木塊
-
-![](../motors/images/rbmotorblocks.png)
-
-### 電機編程
-
-![](../motors/images/rbmotorcode.png)
 
 ### Armourbit
 
@@ -100,6 +83,25 @@
 ### 電機編程
 
 ![](../motors/kbimages/kbmotor.png)
+
+### Robotbit
+
+---
+
+### 加載Robotbit插件
+
+在左上角小貓logo旁邊的硬件欄選擇Microbit，加載Microbit與Robotbit插件。
+
+![](../motors/images/addRB.png)
+
+### 電機積木塊
+
+![](../motors/images/rbmotorblocks.png)
+
+### 電機編程
+
+![](../motors/images/rbmotorcode.png)
+
 
 
 
