@@ -20,7 +20,7 @@
 
 將定位器連接到Robotbit Shield的3PIN接口。
 
-![](./images/poten1.jpg)
+![](./images/poten_wire2.png)
 
 ### Robotbit
 

@@ -18,7 +18,7 @@
 
 將磁場感應器模組連接到Robotbit Shield的3PIN接口。
 
-![](./images/magnet1.jpg)
+![](./images/magnet_wire2.png)
 
 ### Robotbit
 

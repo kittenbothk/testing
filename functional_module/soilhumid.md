@@ -20,7 +20,7 @@
 
 將土壤濕度感應器模組連接到Robotbit Shield的3PIN接口。
 
-![](./images/soil1.jpg)
+![](./images/soil_wire2.png)
 
 ### Robotbit
 

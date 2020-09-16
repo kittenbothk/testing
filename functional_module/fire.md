@@ -20,7 +20,7 @@
 
 將火焰感應器模組連接到Robotbit Shield的3PIN接口。
 
-![](./images/fire1.jpg)
+![](./images/fire_wire2.png)
 
 ### Robotbit
 

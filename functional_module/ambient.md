@@ -20,7 +20,7 @@
 
 將光度感應器連接到Robotbit Shield的3PIN接口。
 
-![](./images/light1.jpg)
+![](./images/light_wire2.png)
 
 ### Robotbit
 

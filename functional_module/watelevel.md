@@ -20,7 +20,7 @@
 
 將水位感應器模組連接到Robotbit Shield的3PIN接口。
 
-![](./images/water1.jpg)
+![](./images/water_wire2.png)
 
 ### Robotbit
 
