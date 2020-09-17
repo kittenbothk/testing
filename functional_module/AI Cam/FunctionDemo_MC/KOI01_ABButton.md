@@ -31,7 +31,7 @@ btn1和btn2分別指的是按鍵A與按鍵B的按鍵狀態。
 
 ## 參考程式
 
-[KOI AB 按鍵應用HEX (插件0.5.4)](https://makecode.microbit.org/_DK6b222tjUz8)
+[KOI AB 按鍵應用HEX (插件0.5.7)](https://makecode.microbit.org/_cjVL49CmfWKJ)
 
 ## 插件版本與更新
 

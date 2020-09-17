@@ -61,9 +61,9 @@
 
 ## 參考程式
 
-[1. 圓形追踪 HEX (插件0.5.4)](https://makecode.microbit.org/_3Ye5uRCzT4L7)
+[1. 圓形追踪 HEX (插件0.5.7)](https://makecode.microbit.org/_h87fXzXxPhWU)
 
-[2. 圓形追踪, OLED顯示HEX (插件0.5.4)](https://makecode.microbit.org/_Myt2zCVvpUXY)
+[2. 圓形追踪, OLED顯示HEX (插件0.5.7)](https://makecode.microbit.org/_TWT2uPR6ziYh)
 
 ## 插件版本與更新
 

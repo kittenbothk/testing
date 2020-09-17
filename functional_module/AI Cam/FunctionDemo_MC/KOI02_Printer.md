@@ -38,7 +38,7 @@
 
 ## 參考程式
 
-[螢幕顯示資訊HEX (插件0.5.4)](https://makecode.microbit.org/_AWmHj17td2Dg)
+[螢幕顯示資訊HEX (插件0.5.7)](https://makecode.microbit.org/_haY9xhetabD6)
 
 
 ## 插件版本與更新

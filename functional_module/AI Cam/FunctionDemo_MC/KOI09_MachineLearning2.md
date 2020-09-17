@@ -4,11 +4,11 @@
 
 
 
-
-
 ## 插入MicroSD卡
 
-雖然使用機器學習辨認特徵並毋須MicroSD卡，但是想永久儲存訓練模型的話就一定要加插MicroSD卡了。
+機器學習過程中訓練的圖像會暫存在SD卡，而且我們需要將訓練的模型儲存下來，所以使用機器學習時請確保SD卡已經插在卡槽。      
+
+
 
 ![](KOI04/02.png)
 
@@ -28,7 +28,10 @@
 
 參考程式：
 
-![](KOI09/run.png)
+![](KOI09/run2.png)
+
+    模型儲存的格式可以為.bin或者.json
+    例:aaa.json或aaa.bin
 
 ## 程式流程
 
@@ -46,7 +49,7 @@
 
 ## 參考程式
 
-[KOI 分類運行 HEX網址 (插件0.5.4)](https://makecode.microbit.org/_TVTRoUL2E4Ue)
+[KOI 分類運行 HEX網址 (插件0.5.7)](https://makecode.microbit.org/_a4uJT9TgVPba)
 
 ## 插件版本與更新
 

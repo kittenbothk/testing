@@ -50,9 +50,9 @@
 
 ## 參考程式
 
-[1. 方形追踪 HEX (插件0.5.4)](https://makecode.microbit.org/_06FL4KiHs5rd)
+[1. 方形追踪 HEX (插件0.5.7)](https://makecode.microbit.org/_2i4V1rWPUWiu)
 
-[2. 方形追踪, OLED顯示HEX (插件0.5.4)](https://makecode.microbit.org/_92x4wqRbATYw)
+[2. 方形追踪, OLED顯示HEX (插件0.5.7)](https://makecode.microbit.org/_JA5eX5EAHcJp)
 
 
 ## 插件版本與更新

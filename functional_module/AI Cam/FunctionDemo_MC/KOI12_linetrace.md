@@ -67,9 +67,9 @@
 
 ## 參考程式
 
-[1. 線條檢測HEX (插件0.5.4)](https://makecode.microbit.org/_YRA2chTMo1DA)
+[1. 線條檢測HEX (插件0.5.7)](https://makecode.microbit.org/_DriAw4Hi5YDe)
 
-[2. 線條檢測+OLED HEX (插件0.5.4)](https://bit.ly/KOILineTracingOLEDHex)
+[2. 線條檢測+OLED HEX (插件0.5.7)](https://makecode.microbit.org/_KJXToKVxW8do)
 
 ## 插件版本與更新
 

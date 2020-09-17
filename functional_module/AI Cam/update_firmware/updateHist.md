@@ -2,18 +2,19 @@
 
 這裡集合了KOI最新與過往的固件檔案。
 
-## 最新固件(版本v1.9.1)
+## 最新固件(版本v1.9.5)
 
-固件版本: v1.9.1
+固件版本: v1.9.5
 
-固件日期：08/09/2020
+固件日期：16/09/2020
 
-[下載地址](https://www.yuque.com/attachments/yuque/0/2020/zip/1432972/1599365983250-f1aef440-6ff3-41a4-ad4e-783af3dc4cf6.zip?from=https%3A%2F%2Fwww.yuque.com%2Fkittenbot%2Fhardwares%2Fkoi-firmware%23Lynwq)
+[下載地址](http://kittenbot.oss-cn-shanghai.aliyuncs.com/koi/koi_1_9_5.kfpkg)
 
 固件更新摘要：
 
 1. IOT功能更新
 2. 語音辨識功能更新
+3. 機器學習模型數目由20增加到40
 
 開機畫面：
 

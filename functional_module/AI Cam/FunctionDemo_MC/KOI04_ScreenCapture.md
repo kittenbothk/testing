@@ -52,9 +52,9 @@
 
 ## 參考程式
 
-[1. 影像截圖與顯示HEX網址 (插件0.5.4)](https://makecode.microbit.org/_7a17i82DHb0T)
+[1. 影像截圖與顯示HEX網址 (插件0.5.7)](https://makecode.microbit.org/_ATq6rYToD0K0)
 
-[2. 連續影像截圖與顯示HEX網址 (插件0.5.4)](https://makecode.microbit.org/_E0eC53AHA3vq)
+[2. 連續影像截圖與顯示HEX網址 (插件0.5.7)](https://makecode.microbit.org/_LqehKgCrmhbF)
 
 
 ## 插件版本與更新

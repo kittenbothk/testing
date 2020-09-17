@@ -46,7 +46,7 @@ KOI有個優勢，可以旋轉攝像頭，旋轉範圍0~180°。但螢幕是不�
 
 ## 參考程式
 
-[LCD方向設定HEX網址 (插件0.5.4)](https://makecode.microbit.org/_9cw2dgg26eEx)
+[LCD方向設定HEX網址 (插件0.5.7)](https://makecode.microbit.org/_HEfgPi4YxbTa)
 
 ## 插件版本與更新
 

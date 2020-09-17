@@ -10,7 +10,7 @@
 
 #### 我們先加載KOI插件：
 
-#### https://github.com/KittenBot/pxt-powerbrick
+#### https://github.com/KittenBot/pxt-koi
 
 方法請參考：[KittenBot產品與MakeCode](./powerBrickMC)
 

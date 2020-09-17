@@ -1,4 +1,4 @@
-# **IoT物聯網 (固件版本: v1.9.1或之後)**
+# **IoT物聯網 (固件版本: v1.9.5或之後)**
 
 KOI上面也有Wifi的功能，我們可以透過Wifi存取物聯網平台的數據。
 
@@ -40,7 +40,7 @@ KOI上面也有Wifi的功能，我們可以透過Wifi存取物聯網平台的數
 
 ## 參考程式
 
-[1. 物聯網HEX網址(固件v1.9.1_插件0.5.4)](https://makecode.microbit.org/_C9uc9YhmKhLw)
+[1. 物聯網HEX網址(固件v1.9.5_插件0.5.7)](https://makecode.microbit.org/_4Liiqi0oyDkH)
 
 ## 插件版本與更新
 
