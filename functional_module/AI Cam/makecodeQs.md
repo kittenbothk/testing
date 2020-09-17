@@ -1,12 +1,12 @@
 # **快速入門**
 
-## 連接Micro:bit
+## **連接Micro:bit**
 
 ------
 
 
 
-### 1. 與Armourbit 連接
+### **1. 與Armourbit 連接**
 
 因為接線系統上, Armourbit 相對簡易便捷; 小編推薦新手使用Armourbit, 這樣可以減少因接線失誤而導致白忙半天呢~
 
@@ -20,7 +20,7 @@ Armourbit與KOI配合使用時，KOI必須額外提供5V電。
 
 
 
-### 2. 與Robotbit連接
+### **2. 與Robotbit連接**
 
 由於Robobit 上提供了5V 的輸出接口, 我們可以不用再接USB線為KOI 供電。
 
@@ -49,7 +49,7 @@ Armourbit與KOI配合使用時，KOI必須額外提供5V電。
 ![](McQsImage/robotbit_connection3-1.png) 
 
 
-## 準備Makecode編程
+## **準備Makecode編程**
 
 ------
 ![](../PWmodules/images/mcbanner.png)
@@ -86,13 +86,13 @@ KOI 插件成功載入，如圖所示
 
 
 
-## 積木介紹
+## **積木介紹**
 
 ------
 
 
 
-### 連接初始化
+### **連接初始化**
 
 
 
@@ -104,7 +104,7 @@ KOI 插件成功載入，如圖所示
 
 
 
-### Classifier 分類器
+### **Classifier 分類器**
 
 如果大家熟悉PC端的KittenbotML5外掛程式，那麼理解KOI的Classifier 積木塊也就很簡單了。
 
@@ -199,7 +199,7 @@ w與h為檢測矩形時，屏幕上框選出方形的線框長度與寬度。
 
 
 
-### Apriltag
+### **Apriltag**
 
 Apriltag簡單理解為簡化版的二維碼，Apriltag還能監測出座標與其三軸的旋轉角度。
 
@@ -232,13 +232,13 @@ Apriltag廣泛應用到機器人視覺識別的場景中
 
 
 
-### KOI的AB按鍵檢測
+### **KOI的AB按鍵檢測**
 
  ![](./FunctionDemo_MC/KOI01/02-1.png)
 
 按鍵檢測事件，btn1與btn2分別是按鍵的狀態值; 當按下鬆開會傳回迅間值1，閒置狀態為0。
 
-## 插件版本與更新
+## **插件版本與更新**
 
 KOI插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
