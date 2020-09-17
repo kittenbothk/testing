@@ -8,7 +8,7 @@
 
 固件日期：16/09/2020
 
-[下載地址](http://kittenbot.oss-cn-shanghai.aliyuncs.com/koi/koi_1_9_5.kfpkg)
+[下載地址](http://bit.ly/KOIFW195)
 
 固件更新摘要：
 
