@@ -47,7 +47,7 @@ RFID魔塊 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
     藍色線（A）請接到SDA，綠色線（B）請接到SCL。
 
-![](./images/gesture_wire1.png)
+![](./images/rfid_wire1.png)
 
 
 ## MakeCode編程教學
