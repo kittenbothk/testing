@@ -57,7 +57,7 @@
 --- 
 將顏色手勢魔塊連接至Robotbit的I2C接口。
 
-    藍色線（A）請接到SDA，綠色線（B）請接到SCL。
+    藍色線（A）請接到SCL，綠色線（B）請接到SDA。
 
 ![](./images/gesture_wire1.png)
 
