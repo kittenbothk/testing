@@ -82,3 +82,8 @@ Geek Motor O 續轉舵機(HKBD8001A)
 
 ![](./images/servo_extension.png)
 
+### [詳細方法](../Makecode/powerBrickMC)
+
+![](./images/360servo_code2.png)
+
+[參考程式網址](https://makecode.microbit.org/_JdJDbv5ue97t)
