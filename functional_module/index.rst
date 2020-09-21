@@ -39,6 +39,12 @@
 
 .. toctree::
     :maxdepth: 1
+    :caption: Meowbit喵比特
+
+    meowbit/index
+
+.. toctree::
+    :maxdepth: 1
     :caption: 流光溢彩屏
     :glob:
 

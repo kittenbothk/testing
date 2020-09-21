@@ -8,7 +8,9 @@ MakeCode Arcade是微軟開發的圖像化遊戲編寫平台，同時也是MeowB
 
 ### 用USB線連接MeowBit到電腦。
 
-### 按著MeowBit的A按鍵不放，打開MeowBit電源。
+### 進入下載模式
+
+- 按著MeowBit的A按鍵不放，打開MeowBit電源。
 
 ### 打開Makecode Arcade
 
