@@ -6,7 +6,13 @@
 
 ## 組裝說明書和參考程式
 
-說明書和參考程式資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+說明書資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+
+[參考程式: 足球小將-joyfrog搖控](https://makecode.microbit.org/_ca7VFifeAhj4)
+
+[參考程式: 足球小將-microbit搖控](https://makecode.microbit.org/_V2da9FUy6eXy)
+
+[參考程式: 足球小將-主體](https://makecode.microbit.org/_V99A0ic03X50)
 
 ## 參考接線
 

@@ -6,7 +6,9 @@
 
 ## 組裝說明書和參考程式
 
-說明書和參考程式資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+說明書資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+
+[參考程式: 戰爭炮台-主體](https://makecode.microbit.org/_1HuUtRi7rbat)
 
 ## 參考接線
 

@@ -52,7 +52,7 @@ Armourbit與KOI配合使用時，KOI必須額外提供5V電。
 ------
 ![](../PWmodules/images/mcbanner.png)
 
-可以使用線上版本或者離線版本的Makecode
+可以使用線上版本的Makecode
 
 [https://makecode.microbit.org](https://makecode.microbit.org/)
 

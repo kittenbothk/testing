@@ -6,7 +6,15 @@
 
 ## 組裝說明書和參考程式
 
-說明書和參考程式資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+說明書資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+
+[參考程式: 機靈捕手-JoyFrog搖控](https://makecode.microbit.org/_EAdieF1Y8Aqm)
+
+[參考程式: 機靈捕手-JoyFrog版主體](https://makecode.microbit.org/_AfqbPTEdMEc8)
+
+[參考程式: 機靈捕手-microbit搖控](https://makecode.microbit.org/_25oLsUgq19PK)
+
+[參考程式: 機靈捕手-microbit版主體](https://makecode.microbit.org/_gLmJRpcdP7Ua)
 
 ## 參考接線
 
@@ -26,4 +34,3 @@
 1. 將模型打開之後，手掣上的Microbit會顯示心形圖案符號。
 2. 利用手掣上的搖桿控制機械人的移動，按下A鍵放下擋板，再按一下收起擋板。
 3. 按下B鍵切換至避障模式，機械人遇到障礙物會轉換方向繼續前進，可以作為自動防禦機制。
-4. 同時按下A和B鍵，Microbit會顯示超聲波距離。

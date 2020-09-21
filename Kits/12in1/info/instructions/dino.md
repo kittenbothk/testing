@@ -6,7 +6,13 @@
 
 ## 組裝說明書和參考程式
 
-說明書和參考程式資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+說明書資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+
+[參考程式: 狂暴角龍-joyfrog搖控](https://makecode.microbit.org/_dhce3PKms5Fk)
+
+[參考程式: 狂暴角龍-microbit搖控](https://makecode.microbit.org/_J8w7WriE9D4D)
+
+[參考程式: 狂暴角龍-主體](https://makecode.microbit.org/_2ixfyk1TAHEh)
 
 ## 參考接線
 

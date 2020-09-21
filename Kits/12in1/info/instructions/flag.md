@@ -6,7 +6,13 @@
 
 ## 組裝說明書和參考程式
 
-說明書和參考程式資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+說明書資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+
+[參考程式: 奪旗校尉-joyfrog搖控](https://makecode.microbit.org/_MVPAdxc4JfmK)
+
+[參考程式: 奪旗校尉-microbit搖控](https://makecode.microbit.org/_EJAAk17c6cxi)
+
+[參考程式: 奪旗校尉-主體](https://makecode.microbit.org/_CMPiDu1eWK6U)
 
 ## 參考接線
 

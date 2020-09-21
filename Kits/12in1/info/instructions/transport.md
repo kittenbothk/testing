@@ -6,7 +6,13 @@
 
 ## 組裝說明書和參考程式
 
-說明書和參考程式資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+說明書資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+
+[參考程式: 瘋狂掠奪者-JoyFrog搖控](https://makecode.microbit.org/_bMTCUsX7TgeX)
+
+[參考程式: 瘋狂掠奪者-microbit搖控](https://makecode.microbit.org/_cMpDja8ie5Cx)
+
+[參考程式: 瘋狂掠奪者-主體](https://makecode.microbit.org/_RuWcxCRk6CmJ)
 
 ## 參考接線
 
