@@ -12,5 +12,5 @@ Meowbit介紹及詳細資訊
     meowbitHOC.md
     meowbit_light.md
     meowbit_accel.md
-    meowbit_radio.md
     meowbit_temp.md
+    meowbit_radio.md
