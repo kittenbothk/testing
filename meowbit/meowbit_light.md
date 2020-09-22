@@ -1,0 +1,33 @@
+# MeowBit的光度感應器
+
+Meowbit上搭載了光度感應器，可以探測光度數值和判斷環境為黑暗或明亮。
+
+## MakeCode Arcade編程教學
+
+![](../functional_module/PWmodules/images/mcbanner.png)
+
+### 載入控制器插件
+
+![](./images/sd5.png)
+
+![](./images/light1.png)
+
+### 控制器積木塊
+
+![](./images/light2.png)
+
+### 光度感應編程
+
+![](./images/light3.png)
+
+當我們遮擋著Meowbit的光度感應器的時候，小鴨會說出”很暗”，用電筒照射它時說出”很光”。
+
+[參考程式](https://makecode.com/_EUyfs590PdhJ)
+
+### 探測光度數值編程
+
+![](./images/light4.png)
+
+小鴨會一直說出現時的光度數值。
+
+[參考程式](https://makecode.com/_VbYeA6apKPd0)

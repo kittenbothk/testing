@@ -9,4 +9,8 @@ Meowbit介紹及詳細資訊
     meowbit.md
     interface.md
     arcade.md
+    meowbitHOC.md
+    meowbit_light.md
+    meowbit_accel.md
     meowbit_radio.md
+    meowbit_temp.md
