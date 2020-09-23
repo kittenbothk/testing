@@ -9,7 +9,8 @@ Robotbit支援Makecode上編程。
 ### 首先加載Robotbit的插件
 
 #### 1. 在makecode添加包中直接搜索Robotbit（Robotbit插件已經通過微軟官方認證)  
-![](../image/38_01.png)          
+![](../image/38_01.png) 
+         
 ![](../image/39_1.png)
 
 #### 2. 在Kittenbot makecode離線版本中，添加包列表可以顯示Robotbit以及其他集成擴展包（Robotbit可以離線加載不依靠網絡，其他的擴展包不可以） 
@@ -53,6 +54,8 @@ Robotbit支援Makecode上編程。
 RGB燈的編程需要使用Neopixel的積木塊。
 
 Neopixel的詳細講解可以參考：[Neopixel介紹](../../accessories/LEDMatrix/LEDMatrixNeoPixel1)
+
+    除了”顯示顏色”的積木之外，其餘所有的積木都需要加一個”刷新顯示”的積木才會顯示效果。
 
 #### 5.1 4顆燈同時點亮
 
