@@ -1,6 +1,6 @@
 # Meowbit Kittenblock編程快速入門
 
-Kittenblock
+Kittenblock是針對青少年STEAM教育的編程平台，是Meowbit的其中一種支援平台。
 
 ![](../functional_module/PWmodules/images/kbbanner.png)
 
@@ -9,6 +9,8 @@ Kittenblock
 要在Kittenblock對Meowbit編程，我們首先要與Meowbit建立連接。
 
 ### 1. 將Meowbit連接電腦，並進入下載模式。
+
+- 按著MeowBit的A按鍵不放，打開MeowBit電源。
 
 ![](./images/kb1.jpg)
 

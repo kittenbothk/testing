@@ -14,6 +14,8 @@ Meowbit介紹及詳細資訊
     meowbit_accel.md
     meowbit_temp.md
     meowbit_LED.md
+    meowbit_pin.md
     meowbit_radio.md
     meowbit_robotbit.md
+    meowbit_neopixel.md
     meowbit_iobit.md

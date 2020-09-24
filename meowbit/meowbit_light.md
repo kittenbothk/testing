@@ -31,3 +31,13 @@ Meowbit上搭載了光度感應器，可以探測光度數值和判斷環境為�
 小鴨會一直說出現時的光度數值。
 
 [參考程式](https://makecode.com/_VbYeA6apKPd0)
+
+##  Kittenblock編程教學
+
+![](../functional_module/PWmodules/images/kbbanner.png)
+
+### 探測光度數值編程
+
+![](./images/light5.png)
+
+小貓會一直說出現時的光度數值。

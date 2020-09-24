@@ -23,3 +23,13 @@ Meowbit上搭載了溫度感應器，可以檢測環境溫度。
 小鴨會一直說出現時的溫度數值。
 
 [參考程式](https://makecode.com/_0RVU8sirC9hM)
+
+##  Kittenblock編程教學
+
+![](../functional_module/PWmodules/images/kbbanner.png)
+
+### 探測光度數值編程
+
+![](./images/temp2.png)
+
+小貓會一直說出現時的溫度數值。

@@ -12,6 +12,8 @@ MakeCode Arcade是微軟開發的圖像化遊戲編寫平台，同時也是MeowB
 
 - 按著MeowBit的A按鍵不放，打開MeowBit電源。
 
+![](./images/kb1.jpg)
+
 ### 打開Makecode Arcade
 
 <https://arcade.makecode.com>
