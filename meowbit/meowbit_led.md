@@ -4,7 +4,7 @@ Meowbit上也搭載了LED燈，可以點亮或熄滅。
 
 ## MakeCode Arcade編程教學
 
-![](../functional_module/PWmodules/images/mcbanner.png)
+![](./images/acbanner.png)
 
 ### 載入引腳插件
 

@@ -4,7 +4,7 @@ Meowbit上搭載了陀螺儀，可以用來製作以動作控制的遊戲。
 
 ## MakeCode Arcade編程教學
 
-![](../functional_module/PWmodules/images/mcbanner.png)
+![](./images/acbanner.png)
 
 ### 載入控制器插件
 

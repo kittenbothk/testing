@@ -4,7 +4,7 @@ Meowbit上搭載了光度感應器，可以探測光度數值和判斷環境為�
 
 ## MakeCode Arcade編程教學
 
-![](../functional_module/PWmodules/images/mcbanner.png)
+![](./images/acbanner.png)
 
 ### 載入控制器插件
 

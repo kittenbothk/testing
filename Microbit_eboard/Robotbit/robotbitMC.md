@@ -21,7 +21,7 @@ Robotbit支援Makecode上編程。
 
 ### 1. 電機編程
 
-將電機連接在robotbit的M1A和M1B上。
+將電機連接在Robotbit的M1A和M1B上。
 
 ![](../image/motor_wire.png)
 

@@ -4,7 +4,7 @@ Meowbit上有20Pin的引腳金手指，大家可以用鱷魚夾連接不同的�
 
 ## MakeCode Arcade編程教學
 
-![](../functional_module/PWmodules/images/mcbanner.png)
+![](./images/acbanner.png)
 
 ### 載入引腳插件
 

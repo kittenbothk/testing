@@ -4,7 +4,7 @@ Meowbit上搭載了溫度感應器，可以檢測環境溫度。
 
 ## MakeCode Arcade編程教學
 
-![](../functional_module/PWmodules/images/mcbanner.png)
+![](./images/acbanner.png)
 
 ### 載入控制器插件
 

@@ -1,10 +1,10 @@
-# Meowbit在MakeCode編程
+# Meowbit MakeCode編程快速入門
 
 MakeCode Arcade是微軟開發的圖像化遊戲編寫平台，同時也是MeowBit的主要編程平台。
 
-## MakeCode Arcade編程快速入門
+## MakeCode Arcade編程
 
-![](../functional_module/PWmodules/images/mcbanner.png)
+![](./images/acbanner.png)
 
 ### 用USB線連接MeowBit到電腦。
 
