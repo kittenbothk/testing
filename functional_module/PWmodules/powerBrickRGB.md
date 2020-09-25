@@ -48,15 +48,11 @@
 
 ![](./images/rgbsingle.png)
 
-[參考程式下載](https://bit.ly/PowerbrickM9_01Hex)
-
 [參考程式網址](https://makecode.microbit.org/_dgdfa73fb6jr)
 
 ### 彩虹色點亮
 
 ![](./images/rgbrainbow.png)
-
-[參考程式下載](https://bit.ly/PowerbrickM9_02Hex)
 
 [參考程式網址](https://makecode.microbit.org/_VDtaD6AVjfdd)
 
@@ -64,15 +60,11 @@
 
 ![](./images/rgbpixel.png)
 
-[參考程式下載](https://bit.ly/PowerbrickM9_03Hex)
-
 [參考程式網址](https://makecode.microbit.org/_iv6MHWEkDMjr)
 
 ### 圖案點亮示範
 
 ![](./images/rgbpyramid.png)
-
-[參考程式下載](https://bit.ly/PowerbrickM9_04Hex)
 
 [參考程式網址](https://makecode.microbit.org/_2cF73496m8p1)
 

@@ -35,8 +35,6 @@
 
 ![](./images/water.png)
 
-[參考程式下載](https://bit.ly/PowerbrickM2_01Hex)
-
 [參考程式網址](https://makecode.microbit.org/_h4Ebo11zUhTr)
 
 ### MakeCode教學短片

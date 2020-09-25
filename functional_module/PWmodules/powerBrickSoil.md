@@ -35,8 +35,6 @@
 
 ![](./images/soil.png)
 
-[參考程式下載](https://bit.ly/PowerbrickM3_01Hex)
-
 [參考程式網址](https://makecode.microbit.org/_i33W9gCyueDr)
 
 ## 插件版本與更新

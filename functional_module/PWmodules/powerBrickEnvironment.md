@@ -43,15 +43,11 @@
 
 ![](./images/temp.png)
 
-[參考程式下載](https://bit.ly/PowerbrickM1_01Hex)
-
 [參考程式網址](https://makecode.microbit.org/_7iaJkbDr3H0J)
 
 ### 相對濕度測量編程
 
 ![](./images/RH.png)
-
-[參考程式下載](https://bit.ly/PowerbrickM1_02Hex)
 
 [參考程式網址](https://makecode.microbit.org/_iwp6isU4hLRR)
 

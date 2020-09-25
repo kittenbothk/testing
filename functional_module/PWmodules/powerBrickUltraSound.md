@@ -48,15 +48,11 @@
 
 ![](./images/distance.png)
 
-[參考程式下載](https://bit.ly/PowerbrickM4_01)
-
 [參考程式網址](https://makecode.microbit.org/_VUTJ1xDtzVfR)
 
 ### 環境聲音檢測編程
 
 ![](./images/soundlevel.png)
-
-[參考程式下載](https://bit.ly/PowerbrickM4_02Hex)
 
 [參考程式網址](https://makecode.microbit.org/_RKL0iE4iP63i)
 
