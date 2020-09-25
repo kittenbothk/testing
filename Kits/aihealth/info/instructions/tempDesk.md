@@ -14,6 +14,8 @@
 
 ## 參考程式
 
+[自動追踪探溫器參考程式](https://makecode.microbit.org/_LRc0Aa7r2gJx)
+
 [參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
 
 ![](./images/tempdeskcode.png)

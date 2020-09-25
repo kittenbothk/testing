@@ -3,7 +3,7 @@
 ![](./images/1.jpeg)
 
 時下的年青人都喜歡玩電子遊戲，為了提高他們對編程的興趣，Kittenbot推出了Meowbit，一款為MakeCode Arcade而設計的一款小型掌上遊戲機。運用MakeCode Arcade，學生可以用圖像化的編程方式創作自己的遊戲然後直接上傳到Meowbit遊玩，讓大家都可以輕鬆地體驗遊戲設計，充分體現出STEAM的學習理念。  
-除此之外，MeowBit還是一塊機械人主控板，它底部也有與Microbit相容的引腳金手指，兼容Kittenbot的擴展板，可見Meowbit的靈活性甚高，創作性更豐富。  
+除此之外，MeowBit還是一塊機械人主控板，它底部也有與Microbit相容的引腳金手指，兼容Kittenbot的擴展板，令Meowbit的靈活性更高，創作性更豐富。  
 ### **Meowbit喵比特已經受到Microsoft的官方認證，是Microsoft推薦的MakeCode Arcade硬件之一。**
 
 ## 適合人群
@@ -18,10 +18,9 @@
 - 靈活性高，可作遊戲機亦可作機械人主控。
 - 搭載多款感應器，令編程靈活性更高。
 - 支援多款編程平台，包括MakeCode Arcade和Kittenblock。
-- 隨時隨地遊玩你創作的遊戲。
 - 可愛又懷舊的畫風。
-- 體積細小，適合便攜。
-- 支援中文編碼
+- 體積細小，適合便攜，隨時隨地遊玩你創作的遊戲。
+- 支援中文編碼，畫面可顯示中文。
 
 ## 產品參數
 
@@ -95,7 +94,6 @@
 
 - Microsoft MakeCode Arcade
 - Kittenblock
-- Micropython
 
 ## 詳細引腳圖：
 
@@ -108,3 +106,7 @@
 
 ### 外國用家分享
 [![](./images/5.png)](https://www.youtube.com/watch?v=2Z8bXXwBaIY&feature=youtu.be)
+
+### Meowbit應用分享
+
+[![](./images/7.png)](https://www.youtube.com/watch?v=_-waYx6LuK0&feature=youtu.be)

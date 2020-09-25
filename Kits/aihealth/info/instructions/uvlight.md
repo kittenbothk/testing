@@ -14,6 +14,8 @@
 
 ## 參考程式
 
+[智能模擬UV消毒燈參考程式](https://makecode.microbit.org/_VfbfE312p0cv)
+
 [參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
 
 ![](./images/uvlightcode.png)

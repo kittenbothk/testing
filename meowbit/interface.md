@@ -38,11 +38,11 @@ Meowbit會顯示有顯示F4字樣的介面，進入模式成功。
 
 Meowbit會顯示選項菜單，您可以用方向鍵選擇選項，按A確認。
 
-![](./images/menu.gif)
+![](./images/menu1.gif)
 
 ## 固件更新
 
-[最新固件2.8.0下載](https://www.yuque.com/attachments/yuque/0/2020/zip/1432972/1596873790071-35affe0d-7241-40f7-8c08-83e68306ca54.zip?from=https%3A%2F%2Fwww.yuque.com%2Fkittenbot%2Fhardwares%2Fmeowbit)
+[最新固件2.8.0下載](www.google.com)
 
 首先進入下載模式。畫面上會顯示固件版本。
 

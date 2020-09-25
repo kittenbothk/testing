@@ -2,6 +2,8 @@
 
 MakeCode Arcade是微軟開發的圖像化遊戲編寫平台，同時也是MeowBit的主要編程平台。
 
+#### Meowbit是微軟MakeCode Arcade的其中一款官方認可硬件。
+
 ## MakeCode Arcade編程
 
 ![](./images/acbanner.png)
@@ -16,7 +18,7 @@ MakeCode Arcade是微軟開發的圖像化遊戲編寫平台，同時也是MeowB
 
 ### 打開Makecode Arcade
 
-<https://arcade.makecode.com>
+### <https://arcade.makecode.com>
 
 ![](./images/arcade1.png)
 
@@ -41,6 +43,8 @@ MakeCode Arcade是微軟開發的圖像化遊戲編寫平台，同時也是MeowB
 ![](./images/arcade7.png)
 
 ### 編程完成之後下載遊戲到MeowBit。
+
+![](./images/arcade8.png)
 
 ![](./images/arcade6.png)
 

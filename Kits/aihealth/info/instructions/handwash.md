@@ -14,6 +14,10 @@
 
 ## 參考程式
 
+[訓練程序參考程式](https://makecode.microbit.org/_4v35X9ferVMY)
+
+[搓手液機參考程式](https://makecode.microbit.org/_Dzp8Xt48kMVq)
+
 [參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
 
 ![](./images/washcode.png)
@@ -30,7 +34,7 @@
 
 完成所有訓練之後同時按下A和B按鍵，儲存訓練的檔案。
 
-### 然後載入升降機程序
+### 然後載入搓手液機程序
 
 打開電源，重置Microbit。
 
