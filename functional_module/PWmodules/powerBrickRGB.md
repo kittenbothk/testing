@@ -50,7 +50,7 @@
 
 [參考程式下載](https://bit.ly/PowerbrickM9_01Hex)
 
-[參考程式網址](https://makecode.microbit.org/_Fpd9w0KAwbmv)
+[參考程式網址](https://makecode.microbit.org/_dgdfa73fb6jr)
 
 ### 彩虹色點亮
 
@@ -58,7 +58,7 @@
 
 [參考程式下載](https://bit.ly/PowerbrickM9_02Hex)
 
-[參考程式網址](https://makecode.microbit.org/_DawbR3EefgPp)
+[參考程式網址](https://makecode.microbit.org/_VDtaD6AVjfdd)
 
 ### 單顆燈點亮
 
@@ -66,7 +66,7 @@
 
 [參考程式下載](https://bit.ly/PowerbrickM9_03Hex)
 
-[參考程式網址](https://makecode.microbit.org/_8h5hvdL59eua)
+[參考程式網址](https://makecode.microbit.org/_iv6MHWEkDMjr)
 
 ### 圖案點亮示範
 
@@ -74,7 +74,7 @@
 
 [參考程式下載](https://bit.ly/PowerbrickM9_04Hex)
 
-[參考程式網址](https://makecode.microbit.org/_1utE3kgMz5Ts)
+[參考程式網址](https://makecode.microbit.org/_2cF73496m8p1)
 
 ### Makecode教學短片
 
