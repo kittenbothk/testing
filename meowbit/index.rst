@@ -20,3 +20,4 @@ Meowbit介紹及詳細資訊
     meowbit_neopixel.md
     meowbit_iobit.md
     meowbit_turtle.md
+    meowbit_tft.md
