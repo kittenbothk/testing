@@ -16,6 +16,10 @@ MakeCode Arcade是微軟開發的圖像化遊戲編寫平台，同時也是MeowB
 
 ![](./images/kb1.jpg)
 
+成功的話，電腦會出現一個叫Arcade F4的裝置。
+
+![](./images/kb2.png)
+
 ### 打開Makecode Arcade
 
 ### <https://arcade.makecode.com>

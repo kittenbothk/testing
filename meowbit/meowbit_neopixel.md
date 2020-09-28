@@ -69,6 +69,8 @@
     
 #### 4顆燈同時點亮
 
+    所有燈效都需要運行Color Update這個積木才會顯示。
+
 ![](./images/robotbit20.png)
 
 

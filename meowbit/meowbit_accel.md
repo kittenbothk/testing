@@ -2,6 +2,8 @@
 
 Meowbit上搭載了陀螺儀，可以用來製作以動作控制的遊戲。
 
+![](./images/accel6.png)
+
 ## MakeCode Arcade編程教學
 
 ![](./images/acbanner.png)
@@ -46,22 +48,20 @@ Meowbit上搭載了陀螺儀，可以用來製作以動作控制的遊戲。
 
 小貓會一直說出現時的加速度數值。
 
-![](./images/accel6.png)
-
 ### 轉向加速度編程
 
 ![](./images/accel4.png)
 
 小貓會一直說出現時的轉向加速度數值。
 
-![](./images/accel7.png)
-![](./images/accel8.png)
-
 ### 傾斜角度編程
 
 ![](./images/accel5.png)
 
 小貓會一直說出現時的傾斜角度。
+
+![](./images/accel7.png)
+![](./images/accel8.png)
 
 ### 動作檢測編程
 
