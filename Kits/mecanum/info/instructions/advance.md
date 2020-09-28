@@ -6,9 +6,9 @@
 
 [組裝說明書下載]()
 
-[參考程式- 主體]()
+[參考程式- 主體](https://makecode.microbit.org/_UD7XueM2oC2o)
 
-[參考程式- JoyFrog遊戲手柄]()
+[參考程式- JoyFrog遊戲手柄](https://makecode.microbit.org/_ddya6e8pADDs)
 
 ## 模型玩法
 
