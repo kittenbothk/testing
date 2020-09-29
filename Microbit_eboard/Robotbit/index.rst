@@ -8,6 +8,7 @@ RobotBit的資訊。
     :glob:
 
     Robotbitfull
+    robotbitBase.md
     robotbitMC.md
     robotbitKB.md
     robotbitShield.md
