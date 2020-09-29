@@ -2,17 +2,17 @@
 
 為了方便大家使用不同模塊的PH2.0防反接接口Kittenbot推出了Robotbit的擴展板Robotbit Shield，板上載有多個3pin和4pin的PH2.0接口，讓大家不用再每次都使用杜邦線轉接到模塊了。
 
-![](../image/shield4.jpg) 
+![](../RBimage/shield4.jpg) 
 
 ## Robotbit Shield 安插示範
 
-![](../image/shield3.jpg) 
+![](../RBimage/shield3.jpg) 
 
-![](../image/shield5.gif)
+![](../RBimage/shield5.gif)
 
 ## Robotbit Shield 擴展板指示圖
 
-![](../image/shield1.jpg) 
+![](../RBimage/shield1.jpg) 
 
 1: PH2.0 4PIN I2C接口           
 
@@ -28,7 +28,7 @@
                        
 14: 電源指示燈                       
 
-![](../image/shield2.jpg) 
+![](../RBimage/shield2.jpg) 
 
 15: 8PIN排母接口，用於插接Robotbit Pin排針
      
