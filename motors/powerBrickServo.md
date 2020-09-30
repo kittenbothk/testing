@@ -62,7 +62,7 @@ Geekservo舵機 (HKBD9005A)
 
 ![](./kbimages/servocon.jpg)
 
-    啡色接負極，紅色接正極，橙色接數據
+    啡色接負極，紅色接正極，橙色接數據。
     
 ### RobotBit
 

@@ -58,7 +58,8 @@ Geek Motor O 續轉舵機(HKBD8001A)
 將舵機連接到IOBit的類比引腳。
 
     可以使用3v或者5v。
-
+    啡色接負極，紅色接正極，橙色接數據。   
+    
 ![](./images/360servo_wire1.png)
 
 ![](./images/360servo_wire2.png)
