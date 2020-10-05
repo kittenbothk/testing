@@ -6,6 +6,12 @@
 
 [組裝說明書下載]()
 
+### 組裝注意！！
+
+#### 麥卡納姆輪和一般輪子不同，四個輪子的方向必須要按照說明書安裝。
+
+![](./images/7.png)
+
 [參考程式- 主體](https://makecode.microbit.org/_UD7XueM2oC2o)
 
 [參考程式- JoyFrog遊戲手柄](https://makecode.microbit.org/_ddya6e8pADDs)

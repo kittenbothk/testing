@@ -6,6 +6,12 @@
 
 [組裝說明書下載]()
 
+### 組裝注意！！
+
+#### 麥卡納姆輪和一般輪子不同，四個輪子的方向必須要按照說明書安裝。
+
+![](./images/6.png)
+
 [參考程式- 主體](https://makecode.microbit.org/_ed6Mh7F81Hvg)
 
 [參考程式- Microbit搖控](https://makecode.microbit.org/_D3k7FL38TPC3)

@@ -6,4 +6,5 @@
 .. toctree::
     :maxdepth: 2
 
-    instructions/index
+    instructions/basic.md
+    instructions/advance.md
