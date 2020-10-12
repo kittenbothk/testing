@@ -32,6 +32,8 @@ Kittenblock是針對青少年STEAM教育的編程平台，是Meowbit的其中一
 
 ![](./images/kb6.png)
 
+    假如電腦上只出現了可移動式磁碟(USB Drive)，你需要按著B然後按一下Reset。
+
 ### 4. 點擊感嘆號，連接Meowbit。
 
 ![](./images/kb7.png)
