@@ -52,30 +52,34 @@ Meowbit發明家套件是一套針對Meowbit而開發的教育套件，為Meowbi
 
 ![](./images/coin4.jpg)
 
-### 4. 灌籃高手
+### 4. 智能儲物箱
+
+![](./images/coin2.jpg)
+
+### 5. 灌籃高手
 
 ![](./images/ball2.jpg)
 
-### 5. 鋼琴大師
+### 6. 鋼琴大師
 
 ![](./images/piano2.jpg)
 
-### 6. 聲控彩燈
+### 7. 聲控彩燈
 
 ![](./images/light1.jpg)
 
-### 7. 防噪窗
+### 8. 防噪窗
 
 ![](./images/window2.jpg)
 
-### 8. 巡邏智械
+### 9. 巡邏智械
 
 ![](./images/trace2.jpg)
 
-### 9. 避障智貓
+### 10. 避障智貓
 
 ![](./images/avoid2.jpg)
 
-### 10. 智能停車系統
+### 11. 智能停車系統
 
 ![](./images/parking.jpg)

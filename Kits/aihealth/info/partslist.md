@@ -12,4 +12,4 @@ AI衛生防疫套件的零件清單，請核實積木包沒有缺少零件。
 
 ## 清單下載
 
-[積木零件清單PDF下載](www.google.com)
+[積木零件清單PDF下載](https://bit.ly/AIHealthCareSetBuildingGuide)
