@@ -17,6 +17,12 @@
 
 .. toctree::
     :maxdepth: 2
+    :caption: Meowbit發明家套件
+
+    meowbit_creator/index
+
+.. toctree::
+    :maxdepth: 2
     :caption: Robotbit 大班教學套件
 
     classroom/index
