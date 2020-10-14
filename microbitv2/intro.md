@@ -20,6 +20,8 @@ BBC Micro:bit第二代官網：<https://microbit.org/new-microbit/>
 
 [![](./image/24.png)](https://www.youtube.com/watch?v=waIdGCitbH4&feature=emb_title)
 
+## Micro:bit升級逐個睇
+
 ## 升級1：內置咪高峰
 
 ![](./image/4.jpg)
@@ -132,6 +134,8 @@ Microbit機構表示，為了教育大眾保護私隱的重要性，Microbit上�
 ### 3. 供電提升
 
 Microbit的第二代亦都提升了引腳輸出的電量，由舊版的90mA提升至200mA，讓大家可以使用更多功能配件。
+
+## 新舊Microbit比較
 
 ## 新舊Microbit相容性
 
