@@ -10,6 +10,8 @@
 
 ![](../../images/ball_wire.png)
 
+
+
 ## 參考程式
 
 [灌籃高手參考程式](https://makecode.microbit.org/_3i3Dwm7Fm7w1)
