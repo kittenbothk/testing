@@ -51,7 +51,13 @@ Microbit機構表示，為了教育大眾保護私隱的重要性，Microbit上�
 
 ### 效果展示：
 
+拍拍手：利用Microbit的咪高峰，聽到拍手時顯示心形圖案。
+
 [![](./image/9.png)](https://www.youtube.com/watch?v=JYvUnb2zImk&feature=emb_title)
+
+唱歌挑戰：一直唱歌，使Microbit上的點陣屏完全點亮。
+
+[![](./image/25.png)](https://www.youtube.com/watch?v=cw_rDuByN_8&feature=emb_title)
 
 ## 升級2：內置揚聲器
 
@@ -67,7 +73,13 @@ Microbit機構表示，為了教育大眾保護私隱的重要性，Microbit上�
 
 ### 效果展示：
 
+大黃蜂：Microbit因應動作和速度改變發出的聲音。
+
 [![](./image/11.png)](https://www.youtube.com/watch?v=KbB6-6Nn19U&feature=emb_title)
+
+鸚鵡學舌：Microbit模仿你說話的語調。
+
+[![](./image/26.png)](https://www.youtube.com/watch?v=9xpvNcYtd6Q&feature=emb_title)
 
 ## 升級3：內置觸控感應器
 
@@ -133,6 +145,12 @@ Microbit機構表示，為了教育大眾保護私隱的重要性，Microbit上�
 ### 3. 供電提升
 
 Microbit的第二代亦都提升了引腳輸出的電量，由舊版的90mA提升至200mA，讓大家可以使用更多功能配件。
+
+## Microbit第二代硬件詳解
+
+![](./image/layout.jpg)
+
+(Picture Credit: https://mp.weixin.qq.com/s/u5Sj8DZg6oPHOOfzHbb1PA)
 
 # 新舊Microbit的比較
 
