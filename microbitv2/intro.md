@@ -11,7 +11,14 @@ BBC Micro:bit第二代官網：<https://microbit.org/new-microbit/>
 ![](./image/appearance.png)
 
 ![](./image/2.jpg)
+
 (Picture Credit: https://micromag.cc/microbit-v2-announcement/)
+
+## 官方介紹短片
+
+[![](./image/23.png)](https://www.youtube.com/watch?v=pIUJ4kvJ_QU&feature=emb_title)
+
+[![](./image/24.png)](https://www.youtube.com/watch?v=waIdGCitbH4&feature=emb_title)
 
 ## 升級1：內置咪高峰
 
@@ -22,16 +29,19 @@ Microbit在第二代終於都加入了咪高峰，讓Microbit可以感應得到�
 能夠用聲音控制Microbit做不同的動作，肯定會讓大家創作的靈活性更大！
 
 ![](./image/6.jpg)
+
 (Picture Credit: https://micromag.cc/microbit-v2-announcement/)
 
 Microbit機構表示，為了教育大眾保護私隱的重要性，Microbit上亦加上了一顆配合咪高峰的LED燈，當大家使用咪高峰時就會點亮。
 
 ![](./image/7.jpg)
+
 (Picture Credit: https://micromag.cc/microbit-v2-announcement/)
 
 在MakeCode上對咪高峰編程亦都十分簡單，我們可以用這些簡單積木檢測聲音數值和使用聲音觸發事件。
 
 ![](./image/8.jpg)
+
 (Picture Credit: https://micromag.cc/microbit-v2-announcement/)
 
 ### 效果展示：
@@ -49,6 +59,7 @@ Microbit機構表示，為了教育大眾保護私隱的重要性，Microbit上�
 在MakeCode上編程亦都十分簡單，大家只需要啟用揚聲器就可以沿用大家已經熟悉的發聲積木。
 
 ![](./image/10.jpg)
+
 (Picture Credit: https://micromag.cc/microbit-v2-announcement/)
 
 ### 效果展示：
@@ -62,11 +73,13 @@ Microbit機構表示，為了教育大眾保護私隱的重要性，Microbit上�
 在第二代的Microbit上，大家可以見到Microbit的標誌變金色了。這金色的標誌就是新的觸控感應器，這個感應器可以用作在原有的A和B鍵外的新輸入方法。
 
 ![](./image/13.jpg)
+
 (Picture Credit: https://micromag.cc/microbit-v2-announcement/)
 
 在編程方面，在MakeCode上則新加了這2件積木，讓大家很輕鬆地就可以使用觸控感應器。
 
 ![](./image/14.jpg)
+
 (Picture Credit: https://micromag.cc/microbit-v2-announcement/)
 
 ## 升級4：待機模式/減少用電
@@ -80,15 +93,17 @@ Microbit機構表示，為了教育大眾保護私隱的重要性，Microbit上�
 除此之外，Microbit第二代亦都減少了耗電量，支援長時間地使用電池盒運行Microbit。
 
 ![](./image/16.jpg)
+
 (Picture Credit: https://micromag.cc/microbit-v2-announcement/)
 
 ## 升級5：效能大升級
 
 ![](./image/17.png)
 
-第二代的Microbit上搭載了新的處理器，新的處理器運算速度大幅提升，為未來推出的人工智能和機器學習功能做好準備。此外，板上的內存亦都增加了7倍，由原本的16Kb提升到128Kb。快閃記憶體亦增加1倍至512Kb，支援上傳更加大的程式到Microbit。
+第二代的Microbit上搭載了新的處理器，新的處理器運算速度大幅提升，為未來推出的人工智能和機器學習功能做好準備。
+此外，板上的內存亦都增加了7倍，由原本的16Kb提升到128kB。快閃記憶體亦增加1倍至512kB，支援上傳更加大的程式到Microbit。
 
-除了運算效能之外，Microbit第二代亦都支援最新的藍芽5.0，大家創作空間又再擴大了。
+除了運算效能之外，Microbit第二代亦都支援最新的藍芽5.0。
 
 ## 升級6：引腳升級
 
@@ -99,12 +114,15 @@ Microbit機構表示，為了教育大眾保護私隱的重要性，Microbit上�
 首先在電路板的設計方面，Microbit第二代的主要引腳都加設了一個小小的凹位。
 
 ![](./image/18.jpg)
+
 (Picture Credit: https://micromag.cc/microbit-v2-announcement/)
 
-這個凹位的設計是別有用心的，大家可能發現在舊版Microbit使用鱷魚夾時，鱷魚夾可能會鬆脫出來
-這個新的設計就正正容許更加穩固地連接鱷魚夾。
+這個凹位的設計是別有用心的，大家可能發現在舊版Microbit使用鱷魚夾時，鱷魚夾可能會鬆脫出來。
+
+這個新的設計就正正容許更加穩固地連接鱷魚夾，不用再擔心鬆脫了。
 
 ![](./image/19.jpg)
+
 (Picture Credit: https://micromag.cc/microbit-v2-announcement/)
 
 ### 2. I2C引腳改善

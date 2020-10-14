@@ -50,7 +50,7 @@
 
     紅外線訊號只支援16進位數值(hexadecimal)。
 
-![](./images/joyfrog5.png)
+![](../images/joyfrog5.png)
 
 [參考程式網址](https://makecode.microbit.org/_Wvp6vxiPMLWr)
 
