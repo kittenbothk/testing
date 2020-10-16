@@ -13,6 +13,7 @@ Meowbit發明家套件案例說明書與教學
     basketball.md
     piano.md
     light.md
+    window.md
     linetrace.md
     avoid.md
-    window.md
+    parking.md
