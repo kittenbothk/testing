@@ -12,7 +12,7 @@
 
 ## 參考程式
 
-[計步裝置參考程式](https://makecode.microbit.org/_3i3Dwm7Fm7w1)
+[計步裝置參考程式](https://makecode.com/_8y80L58cDYL2)
 
 [參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
 

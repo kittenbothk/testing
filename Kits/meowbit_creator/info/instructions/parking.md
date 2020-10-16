@@ -13,7 +13,7 @@
 
 ## 參考程式
 
-[智能停車系統參考程式](https://makecode.microbit.org/_3i3Dwm7Fm7w1)
+[智能停車系統參考程式](https://makecode.com/_HRsbbjatVHL0)
 
 [參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
 

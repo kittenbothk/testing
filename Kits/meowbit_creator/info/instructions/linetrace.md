@@ -14,7 +14,7 @@
 
 ## 參考程式
 
-[巡邏智械參考程式](https://makecode.microbit.org/_3i3Dwm7Fm7w1)
+[巡邏智械參考程式](https://makecode.com/_Esy3C4PssDDE)
 
 [參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
 

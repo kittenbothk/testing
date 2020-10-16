@@ -14,7 +14,7 @@
 
 ## 參考程式
 
-[避障智貓參考程式](https://makecode.microbit.org/_3i3Dwm7Fm7w1)
+[避障智貓參考程式](https://makecode.com/_eDEbk6C7yUjH)
 
 [參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
 

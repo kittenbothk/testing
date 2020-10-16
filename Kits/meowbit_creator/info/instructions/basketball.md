@@ -14,7 +14,7 @@
 
 ## 參考程式
 
-[灌籃高手參考程式](https://makecode.microbit.org/_3i3Dwm7Fm7w1)
+[灌籃高手參考程式](https://makecode.com/_9XtbJUEJv2Lw)
 
 [參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
 
