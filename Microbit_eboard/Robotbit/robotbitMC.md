@@ -107,7 +107,7 @@ RGB燈的編程需要使用Neopixel的積木塊。
     
 ![](../RBimage/robotbit_neopixel2.png)
 
-![](../image/robotbit_code8.png)
+![](../RBimage/robotbit_code8.png)
 
 #### 5.5 調整亮度編程
 

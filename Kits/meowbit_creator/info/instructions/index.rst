@@ -9,4 +9,10 @@ Meowbit發明家套件案例說明書與教學
     step.md
     tugofwar.md
     coinbox.md
+    box.md
     basketball.md
+    piano.md
+    light.md
+    linetrace.md
+    avoid.md
+    window.md

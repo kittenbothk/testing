@@ -9,6 +9,7 @@ Meowbit介紹及詳細資訊
     meowbit.md
     interface.md
     arcade.md
+    meowbitHOC.md
     kittenblock.md
     meowbit_light.md
     meowbit_accel.md
