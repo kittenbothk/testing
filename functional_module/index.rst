@@ -24,6 +24,10 @@
     soilhumid.md
     watelevel.md
     magnetic.md
+    slider.md
+    sound.md
+    infrared.md
+    rgb.md
 
 .. toctree::
     :maxdepth: 1
