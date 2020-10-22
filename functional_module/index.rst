@@ -12,6 +12,7 @@
 .. toctree::
     :maxdepth: 1
 
+    fmradio.md
     infratemp.md
     waterTank.md
     nekoUltrasound.md
