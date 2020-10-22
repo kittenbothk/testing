@@ -47,10 +47,11 @@
 
 ## 參考程式
 
-[1. 人面辨識HEX網址(固件v1.9.5_插件0.5.7)](https://makecode.microbit.org/_g7h3c2RKW264)
+[1. 人面辨識HEX網址(固件v1.9.5_插件0.5.7)](https://makecode.microbit.org/_YdW8M1VW4UEb)
 
 ## 人臉辨識示範短片
 
+[![](KOI15/4.png)](https://www.youtube.com/watch?v=XvMZMsXpg1A)
 
 
 ## 插件版本與更新
