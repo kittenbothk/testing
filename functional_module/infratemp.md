@@ -23,7 +23,7 @@
 
 ![](./PWmodules/images/mcbanner.png)
 
-![](../Meowbit/images/acbanner.png)
+![](../meowbit/images/acbanner.png)
 
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 

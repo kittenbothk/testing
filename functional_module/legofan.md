@@ -20,7 +20,7 @@
 
 ![](./PWmodules/images/mcbanner.png)
 
-![](../Meowbit/images/acbanner.png)
+![](../meowbit/images/acbanner.png)
 
 ### 此模組可供Microbit和Meowbit使用。
 

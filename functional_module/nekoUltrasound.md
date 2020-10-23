@@ -40,7 +40,7 @@ Kittenbot 原廠貓耳造型超聲波模組 (HKBM8014A)
 
 ![](./PWmodules/images/mcbanner.png)
 
-![](../Meowbit/images/acbanner.png)
+![](../meowbit/images/acbanner.png)
 
 ### 此模組可供Microbit和Meowbit使用。
 
