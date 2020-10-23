@@ -84,13 +84,13 @@ Kittenbot 原廠貓耳造型超聲波模組 (HKBM8014A)
 
 #### 距離檢測編程：
 
-![](./images/ultraSound_codeMeow1.png)
+![](./images/ultrasound_codeMeow1.png)
 
 [參考程式網址](https://makecode.com/_DsTD0idmh9a8)
 
 ### RGB燈編程(只限v2)：
 
-![](./images/ultraSound_codeMeow2.png)
+![](./images/ultrasound_codeMeow2.png)
 
 [參考程式網址](https://makecode.com/_hs3LykMzV78o)
 
