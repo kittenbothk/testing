@@ -22,11 +22,23 @@ Kittenbot 原廠3pin按鍵藍色(HKBM8006B)
 
 ![](./PWmodules/images/mcbanner.png)
 
+![](../Meowbit/images/acbanner.png)
+
+### 此模組可供Microbit和Meowbit使用。
+
 #### 讀取按鍵編程
+
+### Microbit:
 
 ![](./images/button_code.png)
 
 [參考程式網址](https://makecode.microbit.org/_RLdA6wC7i1Vd)
+
+### Meowbit:
+
+![](./images/button_codeMeow.png)
+
+[參考程式網址](https://makecode.com/_8uvcymfjfav0)
 
 ## KittenBlock編程教學
 

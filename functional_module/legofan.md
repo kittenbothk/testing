@@ -20,6 +20,10 @@
 
 ![](./PWmodules/images/mcbanner.png)
 
+![](../Meowbit/images/acbanner.png)
+
+### 此模組可供Microbit和Meowbit使用。
+
 ### ArmourBit
 
 ---
@@ -53,6 +57,20 @@
 ![](../motors/images/2kmotorcode_rb.png)
 
 [參考程式網址](https://makecode.microbit.org/_33HMywgx9H97q)
+
+### Meowbit:
+
+### 加載robotbit插件：https://github.com/KittenBot/meow-robotbit
+
+### 電機積木塊:
+
+![](../motors/images/motorblocks.png)
+
+## 電機編程
+
+![](../motors/images/2kmotorcode_meow.png)
+
+[參考程式網址](https://makecode.com/_2z0C8v6XAC5y)
 
 ## 插件版本與更新
 

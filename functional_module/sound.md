@@ -24,9 +24,19 @@
 
 ![](./PWmodules/images/mcbanner.png)
 
+![](../Meowbit/images/acbanner.png)
+
+### 此模組可供Microbit和Meowbit使用。
+
 #### 讀取聲音強弱編程
 
+### Microbit:
+
 ![](./images/poten_code.png)
+
+### Meowbit:
+
+![](./images/poten_codeMeow.png)
 
 ## KittenBlock編程教學
 

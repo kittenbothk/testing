@@ -17,11 +17,23 @@
 
 ![](./PWmodules/images/mcbanner.png)
 
+![](../Meowbit/images/acbanner.png)
+
+### 此模組可供Microbit和Meowbit使用。
+
 #### 彩燈編程
+
+### Microbit:
 
 ![](./images/rgb_code.png)
 
 [參考程式網址](https://makecode.microbit.org/_Tq7Y963gW1fA)
+
+### Meowbit:
+
+![](./images/rgb_codeMeow.png)
+
+[參考程式網址](https://makecode.com/_C13AgeUHz0M3)
 
 ## KittenBlock編程教學
 

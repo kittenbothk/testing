@@ -78,13 +78,21 @@
 
 ![](./images/mcbanner.png)
 
+![](../Meowbit/images/acbanner.png)
+
+### 此模組可供Microbit和Meowbit使用。
+
 ### ArmourBit與RobotBit的編程是一樣的。
 
 ### ArmourBit
 
+---
+
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
 ### RobotBit
+
+---
 
 ### 加載RobotBit插件：
 
@@ -101,6 +109,22 @@
 [參考程式下載](https://bit.ly/M132kgGeekServoSampleCode)
 
 [參考程式網址](https://makecode.microbit.org/_Fxq45rHFrD8s)
+
+### Meowbit:
+
+---
+
+### 加載robotbit插件：https://github.com/KittenBot/meow-robotbit
+
+### 電機積木塊:
+
+![](../motors/images/motorblocks.png)
+
+## 電機編程
+
+![](../motors/images/2kservocode_meow.png)
+
+[參考程式網址](https://makecode.com/_2syJW2iFPUMx)
 
 ## 插件版本與更新
 

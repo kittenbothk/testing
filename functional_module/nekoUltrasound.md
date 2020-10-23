@@ -40,6 +40,12 @@ Kittenbot 原廠貓耳造型超聲波模組 (HKBM8014A)
 
 ![](./PWmodules/images/mcbanner.png)
 
+![](../Meowbit/images/acbanner.png)
+
+### 此模組可供Microbit和Meowbit使用。
+
+### Microbit:
+
 ### 加載robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 ### 超聲波模組積木塊：
@@ -63,6 +69,30 @@ Kittenbot 原廠貓耳造型超聲波模組 (HKBM8014A)
 ![](./images/ultraSound_code3.png)
 
 [參考程式網址](https://makecode.microbit.org/_5vf48tf6xdVc)
+
+### Meowbit:
+
+### 加載robotbit插件：https://github.com/KittenBot/pxt-robotbit
+
+### 加載neopixel插件：
+
+![](./images/neopixel.png)
+
+### 超聲波模組積木塊：
+
+![](./images/ultraSound_blocks.png)
+
+#### 距離檢測編程：
+
+![](./images/ultraSound_codeMeow1.png)
+
+[參考程式網址](https://makecode.com/_DsTD0idmh9a8)
+
+### RGB燈編程(只限v2)：
+
+![](./images/ultraSound_codeMeow2.png)
+
+[參考程式網址](https://makecode.com/_hs3LykMzV78o)
 
 ## 插件版本與更新
 

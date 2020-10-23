@@ -28,13 +28,25 @@
 
 ![](./PWmodules/images/mcbanner.png)
 
+![](../Meowbit/images/acbanner.png)
+
+### 此模組可供Microbit和Meowbit使用。
+
 #### 巡線感應器編程
 
     巡線感應器返回的數值可能會因環境而改變，例如感應器高度、巡線膠紙的顏色和物料等。建議在使用次測試和調較一下觸發巡線的數值。
 
+### Microbit:
+
 ![](./images/line_code.png)
 
 [參考程式網址](https://makecode.microbit.org/_c7rXpLY791Cw)
+
+### Meowbit:
+
+![](./images/line_codeMeow.png)
+
+[參考程式網址](https://makecode.com/_2pw59JbHhVfV)
 
 ## KittenBlock編程教學
 

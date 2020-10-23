@@ -68,6 +68,10 @@ Geek Motor O 續轉舵機(HKBD8001A)
 
 ![](./images/mcbanner.png)
 
+![](../Meowbit/images/acbanner.png)
+
+### 此模組可供Microbit和Meowbit使用。
+
 ## 電機編程(方法1)
 
 續轉舵機需要使用伺服脈衝積木。
@@ -95,3 +99,19 @@ Geek Motor O 續轉舵機(HKBD8001A)
 ![](./images/360servo_code2.png)
 
 [參考程式網址](https://makecode.microbit.org/_JdJDbv5ue97t)
+
+### Meowbit:
+
+---
+
+### 加載robotbit插件：https://github.com/KittenBot/meow-robotbit
+
+### 電機積木塊:
+
+![](../motors/images/motorblocks.png)
+
+## 電機編程
+
+![](../motors/images/360servo_codeMeow.png)
+
+[參考程式網址](https://makecode.com/_DPeAM8h5HMaf)

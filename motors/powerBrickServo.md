@@ -78,6 +78,10 @@ Geekservo舵機 (HKBD9005A)
 
 ![](./images/mcbanner.png)
 
+![](../Meowbit/images/acbanner.png)
+
+### 此模組可供Microbit和Meowbit使用。
+
 ### ArmourBit與RobotBit的編程是一樣的。
 
 ### ArmourBit
@@ -105,6 +109,22 @@ Geekservo舵機 (HKBD9005A)
 ### Makecode教學短片
 
 [![](./images/geekservotut.png)](https://www.youtube.com/watch?v=gUR2DbgVTCQ)
+
+### Meowbit:
+
+---
+
+### 加載robotbit插件：https://github.com/KittenBot/meow-robotbit
+
+### 電機積木塊:
+
+![](../motors/images/motorblocks.png)
+
+## 電機編程
+
+![](../motors/images/servocode_meow.png)
+
+[參考程式網址](https://makecode.com/_WrrEcRhMm0o4)
 
 ## 插件版本與更新
 

@@ -30,9 +30,19 @@
 
 ![](./PWmodules/images/mcbanner.png)
 
+![](../Meowbit/images/acbanner.png)
+
+### 此模組可供Microbit和Meowbit使用。
+
 #### 讀取磁場數值編程
 
+### Microbit:
+
 ![](./images/digitRead_code.png)
+
+### Meowbit:
+
+![](./images/digitRead_codeMeow.png)
 
 ## KittenBlock編程教學
 
