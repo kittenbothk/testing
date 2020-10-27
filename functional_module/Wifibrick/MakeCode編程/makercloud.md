@@ -74,6 +74,10 @@
 
 ![](./iotimage/mc10.png)
 
+數據亦會自動產生一個圖表。
+
+![](./iotimage/mc15.png)
+
 同時，我們亦可以手動在主題中發送訊息。
 
 ![](./iotimage/mc11.png)
