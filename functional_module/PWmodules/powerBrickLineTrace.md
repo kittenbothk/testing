@@ -27,7 +27,7 @@
 
 將巡線魔塊用4pin排線連接至Armourbit。
 
-![](./kbimages/07_02.png)
+![](./images/linefollow_wire.png)
 
 ## MakeCode編程教學
 

@@ -30,6 +30,8 @@
 
 將點陣魔塊用4pin排線連接至Armourbit。
 
+![](./images/rgb_wire.png)
+
 ![](./images/11_25.png)
 
 ## MakeCode編程教學

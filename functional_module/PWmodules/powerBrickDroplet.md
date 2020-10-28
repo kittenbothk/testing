@@ -19,7 +19,7 @@
 
 將溫度濕度感應器用4pin排線連接至Armourbit，然後用3pin排線將感應器連接至溫度濕度感應器。
 
-![](./kbimages/06_03.png)
+![](./images/water_wire.png)
 
 ## MakeCode編程教學
 

@@ -60,7 +60,7 @@ Geekservo舵機 (HKBD9005A)
 
 將舵機的橙紅啡線連接至Armourbit背部的舵機接口。
 
-![](./kbimages/servocon.jpg)
+![](./kbimages/servo_wire.png)
 
     啡色接負極，紅色接正極，橙色接數據。
     

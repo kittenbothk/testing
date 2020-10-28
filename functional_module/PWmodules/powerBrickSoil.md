@@ -19,7 +19,7 @@
 
 將溫度濕度魔塊用4pin排線連接至Armourbit，然後用3pin排線將魔塊連接至溫度濕度魔塊。
 
-![](./kbimages/06_04.png)
+![](./images/soil_wire.png)
 
 ## MakeCode編程教學
 

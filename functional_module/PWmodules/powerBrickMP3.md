@@ -32,7 +32,7 @@ MP3魔塊 (HKBM8012E)
 
 將MP3魔塊用4pin排線連接至Armourbit。
 
-![](./kbimages/mp3con.jpg)
+![](./images/mp3_wire.png)
 
 ## MakeCode編程教學
 

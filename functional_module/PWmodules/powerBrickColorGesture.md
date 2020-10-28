@@ -50,7 +50,7 @@
 
 將顏色手勢魔塊用4pin排線連接至Armourbit的I2C接口。
 
-![](./kbimages/gesturecon.jpg)
+![](./images/color_wire.png)
 
 ### Robotbit
 

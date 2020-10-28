@@ -32,7 +32,7 @@
 
 將超聲波聲音魔塊用4pin排線連接至Armourbit。
 
-![](./kbimages/ultrasoundcon.jpg)
+![](./images/ultrasound_wire.png)
 
 ## MakeCode編程教學
 
