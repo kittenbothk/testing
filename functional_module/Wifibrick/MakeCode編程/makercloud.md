@@ -10,6 +10,8 @@
 
 我們會使用Robotbit作範例。
 
+    KOI也支援Makercloud。
+
 ## 第一步：平台準備
 
 我們首先要登入MakerCloud平台，設立好MQTT主題。
@@ -40,7 +42,11 @@
 
 我們要先加載MakerCloud的插件，這樣才可以與MakerCloud的伺服器連接。
 
-插件地址：https://github.com/maxwong-scale/pxt-makercloud-V2
+wifibrick插件地址：https://github.com/maxwong-scale/pxt-makercloud-V2
+
+koi插件地址：https://github.com/scaleinnotech/pxt-makercloud-koi
+
+### [詳細方法](../makecodeQs.md)
 
 ## 第三步：編程
 
@@ -57,6 +63,14 @@
 假如你使用Armourbit，只要將更新引腳的積木改為Armourbit的積木就可以了。
 
 ![](./iotimage/mc6.png)
+
+連接網絡的時候Microbit會顯示以下動畫。
+
+![](./iotimage/mc16.gif)
+
+連接創客雲MQTT時會顯示以下動畫。
+
+![](./iotimage/mc17.gif)
 
 ### 2：發佈到MQTT主題。
 
@@ -96,9 +110,17 @@
 
 ## 參考程式
 
+### Wifibrick參考程式
+
 ![](./iotimage/mc9.png)
 
 [參考程式下載](https://makecode.microbit.org/_5gv25KKz2Y7d)
+
+### KOI參考程式
+
+![](./iotimage/mc18.png)
+
+[參考程式下載](https://makecode.microbit.org/_cuyYWTFbUE6V)
 
 ## 總結：
 
