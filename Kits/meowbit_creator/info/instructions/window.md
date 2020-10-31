@@ -12,7 +12,7 @@
 
 ## 參考程式
 
-[防噪窗參考程式](https://makecode.com/_AgyKATJib1Y5)
+[防噪窗參考程式](https://makecode.com/_PLWY3se9MFqD)
 
 [參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
 

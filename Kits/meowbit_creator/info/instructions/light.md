@@ -12,7 +12,7 @@
 
 ## 參考程式
 
-[聲控彩燈參考程式](https://makecode.com/_6r552c139Y4y)
+[聲控彩燈參考程式](https://makecode.com/_Jbv0Ad7CcJah)
 
 [參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
 

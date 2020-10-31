@@ -36,7 +36,7 @@ Meowbit上的引腳其實也支援Kittenbot的其他擴展板，在這節教程�
 
 將電機連接在Robotbit的M1A和M1B上。
 
-![](../Microbit_eboard/image/motor_wire.png)
+![](../Microbit_eboard/RBimage/motor_wire.png)
 
 ![](./images/robotbit5.png)
 
