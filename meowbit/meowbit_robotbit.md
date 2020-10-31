@@ -2,6 +2,14 @@
 
 Meowbit上的引腳其實也支援Kittenbot的其他擴展板，在這節教程我們會看看Meowbit怎樣和Robotbit一起使用。
 
+## Robotbit注意事項：
+
+### 1：電池的正負極一定要正確地安裝
+
+### 2：將Meowbit插上Robotbit時必須要屏幕向外
+
+![](./images/robotbit24.png)
+
 ## MakeCode Arcade編程教學
 
 ![](./images/acbanner.png)

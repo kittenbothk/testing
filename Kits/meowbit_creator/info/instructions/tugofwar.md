@@ -12,7 +12,7 @@
 
 ## 參考程式
 
-[拔河比賽參考程式](https://makecode.com/_JFVD61eUxFeR)
+[拔河比賽參考程式](https://makecode.com/_hfm1J9JMs8EA)
 
 [參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
 

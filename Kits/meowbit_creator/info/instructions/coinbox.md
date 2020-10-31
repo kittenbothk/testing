@@ -12,7 +12,7 @@
 
 ## 參考程式
 
-[硬幣收藏家參考程式](https://makecode.com/_VAsVDK2y8AYd)
+[硬幣收藏家參考程式](https://makecode.com/_MFFLfW0RUKuX)
 
 [參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
 

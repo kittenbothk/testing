@@ -28,6 +28,8 @@ Meowbit上搭載了光度感應器，可以探測光度數值和判斷環境為�
 
 ![](./images/light4.png)
 
+    光度數值範圍由0-255
+
 小鴨會一直說出現時的光度數值。
 
 [參考程式](https://makecode.com/_VbYeA6apKPd0)
