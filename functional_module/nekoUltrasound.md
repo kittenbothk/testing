@@ -86,7 +86,7 @@ Kittenbot 原廠貓耳造型超聲波模組 (HKBM8014A)
 
 ![](./images/ultrasound_codeMeow1.png)
 
-[參考程式網址](https://makecode.com/_DsTD0idmh9a8)
+[參考程式網址](https://makecode.com/_fC6XoUHHR79p)
 
 ### RGB燈編程(只限v2)：
 
