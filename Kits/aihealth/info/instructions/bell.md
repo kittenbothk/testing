@@ -14,7 +14,7 @@
 
 ## 參考程式
 
-[非接觸式門鈴參考程式](https://makecode.microbit.org/_JgMWAaiD3Y4c)
+[非接觸式門鈴參考程式](https://makecode.microbit.org/_1Dh6xrbaWf3F)
 
 [參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
 
