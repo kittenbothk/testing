@@ -4,13 +4,23 @@
 
 從以下的兩節課堂中，大家會由零開始學習如何使用MakeCode Arcade創作遊戲。
 
+[MakeCode Arcade](https://arcade.makecode.com/)
+
 ![](./images/acbanner.png)
 
 ## 你的首隻MeowBit遊戲
 
+### 請由1小時58分開始觀看。教程長約1小時。
+
+[![](./images/hoc1.png)](https://fb.watch/1zfUhDGtv5/)
+
 ## 你的第二隻MeowBit遊戲
 
-## 影片來源：
+### 教程長約1小時。
+
+[![](./images/hoc2.png)](https://fb.watch/1zfZrOvPtS/)
+
+## 鳴謝：
 
 郭Sir教室 Mr. Kwok's Classroom：
 
