@@ -43,9 +43,9 @@
 
 #### Meowbit收音機編程：
 
-![](./images/radiocode2.png)
+![](./images/radiocode3.png)
 
-[參考程式網址](https://makecode.com/_iTDXiuHhc6Vd)
+[參考程式網址](https://makecode.com/_Utjb0sMwbW3r)
 
 ## 插件版本與更新
 
