@@ -16,6 +16,12 @@
 
 .. toctree::
     :maxdepth: 2
+    :caption: KittenCode介紹與使用方法
+
+    KittenCode/index
+
+.. toctree::
+    :maxdepth: 2
     :caption: MakeCode介紹與使用方法
 
     Makecode/index
