@@ -34,13 +34,13 @@ Kittenbot會不定時推出KOI Wifi固件，提升穩定性和改善功能。
 
     假如你有網絡路由器的管理員權限，您可以直接到網絡路由器的頁面中查找閣下KOI的IP地址，不用慢慢抄寫。
 
-![](./images/update3.gif)
 
 然後請打開瀏覽器，在搜尋欄輸入剛抄寫下來的IP地址然後按Enter。
 
     例如，我的IP地址是192.168.2.117，我就將它輸入到瀏覽器然後按Enter前往。
     
 ![](./images/update4.gif)
+
     固件版本就會顯示在KOI Wifi介面。
     
 ![](./images/update2.png)
