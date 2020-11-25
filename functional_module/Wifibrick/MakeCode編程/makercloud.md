@@ -120,7 +120,7 @@ koi插件地址：https://github.com/scaleinnotech/pxt-makercloud-koi
 
 ![](./iotimage/mc18.png)
 
-[參考程式下載](https://makecode.microbit.org/_cuyYWTFbUE6V)
+[參考程式下載](https://makecode.microbit.org/_RR6exEM0R9uz)
 
 ## 總結：
 
