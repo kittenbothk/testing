@@ -17,13 +17,17 @@ KOI上面也有Wifi的功能，我們可以透過Wifi存取物聯網平台的數
 
 編寫程式：
 
-### 本節教程將會使用MakerCloud作示範。
+### 此教程只是作為示範，請大家依你所用的平台填寫資料。
+
+### ThingSpeak平台
+
+有關ThingSpeak的教學可以參考： [ThingSpeak教學](../../Wifibrick/MakeCode編程/MC_TS)
+
+### Makercloud創客雲平台
 
 [創客雲介紹](../../Wifibrick/IoT平台介紹/makercloud.md)
 
-有關創客雲的教學可以參考： [創客雲教學](../../Wifibrick/MakeCode編程/makercloud.md)
-    
-有關ThingSpeak的教學可以參考： [ThingSpeak教學](../../Wifibrick/MakeCode編程/MC_TS.md)
+假如你使用Makercloud創客雲平台，可以參考： [創客雲教學](../../Wifibrick/MakeCode編程/makercloud)
 
 ![](KOI14/6.png)
 
@@ -44,7 +48,7 @@ KOI上面也有Wifi的功能，我們可以透過Wifi存取物聯網平台的數
 
 ## 參考程式
 
-[1. 物聯網HEX網址(固件v1.9.5_插件0.5.7)](https://makecode.microbit.org/_4Liiqi0oyDkH)
+[1. 物聯網HEX網址(固件v1.9.5_插件0.5.7)](https://makecode.microbit.org/_4UPgr7az71g1)
 
 ## 插件版本與更新
 
