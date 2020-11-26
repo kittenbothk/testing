@@ -21,21 +21,21 @@ KOI上面也有Wifi的功能，我們可以透過Wifi存取物聯網平台的數
 
 ### ThingSpeak平台
 
-有關ThingSpeak的教學可以參考： [ThingSpeak教學](../../Wifibrick/MakeCode編程/MC_TS)
+有關ThingSpeak的教學可以參考： [ThingSpeak教學](../../Wifibrick/MakeCode/MC_TS)
 
 ### Makercloud創客雲平台
 
-[創客雲介紹](../../Wifibrick/IoT平台介紹/makercloud.md)
+[創客雲介紹](../../Wifibrick/IoTPlatform/makercloud)
 
-假如你使用Makercloud創客雲平台，可以參考： [創客雲教學](../../Wifibrick/MakeCode編程/makercloud)
+假如你使用Makercloud創客雲平台，可以參考： [創客雲教學](../../Wifibrick/MakeCode/makercloud)
 
-![](KOI14/6.png)
+![](KOI14/9.png)
 
 ## 程式流程
 
 1: 首先將程式下載到Microbit上。
 
-2: 等待KOI連接網絡，完成後Microbit上會顯示剔號。
+2: 按下A+B按鍵，等待KOI連接網絡，完成後Microbit上會顯示剔號。
 
     像手提電話一樣，連接Wifi網絡的名稱密碼，和MQTT伺服器的資料已經會儲存在KOI上面。
     所以不需要每次使用時都是用連接wifi網絡和MQTT的積木，只需要訂閱話題就可以了。
