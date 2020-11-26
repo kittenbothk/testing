@@ -116,6 +116,10 @@
 
 ![](./images/kbbanner.png)
 
+### Armourbit
+
+--- 
+
 ### 加載PowerBrick插件
 
 在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
@@ -133,6 +137,26 @@
 [參考程式下載](https://bit.ly/PowerbrickM11_01sb3)
 
 [參考程式網址](https://makecode.microbit.org/_RYHivyayYL4q)
+
+### Robotbit
+
+---
+
+### 加載Robotbit插件
+
+在左上角小貓logo旁邊的硬件欄選擇Microbit，加載Microbit與Robotbit插件。
+
+![](./images/addRB.png)
+
+### 電機積木塊
+
+![](./images/rbmotorblocks.png)
+
+### 電機編程
+
+![](./images/rbmotorcode.png)
+
+
 
 ## FAQ
 
