@@ -11,3 +11,4 @@ Kittenbot各款電機與舵機的資料。
     2kgServo.md
     ttmotor.md
     360servo.md
+    130motor.md
