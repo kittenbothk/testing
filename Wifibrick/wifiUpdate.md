@@ -41,7 +41,7 @@ Kittenbot會不定時推出Wifibrick固件，提升穩定性和改善功能。
 
 ## 更新WifiBrick固件
 
-下載最新版本的固件：[v2.88]()
+下載最新版本的固件：[v2.88](https://bit.ly/WifiBrickFW288)
 
 根據以上方法進入到WifiBrick的介面。
 
