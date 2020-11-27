@@ -38,6 +38,8 @@
 
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
+### [詳細方法](../Makecode/powerBrickMC)
+
 ### 電機積木塊:
 
 ![](./images/motorblocks.png)
@@ -62,6 +64,8 @@
 
 ![](./images/robotbitExtension.png)
 
+### [詳細方法](../Makecode/powerBrickMC)
+
 ### 電機積木塊:
 
 ![](./images/2kmotorblocks_rb.png)
@@ -78,6 +82,8 @@
 ---
 
 ### 加載robotbit插件：https://github.com/KittenBot/meow-robotbit
+
+### [詳細方法](../Makecode/powerBrickMC)
 
 ### 電機積木塊:
 

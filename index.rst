@@ -30,7 +30,7 @@
     :maxdepth: 2
     :caption: IoT方案與Wifibrick
 
-    Makecode/index
+    Wifibrick/index
 
 .. toctree::
     :maxdepth: 2

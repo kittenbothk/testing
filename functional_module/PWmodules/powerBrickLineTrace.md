@@ -35,6 +35,8 @@
 
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
+### [詳細方法](../../Makecode/powerBrickMC)
+
 ### 巡線魔塊積木塊:
 
 ![](./images/linefollowblocks.png)

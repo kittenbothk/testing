@@ -88,11 +88,15 @@ Geekservo舵機 (HKBD9005A)
 
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
+### [詳細方法](../Makecode/powerBrickMC)
+
 ### RobotBit
 
 ### 加載RobotBit插件：
 
 ![](./images/robotbitExtension.png)
+
+### [詳細方法](../Makecode/powerBrickMC)
 
 ### 舵機積木塊:
 
@@ -115,6 +119,8 @@ Geekservo舵機 (HKBD9005A)
 ---
 
 ### 加載robotbit插件：https://github.com/KittenBot/meow-robotbit
+
+### [詳細方法](../Makecode/powerBrickMC)
 
 ### 電機積木塊:
 

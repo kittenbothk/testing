@@ -87,6 +87,8 @@ Geekservo電機 (HKBD9006A)
 
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
+### [詳細方法](../Makecode/powerBrickMC)
+
 ### 電機積木塊:
 
 ![](./images/motorblocks.png)
@@ -111,6 +113,8 @@ Geekservo電機 (HKBD9006A)
 
 ![](./images/robotbitExtension.png)
 
+### [詳細方法](../Makecode/powerBrickMC)
+
 ### 電機積木塊:
 
 ![](./images/2kmotorblocks_rb.png)
@@ -126,6 +130,8 @@ Geekservo電機 (HKBD9006A)
 ---
 
 ### 加載robotbit插件：https://github.com/KittenBot/meow-robotbit
+
+### [詳細方法](../Makecode/powerBrickMC)
 
 ### 電機積木塊:
 

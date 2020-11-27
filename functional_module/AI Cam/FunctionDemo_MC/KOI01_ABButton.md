@@ -10,7 +10,7 @@ KOI上自帶兩個AB側按鍵與一個Reset按鍵。
 
 ### 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
-### [詳細方法](../makecodeQs.md)
+### [詳細方法](../../../Makecode/powerBrickMC)
 
 按鍵積木塊：
 

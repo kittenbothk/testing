@@ -48,7 +48,7 @@
 
 ## 接線方法
 
-由於Robotbit的驅動能力最佳，所以本教程以Robobit作例子。
+由於Robotbit的驅動能力最佳，所以本教程以Robobit作例子。當然你亦可以使用Armourbit。
     
 ### Robotbit
 
@@ -72,6 +72,26 @@
 
 ![](../meowbit/images/acbanner.png)
 
+### ArmourBit
+
+--------
+
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+
+### [詳細方法](../Makecode/powerBrickMC)
+
+### 電機積木塊:
+
+![](./images/motorblocks.png)
+
+## 電機編程
+
+![](./images/motor.png)
+
+[參考程式下載](https://bit.ly/PowerbrickM11_01Hex)
+
+[參考程式網址](https://makecode.microbit.org/_RYHivyayYL4q)
+
 ### RobotBit
 
 ---
@@ -79,6 +99,8 @@
 ### 加載Robotbit插件：
 
 ![](./images/robotbitExtension.png)
+
+### [詳細方法](../Makecode/powerBrickMC)
 
 ### 電機積木塊:
 
@@ -95,6 +117,8 @@
 ---
 
 ### 加載robotbit插件：https://github.com/KittenBot/meow-robotbit
+
+### [詳細方法](../Makecode/powerBrickMC)
 
 ### 電機積木塊:
 

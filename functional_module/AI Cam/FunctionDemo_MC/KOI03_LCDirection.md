@@ -10,7 +10,7 @@ KOI有個優勢，可以旋轉攝像頭，旋轉範圍0~180°。但螢幕是不�
 
 ### 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
-### [詳細方法](../makecodeQs.md)
+### [詳細方法](../../../Makecode/powerBrickMC)
 
 方向設定積木塊：
 

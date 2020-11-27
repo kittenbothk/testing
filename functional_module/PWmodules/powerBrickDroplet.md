@@ -27,6 +27,8 @@
 
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
+### [詳細方法](../../Makecode/powerBrickMC)
+
 ### 雨滴水位感應器積木塊:
 
 ![](./images/environmentblocks.png)

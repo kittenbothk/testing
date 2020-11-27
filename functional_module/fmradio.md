@@ -29,6 +29,8 @@
 
 ### 加載收音機插件：https://github.com/kittenbothk/pxt-KittenRadio
 
+### [詳細方法](../Makecode/powerBrickMC)
+
 ### 收音機積木塊：
 
 ![](./images/radioblocks1.png)

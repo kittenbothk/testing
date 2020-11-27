@@ -9,7 +9,7 @@
 ### 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
 
-### [詳細方法](../makecodeQs.md)
+### [詳細方法](../../../Makecode/powerBrickMC)
 
 語音識別積木塊：
 

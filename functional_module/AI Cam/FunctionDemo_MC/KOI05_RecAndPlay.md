@@ -20,7 +20,7 @@ KOI上自帶收音咪和喇叭，可以實現錄音與播放的功能。同時�
 
 ### 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
-### [詳細方法](../makecodeQs.md)
+### [詳細方法](../../../Makecode/powerBrickMC)
 
 錄音與播放積木塊：
 

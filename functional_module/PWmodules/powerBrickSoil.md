@@ -27,6 +27,8 @@
 
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
+### [詳細方法](../../Makecode/powerBrickMC)
+
 ### 土壤濕度魔塊積木塊:
 
 ![](./images/environmentblocks.png)

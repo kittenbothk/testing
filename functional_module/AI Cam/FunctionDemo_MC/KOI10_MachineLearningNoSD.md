@@ -10,7 +10,7 @@ KOI上的機器學習不是必須要SD卡的，資料可以臨時儲存在KOI上
 
 ### 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
-### [詳細方法](../makecodeQs.md)
+### [詳細方法](../../../Makecode/powerBrickMC)
 
 機器學習積木塊：
 

@@ -48,6 +48,8 @@ Kittenbot 原廠貓耳造型超聲波模組 (HKBM8014A)
 
 ### 加載robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
+### [詳細方法](../Makecode/powerBrickMC)
+
 ### 超聲波模組積木塊：
 
 ![](./images/ultraSound_blocks.png)
@@ -73,6 +75,8 @@ Kittenbot 原廠貓耳造型超聲波模組 (HKBM8014A)
 ### Meowbit:
 
 ### 加載robotbit插件：https://github.com/KittenBot/meow-robotbit
+
+### [詳細方法](../Makecode/powerBrickMC)
 
 ### 加載neopixel插件：
 

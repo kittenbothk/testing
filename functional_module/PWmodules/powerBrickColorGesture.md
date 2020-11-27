@@ -69,6 +69,8 @@
 
 ### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
 
+### [詳細方法](../../Makecode/powerBrickMC)
+
 ### 顏色手勢魔塊積木塊:
 
 ![](./images/colorgestureblocks1.png)
