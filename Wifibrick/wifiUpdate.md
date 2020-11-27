@@ -4,13 +4,13 @@ Kittenbot會不定時推出Wifibrick固件，提升穩定性和改善功能。
 
 以下會講解一下檢查和更新固件版本的方法。
 
-![](../PWmodules/images/mcbanner.png)
+![](../functional_module/PWmodules/images/mcbanner.png)
 
 #### 我們先加載WifiBrick插件：
 
 #### https://github.com/KittenBot/pxt-kittenwifi
 
-方法請參考：[KittenBot產品與MakeCode](./Wifibrick_intro)
+方法請參考：[KittenBot產品與MakeCode](../Makecode/powerBrickMC)
 
 ## 檢查固件版本
 

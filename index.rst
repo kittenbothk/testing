@@ -28,6 +28,12 @@
 
 .. toctree::
     :maxdepth: 2
+    :caption: IoT方案與Wifibrick
+
+    Makecode/index
+
+.. toctree::
+    :maxdepth: 2
     :caption: Meowbit
 
     meowbit/index

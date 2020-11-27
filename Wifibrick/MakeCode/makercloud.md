@@ -2,7 +2,7 @@
 
 # Makecode 編程與MakerCloud
 
-![](../../PWmodules/images/mcbanner.png)
+![](../../functional_module/PWmodules/images/mcbanner.png)
 
 ## 前言：
 
@@ -46,7 +46,7 @@ wifibrick插件地址：https://github.com/maxwong-scale/pxt-makercloud-V2
 
 koi插件地址：https://github.com/scaleinnotech/pxt-makercloud-koi
 
-### [詳細方法](../makecodeQs.md)
+### [詳細方法](../../Makecode/powerBrickMC)
 
 ## 第三步：編程
 
@@ -130,4 +130,4 @@ koi插件地址：https://github.com/scaleinnotech/pxt-makercloud-koi
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](../../../../Makecode/makecode_extensionUpdate)
+詳情請參考: [Makecode插件版本更換](../../Makecode/makecode_extensionUpdate)
