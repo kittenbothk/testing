@@ -10,6 +10,8 @@ Meowbit上搭載了陀螺儀，Meowbit上有1個3軸的陀螺儀，可以測量X
 
 ### 載入控制器插件
 
+### [詳細方法](../Makecode/powerBrickMC)
+
 ![](./images/sd5.png)
 
 ![](./images/light1.png)

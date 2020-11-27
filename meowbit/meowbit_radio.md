@@ -43,9 +43,11 @@
 
 ### 載入無綫模組插件
 
-![](./images/sd5.png)
-
 插件地址：https://github.com/KittenBot/pxt-sdwireless
+
+### [詳細方法](../Makecode/powerBrickMC)
+
+![](./images/sd5.png)
 
 ![](./images/sd6.png)
 

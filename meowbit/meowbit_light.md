@@ -8,6 +8,8 @@ Meowbit上搭載了光度感應器，可以探測光度數值和判斷環境為�
 
 ### 載入控制器插件
 
+### [詳細方法](../Makecode/powerBrickMC)
+
 ![](./images/sd5.png)
 
 ![](./images/light1.png)

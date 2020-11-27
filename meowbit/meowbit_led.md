@@ -8,9 +8,12 @@ Meowbit上也搭載了LED燈，可以點亮或熄滅。
 
 ### 載入引腳插件
 
+### [詳細方法](../Makecode/powerBrickMC)
+
 ![](./images/sd5.png)
 
 ![](./images/led1.png)
+
 
 ### 引腳積木塊
 

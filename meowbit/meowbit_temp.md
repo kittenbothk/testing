@@ -8,6 +8,8 @@ Meowbit上搭載了溫度感應器，可以檢測環境溫度。
 
 ### 載入控制器插件
 
+### [詳細方法](../Makecode/powerBrickMC)
+
 ![](./images/sd5.png)
 
 ![](./images/light1.png)

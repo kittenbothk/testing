@@ -10,6 +10,8 @@
 
 ### 載入燈條插件
 
+### [詳細方法](../Makecode/powerBrickMC)
+
 ![](./images/sd5.png)
 
 ![](./images/robotbit3.png)

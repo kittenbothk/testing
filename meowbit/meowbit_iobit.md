@@ -10,9 +10,11 @@ Meowbit上的引腳其實也支援Kittenbot的其他擴展板，在這節教程�
 
 ### 載入IOBit插件
 
-![](./images/sd5.png)
-
 插件地址：https://github.com/KittenBot/meow-iobit
+
+### [詳細方法](../Makecode/powerBrickMC)
+
+![](./images/sd5.png)
 
 ![](./images/iobit1.png)
 
