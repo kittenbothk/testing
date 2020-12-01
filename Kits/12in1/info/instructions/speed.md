@@ -6,13 +6,15 @@
 
 ## 組裝說明書和參考程式
 
-說明書資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+說明書資源包： [資源包下載地址](https://bit.ly/12In1SumobotBuildingInstruction)
 
-[參考程式: 風馳電掣-joyfrog搖控](https://makecode.microbit.org/_H0udau4FrYqW)
+參考程式: 
 
-[參考程式: 風馳電掣-microbit搖控](https://makecode.microbit.org/_XcR2kH8iqMmY)
+[風馳電掣-joyfrog搖控](https://makecode.microbit.org/_H0udau4FrYqW)
 
-[參考程式: 風馳電掣-主體](https://makecode.microbit.org/_WjWYEHPJJW4c)
+[風馳電掣-microbit搖控](https://makecode.microbit.org/_XcR2kH8iqMmY)
+
+[風馳電掣-主體](https://makecode.microbit.org/_WjWYEHPJJW4c)
 
 ## 參考接線
 

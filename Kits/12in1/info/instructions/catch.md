@@ -6,15 +6,17 @@
 
 ## 組裝說明書和參考程式
 
-說明書資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+說明書資源包： [資源包下載地址](hhttps://bit.ly/12In1SumobotBuildingInstruction)
 
-[參考程式: 機靈捕手-JoyFrog搖控](https://makecode.microbit.org/_EAdieF1Y8Aqm)
+參考程式: 
 
-[參考程式: 機靈捕手-JoyFrog版主體](https://makecode.microbit.org/_AfqbPTEdMEc8)
+[機靈捕手-JoyFrog搖控](https://makecode.microbit.org/_EAdieF1Y8Aqm)
 
-[參考程式: 機靈捕手-microbit搖控](https://makecode.microbit.org/_25oLsUgq19PK)
+[機靈捕手-JoyFrog版主體](https://makecode.microbit.org/_AfqbPTEdMEc8)
 
-[參考程式: 機靈捕手-microbit版主體](https://makecode.microbit.org/_gLmJRpcdP7Ua)
+[機靈捕手-microbit搖控](https://makecode.microbit.org/_25oLsUgq19PK)
+
+[機靈捕手-microbit版主體](https://makecode.microbit.org/_gLmJRpcdP7Ua)
 
 ## 參考接線
 

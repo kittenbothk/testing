@@ -1,4 +1,4 @@
-# 瘋狂掠奪者
+# 搬運小子
 
 利用它敏捷的身手，嘗試將戰場上的物資搶先帶回基地，防止對方得逞。
 
@@ -6,13 +6,15 @@
 
 ## 組裝說明書和參考程式
 
-說明書資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+說明書資源包： [資源包下載地址](https://bit.ly/12In1SumobotBuildingInstruction)
 
-[參考程式: 瘋狂掠奪者-JoyFrog搖控](https://makecode.microbit.org/_bMTCUsX7TgeX)
+參考程式: 
 
-[參考程式: 瘋狂掠奪者-microbit搖控](https://makecode.microbit.org/_cMpDja8ie5Cx)
+[搬運小子-JoyFrog搖控](https://makecode.microbit.org/_bMTCUsX7TgeX)
 
-[參考程式: 瘋狂掠奪者-主體](https://makecode.microbit.org/_RuWcxCRk6CmJ)
+[搬運小子-microbit搖控](https://makecode.microbit.org/_cMpDja8ie5Cx)
+
+[搬運小子-主體](https://makecode.microbit.org/_RuWcxCRk6CmJ)
 
 ## 參考接線
 

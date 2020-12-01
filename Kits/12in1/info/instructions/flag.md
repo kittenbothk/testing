@@ -1,4 +1,4 @@
-# 奪旗校尉
+# 奪旗小子
 
 利用車子上的把手，嘗試將對手左右兩旁的旗幟巧妙地奪下來。
 
@@ -6,13 +6,15 @@
 
 ## 組裝說明書和參考程式
 
-說明書資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+說明書資源包： [資源包下載地址](https://bit.ly/12In1SumobotBuildingInstruction)
 
-[參考程式: 奪旗校尉-joyfrog搖控](https://makecode.microbit.org/_MVPAdxc4JfmK)
+參考程式: 
 
-[參考程式: 奪旗校尉-microbit搖控](https://makecode.microbit.org/_EJAAk17c6cxi)
+[奪旗小子-joyfrog搖控](https://makecode.microbit.org/_MVPAdxc4JfmK)
 
-[參考程式: 奪旗校尉-主體](https://makecode.microbit.org/_CMPiDu1eWK6U)
+[奪旗小子-microbit搖控](https://makecode.microbit.org/_EJAAk17c6cxi)
+
+[奪旗小子-主體](https://makecode.microbit.org/_CMPiDu1eWK6U)
 
 ## 參考接線
 

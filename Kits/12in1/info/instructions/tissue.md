@@ -6,9 +6,11 @@
 
 ## 組裝說明書和參考程式
 
-說明書資源包： [資源包下載地址](https://bit.ly/Powerbrick10in1BuildingGuide)
+說明書資源包： [資源包下載地址](https://bit.ly/12In1SumobotBuildingInstruction)
 
-[參考程式: 智能紙巾機-主體](https://makecode.microbit.org/_EFYdx3ektJcx)
+參考程式: 
+
+[智能紙巾機-主體](https://makecode.microbit.org/_EFYdx3ektJcx)
 
 ## 參考接線
 

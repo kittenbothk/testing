@@ -145,3 +145,36 @@
                 display.scroll(ret_list[2])
                 display.scroll('R:')
                 display.scroll(ret_list[3])
+                
+### 矩形辨認
+
+指令：K11 threshold
+
+作用：辨認矩形，threshold代表臨界值，一般推薦6000(臨界值越高越難辨認，誤差會更少)
+
+返回：X座標，Y座標，長，闊
+
+    from microbit import *
+
+    ret_list=[]
+    uart.init(baudrate=115200, tx=pin1, rx=pin2)
+    uart.write('\n\n')
+    sleep(1000)
+
+    while True:
+        if button_a.is_pressed():
+            uart.write('K11 6000\r\n')
+            sleep(1000)
+        if uart.any():
+            ret = str(uart.readline(), 'UTF-8')
+            ret = ret.strip()
+            ret_list = ret.split(' ')
+            if len(ret_list)>1:
+                display.scroll('X:')
+                display.scroll(ret_list[1])
+                display.scroll('Y:')
+                display.scroll(ret_list[2])
+                display.scroll('W:')
+                display.scroll(ret_list[3])
+                display.scroll('H:')
+                display.scroll(ret_list[4])
