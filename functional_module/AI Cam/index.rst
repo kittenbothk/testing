@@ -12,3 +12,4 @@
     makecodeQs
     update_firmware/index
     FunctionDemo_MC/index
+    serial/command
