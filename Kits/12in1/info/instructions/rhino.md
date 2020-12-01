@@ -10,11 +10,11 @@
 
 參考程式: 
 
-[相撲小子-JoyFrog搖控](https://makecode.microbit.org/_JgYW9KUaDWbw)
+[相撲小子-JoyFrog搖控](https://makecode.microbit.org/_DEmiTaf1qAz2)
 
-[相撲小子-microbit搖控](https://makecode.microbit.org/_ciVa2i45qDFD)
+[相撲小子-microbit搖控](https://makecode.microbit.org/_a3FgJm1dXRka)
 
-[相撲小子-主體](https://makecode.microbit.org/_E7Did0H041K0)
+[相撲小子-主體](https://makecode.microbit.org/_FYAD3f49c54q)
 
 ## 參考接線
 

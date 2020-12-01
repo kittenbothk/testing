@@ -10,11 +10,11 @@
 
 參考程式: 
 
-[奪旗小子-joyfrog搖控](https://makecode.microbit.org/_MVPAdxc4JfmK)
+[奪旗小子-JoyFrog搖控](https://makecode.microbit.org/_bUuFeEW83CEt)
 
-[奪旗小子-microbit搖控](https://makecode.microbit.org/_EJAAk17c6cxi)
+[奪旗小子-microbit搖控](https://makecode.microbit.org/_6ugdUsWaPddw)
 
-[奪旗小子-主體](https://makecode.microbit.org/_CMPiDu1eWK6U)
+[奪旗小子-主體](https://makecode.microbit.org/_b5cWwihAv7WX)
 
 ## 參考接線
 
