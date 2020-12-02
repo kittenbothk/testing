@@ -28,6 +28,8 @@
     白色接SCL，綠色接SDA。
     
 ![](./images/kittenRadio5.png)
+
+![](./images/kittenRadio6.jpg)
     
 將收音機的天線插入天線接口。將耳機或揚聲器插在輸出接口。
 

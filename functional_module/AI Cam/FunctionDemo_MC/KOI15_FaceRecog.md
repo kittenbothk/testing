@@ -53,6 +53,8 @@
 
 [![](KOI15/4.png)](https://www.youtube.com/watch?v=XvMZMsXpg1A)
 
+[示範音頻檔下載](https://drive.google.com/drive/folders/1bBWo1BEyhtyqwr8dDvvSLiQgtzOsO2bL?usp=sharing)
+
 
 ## 插件版本與更新
 
