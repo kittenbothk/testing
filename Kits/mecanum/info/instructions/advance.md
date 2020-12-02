@@ -4,7 +4,7 @@
 
 ## 組裝說明書和參考程式
 
-[組裝說明書下載]()
+[組裝說明書下載](https://bit.ly/MRMacanumWheelBuildingInstruction)
 
 ### 組裝注意！！
 
