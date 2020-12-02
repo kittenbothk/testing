@@ -1,5 +1,7 @@
 # FM收音機模組
 
+![](./images/kittenRadio1.jpg)
+
 這是一隻收音機模組，它可以接收FM電台訊號。
 
 它使用標準的3.5mm插頭，可以使用3.5mm的耳機或揚聲器作輸出。
@@ -15,9 +17,23 @@
 
 ## 接線教學
 
+將4pin杜邦線插到模組接口。
+
+    紅色對5V，黑色對GND。
+
+![](./images/kittenRadio3.jpg)
+
 將FM收音機模組連接到Robotbit的i2c接口。
 
-    SCL接SCL，SDA接SDA。
+    白色接SCL，綠色接SDA。
+    
+![](./images/kittenRadio5.png)
+    
+將收音機的天線插入天線接口。將耳機或揚聲器插在輸出接口。
+
+    此模組只附帶天線，耳機或揚聲器需要自備。
+    
+![](./images/kittenRadio2.jpg)
 
 ## MakeCode編程教學
 
@@ -41,7 +57,7 @@
 
 ![](./images/radiocode1.png)
 
-[參考程式網址](https://makecode.microbit.org/_RpcJfTX8oTXk)
+[參考程式網址](https://makecode.microbit.org/_gMVXxTAf8PsX)
 
 #### Meowbit收音機編程：
 

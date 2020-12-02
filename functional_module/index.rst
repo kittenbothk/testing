@@ -12,7 +12,6 @@
 .. toctree::
     :maxdepth: 1
 
-    fmradio.md
     infratemp.md
     waterTank.md
     nekoUltrasound.md
@@ -29,6 +28,7 @@
     sound.md
     infrared.md
     rgb.md
+    kittenRadio.md
 
 .. toctree::
     :maxdepth: 1
