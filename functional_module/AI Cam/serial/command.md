@@ -640,3 +640,21 @@
         if button_b.is_pressed():
             uart.write('K78 9999\r\n')
             sleep(500)
+            
+## KOI重啟
+
+指令：K99
+
+作用：KOI重啟
+
+    from microbit import *
+    
+    ret_list=[]
+    uart.init(baudrate=115200, tx=pin1, rx=pin2)
+    uart.write('\n\n')
+    sleep(1000)
+    
+    while True:
+        if button_a.is_pressed():
+            uart.write('K99\r\n')
+            sleep(500)
