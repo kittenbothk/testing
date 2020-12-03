@@ -4,7 +4,7 @@
 
 這是一隻收音機模組，它可以接收FM電台訊號。
 
-它使用標準的3.5mm插頭，可以使用3.5mm的耳機或揚聲器作輸出。
+它使用標準的3.5mm插頭，可以使用3.5mm的耳機或揚聲器作輸出。它亦裝有兼容樂高的積木孔。
 
 ## 產品參數
 
@@ -14,6 +14,19 @@
 - 有效頻率：76MHz~108MHz
 - 天線接口：3.5mm
 - 輸出接口：3.5mm
+- 尺寸：43mm*43mm*24mm
+
+## 產品外觀
+
+![](./images/kittenRadio8.jpg)
+
+![](./images/kittenRadio7.jpg)
+
+![](./images/kittenRadio9.jpg)
+
+![](./images/kittenRadio10.jpg)
+
+![](./images/kittenRadio11.jpg)
 
 ## 接線教學
 
