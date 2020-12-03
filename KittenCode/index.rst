@@ -10,3 +10,4 @@ KittenCode不但支援一般的Python編程，它更支援對KittenBot旗下產�
 
     intro.md
     install.md
+    interface.md

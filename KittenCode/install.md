@@ -8,12 +8,12 @@ KittenCode是KittenBot自家開發的Python編程平台。
 
 Windows 10系統：
 
-前往 [http://www.kittenbot.hk](http://www.kittenbot.hk/software/platform/) ，按系統點選相應的Download鍵‎，下載KittenCode。
+前往 [http://www.kittenbot.hk](/) ，按系統點選相應的Download鍵‎，下載KittenCode。
 
 
 MacOS用戶：
 
-到瀏覽器前往 [http://www.kittenbot.hk](http://www.kittenbot.hk/software/platform/) ，按系統點選相應的Download鍵，下載KittenCode。
+到瀏覽器前往 [http://www.kittenbot.hk]() ，按系統點選相應的Download鍵，下載KittenCode。
 
 ![](./images/install_mac.png)
 
