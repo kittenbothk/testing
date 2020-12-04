@@ -72,7 +72,7 @@
 
 ![](./images/radiocode1.png)
 
-[參考程式網址](https://makecode.microbit.org/_gMVXxTAf8PsX)
+[參考程式網址](https://makecode.microbit.org/_EsubHKetqaaY)
 
 #### Meowbit收音機編程：
 
