@@ -80,6 +80,10 @@
 
 [參考程式網址](https://makecode.com/_YYiLzY5t5X2s)
 
+## 示範短片
+
+[![](./images/radiovideo1.png)](https://youtu.be/ZKruHJ0GGoM)
+
 ## 插件版本與更新
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
