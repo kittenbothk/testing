@@ -558,6 +558,57 @@
             if len(ret_list)>1:
                 display.scroll(ret_list[1])
                 ret_list=[]
+                
+指令：K66 sound.json
+
+作用：儲存語音模型
+
+    from microbit import *
+    
+    ret_list=[]
+    uart.init(baudrate=115200, tx=pin1, rx=pin2)
+    uart.write('\n\n')
+    uart.write('K63\r\n')
+    sleep(1000)
+    
+    while True:
+        if button_a.is_pressed() and button_b.is_pressed():
+            uart.write('K66 greeting.json\r\n')
+            sleep(500)
+        if button_a.is_pressed():
+            uart.write('K64 hi\r\n')
+            sleep(500)
+        if button_b.is_pressed():
+            uart.write('K64 bye\r\n')
+            sleep(500)
+    
+指令：K67 sound.json
+
+作用：讀取語音模型
+
+    from microbit import *
+    
+    ret_list=[]
+    uart.init(baudrate=115200, tx=pin1, rx=pin2)
+    uart.write('\n\n')
+    uart.write('K63\r\n')
+    sleep(1000)
+    
+    while True:
+        if button_a.is_pressed():
+            uart.write('K65\r\n')
+            sleep(500)
+        if button_b.is_pressed():
+            uart.write('K67 greeting.json\r\n')
+            sleep(500)
+        if uart.any():
+            ret = str(uart.readline(), 'UTF-8')
+            ret = ret.strip()
+            ret_list = ret.split(' ')
+            if len(ret_list)>1:
+                display.scroll(ret_list[1])
+                ret_list=[]
+
 
 ## 人臉辨識
 
