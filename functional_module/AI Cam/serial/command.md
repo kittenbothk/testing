@@ -449,9 +449,11 @@
             uart.write('K54\r\n')
             sleep(500)
 
-指令：K51
+指令：K51 mqttHost clientID port [username] [password]
 
 作用：連接MQTT伺服器，請按照平台的指示填寫資料
+    
+    假如你使用的平台不需要username和password，則不需要輸入。
 
 指令：K52 topic
 
