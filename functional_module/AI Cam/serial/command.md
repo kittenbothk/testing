@@ -28,7 +28,6 @@
         
     if len(ret_list)>1:
         display.scroll(ret_list[1])
-        display.scroll(ret_list[2])
 
 ## 拍照與顯示圖片
 
@@ -97,7 +96,7 @@
 
 指令：K6 direction
 
-作用：以direction改變屏幕方向，0代表前置；1代表橫置；2代表後置
+作用：改變屏幕方向，0代表前置；1代表橫置；2代表後置
 
     from microbit import *
 
@@ -119,7 +118,7 @@
 
 作用：辨認圓形，threshold代表臨界值，一般推薦2000(臨界值越高越難辨認，誤差會更少)
 
-返回：K10，X座標，Y座標，半徑
+返回：K10，圓心X，圓心Y，半徑
 
     from microbit import *
 
@@ -150,7 +149,7 @@
 
 作用：辨認矩形，threshold代表臨界值，一般推薦6000(臨界值越高越難辨認，誤差會更少)
 
-返回：K11，X座標，Y座標，長，闊
+返回：K11，中心X，中心Y，長，闊
 
     from microbit import *
 
