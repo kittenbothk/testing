@@ -321,7 +321,6 @@
     ret_list=[]
     uart.init(baudrate=115200, tx=pin1, rx=pin2)
     uart.write('\n\n')
-    uart.write('K6 0\r\n')
     uart.write('K30\r\n')
     sleep(1000)
     
