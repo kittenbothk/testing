@@ -10,7 +10,7 @@
 
 作用：獲得KOI目前的版本
 
-返回：目前版本號
+返回：K0，目前版本號
 
     from microbit import *
     
@@ -58,7 +58,7 @@
 
 作用：KOI按鍵檢測
 
-返回：A按鍵狀態，B按鍵狀態
+返回：K3，A按鍵狀態，B按鍵狀態
 
     from microbit import *
 
@@ -119,7 +119,7 @@
 
 作用：辨認圓形，threshold代表臨界值，一般推薦2000(臨界值越高越難辨認，誤差會更少)
 
-返回：X座標，Y座標，半徑
+返回：K10，X座標，Y座標，半徑
 
     from microbit import *
 
@@ -150,7 +150,7 @@
 
 作用：辨認矩形，threshold代表臨界值，一般推薦6000(臨界值越高越難辨認，誤差會更少)
 
-返回：X座標，Y座標，長，闊
+返回：K11，X座標，Y座標，長，闊
 
     from microbit import *
 
@@ -187,7 +187,7 @@
 
 作用：追蹤線條，color代表追蹤的顏色
 
-返回：X1座標，Y1座標，X2座標，Y2座標
+返回：K12，X1座標，Y1座標，X2座標，Y2座標
 
     from microbit import *
 
@@ -230,7 +230,7 @@
 
 作用：追蹤顏色，color代表追蹤的顏色
 
-返回：X座標，Y座標，長，闊
+返回：K5，X座標，Y座標，長，闊
 
     from microbit import *
 
@@ -269,13 +269,13 @@
 
 作用：辨識二維碼
 
-返回：內容
+返回：K20，內容
 
 指令：K22
 
 作用：辨識條碼
 
-返回：內容
+返回：K22，內容
 
     from microbit import *
     
@@ -309,7 +309,13 @@
 
 作用：人臉追蹤
 
-返回：人臉X，Y
+返回：K0，ID，人臉X，人臉Y
+
+指令：K32
+
+作用：人臉數目
+
+返回：K32，人臉數目
 
     from microbit import *
     
@@ -330,9 +336,9 @@
             ret_list = ret.split(' ')
             if len(ret_list)>1:
                 display.scroll('X')
-                display.scroll(ret_list[1])
-                display.scroll('Y')
                 display.scroll(ret_list[2])
+                display.scroll('Y')
+                display.scroll(ret_list[3])
                 ret_list=[]
                      
 ## 分類器
@@ -349,7 +355,7 @@
 
 作用：特徵辨認
 
-返回：className
+返回：K42，className
     
     from microbit import *
     
@@ -467,7 +473,7 @@
 
 作用：讀取MQTT話題
 
-返回：MQTT話題，話題內容
+返回：K55，話題內容
         
     from microbit import *
     
@@ -493,7 +499,7 @@
                     ret = ret.strip()
                     ret_list = ret.split(' ')
                     if len(ret_list)>1:
-                        display.scroll(ret_list[2])
+                        display.scroll(ret_list[1])
                         ret_list=[]
 
 ## 錄音與播放
@@ -533,7 +539,7 @@
 
 作用：命令詞辨認，成功會顯示綠色
 
-返回：命令詞id
+返回：K65，命令詞id
 
     from microbit import *
     
@@ -618,7 +624,7 @@
 
 作用：運行人臉辨識(需要網絡連接)
 
-返回：人臉token，年齡，性別
+返回：K75，人臉token，年齡，性別，戴口罩，表情
 
 指令：K76 token groupName faceName
 
@@ -628,7 +634,7 @@
 
 作用：在人臉組別用人臉token在人臉組別groupName搜尋(需要網絡連接)
 
-返回：faceName
+返回：K77，faceName
 
     from microbit import *
     
@@ -694,6 +700,24 @@
             uart.write('K78 9999\r\n')
             sleep(500)
             
+## 停止KPU(分類器與人面追蹤)
+
+指令：K98
+
+作用：停止KPU(分類器與人面追蹤)
+
+    from microbit import *
+    
+    ret_list=[]
+    uart.init(baudrate=115200, tx=pin1, rx=pin2)
+    uart.write('\n\n')
+    sleep(1000)
+    
+    while True:
+        if button_a.is_pressed():
+            uart.write('K98\r\n')
+            sleep(500)
+
 ## KOI重啟
 
 指令：K99
