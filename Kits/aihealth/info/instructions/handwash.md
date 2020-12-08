@@ -14,11 +14,11 @@
 
 ## 參考程式
 
-[訓練程序參考程式](https://makecode.microbit.org/_4v35X9ferVMY)
+[訓練程序參考程式__KOI固件版本1.12.0__插件版本0.6.7](https://makecode.microbit.org/_5Xq0wYD7EibY)
 
-[搓手液機參考程式](https://makecode.microbit.org/_Dzp8Xt48kMVq)
+![](./images/wash_traincode.png)
 
-[參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
+[搓手液機參考程式__KOI固件版本1.12.0__插件版本0.6.7](https://makecode.microbit.org/_hhWYWdCb9L5b)
 
 ![](./images/washcode.png)
 

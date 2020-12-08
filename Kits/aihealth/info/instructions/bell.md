@@ -14,9 +14,7 @@
 
 ## 參考程式
 
-[非接觸式門鈴參考程式](https://makecode.microbit.org/_1Dh6xrbaWf3F)
-
-[參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
+[非接觸式門鈴參考程式__KOI固件版本1.12.0__插件版本0.6.7](https://makecode.microbit.org/_EuWAC2bC3Pdg)
 
 ![](./images/bellcode.png)
 

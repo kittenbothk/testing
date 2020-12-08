@@ -14,9 +14,7 @@
 
 ## 參考程式
 
-[防疫用品指揮官參考程式](https://makecode.microbit.org/_hHe2g954FgVf)
-
-[參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
+[防疫用品指揮官參考程式__KOI固件版本1.12.0__插件版本0.6.7](https://makecode.microbit.org/_WpiFMK48K9rV)
 
 ![](./images/commandcode.png)
 

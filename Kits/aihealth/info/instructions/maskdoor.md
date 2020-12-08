@@ -14,9 +14,7 @@
 
 ## 參考程式
 
-[口罩佩戴偵測器參考程式](https://makecode.microbit.org/_3i3Dwm7Fm7w1)
-
-[參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
+[口罩佩戴偵測器參考程式__KOI固件版本1.12.0__插件版本0.6.7](https://makecode.microbit.org/_etodb7KPs1LA)
 
 ![](./images/maskdoorcode.png)
 

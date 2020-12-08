@@ -14,7 +14,7 @@
 
 ## 參考程式
 
-[參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
+[手提探溫槍參考程式資源包](https://makecode.microbit.org/_6zedo5PpWMdP)
 
 ![](./images/tempguncode.png)
 

@@ -14,7 +14,11 @@
 
 ## 參考程式
 
-[參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
+[訓練程序參考程式__KOI固件版本1.12.0__插件版本0.6.7](https://makecode.microbit.org/_5Xq0wYD7EibY)
+
+![](./images/wash_traincode.png)
+
+[無按鈕電梯參考程式__KOI固件版本1.12.0__插件版本0.6.7](https://makecode.microbit.org/_F8bTvm9T50Wm)
 
 ![](./images/liftcode.png)
 
