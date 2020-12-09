@@ -14,9 +14,14 @@
 
 ## 參考程式
 
+
+### 訓練程序
+
 [訓練程序參考程式__KOI固件版本1.12.0__插件版本0.6.7](https://makecode.microbit.org/_5Xq0wYD7EibY)
 
 ![](./images/wash_traincode.png)
+
+### 搓手液機
 
 [搓手液機參考程式__KOI固件版本1.12.0__插件版本0.6.7](https://makecode.microbit.org/_hhWYWdCb9L5b)
 
