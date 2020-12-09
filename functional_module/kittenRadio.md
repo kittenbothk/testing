@@ -10,7 +10,7 @@
 
 - 工作電壓：2.5V~5V
 - 類型：i2c模組
-- 接口：4pin杜邦線
+- 接口：4pin防反插接口
 - 有效頻率：76MHz~108MHz
 - 天線接口：3.5mm
 - 輸出接口：3.5mm
@@ -30,9 +30,15 @@
 
 ## 接線教學
 
-將4pin杜邦線插到模組接口。
+將收音機的天線插入天線接口。將耳機或揚聲器插在輸出接口。
 
-    紅色對5V，黑色對GND。
+    此模組只附帶天線，耳機或揚聲器需要自備。
+    
+![](./images/kittenRadio2.jpg)
+
+## Robotbit
+
+將4pin杜邦線插到模組防反插接口。
 
 ![](./images/kittenRadio3.jpg)
 
@@ -43,12 +49,16 @@
 ![](./images/kittenRadio5.png)
 
 ![](./images/kittenRadio6.jpg)
-    
-將收音機的天線插入天線接口。將耳機或揚聲器插在輸出接口。
 
-    此模組只附帶天線，耳機或揚聲器需要自備。
+## Armourbit
     
-![](./images/kittenRadio2.jpg)
+將4pin線插到摸組接口。
+
+![](./images/kittenRadio12.jpg) 
+
+用4pin線將模組連接到Armourbit。
+
+![](./images/kittenRadio13.jpg) 
 
 ## MakeCode編程教學
 
