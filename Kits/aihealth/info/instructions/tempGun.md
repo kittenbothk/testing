@@ -14,7 +14,7 @@
 
 ## 參考程式
 
-[手提探溫槍參考程式資源包](https://makecode.microbit.org/_6zedo5PpWMdP)
+[手提探溫槍參考程式](https://makecode.microbit.org/_6zedo5PpWMdP)
 
 ![](./images/tempguncode.png)
 
