@@ -22,7 +22,7 @@ Meowbit支援MicroPython編程，可以實現純文字的編程。
 
 ![](./images/micropython1.png)
 
-然後你的電腦上會出現一個叫PyBoard的裝置。
+然後你的電腦上會出現一個叫PYBFLASH的裝置。
 
 ![](./images/micropython2.png)
 
