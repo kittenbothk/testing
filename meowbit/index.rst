@@ -22,3 +22,5 @@ Meowbit介紹及詳細資訊
     meowbit_iobit.md
     meowbit_turtle.md
     meowbit_tft.md
+    micropython.md
+    meowbit_api.md
