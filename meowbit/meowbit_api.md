@@ -341,7 +341,7 @@ Meowbit上也搭載了蜂鳴器。
 播放一段旋律。
 
 - m代表旋律，m+octave:duration，即是音符+八度音階(默認為4)：長度(默認為4拍子)，你亦可以加入r用作休止符。
-    - 例如：'d5:1 b4:1'，"a3:2 r a3:2"
+    - 例如： "d5:1 b4:1" ， "a3:2 r a3:2"
 - bpm代表拍速，默認為120拍/分鐘。
 - 固件內預載了數款音效，可以直接使用。
     - CORRECT，NOTICE，ERROR
@@ -407,3 +407,4 @@ Meowbit上也搭載了蜂鳴器。
         screen.text('Temperature:' + str(tempValue), 20, 50)
         screen.text('Brightness: ' + str(lightValue), 20, 70)
         screen.refresh()
+        
