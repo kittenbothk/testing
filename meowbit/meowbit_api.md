@@ -407,4 +407,121 @@ Meowbit上也搭載了蜂鳴器。
         screen.text('Temperature:' + str(tempValue), 20, 50)
         screen.text('Brightness: ' + str(lightValue), 20, 70)
         screen.refresh()
+
+## Meowbit陀螺儀
+
+Meowbit上有個3軸的陀螺儀，可以檢測加速度和傾斜度等的數值。
+
+### 檢測軸加速度
+
+    sensor.accX()
+    sensor.accY()
+    sensor.accZ()
+    
+獲取X，Y，Z軸的加速度數值，單位為g(m/s^2)。
+
+### 檢測轉向加速度
+    
+    sensor.gyroX()
+    sensor.gyroY()
+    sensor.gyroZ()
+    
+獲取X，Y，Z軸的轉向加速度單位為g(deg/s)。
+
+### 檢測翻滾度
+
+    sensor.roll()
+    
+獲取翻滾(roll)的數值，單位為角度。
+
+### 檢測俯仰度
+
+    sensor.pitch()
+    
+獲取俯仰(pitch)的數值，單位為角度。
+
+### 檢測姿勢值
+
+    sensor.gesture(ges)
+    
+獲取姿勢的狀態值，回饋數值為布林值。
+
+- ges代表姿勢，支援的姿勢有: 'shake' (搖晃), 'freefall' (自由落體), 'tilt_up' (後傾), 'tilt_down' (前傾), 'tilt_left' (左傾), 'tilt_right' (右傾), 'face_up' (朝上), 'face_down' (朝下)
+
+## 姿勢觸發
+
+    sensor.gesTrig[ges] = fn
+    
+- ges代表姿勢，支援的姿勢有: 'shake' (搖晃), 'freefall' (自由落體), 'tilt_up' (後傾), 'tilt_down' (前傾), 'tilt_left' (左傾), 'tilt_right' (右傾), 'face_up' (朝上), 'face_down' (朝下)
+- fn代表要執行的函數。
+- startSchedule()能使程式不需要在無限運行時都會不斷檢測按鍵狀態。(例子請參考範例)
+
+### 使用範例
+
+    from meowbit import *
+    
+    screen.sync = 0
+    
+    while 1:
+        screen.fill(0)
+
+        screen.text('acc :x/y/z', 20, 10, 1, (168, 233, 74))
+        screen.text(round(sensor.accX(), 2), 10, 30)
+        screen.text(round(sensor.accY(), 2), 60, 30)
+        screen.text(round(sensor.accZ(), 2), 110, 30)
+    
+        screen.text('gyro :x/y/z', 10, 50, 1, (74, 233, 168))
+        screen.text(round(sensor.gyroX(), 2), 10, 70)
+        screen.text(round(sensor.gyroY(), 2), 60, 70)
+        screen.text(round(sensor.gyroZ(), 2), 110, 70)
+    
+        screen.text('roll:' + str(round(sensor.roll())), 20, 90, 1, (233, 74, 168))
+        screen.text('pitch:' + str(round(sensor.pitch())), 20, 110, 1, (233, 168, 74))
+    
+        screen.text('face_up', 100, 95, 1, (74, 168, 233))
+        screen.text(sensor.gesture('face_up'), 105, 110)
+    
+        screen.refresh()
         
+## 引腳控制
+
+### 設定引腳
+
+    pin = MeowPin(pin, mode)
+    
+將變數pin設為引腳。
+
+- pin代表引腳編號，由P1至P20。
+- mode代表引腳模式
+    - IN：數位輸入（默認上拉電阻）
+    - OUT：數位輸出
+    - ANALOG：模擬輸入
+    - PWM：模擬輸出
+    
+### 引腳讀取
+    
+    getDigital()
+    
+數位引腳讀取。
+
+    getAnalog()
+    
+模擬引腳讀取。
+
+## 引腳寫入
+
+    setDigital(val)
+    
+將數值寫入數位引腳，數值由0～1。
+    
+    setAnalog(val)
+    
+將數值寫入模擬引腳，數值由0～1023。
+
+    set_pulse_width(duty)
+    
+將PWM數值寫入模擬引腳，一般用於舵機控制。
+
+## 引腳續發
+
+    irq(trigger=ExtInt.IRQ_FALLING, handler=None, pull=Pin.PULL_UP)=fn
