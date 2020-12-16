@@ -508,7 +508,7 @@ Meowbit上有個3軸的陀螺儀，可以檢測加速度和傾斜度等的數值
     
 模擬引腳讀取。
 
-## 引腳寫入
+### 引腳寫入
 
     setDigital(val)
     
@@ -522,6 +522,31 @@ Meowbit上有個3軸的陀螺儀，可以檢測加速度和傾斜度等的數值
     
 將PWM數值寫入模擬引腳，一般用於舵機控制。
 
-## 引腳續發
+### 使用範例
 
-    irq(trigger=ExtInt.IRQ_FALLING, handler=None, pull=Pin.PULL_UP)=fn
+    from meowbit import *
+    
+    screen.sync = 0
+    in_pin = MeowPin('P1', ANALOG)
+    out_pin = MeowPin('P2', OUT)
+    
+    while 1:
+        screen.fill(0)
+        screen.text(in_pin.getAnalog())
+        screen.refresh()
+        if (in_pin.getAnalog() > 2000):
+            out_pin.setDigital(1)
+        else:
+            out_pin.setDigital(0)
+    
+## Q&A
+
+### 1. 為什麼我編輯完main.py之後，Meowbit沒有反應的呢？
+
+#### 儲存完main.py之後，你需要重置Meowbit才會載入新的main.py。
+
+### 2. 
+
+### 9. Meowbit可以像其他PyBoard一樣支援文件系統，例如open() 、write() 嗎？
+
+#### 可以的，不過Meowbit只有2MB的空間，建議使用時安插SD卡。

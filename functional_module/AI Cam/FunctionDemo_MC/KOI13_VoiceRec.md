@@ -41,6 +41,9 @@
 
 [![](KOI13/3.png)](https://www.youtube.com/watch?v=xlcv4hETpRI&feature=youtu.be)
 
+[![](KOI13/video.png)](https://www.youtube.com/watch?v=771JRYQIv0o)
+
+
 ## 插件版本與更新
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。

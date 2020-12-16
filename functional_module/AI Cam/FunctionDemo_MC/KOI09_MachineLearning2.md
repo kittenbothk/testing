@@ -43,9 +43,11 @@
 
 4：將物件放在鏡頭前，Microbit點陣上會顯示辨識物件的分類編號。
 
-參考短片：
+## 參考短片
 
 [![](KOI09/9.png)](https://www.youtube.com/watch?v=UsjingLwnHc&feature=youtu.b)
+
+[![](KOI09/10.png)](https://www.youtube.com/watch?v=DIUMIGsAlMw)
 
 ## 參考程式
 

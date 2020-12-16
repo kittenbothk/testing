@@ -55,6 +55,7 @@
 
 [示範音頻檔下載](https://drive.google.com/drive/folders/1bBWo1BEyhtyqwr8dDvvSLiQgtzOsO2bL?usp=sharing)
 
+[![](KOI15/5.png)](https://www.youtube.com/watch?v=eXnOGeJA-LY)
 
 ## 插件版本與更新
 
