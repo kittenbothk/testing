@@ -46,3 +46,8 @@
 
     mecanum/index
 
+.. toctree::
+    :maxdepth: 1
+    :caption: Robotbit Kart
+
+    robotbit_kart/intro
