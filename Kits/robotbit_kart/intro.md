@@ -1,6 +1,6 @@
-# Mr Stemer Kart Lite套件
+# MR STEMer Kart Lite套件
 
-Mr Stemer Kart Lite(HKBK6006A)
+MR STEMer Kart Lite(HKBK6006A)
 
 ![](images/1.jpg)
 

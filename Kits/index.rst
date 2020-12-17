@@ -48,6 +48,6 @@
 
 .. toctree::
     :maxdepth: 1
-    :caption: Robotbit Kart
+    :caption: MR STEMer Kart Lite套件
 
     robotbit_kart/intro
