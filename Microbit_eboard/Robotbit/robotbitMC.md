@@ -18,7 +18,7 @@ Robotbit支援Makecode上編程。
 
 #### 加載成功
 
-![](../RBimages/success.png)
+![](../images/success.png)
 
 ### 1. 電機編程
 

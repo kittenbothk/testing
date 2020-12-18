@@ -1,9 +1,8 @@
-Robotbit Kart
+MR STEMer Kart Lite套件
 ====================
 
 .. toctree::
     :maxdepth: 1
 
-    powerBrickIntro.md
+    intro.md
     modules/index
-    info/index

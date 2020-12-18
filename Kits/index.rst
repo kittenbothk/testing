@@ -47,7 +47,7 @@
     mecanum/index
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :caption: MR STEMer Kart Lite套件
 
-    robotbit_kart/intro
+    robotbit_kart/index
