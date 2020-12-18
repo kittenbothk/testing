@@ -1,5 +1,7 @@
 # Robotbit 介紹
 
+Robotbit擴展板(HKBK8001A)
+
 ## 產品名稱：
 
 **Robotbit (Version 2.2)**
