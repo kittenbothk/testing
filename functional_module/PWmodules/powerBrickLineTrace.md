@@ -53,6 +53,10 @@
 
 [![](./images/irtut.png)](https://www.youtube.com/watch?v=BT1TUlmbMm8)
 
+### 示範短片
+
+[![](./images/line_video.png)](https://www.youtube.com/watch?v=epcs80fGryM)
+
 ## 插件版本與更新
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。

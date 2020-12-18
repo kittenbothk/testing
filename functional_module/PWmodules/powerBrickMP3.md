@@ -70,15 +70,16 @@ MP3魔塊 (HKBM8012E)
 
 [![](./images/mp3tut.png)](https://www.youtube.com/watch?v=h2XQ463V5CE)
 
-## KittenBlock編程教學
-
-![](./images/kbbanner.png)
-
 ## 插件版本與更新
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
 詳情請參考: [Makecode插件版本更換](../../../Makecode/makecode_extensionUpdate)
+
+
+## KittenBlock編程教學
+
+![](./images/kbbanner.png)
 
 ### 加載PowerBrick插件
 

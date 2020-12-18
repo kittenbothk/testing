@@ -115,6 +115,14 @@ HSV色環可以參考下圖：
 
 [![](./images/gesturetut.png)](https://www.youtube.com/watch?v=7WrkDYMc2f0)
 
+### 示範短片
+
+[![](./images/gesture_video1.png)](https://www.youtube.com/watch?v=jhGaRx7EGms)
+
+[![](./images/gesture_video2.png)](https://www.youtube.com/watch?v=BWK_pLO0qpA)
+
+[![](./images/gesture_video2.png)](https://www.youtube.com/watch?v=UTiFh02MpMc)
+
 ## 插件版本與更新
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。

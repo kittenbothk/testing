@@ -4,7 +4,7 @@ All in 1水箱連水泵組合 (HKBM8015A)
 
 ![](./PWmodules/images/image--010.png)
 
-內置浸入式水泵一體化水箱，簡潔方便；水箱頂蓋和底部兼容樂高顆粒件，適合用作智能灌溉、自動洗手機等。
+內置浸入式水泵一體化水箱，簡潔方便；水箱頂蓋和底部兼容樂高顆粒件，適合用作智能灌溉、自動洗手機等應用。
 
 ## 產品參數
 
@@ -86,6 +86,10 @@ All in 1水箱連水泵組合 (HKBM8015A)
 ![](../motors/images/2kmotorcode_meow.png)
 
 [參考程式網址](https://makecode.com/_2z0C8v6XAC5y)
+
+## 示範短片
+
+[![](./images/tank_video.png)](https://www.youtube.com/watch?v=xzTVRHEHfVs)
 
 ## 插件版本與更新
 

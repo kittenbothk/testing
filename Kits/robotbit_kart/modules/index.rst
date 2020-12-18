@@ -7,7 +7,7 @@ MR STEMer Kart Lite模組教學
     :maxdepth: 1
 
     ../../../functional_module/nekoUltrasound.md
-    ../../../functional_module/5wayline
+    ../../../functional_module/5wayline.md
     ../../../motors/ttmotor.md
     ../../../motors/9g.md
 
