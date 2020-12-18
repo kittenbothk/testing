@@ -81,6 +81,10 @@ JoyFrog是Kittenbot推出的Microbit擴展版，它為Microbit增加了按鍵和
 16. 3pin模塊防反接接口
 17. 3pin模塊防反接接口
 
+## 介紹短片
+
+[![](![](../images/joyfrog_video.png))](https://www.youtube.com/watch?v=MyQpYKhSHmY)
+
 ## JoyFrog電池盒安裝教學
 
 安裝Microbit電池盒之後，就不用永遠連著電線啦～

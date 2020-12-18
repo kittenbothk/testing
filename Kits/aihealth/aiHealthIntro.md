@@ -1,6 +1,6 @@
 # AI衛生防疫套件介紹
 
-### AI衛生防疫套件 (HKBK8034A)
+### AI衛生防疫套件 (HKBK8043A)
 
 ![](./images/all.png)
 

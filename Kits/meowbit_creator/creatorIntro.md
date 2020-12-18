@@ -1,6 +1,6 @@
 # Meowbit發明家套件介紹
 
-### Meowbit發明家套件()
+### Meowbit發明家套件
 
 ![](./images/4.png)
 
