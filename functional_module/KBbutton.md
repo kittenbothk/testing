@@ -6,7 +6,7 @@ Kittenbot 原廠3pin按鍵藍色(HKBM8006B)
 
 ![](./images/button_1.png)
 
-這是一隻按鍵模組。
+這是一隻按鍵模組，輕易為你的Microbit提供額外按鍵。
 
 ## 產品參數
 

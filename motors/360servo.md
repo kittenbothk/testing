@@ -100,6 +100,10 @@ Geek Motor O360 續轉舵機(HKBD8001A)
 
 [參考程式網址](https://makecode.microbit.org/_JdJDbv5ue97t)
 
+## 示範短片
+
+[![](./images/360servo_video.png)](https://www.youtube.com/watch?v=LTHfVK9SHuQ)
+
 ### Meowbit:
 
 ---
@@ -115,3 +119,4 @@ Geek Motor O360 續轉舵機(HKBD8001A)
 ![](../motors/images/360servo_codeMeow.png)
 
 [參考程式網址](https://makecode.com/_DPeAM8h5HMaf)
+

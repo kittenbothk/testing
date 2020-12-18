@@ -1,4 +1,4 @@
-# Geekservo電機
+# Geekservo 9g電機
 
 Geekservo電機 (HKBD9006A)
 

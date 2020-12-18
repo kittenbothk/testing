@@ -1,4 +1,4 @@
-# Geekservo舵機
+# Geekservo 9g舵機
 
 Geekservo舵機 (HKBD9005A)
 
