@@ -120,11 +120,11 @@
 
 ### [詳細方法](../Makecode/powerBrickMC)
 
-### 電機積木塊:
+### 舵機積木塊:
 
-![](../motors/images/motorblocks.png)
+![](../motors/images/2kservoblocks.png)
 
-## 電機編程
+## 舵機編程
 
 ![](../motors/images/2kservocode_meow.png)
 
@@ -132,13 +132,15 @@
 
 ## 插件版本與更新
 
-PowerBrick插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
 詳情請參考: [Makecode插件版本更換](../Makecode/makecode_extensionUpdate)
 
 ## KittenBlock編程教學
 
 ![](./images/kbbanner.png)
+
+### Armourbit，Robotbit與Meowbit編程方法一樣，請加載相應插件
 
 ### 加載PowerBrick插件
 

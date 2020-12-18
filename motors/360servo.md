@@ -1,6 +1,6 @@
-# Geek Motor O 續轉舵機
+# Geek Motor O360 續轉舵機
 
-Geek Motor O 續轉舵機(HKBD8001A)
+Geek Motor O360 續轉舵機(HKBD8001A)
 
 ![](./images/360servo1.jpg)
 

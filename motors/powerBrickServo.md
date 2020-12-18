@@ -134,7 +134,7 @@ Geekservo舵機 (HKBD9005A)
 
 ## 插件版本與更新
 
-PowerBrick插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
+插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
 詳情請參考: [Makecode插件版本更換](../Makecode/makecode_extensionUpdate)
 
@@ -142,9 +142,9 @@ PowerBrick插件可能會不定時推出更新，改進功能。亦有時候我�
 
 ![](./images/kbbanner.png)
 
-### 加載PowerBrick插件
+### Armourbit，Robotbit與Meowbit編程方法一樣，請加載相應插件
 
-離線版與在線版同樣操作。
+### 加載PowerBrick插件
 
 在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
 
