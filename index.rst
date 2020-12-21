@@ -27,7 +27,7 @@
     Makecode/index
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :caption: AI鏡頭KOI
 
     AI Cam/index
