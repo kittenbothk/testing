@@ -4,11 +4,11 @@ KOI支援Robotbit與Armourbit，兩者分別只是在於初始化積木的分別
 
 ## KOI初始化積木
 
-![](../../PWmodules/images/mcbanner.png)
+![](../../functional_module/PWmodules/images/mcbanner.png)
 
 ### 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
-### [詳細方法](../../../Makecode/powerBrickMC)
+### [詳細方法](../../Makecode/powerBrickMC)
 
 按鍵積木塊：
 

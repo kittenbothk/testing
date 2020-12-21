@@ -10,12 +10,12 @@
 
 ## 編寫線條追蹤程式
 
-![](../../PWmodules/images/mcbanner.png)
+![](../../functional_module/PWmodules/images/mcbanner.png)
 
 ### 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
 
-### [詳細方法](../../../Makecode/powerBrickMC)
+### [詳細方法](../../Makecode/powerBrickMC)
 
 線條檢測積木塊：
 
@@ -75,7 +75,7 @@
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](../../../Makecode/makecode_extensionUpdate)
+詳情請參考: [Makecode插件版本更換](../../Makecode/makecode_extensionUpdate)
 
 ## FAQ
 

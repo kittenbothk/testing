@@ -6,11 +6,11 @@ KOI上的機器學習不是必須要SD卡的，資料可以臨時儲存在KOI上
 
 ## 編寫機器學習程式
 
-![](../../PWmodules/images/mcbanner.png)
+![](../../functional_module/PWmodules/images/mcbanner.png)
 
 ### 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
-### [詳細方法](../../../Makecode/powerBrickMC)
+### [詳細方法](../../Makecode/powerBrickMC)
 
 機器學習積木塊：
 
@@ -47,7 +47,7 @@ KOI上的機器學習不是必須要SD卡的，資料可以臨時儲存在KOI上
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](../../../Makecode/makecode_extensionUpdate)
+詳情請參考: [Makecode插件版本更換](../../Makecode/makecode_extensionUpdate)
 
 ## FAQ
 ### 1： 為什麼我重新開機，按下按鍵A，但按下A鍵沒有反應？

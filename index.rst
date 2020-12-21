@@ -27,6 +27,12 @@
     Makecode/index
 
 .. toctree::
+    :maxdepth: 1
+    :caption: AI鏡頭KOI
+
+    AI Cam/index
+
+.. toctree::
     :maxdepth: 2
     :caption: IoT方案與Wifibrick
 

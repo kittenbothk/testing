@@ -4,12 +4,12 @@ KOI上面也有Wifi的功能，我們可以透過Wifi存取物聯網平台的數
 
 ## 編寫物聯網程式
 
-![](../../PWmodules/images/mcbanner.png)
+![](../../functional_module/PWmodules/images/mcbanner.png)
 
 ### 加載KOI插件：https://github.com/KittenBot/pxt-koi
 
 
-### [詳細方法](../../../Makecode/powerBrickMC)
+### [詳細方法](../../Makecode/powerBrickMC)
 
 物聯網積木塊：
 
@@ -21,13 +21,13 @@ KOI上面也有Wifi的功能，我們可以透過Wifi存取物聯網平台的數
 
 ### ThingSpeak平台
 
-有關ThingSpeak的教學可以參考： [ThingSpeak教學](../../../Wifibrick/MakeCode/MC_TS)
+有關ThingSpeak的教學可以參考： [ThingSpeak教學](../../Wifibrick/MakeCode/MC_TS)
 
 ### Makercloud創客雲平台
 
-[創客雲介紹](../../../Wifibrick/IoTPlatform/makercloud)
+[創客雲介紹](../../Wifibrick/IoTPlatform/makercloud)
 
-假如你使用Makercloud創客雲平台，可以參考： [創客雲教學](../../../Wifibrick/MakeCode/makercloud)
+假如你使用Makercloud創客雲平台，可以參考： [創客雲教學](../../Wifibrick/MakeCode/makercloud)
 
 ![](KOI14/9.png)
 
@@ -54,7 +54,7 @@ KOI上面也有Wifi的功能，我們可以透過Wifi存取物聯網平台的數
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](../../../Makecode/makecode_extensionUpdate)
+詳情請參考: [Makecode插件版本更換](../../Makecode/makecode_extensionUpdate)
 
 ## FAQ
 

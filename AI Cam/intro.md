@@ -166,7 +166,7 @@ KOI人工智慧鏡頭 (HKBC8006A)
 
 新手強烈推薦使用Armourbit，這樣不會有插錯的風險
 
-[Armourbit 介紹](https://kittenbothk.readthedocs.io/en/latest/Microbit%20eboard/Armourbit.html)
+[Armourbit 介紹](../functional_module/PWmodules/Armourbit)
 
 ![](./KOI00/15-1.png)  
 

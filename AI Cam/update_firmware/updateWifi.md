@@ -4,7 +4,7 @@ Kittenbot會不定時推出KOI Wifi固件，提升穩定性和改善功能。
 
 以下會講解一下檢查和更新固件版本的方法。
 
-![](../../PWmodules/images/mcbanner.png)
+![](../../functional_module/PWmodules/images/mcbanner.png)
 
 #### 我們先加載KOI Wifi插件：
 
