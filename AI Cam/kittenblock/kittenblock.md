@@ -1,0 +1,65 @@
+# KOI在KittenBlock編程快速開始
+
+我們可以在Kittenblock對KOI編程，達致KOI與舞台的互動。
+
+## 連接KOI
+
+我們首先需要在Kittenblock與KOI建立連接。
+
+#### 在硬件欄選擇KOI。
+
+![](./images/connect1.png)
+
+#### 點擊「連接硬件」或感嘆號連接KOI。
+
+![](./images/connect2.png)
+
+#### 點擊「開始連線」。
+
+![](./images/connect3.png)
+
+#### 連接成功。
+
+![](./images/connect4.png)
+
+#### 點擊顯示字串積木，KOI會即時有反應。
+
+![](./images/connect5.png)
+
+## KOI在KittenBlock編程
+
+### 基本應用
+
+![](./images/blocks1.png)
+
+### 特徵分類器
+
+![](./images/blocks2.png)
+
+### 人臉追蹤
+
+![](./images/blocks3.png)
+
+### 幾何圖形識別
+
+![](./images/blocks4.png)
+
+### 顏色追蹤
+
+![](./images/blocks5.png)
+
+### 條碼識別
+
+![](./images/blocks6.png)
+
+### 語音辨識
+
+![](./images/blocks7.png)
+
+### IOT物聯網
+
+![](./images/blocks8.png)
+
+### 人臉辨識(需要網絡連線)
+
+![](./images/blocks9.png)

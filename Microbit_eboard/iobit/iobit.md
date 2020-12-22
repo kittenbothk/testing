@@ -19,9 +19,9 @@ IOBit是一塊價錢較低的Microbit入門擴展板，它將Microbit的引腳�
 
 ## 產品參數
 
-- 尺寸：56.8*44*12 mm
+- 尺寸：56.8x44x12 mm
 - 供電方式：USB 5V供電／Micro:bit電池盒3V供電
-- 輸出電壓：3.3V~5V
+- 輸出電壓：3.3V~5V，最大1A
 
 ![](./images/1.jpg)
 
