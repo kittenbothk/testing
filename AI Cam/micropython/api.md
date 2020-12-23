@@ -37,12 +37,12 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
 
 ### 獲取按鍵數值
 
-    btnA.value()
-    btnB.value()
+    btnAValue()
+    btnBValue()
     
 獲取A和B按鍵數值。
 
-- 當按下時返回數值為0，否則為1。
+- 當按下時返回數值為1，否則為0。
 
 ### 示範程式
 
@@ -59,9 +59,11 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
     sleep(1)
     drawString(5,5,"hello world",500)
     while True:
-      if btnA.value() == 0:
+      img=sensor.snapshot()
+      lcd.display(img)
+      if btnAValue() == 1:
         img.save("s1.jpg")
-      if btnB.value() == 0:
+      if btnBValue() == 1:
         loadImage("s1.jpg")
         
 ## 特徵分類器
@@ -100,7 +102,45 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
     
 保存分類器模型和載入分類器模型。
 
+### 示範程式
 
+    #模型訓練與保存
+    from koi import *
+    
+    x=0
+    
+    cla.reset()
+    
+    while True:
+        img=sensor.snapshot()
+        lcd.display(img)
+        if btnAValue():
+            cla.addImage('apple')
+        if btnBValue():
+            cla.addImage('orange')
+        if btnAValue() and btnBValue():
+            cla.save('fruit.json')
+        time.sleep(0.1)
+
+---
+    #模型載入與運行
+    from koi import *
+    
+    x=0
+    cla.reset()
+    cla.load("fruit.json")
+    
+    while True:
+        img=sensor.snapshot()
+        lcd.display(img)
+        if btnAValue():
+            tag=cla.getImageTag()
+            if tag=='orange':
+                print('I like oranges.')
+            elif tag=='apple':
+                print('Apples are healthy.')
+        time.sleep(0.1)
+    
 ## 人臉追蹤
 
 ### 載入人臉模型
@@ -114,3 +154,307 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
     trackface()
 
 運行人臉追蹤。
+
+### 示範程式
+
+    #/bin/python
+    from koi import *
+    
+    x = 0
+    face_prop=[0,0]
+    
+    yoloinit()
+    while True:
+        img=sensor.snapshot()
+        lcd.display(img)
+        r = trackface()
+        if r:
+            is_face=1
+            drawString(5,5,r,500)
+            face_prop[0]=(r[0][2]+r[0][0])/2
+            face_prop[1]=(r[0][3]+r[0][1])/2
+        else:
+            is_face=0
+            
+        while is_face:
+            print('X: '+str(face_prop[0]))
+            print('Y: '+str(face_prop[1]))
+            is_face=0
+        time.sleep(0.5)
+    
+## 幾何圖形識別
+
+### 線條追蹤
+
+    findLines()
+    
+追蹤畫面裡的線條。返回一個列表。
+
+### 圓形追蹤
+    
+    findCircle(threshold)
+    
+追蹤畫面裡的圓形。
+
+- threshold代表臨界值，越高越難追蹤，一般建議4000。返回一個列表。
+
+### 矩形追蹤
+
+    findCircle(threshold)
+    
+追蹤畫面裡的矩形。
+
+- threshold代表臨界值，越高越難追蹤，一般建議4000。返回一個列表。
+
+### 示範程式
+
+    from koi import *
+
+    x=0
+    
+    while True:
+        img=sensor.snapshot()
+        lcd.display(img)
+        if btnAValue() and btnBValue():
+            line_prop = findLines()
+            print(line_prop[0])
+            time.sleep(0.1)
+        elif btnAValue():
+            circle_prop = findCircle(4000)
+            print(circle_prop[0])
+            time.sleep(0.1)
+        elif btnBValue():
+            rect_prop = findRects(4000)
+            print(rect_prop[0])
+            time.sleep(0.1)
+            
+## 顏色追蹤
+
+### 顏色校正
+
+    colorCalibrate()
+    
+校正要追蹤的顏色。
+
+### 追蹤色塊
+
+    findBlob()
+    
+追蹤色塊。
+
+### 追蹤巡線
+
+    findLinearRegress()
+    
+追蹤巡線。
+
+### 示範程式
+
+    from koi import *
+    
+    x=0
+    
+    while True:
+        img=sensor.snapshot()
+        lcd.display(img)
+        if btnAValue():
+            colorCalibrate()
+            time.sleep(0.1)
+        elif btnBValue():
+            blob_prop=findBlob()
+            print(blob_prop[0])
+            time.sleep(0.1)
+        elif btnAValue() and btnBValue():
+            line_prop=findLinearRegress()
+            print(line_prop[0])
+            time.sleep(0.1)
+            
+## 條碼識別
+
+### QR Code識別
+
+    findQRCode()
+
+識別畫面裡的QR Code。
+
+### Barcode識別
+
+    findBarcode()
+
+識別畫面裡的Barcode。
+
+### AprilTag識別
+
+    findAprilTag()
+
+識別畫面裡的AprilTag。
+
+### 示範程式
+
+    from koi import *
+
+    x=0
+    
+    lcd.rotation(2)
+    
+    while True:
+        img=sensor.snapshot()
+        lcd.display(img)
+        if btnAValue():
+            barcode=findBarCode()
+            print(barcode[0][4])
+            time.sleep(0.1)
+        if btnBValue():
+            qrcode=findQRCode()
+            print(qrcode[0][4])
+            time.sleep(0.1)
+        if btnAValue() and btnBValue():
+            april=findAprilTag()
+            print(april[0])
+            time.sleep(0.1)
+            
+## 語音辨識
+
+### 錄音與播放
+
+    speech.recordWav('hi.wav')
+    speech.playWav('hi.wav')
+    
+錄製與播放wav音頻檔。
+
+### 語音辨識-設立噪音基準
+
+    speech.noiseTap()
+
+設立噪音基準，語音辨識前必須運行。
+
+### 語音辨識-增加命令詞
+
+    speech.addCommand('hi')
+    
+增加語音辨識命令詞。
+
+### 運行語音辨識
+
+    speech.getCommand()
+    
+運行語音辨識，返回命令詞。
+
+### 參考程式
+
+    # 錄音與播放
+    from koi import *
+
+    x=0
+
+    while True:
+        img=sensor.snapshot()
+        lcd.display(img)
+        if btnAValue():
+            speech.recordWav('hi.wav')
+            time.sleep(0.1)
+        if btnBValue():
+            speech.playWav('hi.wav')
+            time.sleep(0.1)
+            
+---    
+    
+    #語音辨識
+    from koi import *
+    
+    x=0
+    
+    speech.noiseTap()
+    
+    while True:
+        img=sensor.snapshot()
+        lcd.display(img)
+        if btnAValue():
+            speech.addCommand("hello")
+            time.sleep(0.1)
+        if btnBValue():
+            speech.addCommand("bye")
+            time.sleep(0.1)
+        if btnAValue() and btnBValue():
+            print(speech.getCommand())
+            time.sleep(0.1)
+            
+## 物聯網
+
+### 連接網絡
+
+    wifi.joinap(str("apname"),str("password"))
+    
+連接WiFi網絡。
+    
+### IP地址
+
+    wifi.ipaddr()
+    
+獲取IP地址。
+
+### 連接MQTT伺服器
+
+    wifi.mqtthost(host)
+    
+連接MQTT伺服器。
+
+- host代表伺服器地址。
+
+### 訂閱話題
+
+    wifi.mqttsub(topic)
+
+訂閱MQTT話題。
+  
+- topic代表話題。
+
+### 發佈信息
+
+    wifi.mqttsub(topic, message)
+    
+發佈信息到話題。
+
+- topic代表話題。
+- message代表信息。
+
+### 讀取訊息
+
+    wifi.mqttread(topic)
+    
+讀取話題信息。
+
+- topic代表話題。
+
+### 參考程式
+
+    from koi import *
+    
+    wifi.joinap(str("apname"),str("password"))
+    time.sleep(2)
+    print(wifi.ipaddr())
+    time.sleep(2)
+    wifi.mqtthost("127.0.0.1")
+    wifi.mqttsub("test01")
+    
+    while True:
+        img=sensor.snapshot()
+        lcd.display(img)
+        if btnAValue():
+            wifi.mqttpub("test01","hello world")
+        if btnBValue():
+            msg=wifi.mqttread("test01")
+            print("Message: "+msg[0])
+            print("Topic: "+msg[1])
+
+## 人臉辨識
+
+### 運行一次人臉辨識
+
+    face=baiduFace(1)
+    
+### 人臉特徵token
+
+    token=face['face_token']
+    
+### 
