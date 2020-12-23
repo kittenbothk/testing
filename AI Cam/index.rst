@@ -14,3 +14,5 @@
     FunctionDemo_MC/index
     serial/command
     kittenblock/kittenblock
+    micropython/qs
+    micropython/api

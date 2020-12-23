@@ -545,8 +545,6 @@ Meowbit上有個3軸的陀螺儀，可以檢測加速度和傾斜度等的數值
 
 #### 儲存完main.py之後，你需要重置Meowbit才會載入新的main.py。
 
-### 2. 
-
-### 9. Meowbit可以像其他PyBoard一樣支援文件系統，例如open() 、write() 嗎？
+### 2. Meowbit可以像其他PyBoard一樣支援文件系統，例如open() 、write() 嗎？
 
 #### 可以的，不過Meowbit只有2MB的空間，建議使用時安插SD卡。

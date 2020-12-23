@@ -28,38 +28,56 @@
 
 ## KOI在KittenBlock編程
 
-### 基本應用
+## 基本應用
 
 ![](./images/blocks1.png)
 
-### 特徵分類器
+### 示範程式
+
+![](./images/code1.png)
+
+## 特徵分類器
 
 ![](./images/blocks2.png)
 
-### 人臉追蹤
+## 人臉追蹤
 
 ![](./images/blocks3.png)
 
-### 幾何圖形識別
+## 幾何圖形識別
 
 ![](./images/blocks4.png)
 
-### 顏色追蹤
+## 顏色追蹤
 
 ![](./images/blocks5.png)
 
-### 條碼識別
+## 條碼識別
 
 ![](./images/blocks6.png)
 
-### 語音辨識
+## 語音辨識
 
 ![](./images/blocks7.png)
 
-### IOT物聯網
+## IOT物聯網
 
 ![](./images/blocks8.png)
 
-### 人臉辨識(需要網絡連線)
+## 人臉辨識(需要網絡連線)
 
 ![](./images/blocks9.png)
+
+## 疑難排解
+
+### 1. 連接完KOI之後，點擊積木後KOI沒有反應。
+
+#### 答：可能固件未更新，點擊上方的升級韌體即可。
+
+### 2. KOI在Kittenblock中使用分類器時出現未定義報錯。
+
+#### 答：未運行重置分類器。
+
+### 3. KOI支援將程式上傳到KOI離線運行嗎？
+
+#### 答：支援的，不過KOI作為主控板的功能比較小，只有2組按鍵又沒有IO引腳，而且還要插著USB供電。
