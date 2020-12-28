@@ -463,7 +463,7 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
 
 parameter代表參數，可以獲得的參數有：
 
-- facetoken：人臉特徵碼
+- face_token：人臉特徵碼
 - location: 人臉的位置信息，包括座標和大小等
 - gender：性別
 - expression：表情
@@ -500,7 +500,25 @@ parameter代表參數，可以獲得的參數有：
         if btnBValue():
             face=baiduFace(op=1)
             time.sleep(5)
-            print(baiduFace(op=3, token=face['face_token'], group="group"))
+            result=baiduFace(op=3, token=face['face_token'], group="name")
+            print("Name: "+faceResult['result']['user_list'][0]['user_id'])
+            print("Confidence: "+str(faceResult['result']['user_list'][0]['score']))
             
 ## Q&A
+
+### 問：為什麼我KOI運行時候畫面會十分卡？
+
+#### 答：因為你沒有刷新屏幕，只需在程式無限運行的部分中加入刷新屏幕的程式就可以了。
+
+### 問：為什麼我上傳程式到KOI之後，KOI沒有即時反應的呢？
+
+#### 答：因為KOI還在運行原本的程式，只需要重啟KOI(KOI左下的按鍵)就可以了。
+
+### 問：KOI的4PIN接口可以用來連接其他模組嗎？
+
+#### 答：不可以的，接口只是作連接Microbit之用。
+
+### 問：為什麼KOI的屏幕方向反了？
+
+#### 答：屏幕方向不會自動歸回前置鏡頭，所以假如你之前轉變過KOI屏幕方向的話，必須重新設置方向。
 
