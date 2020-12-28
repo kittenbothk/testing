@@ -59,8 +59,8 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
     sleep(1)
     drawString(5,5,"hello world",500)
     while True:
-      img=sensor.snapshot()
-      lcd.display(img)
+      img=sensor.snapshot()     #屏幕刷新
+      lcd.display(img)          #屏幕刷新
       if btnAValue() == 1:
         img.save("s1.jpg")
       if btnBValue() == 1:
@@ -112,8 +112,8 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
     cla.reset()
     
     while True:
-        img=sensor.snapshot()
-        lcd.display(img)
+        img=sensor.snapshot()   #屏幕刷新
+        lcd.display(img)        #屏幕刷新
         if btnAValue():
             cla.addImage('apple')
         if btnBValue():
@@ -131,8 +131,8 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
     cla.load("fruit.json")
     
     while True:
-        img=sensor.snapshot()
-        lcd.display(img)
+        img=sensor.snapshot()   #屏幕刷新
+        lcd.display(img)        #屏幕刷新
         if btnAValue():
             tag=cla.getImageTag()
             if tag=='orange':
@@ -165,8 +165,8 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
     
     yoloinit()
     while True:
-        img=sensor.snapshot()
-        lcd.display(img)
+        img=sensor.snapshot()   #屏幕刷新
+        lcd.display(img)        #屏幕刷新
         r = trackface()
         if r:
             is_face=1
@@ -213,8 +213,8 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
     x=0
     
     while True:
-        img=sensor.snapshot()
-        lcd.display(img)
+        img=sensor.snapshot()   #屏幕刷新
+        lcd.display(img)        #屏幕刷新
         if btnAValue() and btnBValue():
             line_prop = findLines()
             print(line_prop[0])
@@ -255,8 +255,8 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
     x=0
     
     while True:
-        img=sensor.snapshot()
-        lcd.display(img)
+        img=sensor.snapshot()   #屏幕刷新
+        lcd.display(img)        #屏幕刷新
         if btnAValue():
             colorCalibrate()
             time.sleep(0.1)
@@ -298,8 +298,8 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
     lcd.rotation(2)
     
     while True:
-        img=sensor.snapshot()
-        lcd.display(img)
+        img=sensor.snapshot()   #屏幕刷新
+        lcd.display(img)        #屏幕刷新
         if btnAValue():
             barcode=findBarCode()
             print(barcode[0][4])
@@ -348,8 +348,8 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
     x=0
 
     while True:
-        img=sensor.snapshot()
-        lcd.display(img)
+        img=sensor.snapshot()   #屏幕刷新
+        lcd.display(img)        #屏幕刷新
         if btnAValue():
             speech.recordWav('hi.wav')
             time.sleep(0.1)
@@ -367,8 +367,8 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
     speech.noiseTap()
     
     while True:
-        img=sensor.snapshot()
-        lcd.display(img)
+        img=sensor.snapshot()   #屏幕刷新
+        lcd.display(img)        #屏幕刷新
         if btnAValue():
             speech.addCommand("hello")
             time.sleep(0.1)
@@ -438,8 +438,8 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
     wifi.mqttsub("test01")
     
     while True:
-        img=sensor.snapshot()
-        lcd.display(img)
+        img=sensor.snapshot()    #屏幕刷新
+        lcd.display(img)         #屏幕刷新
         if btnAValue():
             wifi.mqttpub("test01","hello world")
         if btnBValue():
@@ -451,10 +451,56 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
 
 ### 運行一次人臉辨識
 
-    face=baiduFace(1)
-    
-### 人臉特徵token
+    face=baiduFace(op=1)
 
-    token=face['face_token']
+運行一次人臉辨識。(需要網絡連線)
     
-### 
+### 人臉參數
+
+    face['parameter']
+
+獲取人臉辨識的參數。
+
+parameter代表參數，可以獲得的參數有：
+
+- facetoken：人臉特徵碼
+- location: 人臉的位置信息，包括座標和大小等
+- gender：性別
+- expression：表情
+- angle：人臉傾斜角度
+- mask：人臉是否有佩戴口罩
+- age：年齡
+    
+### 添加人臉到組別
+
+    baiduFace(op=2, token=face['face_token'], group="group", name="name")
+    
+將人臉的名稱添加到組別。
+    
+### 在組別搜尋人臉
+
+    baiduFace(op=3, token=face['face_token'], group="group")
+    
+在組別搜尋人臉，返回人臉的名字和準確度。
+
+### 參考程式
+
+    from koi import *
+    
+    wifi.joinap(str("apname"),str("password"))
+    time.sleep(2)
+    
+    while True:
+        img=sensor.snapshot()   #屏幕刷新
+        lcd.display(img)        #屏幕刷新
+        if btnAValue():
+            face=baiduFace(op=1)
+            time.sleep(5)
+            baiduFace(op=2, token=face['face_token'], group="group", name="name")
+        if btnBValue():
+            face=baiduFace(op=1)
+            time.sleep(5)
+            print(baiduFace(op=3, token=face['face_token'], group="group"))
+            
+## Q&A
+
