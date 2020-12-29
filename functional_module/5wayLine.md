@@ -2,7 +2,7 @@
 
 五路巡線模組(HKBM8003A)
 
-![](./images/5wayline.png)
+![](./images/5wayline2.png)
 
 這是一隻巡線模組，它有五顆巡線感應器，它返回的數值是類比形式。感應器收到的光度越少（遇上黑線），返回的數值就會越低。
 
@@ -23,6 +23,8 @@
     由於這是類比模組，所以只能使用robotbit的PIN0-2。（使用PIN0的話需要拔除蜂鳴器跳線帽）
 
 ![](./images/line_wire.png)
+
+![](./images/5wayline.png)
 
 ## MakeCode編程教學
 

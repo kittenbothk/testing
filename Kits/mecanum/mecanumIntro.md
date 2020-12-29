@@ -20,6 +20,10 @@
 
 ![](./images/3.jpg)
 
+![](./images/8.jpg)
+
+![](./images/7.jpg)
+
 - Robotbit擴展板x1
 - GeekServo電機x4
 - 麥卡納姆輪x4

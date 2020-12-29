@@ -4,6 +4,8 @@ Kittenbot 原廠貓耳造型超聲波模組 (HKBM8014A)
 
 ![](./images/ultrasound2.png)
 
+![](./images/ultrasound3.png)
+
 這是一隻超聲波測距模組。
 
 ## 產品特點

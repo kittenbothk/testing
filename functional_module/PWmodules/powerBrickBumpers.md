@@ -1,6 +1,6 @@
-# AB按鍵模組
+# AB按鈕魔塊
 
-AB按鍵模組 (HKBM8012C)
+AB按鈕魔塊 (HKBM8012C)
 
 ![](./images/08_03.png)
 

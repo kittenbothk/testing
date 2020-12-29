@@ -1,6 +1,6 @@
 # Geekservo 9g電機
 
-Geekservo電機 (HKBD9006A)
+Geekservo電機 (HKBD8006A)
 
 ![](./images/13_05.png)
 
