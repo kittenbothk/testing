@@ -1,4 +1,4 @@
-# IOBit
+# IOBit 入門擴展板
 
 IOBit(HKBC8009A)
 

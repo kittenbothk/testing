@@ -1,6 +1,6 @@
-# Kittenbot 原廠貓耳造型超聲波模組
+# 貓耳超聲波
 
-Kittenbot 原廠貓耳造型超聲波模組 (HKBM8014A)
+貓耳超聲波 (HKBM8014A)
 
 ![](./images/ultrasound2.png)
 

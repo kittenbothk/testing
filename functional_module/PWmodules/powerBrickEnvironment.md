@@ -1,6 +1,6 @@
-# 溫度濕度魔塊
+# 溫濕度魔塊
 
-溫度濕度魔塊 (HKBM8012D)
+溫濕度魔塊 (HKBM8012D)
 
 ![](./images/05_05.png)
 
@@ -25,7 +25,7 @@
 
 ## 接線方法
 
-將溫度濕度魔塊用4pin排線連接至Armourbit。
+將溫濕度魔塊用4pin排線連接至Armourbit。
 
 ![](./images/env_wire.png)
 
@@ -37,7 +37,7 @@
 
 ### [詳細方法](../../Makecode/powerBrickMC)
 
-### 溫度濕度魔塊積木塊:
+### 溫濕度魔塊積木塊:
 
 ![](./images/environmentblocks.png)
 

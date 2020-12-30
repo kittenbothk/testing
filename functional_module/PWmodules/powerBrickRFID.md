@@ -1,12 +1,12 @@
-# RFID魔塊
+# RFID探測魔塊
 
-RFID魔塊 (HKBM8012L) + RFID卡片 (HKBM8012M)
+RFID探測魔塊 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
 ![](./images/10_04.png)
 
 ![](./images/10_05.png)
 
-這是一個RFID魔塊，可以對套件附有的RFID卡或者空白RFID卡進行讀寫。
+這是一個RFID探測魔塊，可以對套件附有的RFID卡或者空白RFID卡進行讀寫。
 
 附有的RFID卡有1K內存，有16個分區，每個分區有3個區塊可以寫入資料。
 
@@ -36,14 +36,14 @@ RFID魔塊 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
 ---
 
-將RFID魔塊用4pin排線連接至Armourbit的I2C接口。
+將RFID探測魔塊用4pin排線連接至Armourbit的I2C接口。
 
 ![](./images/rfid_wire.png)
 
 ### Robotbit
 
 --- 
-將RFID魔塊連接至Robotbit的I2C接口。
+將RFID探測魔塊連接至Robotbit的I2C接口。
 
     藍色線（A）請接到SCL，綠色線（B）請接到SDA。
 
@@ -58,7 +58,7 @@ RFID魔塊 (HKBM8012L) + RFID卡片 (HKBM8012M)
 
 ### [詳細方法](../../Makecode/powerBrickMC)
 
-### RFID魔塊積木塊
+### RFID探測魔塊積木塊
 
 ![](./images/rfidblocks.png)
 
