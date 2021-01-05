@@ -40,33 +40,69 @@
 
 ![](./images/blocks2.png)
 
+### 示範程式
+
+![](./images/code2.png)
+
+![](./images/code3.png)
+
 ## 人臉追蹤
 
 ![](./images/blocks3.png)
+
+### 示範程式
+
+![](./images/code4.png)
 
 ## 幾何圖形識別
 
 ![](./images/blocks4.png)
 
+### 示範程式
+
+![](./images/code5.png)
+
 ## 顏色追蹤
 
 ![](./images/blocks5.png)
+
+### 示範程式
+
+![](./images/code6.png)
 
 ## 條碼識別
 
 ![](./images/blocks6.png)
 
+### 示範程式
+
+![](./images/code7.png)
+
 ## 語音辨識
 
 ![](./images/blocks7.png)
+
+### 示範程式
+
+![](./images/code8.png)
 
 ## IOT物聯網
 
 ![](./images/blocks8.png)
 
+### 示範程式
+
+![](./images/code9.png)
+
 ## 人臉辨識(需要網絡連線)
 
 ![](./images/blocks9.png)
+
+### 示範程式
+
+![](./images/code10.png)
+
+![](./images/code11.png)
 
 ## 疑難排解
 
