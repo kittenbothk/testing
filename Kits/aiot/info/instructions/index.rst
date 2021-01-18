@@ -1,7 +1,7 @@
-AIOT套件案例
+AIoT Starter Kit案例
 ==========================================
 
-AIOT套件案例說明書與教學
+AIoT Starter Kit案例說明書與教學
 
 .. toctree::
     :maxdepth: 1
