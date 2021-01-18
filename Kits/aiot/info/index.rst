@@ -7,3 +7,4 @@ AIOT套件組裝資料
     :maxdepth: 2
 
     instructions/index
+    partslist
