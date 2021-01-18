@@ -12,6 +12,7 @@ AIOT Starter Kit套件魔塊教學
     ../../../functional_module/PWmodules/powerBrickEnvironment
     ../../../functional_module/PWmodules/powerBrickPowerBank
     ../../../functional_module/PWmodules/powerBrickUltraSound
+    ../../../functional_module/PWmodules/powerBrickColorGesture
     ../../../Wifibrick/index
     ../../../functional_module/waterTank
     ../../../functional_module/legofan
