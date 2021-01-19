@@ -38,8 +38,6 @@ IoT:
 
 ![](./images/gate_code3.png)
 
-[參考程式下載](www.google.com)
-
 ## 程式流程
 
 1. 使用訓練程式，建立你的人臉組別。

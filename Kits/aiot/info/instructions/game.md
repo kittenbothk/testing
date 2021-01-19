@@ -26,8 +26,6 @@ Machine Learning:
 
 ![](./images/game_code1.png)
 
-[參考程式下載](www.google.com)
-
 ## 參考程式:
 
 ![](./images/list.png)
