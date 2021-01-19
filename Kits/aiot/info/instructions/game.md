@@ -4,9 +4,9 @@
 
 ![](./images/ex9.png)
 
-## 搭建說明書:
+## 搭建說明書與參考程式資源包:
 
-[搭建說明書下載](www.google.com)
+[資源包下載](http://bit.ly/AIOTKit_SH_ResourcsePack)
 
 ## 參考接線:
 
@@ -33,8 +33,6 @@ Machine Learning:
 ![](./images/list.png)
 
 ![](./images/game_code2.png)
-
-[參考程式下載](www.google.com)
 
 ## 程式流程
 

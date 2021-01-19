@@ -1,8 +1,6 @@
 # AIOT Starter Kit介紹
 
-## 產品名稱
-
-AIoT Starter Kit 
+AIoT Starter Kit (HKBK8036A)
 
 ![](images/a1.jpg)  
 

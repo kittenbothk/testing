@@ -4,9 +4,9 @@
 
 ![](./images/ex3.png)
 
-## 搭建說明書:
+## 搭建說明書與參考程式資源包:
 
-[搭建說明書下載](www.google.com)
+[資源包下載](http://bit.ly/AIOTKit_SH_ResourcsePack)
 
 ## 參考接線:
 
@@ -21,8 +21,6 @@ IoT:
 ## Micro:bit參考程式:
 
 ![](./images/streetlamp_code.png)
-
-[參考程式下載](www.google.com)
 
 ## IoT參考程式:
 

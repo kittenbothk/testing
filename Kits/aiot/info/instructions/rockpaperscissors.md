@@ -4,9 +4,9 @@
 
 ![](./images/ex9.png)
 
-## 搭建說明書:
+## 搭建說明書與參考程式資源包:
 
-[搭建說明書下載](www.google.com)
+[資源包下載](http://bit.ly/AIOTKit_SH_ResourcsePack)
 
 ## 參考接線:
 
@@ -29,8 +29,6 @@ IoT:
 ## 參考訓練程式:
 
 ![](./images/gate_code1.png)
-
-[參考程式下載](www.google.com)
 
 ## 參考程式:
 
