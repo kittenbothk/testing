@@ -24,7 +24,7 @@
     :maxdepth: 2
     :caption: KLink介紹與安裝
 
-    KLINK/install
+    KLINK/index
 
 .. toctree::
     :maxdepth: 2

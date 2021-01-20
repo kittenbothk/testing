@@ -7,3 +7,4 @@ KLink是下載Kittenbot軟件的介面，方便大家一鍵下載和更新Kitten
     :maxdepth: 1
 
     install.md
+    interface.md

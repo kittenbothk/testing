@@ -34,10 +34,6 @@ MacOS用戶：
 
 ![](./images/install_mac.png)
 
-## KLINK介面
-
-![](./images/klink1.png)
-
 ## 疑難排解
 
 ### Windows可能會遇到權限問題，請按照下圖修復。
