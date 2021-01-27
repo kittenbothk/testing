@@ -8,15 +8,13 @@
 
 ## 前言：
 
-在這節教程，我們將會學習使用WifiBrick與Kittenblock的程式溝通。
-
-我們會使用Robotbit作範例。
+在這節教程，我們將會學習使用WifiBrick和KOI與Kittenblock的程式溝通。
 
     KOI也支援的。
 
 ## 第一步：平台準備
 
-### 注意：電腦需要與Wifibrick連接在同一個網絡上。
+### 注意：電腦需要與Wifibrick/KOI連接在同一個網絡上。
 
 啟動本地伺服器。
 
@@ -39,6 +37,8 @@
 組合出以下程式，你本地伺服器的IP地址會自動填入。
 
 ![](./iotimage/kb6.png)
+
+### 使用Wifibrick
 
 打開MakeCode。
 
@@ -70,4 +70,24 @@ Wifibrick插件: **https://github.com/KittenBot/pxt-kittenwifi**
 
 現在大家可以在Kittenblock控制Micro:bit所顯示的圖案了。
 
-[MakeCodee參考程式網址](https://makecode.microbit.org/_bi118xfRj5im)
+[MakeCode參考程式網址](https://makecode.microbit.org/_bi118xfRj5im)
+
+### 使用KOI
+
+打開MakeCode。
+
+加載KOI插件。
+
+KOI插件: **https://github.com/KittenBot/pxt-koi**
+
+![](./iotimage/iot-38.png)
+
+KOI的使用方法和WifiBrick類似，分別在於KOI不會自動讀取數據，需要我們運行MQTT讀取的積木才會讀取到數據。
+
+組合出以下程式，填入你本地伺服器的IP地址和Wifi密碼。
+
+我們在程式中廣播/訂閱的話題需要與Kittenblock裏的話題一樣。
+
+![](./iotimage/kb11.png)
+
+[MakeCode參考程式網址](https://makecode.microbit.org/_3VA7DbDhj254)
