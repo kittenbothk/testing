@@ -19,7 +19,7 @@ Kittenblock也支援像Makecode那樣將程序上載到Microbit，程序保留�
 
 要上載到Microbit的話就不可以使用舞台的積木塊，而且也不能與舞台做到同步了。
 
-有關舞台積木與硬件積木的解釋可以參考： asdsdgsdfgsfhdsdhgj
+有關舞台積木與硬件積木的解釋可以參考： [舞台與硬件積木](../interfaceIntro/codingblocks)
 
 ## 編程範例1：控制點陣屏
 
