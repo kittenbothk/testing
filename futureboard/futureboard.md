@@ -66,6 +66,10 @@
 
 ![](./images/futureboard4.png)
 
+## 與Micro:bit對比：
+
+![](./images/futureboard3.png)
+
 ## 產品展示：
 
 ![](./images/front1.jpg)
