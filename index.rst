@@ -52,6 +52,12 @@
 
 .. toctree::
     :maxdepth: 2
+    :caption: 未來板
+
+    futureboard/index
+
+.. toctree::
+    :maxdepth: 2
     :caption: Micro:bit擴展板說明及入門教程
     
     Microbit_eboard/index

@@ -1,6 +1,6 @@
 # 未來板介紹
 
-![](./images/futureboard1.png)
+![](./images/futureboard_blue.jpg)
 
 未來板顧名思義，是一塊為了未來的編程教育而打造的主控板。它上面不但搭載了多款實用的感應器，更加有一塊全彩的TFT屏幕，資訊可以實時顯示在屏幕上，方便大家製作更多有趣的編程作品。
 
@@ -60,10 +60,19 @@
 - Wifi與藍牙
 - USB Type C接口
 - JST電池插口
+- SD卡插槽
 
-## 引腳參考
+![](./images/futureboard2.png)
 
-![](./images/pins1.png)
+![](./images/futureboard4.png)
+
+## 產品展示：
+
+![](./images/front1.jpg)
+
+![](./images/back1.jpg)
+
+![](./images/contents1.jpg)
 
 ## 支援編程平台：
 
@@ -74,6 +83,7 @@
 ## 介紹短片：
 
 ### 未來板介紹
+
 [![](./images/video1.png)](https://www.youtube.com/watch?v=PlyQjzOZ3N4)
 
 ### 未來板Demo
