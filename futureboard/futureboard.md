@@ -74,7 +74,7 @@
 
 ## 與Micro:bit對比：
 
-![](./images/futureboard3.png)
+![](./images/versus.png)
 
 ## 產品展示：
 
