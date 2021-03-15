@@ -66,6 +66,12 @@
 
 ![](./images/futureboard4.png)
 
+## 產品內容：
+
+- 未來板
+- USB Type C數據線
+- 掛繩
+
 ## 與Micro:bit對比：
 
 ![](./images/futureboard3.png)
