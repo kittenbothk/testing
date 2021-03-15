@@ -38,7 +38,8 @@
 - 主頻：240MHz
 - 快閃記憶體：4M
 - 內存：8M
-- 接口：USB Type C / 3.7v 鋰電池JST接口(可充電)
+- 接口：USB Type C / 3.7v 鋰電池JST接口 (可充電)
+- 卡槽：MicroSD卡 (必須使用Class 10或以上)
 - 螢幕類型：TFT全彩螢幕
 - 屏幕解像度：160x128
 - 螢幕尺寸：1.8吋
@@ -62,15 +63,17 @@
 - JST電池插口
 - SD卡插槽
 
-![](./images/futureboard2.png)
+![](./images/resources.png)
 
-![](./images/futureboard4.png)
+![](./images/futureboard_robotbit.png)
 
 ## 產品內容：
 
 - 未來板
 - USB Type C數據線
 - 掛繩
+
+![](./images/contents1.jpg)
 
 ## 與Micro:bit對比：
 
@@ -81,8 +84,6 @@
 ![](./images/front1.jpg)
 
 ![](./images/back1.jpg)
-
-![](./images/contents1.jpg)
 
 ## 支援編程平台：
 
