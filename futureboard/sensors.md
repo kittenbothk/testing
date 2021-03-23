@@ -1,5 +1,7 @@
 # 未來板感應器編程教學
 
+未來板上有多款感應可以使用。
+
 ![](../functional_module/PWmodules/images/kbbanner.png)
 
 ## 感應器積木塊

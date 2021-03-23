@@ -45,6 +45,11 @@
 
     12in1/index
 
+.. toctree::
+    :maxdepth: 2
+    :caption: Mr STEMER 3合1格鬥小車套件
+
+    3in1/index
 
 .. toctree::
     :maxdepth: 2
