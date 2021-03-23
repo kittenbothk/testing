@@ -16,6 +16,8 @@
 
     kittenblock
     sensors
+    buzzer
+    screen
 
 .. toctree::
     :maxdepth: 1

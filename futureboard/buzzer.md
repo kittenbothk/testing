@@ -28,4 +28,23 @@
 
 ![](./images/buzzer_code3.png)
 
-### 
+### 範例程式：播放旋律
+
+- 以c4:2為例子：
+    - C代表音調
+    - 4代表八度
+    - :2代表持續時間
+    
+![](./images/buzzer_code4.png)
+
+### 範例程式：播放內置音樂
+
+可以播放預設的旋律，
+
+![](./images/buzzer_code5.png)
+
+### 範例程式：改變播放速率
+
+可以改變播放的速率。
+
+![](./images/buzzer_code6.png)
