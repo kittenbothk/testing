@@ -18,6 +18,13 @@
     sensors
     buzzer
     screen
+    turtle
+    pins
+    neopixel
+    microphone
+    wifi
+    radio
+    robotbit
 
 .. toctree::
     :maxdepth: 1

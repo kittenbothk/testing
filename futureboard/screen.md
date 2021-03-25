@@ -2,6 +2,8 @@
 
 在未來板的屏幕上，我們也可以做到很多有趣的效果。
 
+![](./images/screen_coordinates.png)
+
 ![](../functional_module/PWmodules/images/kbbanner.png)
 
 ## 顯示屏積木塊
@@ -30,7 +32,7 @@
 
 ### 範例程式：同步模式
 
-關閉同步模式對於顯示動畫會有幫助。
+關閉同步模式對於顯示動畫會有幫助。不關掉屏幕同步刷新的話，屏幕會不斷閃屏。
 
 ![](./images/screen_code6.png)
 
