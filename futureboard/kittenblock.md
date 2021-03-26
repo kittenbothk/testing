@@ -83,3 +83,11 @@ Kittenblock是未來板的主要編程平台。
 ### 10. Robotbit類
 
 ![](./images/robotbit.png)
+
+### 11. 大班套件類
+
+![](./images/sensorkit.png)
+
+### 12. 天文台API
+
+![](./images/hko.png)

@@ -25,6 +25,8 @@
     wifi
     radio
     robotbit
+    sensorkit
+    hko
 
 .. toctree::
     :maxdepth: 1
