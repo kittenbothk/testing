@@ -21,8 +21,8 @@
     turtle
     pins
     neopixel
-    microphone
     wifi
+    microphone
     radio
     robotbit
     sensorkit
@@ -31,3 +31,9 @@
 .. toctree::
     :maxdepth: 1
     :caption: MicroPython編程教學
+
+    micropython
+    api1
+    api2
+    api3
+    api4

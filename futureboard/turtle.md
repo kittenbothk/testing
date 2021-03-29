@@ -8,6 +8,8 @@
 
 ![](./images/turtle.png)
 
+    注意：由於未來板的硬件像素未達到海龜之需求，使用填充可能會有bug，無法正常填充。
+
 ### 範例程式：線條繪畫
 
 ![](./images/turtle_code1.png)
