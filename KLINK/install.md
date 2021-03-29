@@ -8,11 +8,11 @@ KLink是下載Kittenbot軟件的介面，方便大家一鍵下載和更新Kitten
 
 Windows 10系統：
 
-[Klink下載地址](http://bit.ly/klinkDownload)
+[KLink下載地址](http://bit.ly/klinkDownload)
 
 MacOS系統：
 
-[Klink下載地址](http://bit.ly/klinkDownloadforMac)
+[KLink下載地址](http://bit.ly/klinkDownloadforMac)
 
 ### 雙擊安裝
 
