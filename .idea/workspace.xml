@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/futureboard/api5.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/api5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/update_firmware/updateHist.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/update_firmware/updateHist.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,16 +31,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/futureboard/index.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sharinghub/index.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AI Cam/update_firmware/updateHist.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="374">
+                <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/futureboard/api4.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1358">
+              <first_editor relative-caret-position="34">
                 <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="12" />
               </first_editor>
               <second_editor />
@@ -64,8 +86,8 @@
         <entry file="file://$PROJECT_DIR$/futureboard/api2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1675">
-                <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+              <first_editor relative-caret-position="561">
+                <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -76,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/futureboard/api5.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1315">
+              <first_editor relative-caret-position="476">
                 <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
               </first_editor>
               <second_editor />
@@ -88,7 +110,7 @@
         <entry file="file://$PROJECT_DIR$/futureboard/api6.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1577">
+              <first_editor relative-caret-position="680">
                 <caret line="40" selection-start-line="40" selection-end-line="41" selection-end-column="15" />
               </first_editor>
               <second_editor />
@@ -100,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/futureboard/turtle.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="313">
+              <first_editor relative-caret-position="170">
                 <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
               </first_editor>
               <second_editor />
@@ -168,6 +190,7 @@
         <option value="$PROJECT_DIR$/futureboard/api6.md" />
         <option value="$PROJECT_DIR$/futureboard/api5.md" />
         <option value="$PROJECT_DIR$/futureboard/index.rst" />
+        <option value="$PROJECT_DIR$/AI Cam/update_firmware/updateHist.md" />
       </list>
     </option>
   </component>
@@ -613,11 +636,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/futureboard/turtle.md">
+    <entry file="file://$PROJECT_DIR$/futureboard/index.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sharinghub/index.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/futureboard/api4.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="313">
-            <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <first_editor relative-caret-position="34">
+            <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
@@ -636,8 +665,8 @@
     <entry file="file://$PROJECT_DIR$/futureboard/api2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1675">
-            <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <first_editor relative-caret-position="561">
+            <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
@@ -646,7 +675,7 @@
     <entry file="file://$PROJECT_DIR$/futureboard/api5.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1315">
+          <first_editor relative-caret-position="476">
             <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
           </first_editor>
           <second_editor />
@@ -656,25 +685,35 @@
     <entry file="file://$PROJECT_DIR$/futureboard/api6.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1577">
+          <first_editor relative-caret-position="680">
             <caret line="40" selection-start-line="40" selection-end-line="41" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/futureboard/api4.md">
+    <entry file="file://$PROJECT_DIR$/futureboard/turtle.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1358">
-            <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="12" />
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/futureboard/index.rst">
+    <entry file="file://$PROJECT_DIR$/index.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AI Cam/update_firmware/updateHist.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="374">
+            <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
