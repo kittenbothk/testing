@@ -253,7 +253,7 @@ Led（1）為充電指示燈，充電過程中常亮，電量充滿後Led（2）
 
 - 擴展板在外部電源接口（綠色端子）供電狀態下（5V 3A或者3A以上），最多能支持總電流不超過3A的舵機。  
 
-  ![](../RBimage/robotbit_extpower.png)
+  ![](../RBimage/robotbit_extPower.png)
 
 ### DC motor 直流電機 x 4  或 Stepper Motor 步進電機 (28BYJ ) x 2                      
 
