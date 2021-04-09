@@ -4,18 +4,18 @@
 
 ## 在控制台卸除安裝Kittenblock
 
-![](./images/removal1.png)
+![](../images/removal1.png)
 
-![](./images/removal2.png)
+![](../images/removal2.png)
 
-![](./images/removal3.png)
+![](../images/removal3.png)
 
 ## 在搜尋欄輸入%appdata%
 
-![](./images/removal4.png)
+![](../images/removal4.png)
 
-![](./images/removal5.png)
+![](../images/removal5.png)
 
 # 剷除名為KittenBlock的資料夾
 
-![](./images/removal6.png)
+![](../images/removal6.png)
