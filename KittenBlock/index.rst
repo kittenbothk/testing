@@ -17,4 +17,4 @@ Kittenbot一直致力為用家帶來流暢好用的用戶體驗，特別在人�
     kittenbot_function/index
     python/python.md
     extensions/index
-    removal
+    remove/removal
