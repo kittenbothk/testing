@@ -46,6 +46,8 @@ Windows 10系統：
 
 ![](../functional_module/PWmodules/kbimages/update3.png)
 
+點擊Kittenblock.exe即可開啟Kittenblock。
+
 ## 軟件排錯：
 
 ### 1. KittenBlock打開時白屏或藍屏？

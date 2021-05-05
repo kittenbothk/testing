@@ -100,3 +100,4 @@ Kittenblock下載: [Kittenblock安裝](../KittenBlock/kittenblockGreen.md)
 
 由於Windows 7可能缺乏驅動程式，請下載此檔案，手動安裝驅動程式。
 
+[未來板Windows 7驅動程式]( https://drive.google.com/file/d/1Ldx1baDITzg-bHGvWpbgyQ0NdWDFdGD4/view?usp=sharing)
