@@ -12,6 +12,14 @@
 
 .. toctree::
     :maxdepth: 1
+    :caption: 未來板更新
+
+    firmwareUpdate.md
+    updateHist.md
+    reset.md
+
+.. toctree::
+    :maxdepth: 1
     :caption: KittenBlock編程教學
 
     kittenblock

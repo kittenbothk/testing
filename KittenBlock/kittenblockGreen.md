@@ -22,6 +22,10 @@ Windows 10系統：
 
 ![](./images/187install2.png)
 
+點擊Kittenblock.exe打開Kittenblock。
+
+![](./images/187install3.png)
+
 ## 安裝KittenBlock後，還要安裝驅動
 
 點擊右上角的小齒輪。安裝Microbit COM和CH340。
