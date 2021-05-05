@@ -9,7 +9,7 @@ Kittenbot一直致力為用家帶來流暢好用的用戶體驗，特別在人�
     :maxdepth: 1
 
     kittenblockVScratch
-    powerBrickKB.md
+    kittenblockGreen.md
     interfaceIntro/index
     powerBrickKBMB.md
     powerBrickKBMBcode.md

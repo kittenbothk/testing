@@ -21,74 +21,13 @@
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/futureboard/index.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/futureboard/api8.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="136">
-                <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/futureboard/api10.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="153">
-                <caret line="9" selection-start-line="9" selection-end-line="12" selection-end-column="23" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/futureboard/api11.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="170">
-                <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="19" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/futureboard/md12.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="408">
-                <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Desktop/main.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -158,8 +97,8 @@
         <option value="$PROJECT_DIR$/futureboard/api11.md" />
         <option value="$PROJECT_DIR$/futureboard/index.rst" />
         <option value="$PROJECT_DIR$/futureboard/md12.md" />
-        <option value="$USER_HOME$/Desktop/hko.py" />
-        <option value="$USER_HOME$/Desktop/5_ultrasound.py" />
+        <option value="$PROJECT_DIR$/../../hko.py" />
+        <option value="$PROJECT_DIR$/../../5_ultrasound.py" />
       </list>
     </option>
   </component>
@@ -185,7 +124,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowVersion Control.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/vtc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../vtc" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
@@ -195,18 +134,7 @@
       <recent name="E:\" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -247,14 +175,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -273,6 +194,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="5" key="#Plugins" timestamp="1602639083856">
@@ -658,23 +580,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/hko.py">
+    <entry file="file://$PROJECT_DIR$/../../hko.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/4_dht11.py">
+    <entry file="file://$PROJECT_DIR$/../../4_dht11.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://E:/main.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/2_hko.py">
+    <entry file="file://$PROJECT_DIR$/../../2_hko.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/5_ultrasound.py">
+    <entry file="file://$PROJECT_DIR$/../../5_ultrasound.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
@@ -691,7 +613,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/main.py">
+    <entry file="file://$PROJECT_DIR$/../../main.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>

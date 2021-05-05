@@ -2,6 +2,8 @@
 
 Kittenblock是未來板的主要編程平台。
 
+Kittenblock下載: [Kittenblock安裝](../KittenBlock/kittenblockGreen.md)
+
 ![](../functional_module/PWmodules/images/kbbanner.png)
 
 ## 在Kittenblock中連接未來板
@@ -97,3 +99,4 @@ Kittenblock是未來板的主要編程平台。
 ## Windows 7用家注意事項
 
 由於Windows 7可能缺乏驅動程式，請下載此檔案，手動安裝驅動程式。
+
