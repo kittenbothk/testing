@@ -1,4 +1,4 @@
-# 未來板Robotbit編程教學
+# 未來板Robotbit KittenBlock編程教學
 
 未來板亦支援Robotbit，讓大家可以為未來板添加動力結構。
 

@@ -35,6 +35,7 @@
     robotbit
     sensorkit
     hko
+    kmb
 
 .. toctree::
     :maxdepth: 1
@@ -52,3 +53,4 @@
     api9
     api10
     api11
+    api12

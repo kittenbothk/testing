@@ -1,4 +1,4 @@
-# 未來版MicroPython編程：I2S麥克風
+# 未來版MicroPython編程9：I2S麥克風
 
 ## 導入未來板庫
 

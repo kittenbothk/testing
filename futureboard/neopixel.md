@@ -1,4 +1,4 @@
-# 未來板NeoPixel彩燈編程教學
+# 未來板NeoPixel彩燈KittenBlock編程教學
 
 未來板也支援各款ws2812的燈條，包括板上載有的燈條和外加的燈條。
 

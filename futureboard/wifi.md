@@ -1,4 +1,4 @@
-# 未來板IoT編程教學
+# 未來板IoT KittenBlock編程教學
 
 使用未來板內置的WiFi，可以實現IoT的功能。
 
