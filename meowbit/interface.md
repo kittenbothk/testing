@@ -4,7 +4,7 @@
 
 ## 進入下載模式
 
-想將遊戲下載到Meowbit的話，就一定要將Meowbit進入下載模式。
+想將Arcade遊戲下載到Meowbit的話，就一定要將Meowbit進入下載模式。
 
 ### 方法1
 
@@ -42,9 +42,7 @@ Meowbit會顯示選項菜單，您可以用方向鍵選擇選項，按A確認。
 
 ## 固件更新
 
-[最新MakeCode Arcade固件2.8.1下載](http://bit.ly/MeowbitFW281forMakeCode)
-
-[最新KittenBlock固件2.8.2下載](http://bit.ly/MeowbitFW282forKittenblock)
+[最新Meowbit固件2.8.2下載](http://bit.ly/MeowbitFW282forKittenblock)
 
 首先進入下載模式。畫面上會顯示固件版本。
 

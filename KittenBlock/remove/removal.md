@@ -16,6 +16,6 @@
 
 ![](../images/removal5.png)
 
-# 剷除名為KittenBlock的資料夾
+## 剷除名為KittenBlock的資料夾
 
 ![](../images/removal6.png)

@@ -32,8 +32,6 @@ Kittenblock下載: [Kittenblock安裝](../KittenBlock/kittenblockGreen.md)
 
 假如你使用Windows 7作業系統，系統可能缺乏所需的串口驅動程式。請下載此檔案，手動安裝驅動程式。
 
-<www.google.com>
-
 ### 4. 點擊積木，測試連接。
 
 點擊Kittenblock的積木，未來板應該會即時作出反應。
@@ -100,4 +98,4 @@ Kittenblock下載: [Kittenblock安裝](../KittenBlock/kittenblockGreen.md)
 
 由於Windows 7可能缺乏驅動程式，請下載此檔案，手動安裝驅動程式。
 
-[未來板Windows 7驅動程式]( https://drive.google.com/file/d/1Ldx1baDITzg-bHGvWpbgyQ0NdWDFdGD4/view?usp=sharing)
+[未來板Windows 7驅動程式](https://drive.google.com/file/d/1Ldx1baDITzg-bHGvWpbgyQ0NdWDFdGD4/view?usp=sharing)
