@@ -12,4 +12,4 @@ SumoBot 12合1套件的零件清單，請核實積木包沒有缺少零件。
 
 ## 清單下載
 
-[積木零件清單PDF下載](www.google.com)
+[積木零件清單PDF下載](https://drive.google.com/file/d/1GwtlFmMaxCKL12WSLju7zvG9dxBSweJI/view?usp=sharing)
