@@ -17,4 +17,4 @@
     robotbit
     powerbrick
     hko
-    kmb
+    kmbeta

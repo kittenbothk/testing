@@ -20,22 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/micropython/api.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/api.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/micropython/api1.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/api1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/micropython/api10.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/api10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/micropython/api11.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/api11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/micropython/api12.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/api12.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/micropython/api13.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/api13.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/micropython/api2.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/api2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/micropython/api3.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/api3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/micropython/api4.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/api4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/micropython/api5.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/api5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/micropython/api6.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/api6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/micropython/api7.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/api7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/micropython/api8.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/api8.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/micropython/api9.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/api9.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/images/hko_code1.png" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/images/hko_code1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/images/kmb.png" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/images/kmb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/images/kmb.svg" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/images/kmb.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/images/kmb_code1.png" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/images/kmb_code1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/powerbrick.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/powerbrick.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
