@@ -2,7 +2,7 @@
 
 ## 導入未來板庫
 
-需要先導入未來板的庫才可以使未來板的硬件。
+需要先導入未來板的庫才可以使用未來板的硬件。
 
     from future import *
     
@@ -20,8 +20,8 @@
 
     rb.motor(index,speed)
     
-index為電機序號，1~4。
-speed代表速度，-255~255。
+- index為電機序號，1~4。
+- speed代表速度，-255~255。
 
 ### 3. 停止所有電機
 
@@ -31,22 +31,22 @@ speed代表速度，-255~255。
 
     rb.servo(index,degree)
     
-index可以填1~8代表接口S1~S8。
+- index可以填1~8代表接口S1~S8。
 degree為角度，0~180度。
 
 ### 5. 控制GeekServo  9G舵機
 
     rb.geekServo9g(index,degree)
     
-index可以填1~8代表接口S1~S8。
-degree為角度，-45~225度。
+- index可以填1~8代表接口S1~S8。
+- degree為角度，-45~225度。
 
 ### 6. 控制GeekServo  2K舵機
 
     rb.geekServo2kg(index,degree)
     
-index可以填1~8代表接口S1~S8。
-degree為角度，0~360度。
+- index可以填1~8代表接口S1~S8。
+- degree為角度，0~360度。
 
 ### 7. 轉動雙步進電機
 
@@ -58,5 +58,5 @@ degree為角度，0~360度。
 
     rb.stepperDegree(index,degree)
     
-index為電機序號，1~2。
-degree為角度。
+- index為電機序號，1~2。
+- degree為角度。

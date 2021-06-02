@@ -2,7 +2,7 @@
 
 ## 導入未來板庫
 
-需要先導入未來板的庫才可以使未來板的硬件。
+需要先導入未來板的庫才可以使用未來板的硬件。
 
     from future import *
     
@@ -49,13 +49,12 @@ vid為語言，現時支援4種語言：
   
 ### 語音辨識範例程式
 
-    #/bin/python
     from future import *
     
     import audio
     au = audio.Audio()
 
-    wifi.connect(str("3DJollyFab"), "goodluckjf11b")
+    wifi.connect(wifiname), wifipw)
     screen.clear()
     screen.text(au.recognize(vid=1737, sec=2),5,10,1,(0, 119, 255))
 
