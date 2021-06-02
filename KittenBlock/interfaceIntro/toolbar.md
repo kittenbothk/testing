@@ -4,13 +4,9 @@
 
 打開Kittenblock之後可以看到這個主介面，這裡會介紹一下最主要的功能。
 
-Kittenblock 1.84Z
+Kittenblock 1.87
 
-![](./images/mainUI184desc.png)
-
-Kittenblock 1.85R
-
-![](./images/mainUI185desc.png)
+![](./images/mainUI187.png)
 
 ## Kittenblock工具欄詳解
 

@@ -6,6 +6,5 @@ Kittenblock自家功能逐個捉
 .. toctree::
     :maxdepth: 1
 
-    darkmode.md
     kittenpython.md
     wiring.md

@@ -20,6 +20,8 @@ Windows 10系統：
 
 將內容解壓到桌面。
 
+    注意！Kittenblock資料夾不能夠放到另一個資料夾入面！
+
 ![](./images/187install2.png)
 
 點擊Kittenblock.exe打開Kittenblock。
@@ -70,13 +72,13 @@ Windows 10系統：
 
 ### 解決方法：
 
-打開軟件的目錄：
+開啟Kittenblock資料夾，裡面會有一個名為drivers的資料夾。
 
-例如我的軟件安裝在D磁碟上，我就前往 D:\Program Files (x86)\Kittenblock\drivers
+![](./images/187install4.png)
 
 手動雙擊安裝：
 
-![](../functional_module/PWmodules/kbimages/an09.png)
+![](./images/187install5.png)
 
 ### 3. 為什麼下載更新後按OK但是沒有反應？
 

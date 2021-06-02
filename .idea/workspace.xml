@@ -20,7 +20,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/interfaceIntro/images/toolbar15.png" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/interfaceIntro/images/toolbar15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/interfaceIntro/images/toolbar4.png" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/interfaceIntro/images/toolbar4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/interfaceIntro/toolbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/interfaceIntro/toolbar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenblockGreen.md" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenblockGreen.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire1.png" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire10.png" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire11.png" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire12.png" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire13.png" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire14.png" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire2.png" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire4.png" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire5.png" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire6.png" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire7.png" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire8.png" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire9.png" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenbot_function/images/wire9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenbot_function/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenbot_function/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenbot_function/wiring.md" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenbot_function/wiring.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/powerBrickKBMB.md" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/powerBrickKBMB.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/scratch_function/bag.md" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/scratch_function/bag.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +141,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowVersion Control.ShowToolbar" value="false" />
