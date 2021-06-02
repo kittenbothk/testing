@@ -20,44 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/api.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/api1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/api10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/api10.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/api11.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/api12.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/api13.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/api2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/api3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/api4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/api5.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/api6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/api6.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/api7.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/api8.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/api9.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/apii7.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/buzzer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/hko.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/i2c.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/images/robotbit.png" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/images/robotbit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/images/robotbit.svg" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/images/robotbit.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/futureboard/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/kmbeta.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/md12.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/microphone.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/micropython.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/neopixel.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/pins.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/radio.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/robotbit.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/screen.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/sensorkit.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/sensors.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/turtle.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/wifi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/buzzer.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/buzzer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/hko.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/hko.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/i2c.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/i2c.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/kittenblock.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/kittenblock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/kmbeta.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/kmbeta.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/microphone.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/microphone.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/neopixel.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/neopixel.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/pins.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/pins.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/powerbrick.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/powerbrick.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/radio.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/radio.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/robotbit.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/robotbit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/screen.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/screen.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/sensorkit.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/sensorkit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/sensors.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/sensors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/turtle.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/turtle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/wifi.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/wifi.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

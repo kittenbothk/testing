@@ -17,3 +17,10 @@
     firmwareUpdate.md
     updateHist.md
     reset.md
+
+.. toctree::
+    :maxdepth: 1
+    :caption: 編程教學
+
+    kittenblock/index
+    micropython/index

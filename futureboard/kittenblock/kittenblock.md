@@ -2,9 +2,9 @@
 
 Kittenblock是未來板的主要編程平台。
 
-Kittenblock下載: [Kittenblock安裝](../KittenBlock/kittenblockGreen.md)
+Kittenblock下載: [Kittenblock安裝](../../KittenBlock/kittenblockGreen.md)
 
-![](../functional_module/PWmodules/images/kbbanner.png)
+![](../../functional_module/PWmodules/images/kbbanner.png)
 
 ## 在Kittenblock中連接未來板
 
@@ -12,23 +12,23 @@ Kittenblock下載: [Kittenblock安裝](../KittenBlock/kittenblockGreen.md)
 
 ### 1. 將未來板連接電腦，並打開電源。
 
-![](./images/usb.png)
+![](../images/usb.png)
 
 ### 2. 打開Kittenblock，在硬件欄選擇未來板。
 
-![](./images/kittenblock1.png)
+![](../images/kittenblock1.png)
 
 ### 3. 點擊感嘆號，連接未來板。
 
-![](./images/kittenblock2.png)
+![](../images/kittenblock2.png)
 
 等待數秒，未來板會自動連接Kittenblock。
 
-![](./images/kittenblock3.png)
+![](../images/kittenblock3.png)
 
 等待數秒，未來板上會顯示hello world的字句。
 
-![](./images/kittenblock4.jpg)
+![](../images/kittenblock4.jpg)
 
 假如你使用Windows 7作業系統，系統可能缺乏所需的串口驅動程式。請下載此檔案，手動安裝驅動程式。
 
@@ -36,63 +36,63 @@ Kittenblock下載: [Kittenblock安裝](../KittenBlock/kittenblockGreen.md)
 
 點擊Kittenblock的積木，未來板應該會即時作出反應。
 
-![](./images/kittenblock5.png)
+![](../images/kittenblock5.png)
 
-![](./images/kittenblock6.jpg)
+![](../images/kittenblock6.jpg)
 
 假如點擊後沒有反應，請點擊恢復固件。
 
-![](./images/kittenblock7.png)
+![](../images/kittenblock7.png)
 
 ## 在Kittenblock上編程教學
 
 ### 1. 感應器類
 
-![](./images/sensors.png)
+![](../images/sensors.png)
 
 ### 2. 音樂類
 
-![](./images/buzzer.png)
+![](../images/buzzer.png)
 
 ### 3. 顯示屏類
 
-![](./images/screen.png)
+![](../images/screen.png)
 
 ### 4. 海龜繪圖類
 
-![](./images/turtle.png)
+![](../images/turtle.png)
 
 ### 5. 引腳類
 
-![](./images/gpio.png)
+![](../images/gpio.png)
 
 ### 6. 彩燈類
 
-![](./images/neopixel.png)
+![](../images/neopixel.png)
 
 ### 7. 咪高峰類
 
-![](./images/microphone.png)
+![](../images/microphone.png)
 
 ### 8. WiFi網絡類
 
-![](./images/wifi.png)
+![](../images/wifi.png)
 
 ### 9. 無線通訊類
 
-![](./images/radio.png)
+![](../images/radio.png)
 
 ### 10. Robotbit類
 
-![](./images/robotbit.png)
+![](../images/robotbit.png)
 
 ### 11. 大班套件類
 
-![](./images/sensorkit.png)
+![](../images/sensorkit.png)
 
 ### 12. 天文台API
 
-![](./images/hko.png)
+![](../images/hko.png)
 
 ## Windows 7用家注意事項
 
