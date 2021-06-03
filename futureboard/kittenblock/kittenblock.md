@@ -22,6 +22,10 @@ Kittenblock下載: [Kittenblock安裝](../../KittenBlock/kittenblockGreen.md)
 
 ![](../images/kittenblock2.png)
 
+選擇數據線連接。
+
+![](../images/connect_usb.png)
+
 等待數秒，未來板會自動連接Kittenblock。
 
 ![](../images/kittenblock3.png)
@@ -86,13 +90,40 @@ Kittenblock下載: [Kittenblock安裝](../../KittenBlock/kittenblockGreen.md)
 
 ![](../images/robotbit.png)
 
-### 11. 大班套件類
+### 11. Powerbrick類
 
-![](../images/sensorkit.png)
+![](../images/pw_rfid.png)
 
-### 12. 天文台API
+![](../images/pw_linefollow.png)
+
+![](../images/pw_mp3.png)
+
+![](../images/pw_soil&water.png)
+
+![](../images/pw_led.png)
+
+![](../images/pw_dht11.png)
+
+![](../images/pw_colorgesture.png)
+
+![](../images/pw_buttons.png)
+
+### 12. Sugar類
+
+![](../images/sugar1.png)
+
+![](../images/sugar2.png)
+
+![](../images/sugar4.png)
+
+### 13. 天文台API
 
 ![](../images/hko.png)
+
+### 14. KMB到站時間API
+
+![](../images/kmb.png)
+
 
 ## Windows 7用家注意事項
 

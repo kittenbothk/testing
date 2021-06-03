@@ -28,7 +28,7 @@
 
 ![](../images/pw_rfid.png)
 
-![](../images/pw_rfid_Code.png)
+![](../images/pw_rfid_code.png)
 
 ### 顏色手勢魔塊
 

@@ -45,3 +45,17 @@ Kittenbot會不定期推出未來版的固件更新，提升功能與穩定性�
 ![](./images/resetbutton.jpg)
 
 假如更新後未來板提示你重置未來板，請參考[重置未來板](./reset.md)。
+
+## 未來板還原出廠固件
+
+假如你的未來板的固件出現了什麼問題，您可以回復到原廠固件。
+
+打開Kittenblock並連接上未來板。
+
+![](./images/connected.png)
+
+點擊恢復固件。
+
+![](./images/firmware1.png)
+
+![](./images/firmware2.png)

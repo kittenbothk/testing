@@ -16,5 +16,6 @@
     radio
     robotbit
     powerbrick
+    sugar
     hko
     kmbeta
