@@ -7,4 +7,5 @@ Kittenblock自家功能逐個捉
     :maxdepth: 1
 
     kittenpython.md
+    filesystem.md
     wiring.md
