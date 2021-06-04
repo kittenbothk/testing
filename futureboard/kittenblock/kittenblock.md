@@ -6,7 +6,7 @@ Kittenblock下載: [Kittenblock安裝](../../KittenBlock/kittenblockGreen.md)
 
 ![](../../functional_module/PWmodules/images/kbbanner.png)
 
-## 在Kittenblock中連接未來板
+## 使用數據線連接未來板
 
 要在Kittenblock對未來板編程，我們首先要與未來板建立連接。
 
@@ -48,82 +48,57 @@ Kittenblock下載: [Kittenblock安裝](../../KittenBlock/kittenblockGreen.md)
 
 ![](../images/kittenblock7.png)
 
-## 在Kittenblock上編程教學
+## 使用無綫網絡連接未來板(需要微信賬號)
 
-### 1. 感應器類
+要在Kittenblock對未來板編程，我們首先要與未來板建立連接。
 
-![](../images/sensors.png)
+### 1. 將未來板打開電源。
 
-### 2. 音樂類
+![](../images/usb.png)
 
-![](../images/buzzer.png)
+### 2. 打開Kittenblock，在硬件欄選擇未來板。
 
-### 3. 顯示屏類
+![](../images/kittenblock1.png)
 
-![](../images/screen.png)
+### 3. 點擊感嘆號，連接未來板。
 
-### 4. 海龜繪圖類
+![](../images/kittenblock2.png)
 
-![](../images/turtle.png)
+選擇無綫連接。
 
-### 5. 引腳類
+![](../images/connect_usb.png)
 
-![](../images/gpio.png)
+手機連上路由器(5Ghz 網絡不適用)。
 
-### 6. 彩燈類
+![](../images/airkiss1.png)
 
-![](../images/neopixel.png)
+未來板開啟Airkiss模式。
 
-### 7. 咪高峰類
+![](../images/airkiss2.png)
 
-![](../images/microphone.png)
+![](../images/airkiss3.png)
 
-### 8. WiFi網絡類
+![](../images/airkiss4.png)
 
-![](../images/wifi.png)
+![](../images/airkiss5.png)
 
-### 9. 無線通訊類
+在微信關注Kittenbot帳號，然後在下方點擊智能配網。
 
-![](../images/radio.png)
+![](../images/airkiss6.png)
 
-### 10. Robotbit類
+![](../images/airkiss7.png)
 
-![](../images/robotbit.png)
+![](../images/airkiss8.png)
 
-### 11. Powerbrick類
+![](../images/airkiss9.png)
 
-![](../images/pw_rfid.png)
+![](../images/airkiss10.png)
 
-![](../images/pw_linefollow.png)
+在Kittenblock輸入未來板的IP地址。
 
-![](../images/pw_mp3.png)
+![](../images/airkiss11.png)
 
-![](../images/pw_soil&water.png)
-
-![](../images/pw_led.png)
-
-![](../images/pw_dht11.png)
-
-![](../images/pw_colorgesture.png)
-
-![](../images/pw_buttons.png)
-
-### 12. Sugar類
-
-![](../images/sugar1.png)
-
-![](../images/sugar2.png)
-
-![](../images/sugar4.png)
-
-### 13. 天文台API
-
-![](../images/hko.png)
-
-### 14. KMB到站時間API
-
-![](../images/kmb.png)
-
+![](../images/airkiss12.png)
 
 ## Windows 7用家注意事項
 
