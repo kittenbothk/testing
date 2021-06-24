@@ -44,15 +44,12 @@ KOI人工智慧鏡頭 (HKBC8006A)
 
 [Youtube](https://youtu.be/7Bg_RKrhiEM)
 
- 
 
 ### **功能例表**
 
-![](./KOI00/function.bmp)
+![](./KOI00/KOI_function%20_tableV2.png)
 
 ![](./KOI00/Demo.png)
-
-
 
 ### **物件分類示範**
 
