@@ -14,17 +14,17 @@
 
 ## 參考程式
 
-[非接觸式門鈴參考程式__KOI固件版本1.12.0__插件版本0.6.7](https://makecode.microbit.org/_EuWAC2bC3Pdg)
+[非接觸式門鈴參考程式__KOI固件版本1.12.0__插件版本0.6.7](https://makecode.microbit.org/_aYC9UxWh1JYU)
 
 ![](./images/bellcode.png)
 
 ## 模型玩法
 
-打開電源後，重置Microbit。
+1. 打開電源後，等待10秒讓KOI完全開機。
 
-按下A按鍵，鏡頭會開始追蹤人臉。
+2. 按下A按鍵，鏡頭會開始追蹤人臉。
 
-偵測到人臉之後模型就會按下門鈴。
+3. 偵測到人臉之後模型就會按下門鈴。
 
 
 

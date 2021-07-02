@@ -47,7 +47,7 @@ KOI人工智慧鏡頭 (HKBC8006A)
 
 ### **功能例表**
 
-![](./KOI00/KOI_function%20_tableV2.png)
+![](./KOI00/KOIfunctiontableV2.png)
 
 ![](./KOI00/Demo.png)
 

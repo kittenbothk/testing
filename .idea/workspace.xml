@@ -22,8 +22,25 @@
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/images/sugar4.png" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/images/sugar4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/kittenblock.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/kittenblock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/bell.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/bell.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/car.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/car.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/command.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/command.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/elevator.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/elevator.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/handwash.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/handwash.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/bellcode.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/bellcode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/commandcode.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/commandcode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/liftcode.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/liftcode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/linecarcode.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/linecarcode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/maskdoorcode.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/maskdoorcode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/qrcarcode.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/qrcarcode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/tempdeskcode.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/tempdeskcode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/uvlightcode.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/uvlightcode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/wash_traincode.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/wash_traincode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/washcode.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/images/washcode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/maskdoor.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/maskdoor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/tempDesk.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/tempDesk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aihealth/info/instructions/uvlight.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/info/instructions/uvlight.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
