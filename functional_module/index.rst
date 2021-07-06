@@ -44,8 +44,9 @@
 
 .. toctree::
     :maxdepth: 1
-    :caption: 流光溢彩屏
+    :caption: RGB LED燈條和燈板
     :glob:
 
     ../accessories/LEDMatrix/index
+    ledstrip.md
     
