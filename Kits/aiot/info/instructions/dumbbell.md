@@ -20,15 +20,15 @@ IoT:
 
 ## Micro:bit參考程式:
 
-![](./images/dumbbell_code.png)
+![](./images/dumbbell_code_1.87.png)
 
 ## IoT參考程式:
 
-![](./images/dumbbell_code1.png)
+![](./images/dumbbell_iot_code_1.87.png)
 
 ## 啟動本地MQTT伺服器
 
-![](./images/mqtt.png)
+![](./images/mqtt_1.87.png)
 
 ## 程式流程
 

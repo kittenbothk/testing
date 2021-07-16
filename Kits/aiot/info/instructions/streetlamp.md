@@ -20,15 +20,17 @@ IoT:
 
 ## Micro:bit參考程式:
 
-![](./images/streetlamp_code.png)
+![](./images/streetlamp_code_1.87.png)
+
+[參考程式下載](https://makecode.microbit.org/_2p5gAx37q5KD)
 
 ## IoT參考程式:
 
-![](./images/streetlamp_code1.png)
+![](./images/streetlamp_iot_code_1.87.png)
 
 ## 啟動本地MQTT伺服器
 
-![](./images/mqtt.png)
+![](./images/mqtt_1.87.png)
 
 ## 程式流程
 

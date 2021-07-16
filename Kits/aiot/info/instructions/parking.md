@@ -24,7 +24,7 @@
 
 ## 參考程式:
 
-![](./images/parking_code.png)
+![](./images/parking_code_1.87.png)
 
 ## 程式流程
 

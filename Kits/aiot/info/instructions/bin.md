@@ -14,7 +14,7 @@
 
 ## 參考程式:
 
-![](./images/bin_code.png)
+![](./images/bin_code_1.87.png)
 
 ## 程式流程
 

@@ -14,7 +14,7 @@
 
 ## 參考程式:
 
-![](./images/clothes_code.png)
+![](./images/clothes_code_1.87.png)
 
 ## 程式流程
 

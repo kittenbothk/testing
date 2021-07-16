@@ -24,18 +24,16 @@ Machine Learning:
 
 ## 參考訓練程式:
 
-![](./images/game_code1.png)
+![](./images/game_train_code_1.87.png)
 
 ## 參考程式:
 
-![](./images/list.png)
-
-![](./images/game_code2.png)
+![](./images/game_code_1.87.png)
 
 ## 程式流程
 
 1. 使用訓練程式，訓練辨認剪刀、石頭、布的模型。
 2. 使用主程式，載入訓練好的模型。
 3. 將Micro:bit連接到Kittenblock。**不需要將程式上載到Micro:bit。**
-4. 按下1開始與機械人猜拳。
+4. 按下空白鍵開始與機械人猜拳。
 5. 機械人會必勝地作出動作。

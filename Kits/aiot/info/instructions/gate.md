@@ -28,15 +28,12 @@ IoT:
 
 ## 參考訓練程式:
 
-![](./images/gate_code1.png)
+![](./images/gate_train_code_1.87.png)
 
 ## 參考程式:
 
-![](./images/list.png)
+![](./images/gate_code_1.87.png)
 
-![](./images/gate_code2.png)
-
-![](./images/gate_code3.png)
 
 ## 程式流程
 
