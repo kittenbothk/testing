@@ -10,7 +10,7 @@
 
 ## 參考接線:
 
-![](./images/weatherstation_wire.png)
+![](./images/weatherstation_wire_1.87.png)
 
 ## 加入插件:
 

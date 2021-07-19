@@ -34,7 +34,7 @@ Robotbit: **https://github.com/KittenBot/pxt-robotbit**
 
 Powerbrick: **https://github.com/KittenBot/pxt-powerbrick**
 
-
+      請按自己的硬件選擇Powerbrick或Robotbit插件。
 
 ## 加載插件
 

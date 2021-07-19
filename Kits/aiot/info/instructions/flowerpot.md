@@ -22,7 +22,7 @@ IoT:
 
 ![](./images/flowerpot_code_1.87.png)
 
-[參考程式下載](https://makecode.microbit.org/_A0MP6JctkFKm)
+[參考程式下載](https://makecode.microbit.org/_MD5hwK62VK6L)
 
 ## IoT參考程式:
 
