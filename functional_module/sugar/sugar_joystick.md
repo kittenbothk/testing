@@ -15,7 +15,7 @@
 
 ## 產品接線
 
-用4Pin 連接線將模組連接到Robotbit Edu的藍色4Pin接口。。
+用4Pin 連接線將模組連接到Robotbit Edu的藍色4Pin接口。
 
 ![](./images/joy2.png)
 
