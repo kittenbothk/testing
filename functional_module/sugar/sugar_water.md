@@ -1,8 +1,8 @@
-# Sugar 火焰感應模組
+# Sugar 雨滴水位模組
 
-![](./images/flame1.png)
+![](./images/water1.png)
 
-這是一隻火焰感應模組，可以檢測火焰的強度。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
+這是一隻雨滴水位模組，可以檢測雨滴和水位。背後亦設有塑膠積木孔，可以完美配搭塑膠積木使用。
 
 ## 產品參數
 
@@ -20,11 +20,11 @@
 
 ### Kittenblock 編程教學
 
-![](./images/flame3.png)
+![](./images/water3.png)
 
 ### MicroPython 編程教學
 
-    Flame(pin)
+    WaterLevel(pin)
     value()
 
 - value(): 模擬信號0~1023/0~4095
@@ -35,13 +35,14 @@
     
     from sugar import *
     
-    flame_P0 = Flame('P0')
+    waterlevel_P0 = WaterLevel('P0')
     
     x = 0
     
     screen.sync = 0
     while True:
       screen.fill((0, 0, 0))
-      screen.text(flame_P0.value(),5,10,2,(0, 119, 255))
+      screen.text(waterlevel_P0.value(),5,10,2,(0, 119, 255))
       screen.refresh()
+
 

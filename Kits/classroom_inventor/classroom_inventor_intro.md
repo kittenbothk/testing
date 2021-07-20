@@ -41,3 +41,21 @@ Micro:bit大班教學發明家套件是Kittenbot針對STEM普及教育而設計�
 ### 編程平台
 - Microsoft Makecode
 - KittenBlock
+
+### 應用案例介紹
+
+![](./images/7.jpg)
+![](./images/8.jpg)
+![](./images/9.jpg)
+![](./images/10.jpg)
+![](./images/11.jpg)
+
+### 產品展示
+
+![](./images/4.jpg)
+
+![](./images/5.jpg)
+
+![](./images/6.jpg)
+
+

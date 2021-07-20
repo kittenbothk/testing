@@ -1,4 +1,4 @@
-# Sugar按鍵模組
+# Sugar 按鍵模組
 
 ![](./images/button1.png)
 
