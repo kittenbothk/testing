@@ -21,13 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/aiot/info/instructions/flowerpot.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aiot/info/instructions/flowerpot.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/aiot/info/instructions/images/bedroom_wire_1.87" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/aiot/info/instructions/images/bin_code_1.87.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aiot/info/instructions/images/bin_code_1.87.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/aiot/info/instructions/images/flowerpot_code_1.87.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aiot/info/instructions/images/flowerpot_code_1.87.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/aiot/info/instructions/images/streetlamp_code_1.87.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aiot/info/instructions/images/streetlamp_code_1.87.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/aiot/info/instructions/weatherstation.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aiot/info/instructions/weatherstation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/MC_TS.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/MC_TS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aiot/info/instructions/images/gate_code_1.87.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aiot/info/instructions/images/gate_code_1.87.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/aiot/info/instructions/images/parking_code_1.87.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aiot/info/instructions/images/parking_code_1.87.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
