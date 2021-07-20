@@ -25,7 +25,8 @@
 ![](./images/tof3.png)
 
 ### MicroPython 編程教學
-
+  
+    TOFDistance()
     value()
 
 - value(): 返回距離（20~1200mm）
