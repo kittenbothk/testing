@@ -29,12 +29,9 @@
 
     JoyStick()
     value(dir)
-
-- dir: X/Y
-
-
     state()
 
+- dir: X/Y
 - state(): 默認返回none，按下時根據狀態返回pressed，left，right，up，down
 
 參考程式
