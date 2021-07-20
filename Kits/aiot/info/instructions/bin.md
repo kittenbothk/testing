@@ -10,7 +10,7 @@
 
 ## 參考接線:
 
-![](./images/bin_wire.png)
+![](./images/bin_wire_1.87.png)
 
 ## 參考程式:
 
