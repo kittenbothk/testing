@@ -12,7 +12,7 @@ Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設�
 
 ## 產品參數
 
-- 主控板：BBC Micro:bit
+- 主控板：BBC Micro:bit V2
 - 套件尺寸：205 x 182 x 75 mm
 
 ## 產品內容
@@ -46,6 +46,20 @@ Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設�
 - Microsoft Makecode
 - KittenBlock
 
+## 產品特色
+
+### 結合編程與簡單的結構就已經可搭建出具體的教學案例。
+
+![](./images/13.png)
+
+### Sugar系列的電子模塊安全又美觀，不但防跌防碰亦都防短路以確安全。
+
+![](./images/12.png)
+
+### Sugar系列的電子模塊帶有防反插設計，為課堂解決接線的煩惱。
+
+![](./images/14.png)
+
 ## 介紹短片
 
 [![](images/video.png)](https://youtu.be/rQ8UbNiRGUc)
@@ -62,7 +76,9 @@ Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設�
 
 ![](./images/candle.png)
 
-3色LED可以模擬生日蠟燭，對著Micro:bit的聲音傳感器吹氣可以模擬吹熄蠟燭。
+3色LED可以模擬生日蠟燭，對著Micro:bit V2的聲音傳感器吹氣可以模擬吹熄蠟燭。
+
+    注意：此案例需要配合Micro:bit V2使用。
 
 ### 電子閘門
 
@@ -108,10 +124,4 @@ Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設�
 
 模擬一個收音器，要調校到正確頻道才可接收廣播。
 
-## 產品展示
 
-![](./images/12.png)
-
-![](./images/13.png)
-
-![](./images/14.png)
