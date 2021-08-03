@@ -1,6 +1,6 @@
 # Micro:bit大班教學 小發明家套件
 
-![](./images/1.png)
+![](./images/2_notext.jpg)
 
 Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設計的套件。套件包含新版本的Robotbit Edu，套裝裏的傳感器亦都轉用Sugar體系的傳感器。套件包含10個應用案例，配合拼砌積木與組合紙板給予學生新穎的學習體驗，激發創客精神。
 
@@ -16,6 +16,10 @@ Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設�
 - 套件尺寸：205 x 182 x 75 mm
 
 ## 產品內容
+
+![](./images/1.png)
+
+![](./images/content.png)
 
 - Micro:bit V2 x1(選配)
 - Robotbit Edu x1
@@ -48,18 +52,66 @@ Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設�
 
 ## 應用案例介紹
 
-![](./images/7.jpg)
-![](./images/8.jpg)
-![](./images/9.jpg)
-![](./images/10.jpg)
-![](./images/11.jpg)
+### 防火警報
+
+![](./images/firealarm.png)
+
+當火焰感應器探測到明火時就會發出警報。
+
+### 生日蠟燭
+
+![](./images/candle.png)
+
+3色LED可以模擬生日蠟燭，對著Micro:bit的聲音傳感器吹氣可以模擬吹熄蠟燭。
+
+### 電子閘門
+
+![](./images/gate.png)
+
+當有人時閘門會自動關閉，等到完成檢測才打開閘門讓人前進。
+
+### 土壤濕度警報
+
+![](./images/plant.png)
+
+可以監測土壤的濕度，當土壤過濕或過乾時就會敲響鑼鼓。
+
+### 紅綠燈
+
+![](./images/trafficlight.png)
+
+按下按鍵，紅綠燈就會亮起紅燈，讓行人可以橫過馬路。
+
+![](./images/safe.png)
+
+### 三輪送貨車
+
+![](./images/kart.png)
+
+能夠避開障礙物的三輪車。
+
+### 智能晾衣架
+
+![](./images/hanger.png)
+
+落雨的時候，晾衣架會自動收起，以免弄濕衣服。
+
+### 風扇
+
+![](./images/fan.png)
+
+電動風扇會左右搖擺。
+
+### 收音機
+
+![](./images/broadcast.png)
+
+模擬一個收音器，要調校到正確頻道才可接收廣播。
 
 ## 產品展示
 
-![](./images/4.jpg)
+![](./images/12.png)
 
-![](./images/5.jpg)
+![](./images/13.png)
 
-![](./images/6.jpg)
-
-
+![](./images/14.png)
