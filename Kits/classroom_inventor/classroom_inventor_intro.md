@@ -144,6 +144,14 @@ Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設�
 
     注意：此案例需要配合Micro:bit V2使用。
 
+### 搶答機
+
+![](./images/quiz.png)
+
+模擬搶答環節的搶答機。
+
+    注意：此案例需要配合Micro:bit V2使用。
+
 ### 保險箱
 
 ![](./images/safe.png)
