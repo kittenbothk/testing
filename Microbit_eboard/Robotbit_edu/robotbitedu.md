@@ -45,6 +45,7 @@ Robotbit Edu是Kittenbot旗下長青擴展板Robotbit的最新版本。這擴展
 ![](./images/robotbit-edu2.png)
 
 1. PH2.0 3Pin IO接口x8
+    - 在Robotbit Edu上使用傳統感應器可以使用3芯轉杜邦線(另購)
 2. I2C通訊接口x1
 3. 串口通信接口x1
 4. 電機接口x4(最多可接2隻步進電機)

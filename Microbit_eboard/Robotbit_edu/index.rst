@@ -8,3 +8,6 @@ RobotBit Edu的資訊。
     :glob:
 
     robotbitedu.md
+    robotbitBase.md
+    robotbitMC.md
+    robotbitKB.md
