@@ -88,7 +88,7 @@ Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設�
 
 當有人時閘門會自動關閉，等到完成檢測才打開閘門讓人前進。
 
-### 植物小助手
+### 種植小助手
 
 ![](./images/plant.png)
 
@@ -138,13 +138,13 @@ Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設�
 
 電動風扇會左右搖擺。
 
-### 夜燈
+### 小夜燈
 
 ![](./images/nightlight.png)
 
 模擬夜燈，環境黑暗時探測到有人就會點燈以防跌倒。
 
-### 收音機
+### 模擬收音機
 
 ![](./images/broadcast.png)
 
