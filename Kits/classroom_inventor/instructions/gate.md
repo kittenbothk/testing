@@ -1,6 +1,6 @@
 # 電子閘門
 
-![](../images/trafficlight.png)
+![](../images/gate.png)
 
 ## 組裝說明書下載
 

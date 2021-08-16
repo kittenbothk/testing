@@ -110,6 +110,14 @@ Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設�
 
     注意：此案例需要配合Micro:bit V2使用。
 
+### 遙控三輪車
+
+![](./images/kart.png)
+
+遙控的三輪車。
+
+    注意：此案例需要配合Micro:bit V2使用。
+
 ### 智能晾衣架
 
 ![](./images/hanger.png)
