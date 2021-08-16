@@ -1,4 +1,4 @@
-# 收音機
+# 模擬收音機
 
 ![](../images/broadcast.png)
 

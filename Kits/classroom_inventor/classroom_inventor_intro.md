@@ -132,7 +132,7 @@ Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設�
 
     注意：此案例需要配合Micro:bit V2使用。
 
-### 風扇
+### 恒温風扇
 
 ![](./images/fan.png)
 
@@ -168,7 +168,7 @@ Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設�
 
     注意：此案例需要配合Micro:bit V2使用。
 
-### 距離鋼琴
+### 鋼琴拉奏
 
 ![](./images/piano.png)
 

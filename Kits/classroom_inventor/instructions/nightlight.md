@@ -1,4 +1,4 @@
-# 夜燈
+# 小夜燈
 
 ![](../images/nightlight.png)
 
