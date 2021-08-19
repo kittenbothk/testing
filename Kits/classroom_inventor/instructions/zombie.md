@@ -1,10 +1,10 @@
-# 打殭屍
+# 怕光殭屍
 
 ![](../images/zombie.png)
 
 ## 組裝說明書下載
 
-[組裝說明書下載](www.google.com)
+[組裝說明書下載](https://drive.google.com/drive/folders/1wg_edUZFrqyUONA0FJ6vFBkGArRsfnf4?usp=sharing)
 
 ## 參考程式
 

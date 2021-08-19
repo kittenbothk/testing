@@ -124,7 +124,7 @@ Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設�
 
 落雨的時候，晾衣架會自動收起，以免弄濕衣服。
 
-### 打殭屍
+### 怕光殭屍
 
 ![](./images/zombie.png)
 
@@ -149,6 +149,14 @@ Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設�
 ![](./images/broadcast.png)
 
 模擬一個收音器，要調校到正確頻道才可接收廣播。
+
+    注意：此案例需要配合Micro:bit V2使用。
+
+### 節拍機
+
+![](./images/rhythm.png)
+
+使用電位器調較速度，用A和B鍵選擇拍子，按下數碼按鍵啟動拍子機。
 
     注意：此案例需要配合Micro:bit V2使用。
 

@@ -13,6 +13,7 @@ Micro:bit大班教學 發明家套件的模型組裝教學。
     hanger.md
     plant.md
     broadcast.md
+    rhythm.md
     quiz.md
     nightlight.md
     fan.md
