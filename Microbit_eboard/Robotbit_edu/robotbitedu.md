@@ -40,9 +40,11 @@ Robotbit Edu是Kittenbot旗下長青擴展板Robotbit的最新版本。這擴展
 - Vin外部輸入：最大6V3A
 - 工作電壓：3V/5V，18650鋰電池最大輸出1A
 
-## 板載資源介紹
+## 詳細板載資源介紹
 
 ![](./images/robotbit-edu2.png)
+
+![](./images/i2c&serial.png)
 
 1. PH2.0 3Pin IO接口x8
     - 在Robotbit Edu上使用傳統感應器可以使用3芯轉杜邦線(另購)

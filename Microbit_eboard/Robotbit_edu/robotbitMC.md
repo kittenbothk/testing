@@ -71,13 +71,7 @@ Kittenbot每款電機的詳細教學可以參考：[電機教學](../../motors/i
 
 ![](../RBimage/robotbit_code12.png)
 
-### 4. 蜂鳴器編程
-
-使用蜂鳴器時，不可以拔除P0的Jumper線帽。
-
-![](../RBimage/robotbit_code4.png)
-
-### 5. RGB燈編程
+### 4. RGB燈編程
 
 RGB燈的編程需要使用Neopixel的積木塊。
 
@@ -85,29 +79,29 @@ RGB燈的編程需要使用Neopixel的積木塊。
 
     除了”顯示顏色”的積木之外，其餘所有的積木都需要加一個”刷新顯示”的積木才會顯示效果。
 
-#### 5.1 4顆燈同時點亮
+#### 4.1 4顆燈同時點亮
 
 ![](../RBimage/robotbit_code5.png)
 
-#### 5.2 使用RGB數值指定顏色
+#### 4.2 使用RGB數值指定顏色
 
     RGB的數值範圍由0-255。
 
 ![](../RBimage/robotbit_code6.png)
 
-#### 5.3 使用HSL數值指定顏色
+#### 4.3 使用HSL數值指定顏色
 
     HSL的色相範圍由0-360，飽和度和亮度由0-100。
 
 ![](../RBimage/robotbit_code7.png)
 
-#### 5.4 調整亮度編程
+#### 4.4 調整亮度編程
 
     亮度範圍由0至255
 
 ![](../RBimage/robotbit_code9.png)
 
-### 6. 引腳編程
+### 5. 引腳編程
 
 引腳的讀寫需要用到引腳的積木塊。
 
@@ -118,13 +112,13 @@ RGB燈的編程需要使用Neopixel的積木塊。
     
 ![](../RBimage/robotbit_pin1.png)
 
-#### 6.1 引腳數值讀取
+#### 5.1 引腳數值讀取
 
     Pin 0預設與蜂鳴器相接，所以使用Pin 0引腳時需要拔除跳線帽。
 
 ![](../RBimage/robotbit_code10.png)
 
-#### 6.2 引腳數值寫入
+#### 5.2 引腳數值寫入
 
     Pin 0預設與蜂鳴器相接，所以使用Pin 0引腳時需要拔除跳線帽。
 

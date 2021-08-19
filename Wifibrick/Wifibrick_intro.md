@@ -100,7 +100,19 @@ Armourbit 是Powerbrick 套件中的micro:bit擴展盒。只要把micro:bit 插�
 
  ![](./introimage/wifi-12-1.png)
 
+### Robotbit Edu
 
+Robotbit Edu上已經提供了4pin的通訊接口，我們只需要將WifiBrick連接到通訊接口就可以了。
+
+只需使用PH2.0轉杜邦線按圖例接線即可。
+
+![](./introimage/wifi-16-1.png)
+
+![](./introimage/edu1.png)
+
+由於Robotbit Edu的通訊接口使用了P2與P12，我們在MakeCode裡面就要相應地選擇引腳。
+
+![](./introimage/edu2.png)
 
 ### Robotbit
 
