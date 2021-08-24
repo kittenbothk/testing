@@ -6,6 +6,8 @@
 
 [組裝說明書下載](https://drive.google.com/drive/folders/1wg_edUZFrqyUONA0FJ6vFBkGArRsfnf4?usp=sharing)
 
+![](../images/rhythm_wire.png)
+
 ## 參考程式
 
 ![](../images/rhythm_code.png)

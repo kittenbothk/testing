@@ -29,7 +29,7 @@
 
 .. toctree::
     :maxdepth: 2
-    :caption: 未來板IoT發明家套件
+    :caption: 未來板 物聯未來教學套件
 
     future_inventor/index
 
