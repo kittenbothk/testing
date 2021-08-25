@@ -16,11 +16,25 @@
 
 用4Pin 連接線將模組連接到Robotbit Edu的藍色4Pin接口。
 
-![](./images/tof2.png)
+![](./images/tof_wire.png)
 
 ## 編程教學
 
+## MakeCode編程教學
+
+![](../PWmodules/images/mcbanner.png)
+
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-sugar
+
+### [詳細方法](../../Makecode/powerBrickMC)
+
+![](./images/tof_mc_code.png)
+
+[參考程式](https://makecode.microbit.org/_M6e6P78YACV5)
+
 ### Kittenblock 編程教學
+
+![](../PWmodules/images/kbbanner.png)
 
 ![](./images/tof3.png)
 

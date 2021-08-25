@@ -1,6 +1,6 @@
-# Robotbit 在Makecode上的編程
+# Robotbit Edu在Makecode上的編程
 
-Robotbit支援Makecode上編程。
+Robotbit Edu支援Makecode上編程。
 
 ## Makecode編程
 
@@ -28,7 +28,7 @@ Kittenbot每款電機的詳細教學可以參考：[電機教學](../../motors/i
 
 示範接線與編程：
 
-將電機連接在Robotbit的M1A和M1B上。
+將電機連接在Robotbit Edu的M1A和M1B上。
 
 ![](./images/motor_wire.png)
 
@@ -42,7 +42,7 @@ Kittenbot每款舵機的詳細教學可以參考：[舵機教學](../../motors/i
 
 示範接線與編程：
 
-將舵機連接在Robotbit的S1上。
+將舵機連接在Robotbit Edu的S1上。
 
     將舵機的橙色線接到黃色引腳針線，紅色線接到紅色正極針線，黑色線接到黑色負極針線。
     一般舵機的轉向角度範圍由0至180度。
@@ -63,7 +63,7 @@ Kittenbot每款電機的詳細教學可以參考：[電機教學](../../motors/i
 
 示範接線與編程：
 
-將步進電機連接到Robotbit的M1和M2上（將紅色電線連接到VM）。
+將步進電機連接到Robotbit Edu的M1和M2上（將紅色電線連接到VM）。
 
 ![](./images/stepper_wire.png)
 

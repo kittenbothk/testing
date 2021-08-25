@@ -17,11 +17,25 @@
 
 用4Pin 連接線將模組連接到Robotbit Edu的藍色4Pin接口。
 
-![](./images/joy2.png)
+![](./images/joy_wire.png)
 
 ## 編程教學
 
+## MakeCode編程教學
+
+![](../PWmodules/images/mcbanner.png)
+
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-sugar
+
+### [詳細方法](../../Makecode/powerBrickMC)
+
+![](./images/joy_mc_code.png)
+
+[參考程式](https://makecode.microbit.org/_CcJ5YTdF2795)
+
 ### Kittenblock 編程教學
+
+![](../PWmodules/images/kbbanner.png)
 
 ![](./images/joy3.png)
 

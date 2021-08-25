@@ -1,6 +1,6 @@
-# Robotbit 在Kittenblock編程
+# Robotbit Edu在Kittenblock編程
 
-Robotbit亦支援在Kittenblock上編程。
+Robotbit Edu亦支援在Kittenblock上編程。
 
 有關Kittenblock的介紹可以參考：[Kittenblock大全](../KittenBlock/index)
 
@@ -34,7 +34,7 @@ Robotbit亦支援在Kittenblock上編程。
 
 #### 加載成功
 
-![](../RBimages/success1.png)
+![](../images/success1.png)
 
 ### 1. 電機編程
 
@@ -44,9 +44,9 @@ Kittenbot每款電機的詳細教學可以參考：[電機教學](../../motors/i
 
 示範接線與編程：
 
-將電機連接在robotbit的M1A和M1B上。
+將電機連接在Robotbit Edu的M1A和M1B上。
 
-![](../RBimage/motor_wire.png)
+![](./images/motor_wire.png)
 
     電機速度範圍由-255至255
 
@@ -58,11 +58,11 @@ Kittenbot每款舵機的詳細教學可以參考：[舵機教學](../../motors/i
 
 示範接線與編程：
 
-將舵機連接在Robotbit的S1上。
+將舵機連接在Robotbit Edu的S1上。
 
     將舵機的橙色線接到黃色引腳針線，紅色線接到紅色正極針線，黑色線接到黑色負極針線。
-
-![](../RBimage/servo_wire.png)
+    
+![](./images/servo_wire.png)
 
     由於舵機轉動需要時間，所以我們需要加一個短暫的停頓(pause)，給予舵機足夠時間轉動。
     一般舵機的轉向角度範圍由0至180度
@@ -75,9 +75,9 @@ Kittenbot每款電機的詳細教學可以參考：[電機教學](../../motors/i
 
 示範接線與編程：
 
-將步進電機連接到Robotbit的M1和M2上（將紅色電線連接到VM）。
+將步進電機連接到Robotbit Edu的M1和M2上（將紅色電線連接到VM）。
 
-![](../RBimage/stepper_wire.png)
+![](../RBimage/robotbit_stepper.png)
 
     步進電機的角度範圍為-360至360度
 
@@ -93,7 +93,7 @@ Kittenbot每款電機的詳細教學可以參考：[電機教學](../../motors/i
 
     所有積木都需要加一個”顯示”的積木才會顯示效果。
 
-#### 5.1 4顆燈同時點亮
+#### 5.1 點亮RGB燈
 
 ![](../RBimage/kb_code5.png)
 
@@ -105,9 +105,7 @@ Kittenbot每款電機的詳細教學可以參考：[電機教學](../../motors/i
 
 #### 5.3 點亮指定一顆燈
 
-    燈的編號由0至3。(Robotbit上也印有編號)
-    
-![](../RBimage/robotbit_neopixel2.png)
+    只適合於燈條。
 
 ![](../RBimage/kb_code7.png)
 
