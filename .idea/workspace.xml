@@ -22,25 +22,10 @@
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/broadcast.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/broadcast.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/candle.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/candle.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/fan.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/fan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/firealarm.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/firealarm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/gate.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/gate.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/hanger.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/hanger.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/kart_auto.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/kart_auto.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/kart_remote.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/kart_remote.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/nightlight.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/nightlight.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/piano.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/piano.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/plant.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/plant.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/quiz.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/quiz.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/rhythm.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/rhythm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/safe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/safe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/trafficlight.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/trafficlight.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/zombie.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/zombie.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/future_inventor_intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/future_inventor_intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/trafficlight_wire.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/trafficlight_wire.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/timer.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/timer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microbit_eboard/Robotbit_edu/robotbitMC.md" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/Robotbit_edu/robotbitMC.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

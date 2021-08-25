@@ -6,4 +6,8 @@
 .. toctree::
     :maxdepth: 1
 
+    weather.md
+    welcome.md
     timer.md
+    safe.md
+    streetlamp.md
