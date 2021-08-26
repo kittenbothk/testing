@@ -38,9 +38,15 @@ MP3播放魔塊 (HKBM8012E)
 
 ![](./images/mcbanner.png)
 
-### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+### 加載PowerBrick插件：
 
-### [詳細方法](../../Makecode/powerBrickMC)
+### 在擴展頁直接搜尋powerbrick (PowerBrick已經過微軟認證，可以直接搜尋)
+
+### 你亦可以用插件地址搜尋
+
+PowerBrick插件地址：https://github.com/KittenBot/pxt-powerbrick
+
+### [詳細方法](./powerBrickMakeCodeExt)
 
 ### MP3播放魔塊積木塊
 

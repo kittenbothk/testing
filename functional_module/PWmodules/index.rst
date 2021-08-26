@@ -6,6 +6,7 @@ PowerBrick魔塊教學
 .. toctree::
     :maxdepth: 1
 
+    powerBricMakeCodeExt.md
     Armourbit.md
     powerBrickPowerBank.md
     powerBrickEnvironment.md

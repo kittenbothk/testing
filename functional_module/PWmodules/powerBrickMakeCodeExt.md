@@ -1,18 +1,4 @@
-# KittenBot魔塊與MakeCode
-
-![](./images/RE25mkU.png)
-
-## 快速開始
-
-PowerBrick首推的編程平台是微軟Makecode。
-
-MakeCode有兩種版本，兩個版本的功能和用法是一樣的。
-
-MakeCode在線版: https://makecode.microbit.org/
-
-MakeCode離線版: https://www.kittenbot.cn/software
-
-## PowerBrick在MakeCode上編程
+# PowerBrick在MakeCode上編程
 
 ![](./images/mcbanner.png)
 
@@ -26,11 +12,9 @@ MakeCode離線版: https://www.kittenbot.cn/software
 
 ![](./images/editor1.png)
 
-複製以下地址，在搜尋欄貼上並搜尋。
+在搜尋欄中填入powerbrick，然後按Enter。
 
-### https://github.com/KittenBot/pxt-powerbrick
-
-![](./images/02_02.png)
+![](./images/powerbrick_search.png)
 
 點擊加載，加載成功後會新增PowerBrick的積木塊。
 

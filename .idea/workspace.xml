@@ -21,11 +21,18 @@
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_led.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_led.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_magnet.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_magnet.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_pir.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_pir.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_soil.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_soil.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_water.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_water.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickBumpers.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickBumpers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickColorGesture.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickColorGesture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickDroplet.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickDroplet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickEnvironment.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickEnvironment.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickLineTrace.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickLineTrace.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickMC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickMP3.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickMP3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickRFID.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickRFID.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickRGB.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickRGB.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickSoil.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickSoil.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickUltraSound.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickUltraSound.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
