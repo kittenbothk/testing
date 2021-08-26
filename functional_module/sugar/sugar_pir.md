@@ -15,15 +15,30 @@
 
 用3Pin 連接線將模組與Robotbit Edu連接起來。
 
-![](./images/pir2.png)
+![](./images/pir_wire.png)
 
 ## 編程教學
 
-### Kittenblock編程教學
+## MakeCode編程教學
+
+![](../PWmodules/images/mcbanner.png)
+
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-sugar
+
+### [詳細方法](../../Makecode/powerBrickMC)
+
+![](./images/pir_mc_code.png)
+
+[參考程式](https://makecode.microbit.org/_D5XF7hEPf489)
+
+### Kittenblock 編程教學
+
+![](../PWmodules/images/kbbanner.png)
 
 ![](./images/pir3.png)
 
 ### Micropython 編程教學
+
     PIR(pin)
     value()
 

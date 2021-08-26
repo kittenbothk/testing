@@ -14,11 +14,23 @@
 
 用3Pin 連接線將模組與Robotbit Edu連接起來。
 
-![](./images/poten2.png)
+![](./images/soil_wire.png)
 
-## 編程教學
+## MakeCode編程教學
+
+![](../PWmodules/images/mcbanner.png)
+
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-sugar
+
+### [詳細方法](../../Makecode/powerBrickMC)
+
+![](./images/soil_mc_code.png)
+
+[參考程式](https://makecode.microbit.org/_4EUXDh8qtP7X)
 
 ### Kittenblock 編程教學
+
+![](../PWmodules/images/kbbanner.png)
 
 ![](./images/soil3.png)
 

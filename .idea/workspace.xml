@@ -20,18 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microbit_eboard/Robotbit_edu/robotbitKB.md" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/Robotbit_edu/robotbitKB.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microbit_eboard/Robotbit_edu/robotbitMC.md" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/Robotbit_edu/robotbitMC.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_button.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_button.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_env.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_env.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_fire.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_fire.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_joystick.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_joystick.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_light.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_light.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_line.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_line.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_potentialmeter.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_potentialmeter.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_tof.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_tof.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_led.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_led.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_magnet.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_magnet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_pir.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_pir.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_soil.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_soil.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_water.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_water.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

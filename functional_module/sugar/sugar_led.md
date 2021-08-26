@@ -14,11 +14,25 @@
 
 用3Pin 連接線將模組與Robotbit Edu連接起來。
 
-![](./images/led2.png)
+![](./images/led_wire.png)
 
 ## 編程教學
 
+## MakeCode編程教學
+
+![](../PWmodules/images/mcbanner.png)
+
+### 加載PowerBrick插件：https://github.com/KittenBot/pxt-sugar
+
+### [詳細方法](../../Makecode/powerBrickMC)
+
+![](./images/led_mc_code.png)
+
+[參考程式](https://makecode.microbit.org/_Ap5FxKHA6EPj)
+
 ### Kittenblock 編程教學
+
+![](../PWmodules/images/kbbanner.png)
 
 ![](./images/led3.png)
 
@@ -50,8 +64,8 @@ brightness(val): 亮度百分比，0~100
 
 參考程式
 
-from sugar import *
-import time
+    from sugar import *
+    import time
 
     # P0、P1、P2、P3、P8、P13、P14、P15、P16
     led = LED('P1')
