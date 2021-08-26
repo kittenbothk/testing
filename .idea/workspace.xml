@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/classroom_inventor_intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/classroom_inventor_intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/video.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/video.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/intro.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/index.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

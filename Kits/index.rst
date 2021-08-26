@@ -41,7 +41,7 @@
 
 .. toctree::
     :maxdepth: 2
-    :caption: AIoT 智能回收桶套件
+    :caption: AI/AIoT 智能回收箱套件
 
     ai_recycle/index
 
