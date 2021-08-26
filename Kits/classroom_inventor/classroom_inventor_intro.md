@@ -1,8 +1,8 @@
-# Micro:bit大班教學 小發明家套件
+# Micro:bit小發明家套件
 
 ![](./images/2_notext.jpg)
 
-Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設計的套件。套件包含新版本的Robotbit Edu，套裝裏的傳感器亦都轉用Sugar體系的傳感器。套件包含10個應用案例，配合拼砌積木與組合紙板給予學生新穎的學習體驗，激發創客精神。
+Micro:bit小發明家套件是Kittenbot針對STEM普及教育而設計的套件。套件包含新版本的Robotbit Edu，套裝裏的傳感器亦都轉用Sugar體系的傳感器。套件包含10個應用案例，配合拼砌積木與組合紙板給予學生新穎的學習體驗，激發創客精神。
 
 ## 產品特色
 
@@ -62,7 +62,7 @@ Micro:bit大班教學小發明家套件是Kittenbot針對STEM普及教育而設�
 
 ## 介紹短片
 
-[![](images/video.png)](https://youtu.be/rQ8UbNiRGUc)
+[![](images/video.png)](https://youtu.be/JaBa2EcIPDU)
 
 ## 應用案例介紹
 

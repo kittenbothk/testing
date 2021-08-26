@@ -23,7 +23,7 @@
 
 .. toctree::
     :maxdepth: 2
-    :caption: Micro:bit大班教學 發明家套件
+    :caption: Micro:bit發明家套件
 
     classroom_inventor/index
 
@@ -38,6 +38,12 @@
     :caption: Robotbit 大班教學套件
 
     classroom/index
+
+.. toctree::
+    :maxdepth: 2
+    :caption: AIoT 智能回收桶套件
+
+    ai_recycle/index
 
 .. toctree::
     :maxdepth: 2
