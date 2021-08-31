@@ -8,3 +8,4 @@ Micro:bit發明家套件的詳細介紹與教學。
 
     classroom_inventor_intro.md
     instructions/index
+    modules/index

@@ -38,6 +38,7 @@ Micro:bit小發明家套件是Kittenbot針對STEM普及教育而設計的套件�
 - GeekServo 樂高風扇 x1
 - TT電機 x2
 - 3Pin 連接線 x6
+- 3Pin轉4Pin連接線(貓耳超聲波專用) x1
 - 塑膠積木包 x1
 - 裝飾結構紙板 x1
 - 1m USB線 x1
