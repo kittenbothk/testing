@@ -22,7 +22,7 @@
 
 ![](../PWmodules/images/mcbanner.png)
 
-### 加載PowerBrick插件：https://github.com/KittenBot/pxt-sugar
+### 加載PSugar插件：https://github.com/KittenBot/pxt-sugar
 
 ### [詳細方法](../../Makecode/powerBrickMC)
 
