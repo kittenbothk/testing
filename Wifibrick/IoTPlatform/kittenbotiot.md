@@ -2,6 +2,8 @@
 
 為了方便大家實踐外網的IoT應用，Kittenbot現已提供一個免費的IoT物聯網平台。
 
+### [Kittenbot自家IoT平台](https://iot.kittenbot.cn/)
+
 ## 帳號申請
 
 KittenBot的自家物聯網平台是完全免費的，不過用家需要申請一個帳號。

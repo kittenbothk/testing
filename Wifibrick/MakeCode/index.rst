@@ -9,3 +9,5 @@
 
     MC_TS.md
     makercloud.md
+    mc_kb.md
+    mc_kittenbotiot.md
