@@ -35,7 +35,7 @@
 
 .. toctree::
     :maxdepth: 2
-    :caption: Robotbit 大班教學套件
+    :caption: Robotbit 大班教學套件(已停產)
 
     classroom/index
 
