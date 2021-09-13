@@ -1,7 +1,7 @@
 Micro:bit 發明家套件模型組裝教學
 =====================
 
-Micro:bit大班教學 發明家套件的模型組裝教學。
+Micro:bit發明家套件的模型組裝教學。
 
 .. toctree::
     :maxdepth: 1
@@ -22,3 +22,4 @@ Micro:bit大班教學 發明家套件的模型組裝教學。
     kart_remote.md
     safe.md
     piano.md
+    extra.md

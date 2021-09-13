@@ -1,10 +1,18 @@
 # AI/AIoT 智能回收箱套件教學
 
+### 資源下載
+
+[音效檔下載](https://drive.google.com/file/d/1GEJpytMGa4GYDSfpvDlvfwSC0fG-qENg/view?usp=sharing)
+
+[參考圖檔下載](https://drive.google.com/drive/folders/1l27lVZQ-IEcx-_u2yh-VkV3N75coOGbE?usp=sharing)
+
+![](./images/a4.png)
+
 ## 模型訓練參考程式
 
 ![](./images/train_code.png)
 
-[Armourbit版參考程式](https://makecode.microbit.org/_41yHDg4PfVsg)
+[參考程式](https://makecode.microbit.org/_41yHDg4PfVsg)
 
 ### 訓練方法
 
@@ -15,8 +23,6 @@
 5. 按KOI的A鍵儲存模型。
 
 ## AI智能回收箱參考程式
-
-[音效檔下載](http://gofile.me/2MRnk/9eN5byCsA)
 
 ![](./images/offline_code.png)
 
@@ -32,8 +38,6 @@
 ## AIoT智能回收箱參考程式
 
 ### IoT參考程式使用了MakerCloud平台
-
-[音效檔下載](http://gofile.me/2MRnk/9eN5byCsA)
 
 ![](./images/online_code.png)
 
