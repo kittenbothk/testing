@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/images/armour_wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/images/armour_wire.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/images/armour_wire.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/images/armour_wire.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/instructions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/tutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/tutorial.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/aihealth/modules/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aihealth/modules/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/index.rst" afterDir="false" />
-    </list>
+    <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

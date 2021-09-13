@@ -22,4 +22,3 @@ Micro:bit發明家套件的模型組裝教學。
     kart_remote.md
     safe.md
     piano.md
-    extra.md
