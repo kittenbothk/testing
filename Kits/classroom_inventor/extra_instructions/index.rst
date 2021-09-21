@@ -1,4 +1,4 @@
-Micro:bit 發明家套件升級AI案例
+Micro:bit 發明家套件 - AI升級案例
 =====================
 
 Micro:bit發明家套件的升級AI案例。

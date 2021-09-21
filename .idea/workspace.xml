@@ -19,7 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="" />
+    <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/extra_instructions/aifan.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/extra_instructions/aifan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/extra_instructions/aigate.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/extra_instructions/aigate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/extra_instructions/aihanger.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/extra_instructions/aihanger.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/extra_instructions/aisafe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/extra_instructions/aisafe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/extra_instructions/aitrafficlight.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/extra_instructions/aitrafficlight.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/extra_instructions/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/extra_instructions/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_fan_render.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_fan_render.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_gate_wire.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_gate_wire.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_trafficlight_wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_trafficlight_wire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_trafficlight_wire.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_trafficlight_wire.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/fan_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/fan_code.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/fan.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/fan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microbit_eboard/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/makercloud.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/makercloud.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

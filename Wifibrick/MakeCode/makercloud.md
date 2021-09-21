@@ -1,8 +1,14 @@
-(MakeCode 中編程)
-
 # Makecode 編程與MakerCloud
 
 ![](../../functional_module/PWmodules/images/mcbanner.png)
+
+## MakerCloud官方教學
+
+MakerCloud有提供官方的教學，此頁面僅為KittenBot HK提供的教學，一切以官方教學為準。
+
+[Microbit x WiFiBrick教學](https://learn.makercloud.io/zh_TW/latest/ch4_connect/microbit/connect_microbit/)
+
+[Microbit x KOI教學](https://learn.makercloud.io/zh_TW/latest/ch4_connect/KOI/connect_KOI/)
 
 ## 前言：
 
