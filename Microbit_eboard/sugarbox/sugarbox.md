@@ -1,4 +1,4 @@
-# SugarBox 方糖擴展盒
+# SugarBox擴展盒
 
 ![](./images/1.png)
 

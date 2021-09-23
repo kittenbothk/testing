@@ -340,6 +340,18 @@ KOI也支援使用MicroPython編程，可以實現純文字的編程。
     
 運行語音辨識，返回命令詞。
 
+### 儲存語音模型
+
+    speech.saveClass('name.json')
+
+儲存語音模型，檔案必須為json檔。
+
+### 載入語音模型
+
+    speech.loadClass('name.json')
+
+載入語音模型，檔案必須為json檔。
+
 ### 參考程式
 
     # 錄音與播放

@@ -29,7 +29,6 @@ thingspeak是其中一個現時最多新手選用的IoT 平台, 有免費版本�
  ![](./iotimage/iot-03-01.png)
 
 
-
 填好資料後便按下Continue
 
  ![](./iotimage/iot-04-01.png)
