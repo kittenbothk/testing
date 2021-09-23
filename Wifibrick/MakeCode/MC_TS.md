@@ -1,6 +1,6 @@
 (MakeCode 中編程)
 
-# Makecode 編程與Thinkspeak
+# Makecode 編程與thingspeak
 
 ![](../../functional_module/PWmodules/images/mcbanner.png)
 
@@ -12,7 +12,7 @@
 
 1. 連線到網絡。
 
-2. 定立mtqq server, 接通Thinkspeak。
+2. 定立mtqq server, 接通thingspeak。
 
 3. 主程式 (發佈/訂閱channel)。
 
@@ -94,13 +94,13 @@ Powerbrick: **https://github.com/KittenBot/pxt-powerbrick**
 
 
 
-## 發佈(Publish)到Thinkspeak Channel
+## 發佈(Publish)到thingspeak Channel
 
-### 2.1 接通Thinkspeak
+### 2.1 接通thingspeak
 
 ------
 
-利用kittenwifi 插件中下圖的積木, 通過mqtt 協議, 設定手上設備的數據傳送, 都傳到thinkspeak 平台
+利用kittenwifi 插件中下圖的積木, 通過mqtt 協議, 設定手上設備的數據傳送, 都傳到thingspeak 平台
 
  ![](./iotimage/iot-40-01.png)
 
@@ -136,7 +136,7 @@ Powerbrick: **https://github.com/KittenBot/pxt-powerbrick**
 
 格式: *channels/**channel ID**/publish/**Write Key***
 
-**channel ID** 就是Thinkspeak 系統為每條Channel 生成的獨立編號。
+**channel ID** 就是thingspeak 系統為每條Channel 生成的獨立編號。
 
 **Write Key** 就是向指定Channel發佈數據的門匙。
 
@@ -182,7 +182,7 @@ e.g. **channels/1058604/publish/NNCQRVPVJ7ZATI1F**
 
 1. 打開電源後, 查看wifibrick 連到網絡是否正常。
 
-2. 進入Thinkspeak 相應Channel 的頁面。
+2. 進入thingspeak 相應Channel 的頁面。
 
 3. 按下micro:bit A 鍵, 觸發數據發佈。
 
@@ -197,7 +197,7 @@ e.g. **channels/1058604/publish/NNCQRVPVJ7ZATI1F**
 ```
 
 ```
-注意 2: 受免費版的Thinkspeak 所限, 發佈的時間間距為不小於15秒。 以是次場景為例, 即使同學每隔2秒手動發 		  佈1次, Thinkspeak 都不會接受該發佈值, 也不會在圖表中看到。
+注意 2: 受免費版的thingspeak 所限, 發佈的時間間距為不小於15秒。 以是次場景為例, 即使同學每隔2秒手動發 		  佈1次, thingspeak 都不會接受該發佈值, 也不會在圖表中看到。
 ```
 
 
@@ -206,7 +206,7 @@ e.g. **channels/1058604/publish/NNCQRVPVJ7ZATI1F**
 
 ------
 
-有了手動發佈的經驗, 只要稍為把程式更改一下, 便可輕易讓micro:bit 自動為你把數據推送到Thinkspeak。
+有了手動發佈的經驗, 只要稍為把程式更改一下, 便可輕易讓micro:bit 自動為你把數據推送到thingspeak。
 
 ![](./iotimage/iot-48-1.png)
 
@@ -225,9 +225,9 @@ e.g. **channels/1058604/publish/NNCQRVPVJ7ZATI1F**
 
 
 
-## 訂閱(Subscribe) Thinkspeak Channel
+## 訂閱(Subscribe) thingspeak Channel
 
-如前一章提及, 訂閱 (Subscribe) 是要"收看"一個Channel, 具體義意就是要經網絡從Thinkspeak拿取數據到設備中。首先, 我們先要把想訂閱的Channel 在Sharing 頁面中話定為**Public**
+如前一章提及, 訂閱 (Subscribe) 是要"收看"一個Channel, 具體義意就是要經網絡從thingspeak拿取數據到設備中。首先, 我們先要把想訂閱的Channel 在Sharing 頁面中話定為**Public**
 
 ```
 重點: Channel 必須為 Public 狀態
@@ -235,11 +235,11 @@ e.g. **channels/1058604/publish/NNCQRVPVJ7ZATI1F**
 
 
 
-### 2.2 接通Thinkspeak
+### 2.2 接通thingspeak
 
 ------
 
-由於Thinkspeak 對訂閱的保安要求較高，所以若果我們想讀取Channel 上的數據, 除了要有Channel ID 外, 我們還需要一個16位的MQTT API KEY 為大門門解匙。"訂閱 (Subscribe)"
+由於thingspeak 對訂閱的保安要求較高，所以若果我們想讀取Channel 上的數據, 除了要有Channel ID 外, 我們還需要一個16位的MQTT API KEY 為大門門解匙。"訂閱 (Subscribe)"
 
 程式流程跟2.1 相近, 但由於要輸入MQTT API KEY, 我們要採用以下積木 (登入積木):
 
@@ -259,7 +259,7 @@ e.g. **channels/1058604/publish/NNCQRVPVJ7ZATI1F**
 
 - 格式: channels/**CHANNEL ID**/subscribe/fields/**field?**
 
-連接到thinkspeak 部份的程式完成。
+連接到thingspeak 部份的程式完成。
 
 
 
@@ -277,7 +277,7 @@ e.g. **channels/1058604/publish/NNCQRVPVJ7ZATI1F**
 
 
 
-每當Thinkspeak channel 接收到有數據上傳, 就會把文字推送到接收積木上的**data**數中。
+每當thingspeak channel 接收到有數據上傳, 就會把文字推送到接收積木上的**data**數中。
 
 - 我們可以組積以下組合, 逹到以下效果:
 
@@ -312,7 +312,7 @@ e.g. **channels/1058604/publish/NNCQRVPVJ7ZATI1F**
    按下enter, 便可看到 88 顯示在micro:bit 上, 表示訂閱成功。
 
    ```
-   進出Thinkspeak的"數值", 其實全都是以"文字"格式進行; 上述方法所輸入的"值"不一定是數字, 試試輸入hello 看看吧!   
+   進出thingspeak的"數值", 其實全都是以"文字"格式進行; 上述方法所輸入的"值"不一定是數字, 試試輸入hello 看看吧!   
    ```
 
    
@@ -329,7 +329,7 @@ e.g. **channels/1058604/publish/NNCQRVPVJ7ZATI1F**
 
 
 
-相信大家已具體掌握如何利用免費Thinkspeak 的方法, 歡迎把所製作的IoT 項目whatsapp到micro:bit 群組分享與交流！
+相信大家已具體掌握如何利用免費thingspeak 的方法, 歡迎把所製作的IoT 項目whatsapp到micro:bit 群組分享與交流！
 
  ![](./iotimage/iot-59.png)
 

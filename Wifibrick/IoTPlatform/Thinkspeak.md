@@ -1,16 +1,16 @@
 (IoT 平台介紹)
 
-# Thinkspeak
+# thingspeak
 
 ## 簡介
 
-說到IoT (物聯網)教學, 不能不提[Thinkspeak](https://thingspeak.com/)
+說到IoT (物聯網)教學, 不能不提[thingspeak](https://thingspeak.com/)
 
-它是一個由Mathworks管理, 強大的IoT 分析服務端平台, 讓用家可以把設備(如sensor)所收集的數據, 經過網絡傳送到該平台上 (REST API / MQTT 協議) , 以圖像型式把數據程現或作雲端數據分析。當然, 我們也可以通過thinkspeak進行數據互換, 把由A 點上傳的數據, 推送到B點設備上作進一步判斷或應用, 進行實時數據交換。![](./iotimage/iot-01-01.png)
+它是一個由Mathworks管理, 強大的IoT 分析服務端平台, 讓用家可以把設備(如sensor)所收集的數據, 經過網絡傳送到該平台上 (REST API / MQTT 協議) , 以圖像型式把數據程現或作雲端數據分析。當然, 我們也可以通過thingspeak進行數據互換, 把由A 點上傳的數據, 推送到B點設備上作進一步判斷或應用, 進行實時數據交換。![](./iotimage/iot-01-01.png)
 
 
 
-Thinkspeak是其中一個現時最多新手選用的IoT 平台, 有免費版本也有商用版; 對於剛接觸的初學用家而言, 免費版本的thinkspeak 是個不錯的選擇。
+thingspeak是其中一個現時最多新手選用的IoT 平台, 有免費版本也有商用版; 對於剛接觸的初學用家而言, 免費版本的thingspeak 是個不錯的選擇。
 
 更多關於Licence[說明](https://thingspeak.com/pages/license_faq)
 
@@ -18,7 +18,7 @@ Thinkspeak是其中一個現時最多新手選用的IoT 平台, 有免費版本�
 
 ## 登記帳戶
 
-正式使用Thinkspeak 前, 我們需先登記一個帳戶; 如上文提及, 一般新用戶可先登記一個免費帳戶進入平台
+正式使用thingspeak 前, 我們需先登記一個帳戶; 如上文提及, 一般新用戶可先登記一個免費帳戶進入平台
 
 ![](./iotimage/iot-02-01.png) 
 
@@ -152,8 +152,6 @@ Channel 是平台為你而設獨有的雙向頻道; 你可以把數據上傳到�
 
  ![](./iotimage/iot-20-01.png)
 
-
-
 ## 發佈與訂閱 (Publish & Subscribe) 須知
 
 **發佈 (Publish)** 與**訂閱 (Subscribe)**是IoT 中2個重要的概念。 簡單來說, 發佈就是把數據推送到Field 中; 相反, 訂閱就是設備從雲端中讀取數據。
@@ -166,7 +164,7 @@ Channel 是平台為你而設獨有的雙向頻道; 你可以把數據上傳到�
 
 #### 發佈 (Publish)
 
-當我們想把數據發佈到Thinkspeak 某一Channel時, 需要先獲取該Channel 的**Write API Key**
+當我們想把數據發佈到thingspeak 某一Channel時, 需要先獲取該Channel 的**Write API Key**
 
 例如我們想把光亮度發佈到Room 101, 需先到該Channel 頁面, 再進入**API Keys**頁面
 
@@ -182,7 +180,7 @@ Channel 是平台為你而設獨有的雙向頻道; 你可以把數據上傳到�
 
 #### 訂閱 (Subscribe)
 
-相對發佈, Thinkspeak 對訂閱的安全設定比較高; 當我們想要從Thinkspeak 獲取任何Channel 的數據, 必須先獲得該帳號的MQTT API Key。
+相對發佈, thingspeak 對訂閱的安全設定比較高; 當我們想要從thingspeak 獲取任何Channel 的數據, 必須先獲得該帳號的MQTT API Key。
 
 在頁面中的右上角, 點選Profile icon 開啟選單, 然後點選My Profile
 
@@ -196,5 +194,5 @@ Channel 是平台為你而設獨有的雙向頻道; 你可以把數據上傳到�
 
 
 
-Thinkspeak 有MathWorks 作為後台, 其付費版含強大的高階功能, 有興趣的發燒友可一步步了解其他功能。
+thingspeak 有MathWorks 作為後台, 其付費版含強大的高階功能, 有興趣的發燒友可一步步了解其他功能。
 

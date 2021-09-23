@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microbit_eboard/sugarbox/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/sugarbox/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microbit_eboard/sugarbox/sugarbox.md" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/sugarbox/sugarbox.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wifibrick/IoTPlatform/Thinkspeak.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/IoTPlatform/Thinkspeak.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/MC_TS.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/MC_TS.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
