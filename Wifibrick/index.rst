@@ -11,3 +11,4 @@
     wifiUpdate.md
     IoTPlatform/index
     MakeCode/index
+    futureboard/thingspeak.md
