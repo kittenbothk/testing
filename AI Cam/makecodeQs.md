@@ -74,21 +74,19 @@ Robotbit Edu上已經提供了4pin的通訊接口，我們只需要將KOI連接�
 
 ------
 
-![](McQsImage/16-1.png)  
+![](McQsImage/16-1.png)
 
+### 加載KOI插件：
 
+### 在擴展頁直接搜尋KOI (KOI已經過微軟認證，可以直接搜尋)
 
-把以下連結copy & paste 到Makecode 上：
+![](./FunctionDemo_MC/images/koi_search.png)
 
-#### **https://github.com/KittenBot/pxt-koi**
+### 你亦可以用插件地址搜尋
 
-![](McQsImage/02.png)
+KOI插件：https://github.com/KittenBot/pxt-KOI
 
-
-
-KOI 插件成功載入，如圖所示                                                                       
-
-​                                                              
+KOI 插件成功載入，如圖所示
 
 ![](McQsImage/03-1.png)  
 

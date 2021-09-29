@@ -51,7 +51,11 @@ T/T減速直流電機(HKBD8004B)
 
 --------
 
-### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+### 加載Powerbrick插件：
+
+### 在擴展頁直接搜尋Powerbrick (powerbrick已經過微軟認證，可以直接搜尋)
+
+![](../functional_module/PWmodules/images/powerbrick_search.png)
 
 ### [詳細方法](../Makecode/powerBrickMC)
 

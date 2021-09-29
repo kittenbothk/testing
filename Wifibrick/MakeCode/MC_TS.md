@@ -25,21 +25,15 @@
 **點擊** [MakeCode](https://makecode.microbit.org)
 
 
+### 加載Kittenbot插件：
 
-## 插件地址
+### 在擴展頁直接搜尋Kittenbot (Kittenbot已經過微軟認證，可以直接搜尋)
 
-Wifibrick: **https://github.com/KittenBot/pxt-kittenwifi**
+### 選擇KittenWiFi和Powerbrick或Robotbit
 
-Robotbit: **https://github.com/KittenBot/pxt-robotbit**
-
-Powerbrick: **https://github.com/KittenBot/pxt-powerbrick**
+![](./iotimage/wifi_search.png)
 
       請按自己的硬件選擇Powerbrick或Robotbit插件。
-
-## 加載插件
-
- ![](./iotimage/iot-38.png)
-
 
 
 ### 1. 讓Wifibrick連線到網絡

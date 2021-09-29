@@ -84,8 +84,11 @@
 
 ---
 
+### 加載Powerbrick插件：
 
-### 加載PowerBrick插件：https://github.com/KittenBot/pxt-powerbrick
+### 在擴展頁直接搜尋Powerbrick (powerbrick已經過微軟認證，可以直接搜尋)
+
+![](../functional_module/PWmodules/images/powerbrick_search.png)
 
 ### [詳細方法](../Makecode/powerBrickMC)
 

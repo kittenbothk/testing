@@ -24,11 +24,16 @@
 
 打開MakeCode。
 
-加載WifiBrick插件。
+### 加載Kittenbot插件：
 
-Wifibrick插件: **https://github.com/KittenBot/pxt-kittenwifi**
+### 在擴展頁直接搜尋Kittenbot (Kittenbot已經過微軟認證，可以直接搜尋)
 
-![](./iotimage/iot-38.png)
+### 選擇KittenWiFi和Powerbrick或Robotbit
+
+![](./iotimage/wifi_search.png)
+
+      請按自己的硬件選擇Powerbrick或Robotbit插件。
+
 
 KittenWifi的插件裏預設的伺服器就是KittenBot的平台，所以可以直接使用。
 
@@ -48,11 +53,15 @@ KittenWifi的插件裏預設的伺服器就是KittenBot的平台，所以可以�
 
 打開MakeCode。
 
-加載KOI插件。
+### 加載Kittenbot插件：
 
-KOI插件: **https://github.com/KittenBot/pxt-koi**
+### 在擴展頁直接搜尋Kittenbot (Kittenbot已經過微軟認證，可以直接搜尋)
 
-![](./iotimage/iot-38.png)
+### 選擇KOI和Powerbrick或Robotbit
+
+![](./iotimage/wifi_search.png)
+
+      請按自己的硬件選擇Powerbrick或Robotbit插件。
 
 KOI的插件裏預設的伺服器就是KittenBot的平台，所以可以直接使用。
 

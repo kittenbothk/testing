@@ -42,6 +42,8 @@
 
 ### 在擴展頁直接搜尋powerbrick (PowerBrick已經過微軟認證，可以直接搜尋)
 
+![](./images/powerbrick_search.png)
+
 ### 你亦可以用插件地址搜尋
 
 PowerBrick插件地址：https://github.com/KittenBot/pxt-powerbrick

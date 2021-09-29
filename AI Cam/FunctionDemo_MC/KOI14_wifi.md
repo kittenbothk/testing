@@ -6,7 +6,15 @@ KOI上面也有Wifi的功能，我們可以透過Wifi存取物聯網平台的數
 
 ![](../../functional_module/PWmodules/images/mcbanner.png)
 
-### 加載KOI插件：https://github.com/KittenBot/pxt-koi
+### 加載KOI插件：
+
+### 在擴展頁直接搜尋KOI (KOI已經過微軟認證，可以直接搜尋)
+
+![](./images/koi_search.png)
+
+### 你亦可以用插件地址搜尋
+
+KOI插件：https://github.com/KittenBot/pxt-KOI
 
 
 ### [詳細方法](../../Makecode/powerBrickMC)

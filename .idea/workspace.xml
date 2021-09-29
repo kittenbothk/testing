@@ -20,7 +20,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI01_ABButton.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI01_ABButton.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI02_Printer.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI02_Printer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI03_LCDirection.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI03_LCDirection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI04_ScreenCapture.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI04_ScreenCapture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI05_RecAndPlay.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI05_RecAndPlay.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI06_BarQRCodeReading.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI06_BarQRCodeReading.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI07_CircleTracing.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI07_CircleTracing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI08_RectangleTracing.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI08_RectangleTracing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI09_MachineLearning1.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI09_MachineLearning1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI09_MachineLearning2.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI09_MachineLearning2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI10_MachineLearningNoSD.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI10_MachineLearningNoSD.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI11_face.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI11_face.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI12_linetrace.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI12_linetrace.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI13_VoiceRec.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI13_VoiceRec.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI13_VoiceRecLoad.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI13_VoiceRecLoad.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI13_VoiceRecSave.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI13_VoiceRecSave.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI14_time.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI14_time.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI14_wifi.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI14_wifi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI15_FaceRecog.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI15_FaceRecog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI16_TTS.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI16_TTS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/makecodeQs.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/makecodeQs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microbit_eboard/JoyFrog/JoyFrogMC.md" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/JoyFrog/JoyFrogMC.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/MC_TS.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/MC_TS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/mc_kb.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/mc_kb.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/mc_kittenbotiot.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/mc_kittenbotiot.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickBumpers.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickBumpers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickColorGesture.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickColorGesture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickDroplet.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickDroplet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickEnvironment.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickEnvironment.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickLineTrace.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickLineTrace.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickMP3.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickMP3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickRFID.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickRFID.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickRGB.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickRGB.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickSoil.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickSoil.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickUltraSound.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/powerBrickUltraSound.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/nekoUltrasound.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/nekoUltrasound.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_button.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_button.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_env.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_env.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_fire.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_fire.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_joystick.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_joystick.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_led.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_led.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_light.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_light.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_line.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_line.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_magnet.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_magnet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_pir.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_pir.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_potentialmeter.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_potentialmeter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_soil.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_soil.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_tof.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_tof.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_water.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_water.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/waterTank.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/waterTank.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/motors/130motor.md" beforeDir="false" afterPath="$PROJECT_DIR$/motors/130motor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/motors/2kgMotor.md" beforeDir="false" afterPath="$PROJECT_DIR$/motors/2kgMotor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/motors/2kgServo.md" beforeDir="false" afterPath="$PROJECT_DIR$/motors/2kgServo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/motors/9g.md" beforeDir="false" afterPath="$PROJECT_DIR$/motors/9g.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/motors/powerBrickMotor.md" beforeDir="false" afterPath="$PROJECT_DIR$/motors/powerBrickMotor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/motors/powerBrickServo.md" beforeDir="false" afterPath="$PROJECT_DIR$/motors/powerBrickServo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/motors/ttmotor.md" beforeDir="false" afterPath="$PROJECT_DIR$/motors/ttmotor.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

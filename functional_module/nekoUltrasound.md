@@ -50,7 +50,15 @@
 
 ### Microbit:
 
-### 加載robotbit插件：https://github.com/KittenBot/pxt-robotbit
+### 加載Robotbit插件：
+
+### 在擴展頁直接搜尋robotbit (robotbit已經過微軟認證，可以直接搜尋)
+
+![](./images/robotbit_search.png)
+
+### 你亦可以用插件地址搜尋
+
+robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 ### [詳細方法](../Makecode/powerBrickMC)
 

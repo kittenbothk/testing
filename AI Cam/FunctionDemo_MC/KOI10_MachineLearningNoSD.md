@@ -8,7 +8,15 @@ KOI上的機器學習不是必須要SD卡的，資料可以臨時儲存在KOI上
 
 ![](../../functional_module/PWmodules/images/mcbanner.png)
 
-### 加載KOI插件：https://github.com/KittenBot/pxt-koi
+### 加載KOI插件：
+
+### 在擴展頁直接搜尋KOI (KOI已經過微軟認證，可以直接搜尋)
+
+![](./images/koi_search.png)
+
+### 你亦可以用插件地址搜尋
+
+KOI插件：https://github.com/KittenBot/pxt-KOI
 
 ### [詳細方法](../../Makecode/powerBrickMC)
 

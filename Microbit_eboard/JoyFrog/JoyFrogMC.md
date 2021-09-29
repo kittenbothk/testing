@@ -6,7 +6,11 @@
 
 ![](../images/joyfrog1.png)
 
-#### 加載JoyFrog插件：github.com/KittenBot/pxt-joyfrog
+### 加載JoyFrog插件：
+
+### 在擴展頁直接搜尋JoyFrog (joyfrog已經過微軟認證，可以直接搜尋)
+
+![](../images/joyfrog_search.png)
 
 #### JoyFrog積木塊：
 
