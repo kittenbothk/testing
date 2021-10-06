@@ -19,6 +19,8 @@
     :maxdepth: 1
     :caption: 一般感應器
 
+    turbidity.md
+    watertemp.md
     infratemp.md
     waterTank.md
     nekoUltrasound.md
