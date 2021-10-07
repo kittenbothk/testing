@@ -79,3 +79,9 @@
     :caption: 教育套件
 
     Kits/index
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Kittenbot模組與Studio
+
+    studio/studio.md

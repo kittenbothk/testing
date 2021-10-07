@@ -149,7 +149,7 @@
 - 用戶名: 按照ThingSpeak裝置的username
 - 密碼: 按照ThingSpeak裝置的Password
 
-![](../futureboard/images/14.png)
+![](./iotimage/thingspeak_mc.png)
 
 ### 發佈到ThingSpeak頻道
 
