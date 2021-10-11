@@ -1,6 +1,6 @@
 # 電位器模組
 
-![](./images/poten2.png)
+![](../images/poten2.png)
 
 這是一隻電位器模組，它可以檢測旋轉角度，它返回的數值是類比形式。
 
@@ -20,19 +20,19 @@
 
 將定位器連接到Robotbit Shield的3PIN接口。
 
-![](./images/poten_wire2.png)
+![](../images/poten_wire2.png)
 
 ### Robotbit
 
 將定位器連接到Robotbit的針線和3V接口。
 
-![](./images/poten_wire1.png)
+![](../images/poten_wire1.png)
 
 ## MakeCode編程教學
 
-![](./PWmodules/images/mcbanner.png)
+![](../PWmodules/images/mcbanner.png)
 
-![](../meowbit/images/acbanner.png)
+![](../../meowbit/images/acbanner.png)
 
 ### 此模組可供Microbit和Meowbit使用。
 
@@ -40,26 +40,26 @@
 
 ### Microbit:
 
-![](./images/poten_code.png)
+![](../images/poten_code.png)
 
 ### Meowbit:
 
-![](./images/poten_codeMeow.png)
+![](../images/poten_codeMeow.png)
 
 ## KittenBlock編程教學
 
-![](./PWmodules/images/kbbanner.png)
+![](../PWmodules/images/kbbanner.png)
 
 ### 加載Robotbit插件
 
-![](./images/addRB.png)
+![](../images/addRB.png)
 
 #### 讀取電位器角度編程
 
-![](./images/poten_codekb.png)
+![](../images/poten_codekb.png)
 
 ## Mu Editor編程教學
 
 #### 讀取電位器角度編程
 
-![](./images/poten_codemu.png)
+![](../images/poten_codemu.png)

@@ -4,7 +4,7 @@
 
 數碼按鈕藍色(HKBM8006B)
 
-![](./images/button_1.png)
+![](../images/button_1.png)
 
 這是一隻按鍵模組，輕易為你的Microbit提供額外按鍵。
 
@@ -16,13 +16,13 @@
 
 ## 接線教學
 
-![](./images/button_wire.png)
+![](../images/button_wire.png)
 
 ## MakeCode編程教學
 
-![](./PWmodules/images/mcbanner.png)
+![](../PWmodules/images/mcbanner.png)
 
-![](../meowbit/images/acbanner.png)
+![](../../meowbit/images/acbanner.png)
 
 ### 此模組可供Microbit和Meowbit使用。
 
@@ -30,24 +30,24 @@
 
 ### Microbit:
 
-![](./images/button_code.png)
+![](../images/button_code.png)
 
 [參考程式網址](https://makecode.microbit.org/_RLdA6wC7i1Vd)
 
 ### Meowbit:
 
-![](./images/button_codeMeow.png)
+![](../images/button_codeMeow.png)
 
 [參考程式網址](https://makecode.com/_8uvcymfjfav0)
 
 ## KittenBlock編程教學
 
-![](./PWmodules/images/kbbanner.png)
+![](../PWmodules/images/kbbanner.png)
 
 ### 加載Robotbit插件
 
-![](./images/addRB.png)
+![](../images/addRB.png)
 
 #### 讀取按鍵編程
 
-![](./images/button_code2.png)
+![](../images/button_code2.png)

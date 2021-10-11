@@ -73,7 +73,7 @@
     :maxdepth: 2
     :caption: Robotbit機械臂
 
-    robot_arm/index
+    robotic_arm/index
 
 .. toctree::
     :maxdepth: 2

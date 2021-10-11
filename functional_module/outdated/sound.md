@@ -1,6 +1,6 @@
 # 聲音感應模組
 
-![](./images/sound1.png)
+![](../images/sound1.png)
 
 這是一隻聲音感應模組，它可以檢測聲音強弱，它返回的數值是類比形式。
 
@@ -18,13 +18,13 @@
     
 將聲音感應模組連接到Robotbit的針線和3V接口。
 
-![](./images/sound_wire.png)
+![](../images/sound_wire.png)
 
 ## MakeCode編程教學
 
-![](./PWmodules/images/mcbanner.png)
+![](../PWmodules/images/mcbanner.png)
 
-![](../meowbit/images/acbanner.png)
+![](../../meowbit/images/acbanner.png)
 
 ### 此模組可供Microbit和Meowbit使用。
 
@@ -32,26 +32,26 @@
 
 ### Microbit:
 
-![](./images/poten_code.png)
+![](../images/poten_code.png)
 
 ### Meowbit:
 
-![](./images/poten_codeMeow.png)
+![](../images/poten_codeMeow.png)
 
 ## KittenBlock編程教學
 
-![](./PWmodules/images/kbbanner.png)
+![](../PWmodules/images/kbbanner.png)
 
 ### 加載Robotbit插件
 
-![](./images/addRB.png)
+![](../images/addRB.png)
 
 #### 讀取聲音強弱編程
 
-![](./images/poten_codekb.png)
+![](../images/poten_codekb.png)
 
 ## Mu Editor編程教學
 
 #### 讀取聲音強弱編程
 
-![](./images/poten_codemu.png)
+![](../images/poten_codemu.png)

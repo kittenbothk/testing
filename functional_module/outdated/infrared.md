@@ -1,6 +1,6 @@
 # 紅外線感應模組
 
-![](./images/infrared1.png)
+![](../images/infrared1.png)
 
 這是一隻紅外線感應模組，它可以檢測黑線，它返回的數值是類比形式。
 
@@ -19,19 +19,19 @@
     
 將紅外線感應模組連接到Robotbit的針線和3V接口。
 
-![](./images/infrared_wire.png)
+![](../images/infrared_wire.png)
 
 ## 調較靈敏度
 
 感應的靈敏度可以透過電位器調較，請使用螺絲批轉動電位器。(向左調高，向右調低)
 
-![](./images/infrared2.png)
+![](../images/infrared2.png)
 
 ## MakeCode編程教學
 
-![](./PWmodules/images/mcbanner.png)
+![](../PWmodules/images/mcbanner.png)
 
-![](../meowbit/images/acbanner.png)
+![](../../meowbit/images/acbanner.png)
 
 ### 此模組可供Microbit和Meowbit使用。
 
@@ -39,26 +39,26 @@
 
 ### Microbit:
 
-![](./images/poten_code.png)
+![](../images/poten_code.png)
 
 ### Meowbit:
 
-![](./images/poten_codeMeow.png)
+![](../images/poten_codeMeow.png)
 
 ## KittenBlock編程教學
 
-![](./PWmodules/images/kbbanner.png)
+![](../PWmodules/images/kbbanner.png)
 
 ### 加載Robotbit插件
 
-![](./images/addRB.png)
+![](../images/addRB.png)
 
 #### 讀取紅外線數值編程
 
-![](./images/poten_codekb.png)
+![](../images/poten_codekb.png)
 
 ## Mu Editor編程教學
 
 #### 讀取紅外線數值編程
 
-![](./images/poten_codemu.png)
+![](../images/poten_codemu.png)

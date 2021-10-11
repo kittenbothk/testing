@@ -23,6 +23,18 @@
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/KBbutton.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/ambient.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/fire.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/infrared.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/magnetic.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/potentialmeter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/rgb.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/slider.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/soilhumid.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sound.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/watelevel.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
