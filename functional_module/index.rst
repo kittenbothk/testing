@@ -30,12 +30,6 @@
 
 .. toctree::
     :maxdepth: 1
-    :caption: 昔日感應器
-
-    outdated/index
-
-.. toctree::
-    :maxdepth: 1
     :caption: WifiBrick與IoT方案
 
     ../Wifibrick/index
@@ -53,4 +47,9 @@
 
     ../accessories/LEDMatrix/index
     ledstrip.md
-    
+
+.. toctree::
+    :maxdepth: 1
+    :caption: 昔日感應器
+
+    outdated/index
