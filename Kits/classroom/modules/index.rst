@@ -8,13 +8,13 @@ Robotbit 大班教學套件模組教學
 
     ../../../Microbit_eboard/Robotbit/index
     ../../../Microbit_eboard/Robotbit/robotbitShield.md
-    ../../../functional_module/ambient.md
-    ../../../functional_module/fire.md
-    ../../../functional_module/magnetic.md
+    ../../../functional_module/outdated/ambient.md
+    ../../../functional_module/outdated/fire.md
+    ../../../functional_module/outdated/magnetic.md
     ../../../functional_module/nekoUltrasound.md
-    ../../../functional_module/potentialmeter.md
-    ../../../functional_module/soilhumid.md
-    ../../../functional_module/watelevel.md
+    ../../../functional_module/outdated/potentialmeter.md
+    ../../../functional_module/outdated/soilhumid.md
+    ../../../functional_moduleoutdated//watelevel.md
     ../../../functional_module/legofan.md
     ../../../motors/ttmotor.md
     ../../../motors/powerBrickServo.md
