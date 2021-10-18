@@ -91,3 +91,10 @@
     :caption: Kittenbot模組與Studio
 
     studio/studio.md
+
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Sharing Hub English Version
+
+    https://kittenbothk-eng.readthedocs.io/en/latest/

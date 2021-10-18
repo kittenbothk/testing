@@ -21,10 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/robotic_arm/images/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/robotic_arm/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/robotic_arm/images/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/robotic_arm/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/robotic_arm/intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microbit_eboard/Robotbit/Robotbitfull.md" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/Robotbit/Robotbitfull.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Microbit_eboard/Robotbit_edu/robotbitedu.md" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/Robotbit_edu/robotbitedu.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/index.rst" afterDir="false" />
     </list>
