@@ -58,6 +58,12 @@
 
 .. toctree::
     :maxdepth: 2
+    :caption: Nanobit
+
+    nanobit/index
+
+.. toctree::
+    :maxdepth: 2
     :caption: Micro:bit擴展板說明及入門教程
     
     Microbit_eboard/index

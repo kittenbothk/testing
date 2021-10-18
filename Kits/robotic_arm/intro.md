@@ -36,7 +36,7 @@ Robotbit機械臂是一套機械套件，套件可以搭建出一隻以4隻大�
 
 ## 參考接線
 
-![](./images/2.jpg)
+![](./images/2.png)
 
 ![](./images/3.jpg)
 
