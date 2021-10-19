@@ -12,15 +12,16 @@
 
 ![](./images/train_code.png)
 
-[參考程式](https://makecode.microbit.org/_41yHDg4PfVsg)
+[Armourbit版參考程式](https://makecode.microbit.org/_Am5gsgJ0J6WP)
+
+[Robotbit版參考程式](https://makecode.microbit.org/_7WJFv0199PFv)
 
 ### 訓練方法
 
-1. 按A對廢紙進行訓練。
-2. 按B對鋁罐進行訓練。
-3. 按A+B對膠樽進行訓練。
-4. 按KOI的B鍵對背景進行訓練。
-5. 按KOI的A鍵儲存模型。
+1. Micro:bit會顯示目前的分類。
+1. 按A對現時分類進行訓練。
+2. 按B跳到下一個分類。
+3. 按A+B儲存模型。
 
 ## AI智能回收箱參考程式
 
@@ -37,16 +38,30 @@
 
 ## AIoT智能回收箱參考程式
 
-### IoT參考程式使用了MakerCloud平台
+### MakerCloud平台版本
 
 ![](./images/online_code.png)
 
-[Armourbit版參考程式](https://makecode.microbit.org/_J0b5kYWjuYhF)
+[Armourbit版參考程式](https://makecode.microbit.org/_2FLaVKhxbEWU)
 
-[Robotbit版參考程式](https://makecode.microbit.org/_Ydyf8P86t9C3)
+[Robotbit版參考程式](https://makecode.microbit.org/_hER07TKE3Uiz)
 
 ### 辨認方法
 
 1. 按A啟動辨認功能。
 2. 按B確認KOI已成功連接網絡，並連接MakerCloud平台。
+3. KOI會說出辨認到的垃圾類別，然後打開相應的回收箱。
+
+### ObjectBlocks平台版本
+
+![](./images/objectblock_code.png)
+
+[Armourbit版參考程式](https://makecode.microbit.org/_E28TWW0Fe46L)
+
+[Robotbit版參考程式](https://makecode.microbit.org/_0YgJR1hf7T5J)
+
+### 辨認方法
+
+1. 按A啟動辨認功能。
+2. 按B確認KOI已成功連接網絡，並連接ObjectBlocks平台。
 3. KOI會說出辨認到的垃圾類別，然後打開相應的回收箱。

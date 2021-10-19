@@ -6,6 +6,8 @@ Robotbit機械臂是一套機械套件，套件可以搭建出一隻以4隻大�
 
 ## 套件內容
 
+![](./images/contents.png)
+
 1. Robotbit Edu x1
 2. 18650鋰電池 x1
 3. MG995金屬齒輪舵機 x4
@@ -28,13 +30,19 @@ Robotbit機械臂是一套機械套件，套件可以搭建出一隻以4隻大�
 
 ## 組裝教學
 
-[下載組裝說明書](www.google.com)
+[下載組裝說明書](https://drive.google.com/file/d/14HiV-SxTQf4h2BVGj84Xaj43P_JxT1di/view?usp=sharing)
 
 ![](./images/6.png)
 
 [組裝說明短片](https://www.youtube.com/watch?v=qofKKztL0PU)
 
 ## 參考接線
+
+### Robotbit EDU
+
+![](./images/arm_wire_edu.png)
+
+### Robotbit 2.2
 
 ![](./images/2.png)
 

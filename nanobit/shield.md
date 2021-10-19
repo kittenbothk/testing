@@ -39,6 +39,8 @@ Nanobit已經支援市面上大多數Arduino Nano的擴展板，不過KittenBot�
 
 ### Nanobit Shield插件地址: https://github.com/Kittenbot/pxt-nanobit
 
+[加入插件](../Makecode/powerBrickMC.md)
+
 ### Nanobit Shield插件積木塊:
 
 ![](./images/8.png)
