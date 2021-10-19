@@ -56,3 +56,9 @@ Nanobit已經支援市面上大多數Arduino Nano的擴展板，不過KittenBot�
     注意：Nanobit Shield上的USB插口只是用來充電，要下載程式請使用Nanobit下載器。
 
 ![](./images/10.png)
+
+## 應用分享
+
+![](./images/car1.jpg)
+
+![](./images/car2.jpg)
