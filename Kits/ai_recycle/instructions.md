@@ -8,6 +8,8 @@
 
 ## Robotbit版
 
+    Robotbit 2.2與Robotbit Edu共用同一份搭建說明書。
+
 [搭建說明書下載](https://drive.google.com/file/d/1IBUlW5PhXEalHHotNKG1V5WK1bQOPeuZ/view?usp=sharing)
 
 ### Robotbit Edu

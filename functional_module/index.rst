@@ -21,6 +21,7 @@
 
     turbidity.md
     watertemp.md
+    airquality.md
     infratemp.md
     waterTank.md
     nekoUltrasound.md
