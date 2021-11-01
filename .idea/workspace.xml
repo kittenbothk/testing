@@ -22,16 +22,8 @@
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI Cam/update_firmware/updateHist.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/update_firmware/updateHist.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/images/armour_wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/images/armour_wire.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/instructions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microbit_eboard/Robotbit_edu/images/stepper_wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/Robotbit_edu/images/stepper_wire.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microbit_eboard/Robotbit_edu/robotbitedu.md" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/Robotbit_edu/robotbitedu.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/IoTPlatform/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/IoTPlatform/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/images/turbidity_wire.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/images/turbidity_wire.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/index.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/functional_module/turbidity.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/turbidity.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nanobit/shield.md" beforeDir="false" afterPath="$PROJECT_DIR$/nanobit/shield.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -54,4 +54,4 @@
 
 插件可能會不定時推出更新，改進功能。亦有時候我們可能需要轉用舊版插件才可使用某些功能。
 
-詳情請參考: [Makecode插件版本更換](../../Makecode/makecode_extensionUpdate)
+詳情請參考: [Makecode插件版本更換](../Makecode/makecode_extensionUpdate)
