@@ -81,6 +81,8 @@ ObjectBlock有提供官方的教學，此頁面僅為KittenBot HK提供的教學
 
 ![](./iotimage/object14.png)
 
+    假如使用KOI，請加入KOI插件。
+
 ### 第一步: 連接ObjectBlocks平台
 
 在連接MQTT的積木裏填入你渠道的用戶名(Host)和密碼(Pass)。
