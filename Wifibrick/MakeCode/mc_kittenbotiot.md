@@ -12,6 +12,8 @@
 
 請先登入Kittenbot IoT，然後建立一個新話題。
 
+[Kittenbot自家IoT平台](https://iot.kittenbot.cn/)
+
 假如你需要建立一個私人話題，請填入用戶名與密碼。
 
 ![](./iotimage/kittenbot_1.png)

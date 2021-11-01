@@ -10,4 +10,6 @@ ObjectBlocks是香港編程教育機構Coding101的物聯網IoT平台，它的�
 
 ## ObjectBlocks官方教學
 
+## Makecode 編程與ObjectBlock
 
+[Makecode編程教學](../MakeCode/objectblock.md)

@@ -22,6 +22,8 @@ MakerCloud有提供官方的教學，此頁面僅為KittenBot HK提供的教學�
 
 我們首先要登入MakerCloud平台，設立好MQTT主題。
 
+[前往MakerCloud](https://www.makercloud.io/user/login?ref=/)
+
 登入之後前往主頁，點擊『創建項目』。
 
     你亦可以使用你先前創立的項目。

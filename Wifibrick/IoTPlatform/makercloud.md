@@ -19,3 +19,7 @@ MakerCloud創客雲是本港科創企業智方創科Scale Innotech所開發的�
 官方創客雲教學：<https://learn.makercloud.io/zh_TW/latest/>
 
 ![](./iotimage/makerCloud_learn.png) 
+
+## Makecode 編程與MakerCloud
+
+[Makecode編程教學](../MakeCode/makercloud.md)

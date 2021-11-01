@@ -65,3 +65,7 @@ KittenBot顧及到市場上的物聯網平台大多都需要付費，而且就�
 您可以下載話題數據，數據會以csv的格式保存。
 
 ![](./iotimage/kittenbot_9.png)
+
+## Makecode 編程與Kittenbot IoT
+
+[Makecode編程教學](../MakeCode/mc_kittenbotiot.md)

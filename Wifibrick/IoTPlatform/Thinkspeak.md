@@ -8,32 +8,23 @@
 
 它是一個由Mathworks管理, 強大的IoT 分析服務端平台, 讓用家可以把設備(如sensor)所收集的數據, 經過網絡傳送到該平台上 (REST API / MQTT 協議) , 以圖像型式把數據程現或作雲端數據分析。當然, 我們也可以通過thingspeak進行數據互換, 把由A 點上傳的數據, 推送到B點設備上作進一步判斷或應用, 進行實時數據交換。![](./iotimage/iot-01-01.png)
 
-
-
 thingspeak是其中一個現時最多新手選用的IoT 平台, 有免費版本也有商用版; 對於剛接觸的初學用家而言, 免費版本的thingspeak 是個不錯的選擇。
 
 更多關於Licence[說明](https://thingspeak.com/pages/license_faq)
-
-
 
 ## 登記帳戶
 
 正式使用thingspeak 前, 我們需先登記一個帳戶; 如上文提及, 一般新用戶可先登記一個免費帳戶進入平台
 
-![](./iotimage/iot-02-01.png) 
-
-
+![](./iotimage/iot-02-01.png)
 
 新用戶選Create Acconut; 已登記過的就直接Sign In 便可    
 
  ![](./iotimage/iot-03-01.png)
 
-
 填好資料後便按下Continue
 
  ![](./iotimage/iot-04-01.png)
-
-
 
 在選項上打剔便可繼續登記程序。
 
@@ -42,8 +33,6 @@ thingspeak是其中一個現時最多新手選用的IoT 平台, 有免費版本�
 跟據指示, 到所用的郵箱找回確認電郵並完成第2點的核實程序。**此頁面需保留**
 
  ![](./iotimage/iot-06-01.png)
-
-
 
 在郵件中點選連結, 完成確認程序。
 
@@ -55,8 +44,6 @@ thingspeak是其中一個現時最多新手選用的IoT 平台, 有免費版本�
 
  ![](./iotimage/iot-09-01.png)
 
-
-
 為帳號設定password
 
  ![](./iotimage/iot-10-01.png)
@@ -64,8 +51,6 @@ thingspeak是其中一個現時最多新手選用的IoT 平台, 有免費版本�
 帳號登記成功
 
  ![](./iotimage/iot-11-01.png)
-
-
 
 ## 頁面介紹
 
@@ -77,13 +62,9 @@ thingspeak是其中一個現時最多新手選用的IoT 平台, 有免費版本�
 
 新手也可以到**Support** 中碰運氣, 說不定可以進一步找到有用資訊及例子。
 
-
-
 ## 設立Channel
 
 Channel 是平台為你而設獨有的雙向頻道; 你可以把數據上傳到你指定的Channel, 同時也可從Channel 中獲取數據。免費用戶最多只能設立4個頻道。
-
-
 
 按下New Channel
 
@@ -101,25 +82,17 @@ Channel 是平台為你而設獨有的雙向頻道; 你可以把數據上傳到�
 
  ![](./iotimage/iot-15-01.png)
 
-
-
 **注意:** 每條Channel 最多只有8個Fields
 
 填寫好內容後按下Save Channel, 系統便會按設定建立了1條獨有的頻道。
 
 [更多設定內容說明](https://ww2.mathworks.cn/help/thingspeak/channel-settings.html)
 
-
-
 ## Channel 頁面
 
 這就是我們剛才設定的Channel 頁面, 也是用戶常到的位置。
 
 ![](./iotimage/iot-17.png)
-
-
-
-
 
 我們可以看到:
 
@@ -139,13 +112,9 @@ Channel 是平台為你而設獨有的雙向頻道; 你可以把數據上傳到�
 
     ![](./iotimage/iot-21-01.png)
 
-   
-
 若想修改Channel 內容, 可以到Channel Setting 進行修改:
 
- ![](./iotimage/iot-22-01.png) 
-
-
+ ![](./iotimage/iot-22-01.png)
 
 若要從網頁中其他頁面回到指定Channel 頁面, 可按以下步驟進行:
 
@@ -157,10 +126,6 @@ Channel 是平台為你而設獨有的雙向頻道; 你可以把數據上傳到�
 
  ![](./iotimage/iot-26-01.png)
 
-
-
-
-
 #### 發佈 (Publish)
 
 當我們想把數據發佈到thingspeak 某一Channel時, 需要先獲取該Channel 的**Write API Key**
@@ -169,13 +134,9 @@ Channel 是平台為你而設獨有的雙向頻道; 你可以把數據上傳到�
 
  ![](./iotimage/iot-27-01.png)
 
-
-
 以下就是Room 101 Channel 的Write API Key , 在編寫發佈程式時就會用上
 
  ![](./iotimage/iot-28-01.png)
-
-
 
 #### 訂閱 (Subscribe)
 
@@ -185,13 +146,12 @@ Channel 是平台為你而設獨有的雙向頻道; 你可以把數據上傳到�
 
  ![](./iotimage/iot-29-01.png)
 
-
-
 進入頁面後住下拉, 就會看到MQTT API Key, 在下一個關於編程的編章中, 講及如何訂閱Channel時會用上這個 MQTT API key
 
  ![](./iotimage/iot-30-1.png)
 
-
-
 thingspeak 有MathWorks 作為後台, 其付費版含強大的高階功能, 有興趣的發燒友可一步步了解其他功能。
 
+## Makecode 編程與ThingSpeak
+
+[Makecode編程教學](../MakeCode/thingspeak.md)

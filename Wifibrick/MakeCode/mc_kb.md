@@ -10,6 +10,10 @@
 
 在這節教程，我們將會學習使用WifiBrick和KOI與Kittenblock的程式溝通。
 
+## 安裝KittenBlock
+
+[下載KittenBlock](../../KittenBlock/kittenblockGreen.md)
+
 ## 第一步：平台準備
 
 ### 注意：電腦需要與Wifibrick/KOI連接在同一個網絡上。

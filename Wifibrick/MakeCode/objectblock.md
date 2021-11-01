@@ -1,4 +1,4 @@
-# Makecode 編程與 ObjectBlock
+# Makecode 編程與ObjectBlock
 
 ## ObjectBlock官方教學
 
@@ -10,11 +10,13 @@ ObjectBlock有提供官方的教學，此頁面僅為KittenBot HK提供的教學
 
 我們會使用Robotbit作範例。
 
-    KOI也支援ObjectBlock。
+    KOI也支援ObjectBlocks。
 
 ## 第一步：平台準備
 
 我們首先要登入ObjectBlock平台，設立好MQTT主題。
+
+[前往ObjectBlocks](https://www.objectblocks.cc/)
 
 登入之後在上方的選項欄中選擇新增專案。
 
