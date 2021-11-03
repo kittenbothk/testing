@@ -1,12 +1,12 @@
-# Makecode 編程與ObjectBlock
+# Makecode 編程與ObjectBlocks
 
-## ObjectBlock官方教學
+## ObjectBlocks官方教學
 
-ObjectBlock有提供官方的教學，此頁面僅為KittenBot HK提供的教學，一切以官方教學為準。
+ObjectBlocks有提供官方的教學，此頁面僅為KittenBot HK提供的教學，一切以官方教學為準。
 
 ## 前言：
 
-在這節教程，我們將會學習使用WifiBrick在ObjectBlock上如何發布資料和接收資料。
+在這節教程，我們將會學習使用WifiBrick在ObjectBlocks上如何發布資料和接收資料。
 
 我們會使用Robotbit作範例。
 
@@ -14,7 +14,7 @@ ObjectBlock有提供官方的教學，此頁面僅為KittenBot HK提供的教學
 
 ## 第一步：平台準備
 
-我們首先要登入ObjectBlock平台，設立好MQTT主題。
+我們首先要登入ObjectBlocks平台，設立好MQTT主題。
 
 [前往ObjectBlocks](https://www.objectblocks.cc/)
 

@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/IoTPlatform/Thinkspeak.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/IoTPlatform/Thinkspeak.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/IoTPlatform/kittenblock.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/IoTPlatform/kittenblock.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/IoTPlatform/kittenbotiot.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/IoTPlatform/kittenbotiot.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/IoTPlatform/makercloud.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/IoTPlatform/makercloud.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/index.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wifibrick/IoTPlatform/objectblocks.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/IoTPlatform/objectblocks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/makercloud.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/makercloud.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/objectblock.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/objectblock.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
