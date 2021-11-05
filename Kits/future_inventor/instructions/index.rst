@@ -11,3 +11,4 @@
     timer.md
     safe.md
     streetlamp.md
+    ruler.md

@@ -8,6 +8,10 @@
 
 [組裝說明書下載](www.google.com)
 
+## 參考接線
+
+![](../images/streetlamp_wire.png)
+
 ## 參考程式
 
 ### Kittenblock控制端

@@ -8,6 +8,10 @@
 
 [組裝說明書下載](www.google.com)
 
+## 參考接線
+
+![](../images/timer_wire.png)
+
 ## 參考程式
 
 ![](../images/timer_code.png)
