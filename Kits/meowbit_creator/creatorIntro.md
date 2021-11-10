@@ -38,6 +38,10 @@ Meowbit發明家套件是一套針對Meowbit而開發的教育套件，為Meowbi
 - 包裝尺寸：195x175x70mm
 - 淨重：650g
 
+## 介紹短片
+
+[![](./images/video.png)](https://www.youtube.com/watch?v=mG7EN7KPgXs)
+
 ## 套件案例介紹
 
 ### 1. 計步裝置
