@@ -14,8 +14,8 @@ Robotbit 大班教學套件模組教學
     ../../../functional_module/nekoUltrasound.md
     ../../../functional_module/outdated/potentialmeter.md
     ../../../functional_module/outdated/soilhumid.md
-    ../../../functional_moduleoutdated//watelevel.md
+    ../../../functional_module/outdated/watelevel.md
     ../../../functional_module/legofan.md
     ../../../motors/ttmotor.md
     ../../../motors/powerBrickServo.md
-    ../../../functional_module/Wifibrick/index
+    ../../../Wifibrick/Wifibrick_intro.md

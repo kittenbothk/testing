@@ -11,8 +11,8 @@ Meowbit發明家套件魔塊教學
     ../../../motors/powerBrickMotor
     ../../../motors/powerBrickServo
     ../../../functional_module/nekoUltrasound
-    ../../../functional_module/outdate/rgb
-    ../../../functional_module/outdate/sound
-    ../../../functional_module/outdate/slider
-    ../../../functional_module/outdate/infrared
+    ../../../functional_module/outdated/rgb
+    ../../../functional_module/outdated/sound
+    ../../../functional_module/outdated/slider
+    ../../../functional_module/outdated/infrared
     
