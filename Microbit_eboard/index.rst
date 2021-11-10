@@ -11,5 +11,6 @@ Microbit擴展板
     Robotbit/index
     ../functional_module/PWmodules/Armourbit.md
     sugarbox/index
+    arcade_shield/index
     JoyFrog/index
     iobit/iobit.md
