@@ -1,6 +1,8 @@
-# Wifibrick 介紹與使用
+# Wifibrick 介紹
 
 Wifibrick (HKBM8012O)
+
+![](./introimage/wifibrick.png)
 
 ## 簡介
 
@@ -8,29 +10,21 @@ Wifibrick 是Kittenbot Powerbrick 延伸的一款功能魔塊; 顧名思義, Wif
 
  ![](./introimage/wifi-01-1.png)
 
-
-
-它的外型跟Powerbrick 中的溫濕度方塊是同一個模樣; 但Wifibrick 上多了一個logo
+它的外型跟Powerbrick 中的溫濕度方塊是同一個模樣; 但Wifibrick 上多了一個logo。
 
  ![](./introimage/wifi-02.png)
 
+## 產品參數	
 
-
-## 規格	
-
-工作電壓:  3.3 - 5V  
-
-工件電流:  ~65mA
-
+工作電壓:  3.3 - 5V
+工件電流:  62mA
 尺寸: 56 (L) x 25 (W) x 20 (H)
-
-接線位置: PH2.0, 4 pin防反接排線
+接頭: PH2.0 4Pin
+支援網絡: 2.4GHz 無綫網絡
 
  ![](./introimage/wifi-05-1.png)
 
 支持 STA / AP / STA+AP 模式; 支持Smart Config 功能
-
-
 
 ## 特點	
 
@@ -46,8 +40,6 @@ Wifibrick 是Kittenbot Powerbrick 延伸的一款功能魔塊; 顧名思義, Wif
 
      ![](./introimage/wifi-09-1.png)
 
-
-
 ## 接腳解讀
 
 在Wifibrick 背面, 會看4支針腳的標示, 分別為 G﹑V﹑ A﹑ B, 
@@ -62,19 +54,13 @@ Tx = 發送數據 Transmit(*tx*) Data 的簡寫
 
 Rx = 接收数據 Receive(*rx*) Data 的簡寫
 
-
-
 ## 接線方法
 
  ![](./introimage/wifi-06-1.png)
 
-
-
 把wifibrick 連接到micro:bit 的方法很多, 建議配合Kittenbot 的擴展板 / breakout board 一拼使用。
 
 詳細見下文:
-
-
 
 ### Armourbit
 
@@ -82,9 +68,7 @@ Armourbit 是Powerbrick 套件中的micro:bit擴展盒。只要把micro:bit 插�
 
  ![](./introimage/wifi-07-1.png)
 
-[Armourbit 詳細介紹](https://kittenbothk.readthedocs.io/en/latest/Microbit%20eboard/Armourbit.html)
-
-
+[Armourbit 詳細介紹](../Microbit_eboard/Armourbit.md)
 
 採用2端都是ph2.0 4pin 的接線
 
@@ -94,7 +78,7 @@ Armourbit 是Powerbrick 套件中的micro:bit擴展盒。只要把micro:bit 插�
 
 下圖示範用上了Port 2, 對應的就是micro:bit 的p1 及 p12
 
-#### ![](./introimage/wifi-13-1.png)
+![](./introimage/wifibrick_armourbit.png)
 
 下圖解有助稍後了解在編程中的設定
 
@@ -102,13 +86,15 @@ Armourbit 是Powerbrick 套件中的micro:bit擴展盒。只要把micro:bit 插�
 
 ### Robotbit Edu
 
+[Robotbit Edu詳細介紹](../Microbit_eboard/Robotbit_edu/robotbitedu.md)
+
 Robotbit Edu上已經提供了4pin的通訊接口，我們只需要將WifiBrick連接到通訊接口就可以了。
 
 只需使用PH2.0轉杜邦線按圖例接線即可。
 
 ![](./introimage/wifi-16-1.png)
 
-![](./introimage/edu1.png)
+![](./introimage/wifibrick_edu.png)
 
 由於Robotbit Edu的通訊接口使用了P2與P12，我們在MakeCode裡面就要相應地選擇引腳。
 
@@ -124,23 +110,15 @@ Robotbit 是Kittenbot 一款長青的擴展板, 兼容自家大部份外置模�
 
  ![](./introimage/wifi-16-1.png)
 
-
-
 接線示意圖
 
  ![](./introimage/wifi-20-1.png)
 
- ![](./introimage/wifi-19-1.png)
-
-
+![](./introimage/wifibrick_robotbit.png)
 
 下圖解有助稍後了解在編程中的設定
 
  ![](./introimage/wifi-18-1.png)
-
-
-
-
 
 ### IoBit
 
@@ -150,12 +128,13 @@ IoBit 接Wifibrick 的方法跟上述接Robotbit 的方法大同小異, 都是�
 
  ![](./introimage/wifi-21-1.png)
 
+### WifiBrick指示燈詳解
 
-
-
-
-
-
-
-
-
+1. 當啟動電源後，紅色燈會亮起。
+![](./introimage/led1.png)
+2. 在連接網絡期間，藍色燈會亮起。
+![](./introimage/led2.png)
+3. 成功連網之後，所有燈會熄滅。
+![](./introimage/led3.png)
+4. 成功連接MQTT之後，綠色燈會亮起。
+![](./introimage/led4.png)

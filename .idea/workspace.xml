@@ -20,10 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/aiot/modules/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/aiot/modules/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom/modules/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom/modules/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/meowbit_creator/modules/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/meowbit_creator/modules/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/MC_TS.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/MC_TS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wifibrick/Wifibrick_intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/Wifibrick_intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wifibrick/wifiUpdate.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/wifiUpdate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/conf.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,11 +136,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowVersion Control.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../vtc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_static/css" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rainb\Desktop\kittenbot docs\testinghub\_static\css" />
       <recent name="D:\testinghub\futureboard" />
       <recent name="C:\Users\DELL\Desktop\vtc" />
       <recent name="E:\" />

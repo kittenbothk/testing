@@ -6,11 +6,13 @@ Kittenbot會不定時推出Wifibrick固件，提升穩定性和改善功能。
 
 ![](../functional_module/PWmodules/images/mcbanner.png)
 
-#### 我們先加載WifiBrick插件：
+### 加載Kittenbot插件：
 
-#### https://github.com/KittenBot/pxt-kittenwifi
+### 在擴展頁直接搜尋Kittenbot (Kittenbot已經過微軟認證，可以直接搜尋)
 
-方法請參考：[KittenBot產品與MakeCode](../Makecode/powerBrickMC)
+### 選擇KittenWifi。
+
+![](./MakeCode/iotimage/wifi_search.png)
 
 ## 檢查固件版本
 

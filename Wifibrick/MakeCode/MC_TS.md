@@ -64,15 +64,25 @@
    SSID 及 PW, 只能由英文子母及數字組合, 而且大小階必需一致
    ```
 
-3. 首次連線, 為方便了解狀態, 建議設定手機熱點為Wifibrick 提供網絡, 請細閱以下重點
-
-   ![](./iotimage/iot-61.jpg)
+3. WifiBrick只能連接到2.4GHz之網絡，請確保網絡合乎規格。
 
 進入下一步前, 建議先把本章程式下載到microbit 運行, 測試把wifibrick 連到網絡; 如連線順利便可進一步組織核心功能。
 
-[Wifibrick連線到網絡hex](https://bit.ly/WifibrickConnectionMC)
+![](./iotimage/wifi_code1.png)
+
+[Wifibrick連線到網絡](https://makecode.microbit.org/_ErmXcmDV91cw)
 
 [**短片參考**](https://youtu.be/v6yIrGqzqO4)
+
+### WifiBrick指示燈詳解
+
+1. 當啟動電源後，紅色燈會亮起。
+2. 在連接網絡期間，藍色燈會亮起。
+3. 成功連網之後，所有燈會熄滅。
+4. 成功連接MQTT之後，綠色燈會亮起。
+
+示範短片：
+[![]()]()
 
 ## MakeCode與ThingSpeak編程
 
