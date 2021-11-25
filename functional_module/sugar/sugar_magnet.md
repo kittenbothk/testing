@@ -36,7 +36,7 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 ![](./images/magnet_mc_code.png)
 
-[參考程式](https://makecode.microbit.org/_FkxHJCWpLTCk)
+[參考程式](https://makecode.microbit.org/_LRV7D0FrfAtU)
 
 ### Kittenblock 編程教學
 

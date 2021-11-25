@@ -37,7 +37,7 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 ![](./images/line_mc_code.png)
 
-[參考程式](https://makecode.microbit.org/_f2P0L3170A04)
+[參考程式](https://makecode.microbit.org/_DuF9Y5MsRfTh)
 
 ### Kittenblock 編程教學
 

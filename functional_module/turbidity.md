@@ -40,15 +40,34 @@
 
 [參考程式網址](https://makecode.microbit.org/_WjmH6zahVTUe)
 
+## 未來板KittenBlock編程教學
+
+![](./PWmodules/images/kbbanner.png)
+
+### 在硬件欄選擇『未來板』
+
+![](./images/turbidity_kb1.png)
+
+### 污水混濁度感應器積木塊：
+
+![](./images/turbidity_kb2.png)
+
+### 污水混濁度感應器編程
+
+    污水混濁度感應器可以配合水溫感應器作校正使讀數更加準確。
+    注意：濁度感應器的頂部沒有防水，請不要將感應器完全浸入水中。
+
+![](./images/turbidity_kb3.png)
+
 ## 示範短片
-
-### 未來板
-
-[![](./images/turbidity5.png)](https://youtu.be/4ePV6fmwoAA?t=7)
 
 ### Micro:bit
 
 [![](./images/turbidity6.png)](https://youtu.be/4ePV6fmwoAA?t=77)
+
+### 未來板
+
+[![](./images/turbidity5.png)](https://youtu.be/4ePV6fmwoAA?t=7)
 
 ## 插件版本與更新
 

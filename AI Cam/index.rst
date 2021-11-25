@@ -12,6 +12,7 @@
     makecodeQs
     update_firmware/index
     FunctionDemo_MC/index
+    futureboard_demo/index
     serial/command
     kittenblock/kittenblock
     micropython/qs

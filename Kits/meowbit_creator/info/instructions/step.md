@@ -4,7 +4,7 @@
 
 ## 教材資源包下載
 
-包括說明書： [資源包下載地址](https://bit.ly/AIHealthCareSetBuildingGuide)
+包括說明書： [資源包下載地址](https://drive.google.com/drive/folders/16T0mfS0QbxXfHf4GvNz62Xd2x8dvOq4m?usp=sharing)
 
 ## 參考接線
 
@@ -13,9 +13,6 @@
 ## 參考程式
 
 [計步裝置參考程式](https://makecode.com/_8y80L58cDYL2)
-
-[參考程式資源包下載地址](https://bit.ly/AIHealthCareSetHex)
-
 
 ## 模型玩法
 

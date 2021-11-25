@@ -12,3 +12,4 @@
     safe.md
     streetlamp.md
     ruler.md
+    rc_kart.md
