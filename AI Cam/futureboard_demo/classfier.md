@@ -10,10 +10,15 @@
 
 ![](./images/koi_classifier.png)
 
-## 範例程式1：訓練與儲存模型
+## 範例程式1：訓練與儲存模型(需要SD卡)
+
+    使用圖像辨識前必須要初始化分類器。
+    KOI最多可以錄入40張相片。
 
 ![](./images/koi_classifier_code1.png)
 
-## 範例程式2：載入與運行分類器
+## 範例程式2：載入與運行分類器(需要SD卡)
+
+    使用圖像辨識前必須要初始化分類器。
 
 ![](./images/koi_classifier_code2.png)

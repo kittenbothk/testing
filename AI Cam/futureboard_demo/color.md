@@ -17,3 +17,4 @@ KOI可以做到顏色色塊與線條追蹤。
 ## 範例程式2：線條追蹤
 
 ![](./images/koi_color_code2.png)
+

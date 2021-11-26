@@ -6,6 +6,15 @@
 
 ![](./images/koi_baidu.png)
 
-## 參考程式：百度AI
+## 參考程式1：百度AI人臉辨識
 
-![](./images/koi_baidu_code.png)
+    人臉辨識請選擇一個比較特別的名稱。
+    人臉組別裡面每位人最多可以添加10張相片。
+
+![](./images/koi_baidu_code1.png)
+
+## 參考程式2：百度AI文字轉語音
+
+    文字轉語音不可以使用空白鍵，請盡量使用單字或者用.分隔。
+
+![](./images/koi_baidu_code2.png)
