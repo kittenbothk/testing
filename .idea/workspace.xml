@@ -20,74 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/images/armour_wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/images/armour_wire.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/tutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/tutorial.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/Wifibrick_intro.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/Armourbit layout.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/PH2.0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/edu1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/edu2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/led1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/led2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/led3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/led4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/makercloudlogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/ph2.0 to 2.0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/update1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/update2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/update3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/update4.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/update5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/update6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/update7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/update8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-01-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-03-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-04-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-05-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-06-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-07-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-08-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-09-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-10-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-12-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-13-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-14-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-16-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-18-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-19-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-20-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-21-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-22-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifi-23-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifibrick.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifibrick_2d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifibrick_2d.png.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifibrick_armourbit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifibrick_armourbit.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifibrick_edu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifibrick_edu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifibrick_robotbit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/introimage/wifibrick_robotbit.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/wifiUpdate.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/turbidity.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/turbidity.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/watertemp.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/watertemp.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wifibrick/IFTTT/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/IFTTT/index.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
