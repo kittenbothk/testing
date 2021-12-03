@@ -12,9 +12,9 @@
 
 ![](./images/train_code.png)
 
-[Armourbit版參考程式](https://makecode.microbit.org/_Am5gsgJ0J6WP)
+[Armourbit版參考程式](https://makecode.microbit.org/_JrW0YiUai2r8)
 
-[Robotbit版參考程式](https://makecode.microbit.org/_7WJFv0199PFv)
+[Robotbit版參考程式](https://makecode.microbit.org/_Ew7AEaDzw78e)
 
 ### 訓練方法
 
@@ -29,7 +29,7 @@
 
 [Armourbit版參考程式](https://makecode.microbit.org/_EErK8LD3U4zr)
 
-[Robotbit版參考程式](https://makecode.microbit.org/_7x9XHo1Wpa0T)
+[Robotbit版參考程式](https://makecode.microbit.org/_3EFJLh3Tc7sL)
 
 ### 辨認方法
 

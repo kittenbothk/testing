@@ -4,7 +4,7 @@ Kittenbot會不定時推出Wifibrick固件，提升穩定性和改善功能。
 
 以下會講解一下檢查和更新固件版本的方法。
 
-![](../functional_module/PWmodules/images/mcbanner.png)
+![](../../functional_module/PWmodules/images/mcbanner.png)
 
 ### 加載Kittenbot插件：
 
@@ -12,7 +12,7 @@ Kittenbot會不定時推出Wifibrick固件，提升穩定性和改善功能。
 
 ### 選擇KittenWifi。
 
-![](./MakeCode/iotimage/wifi_search.png)
+![](../MakeCode/iotimage/wifi_search.png)
 
 ## 檢查固件版本
 

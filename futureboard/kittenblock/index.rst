@@ -19,3 +19,4 @@
     sugar
     hko
     kmbeta
+    koi
