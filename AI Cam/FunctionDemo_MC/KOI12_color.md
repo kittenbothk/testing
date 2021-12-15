@@ -1,6 +1,6 @@
-# **線條檢測追蹤**
+# **顏色檢測追蹤**
 
-線條追蹤一般用作小車子巡線，本節教程將教導大家將偵測到線條之座標(X1,Y1)和(X2,Y2)顯示到OLED上面。
+本節教程將教導大家將偵測到顏色之座標(X,Y)顯示到OLED上面。
 
 ## Robotbit接線
 
@@ -25,17 +25,17 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 ### [詳細方法](../../Makecode/powerBrickMC)
 
-線條檢測積木塊：
+顏色檢測積木塊：
 
-![](KOI12/blocks.png)
+![](KOI12/blocks_blob.png)
 
 編寫程式：
 
-![](KOI12/code.png)
+![](KOI12/code_blob.png)
 
 ## 按鍵A觸發顏色追蹤
 
-巡線追蹤和顏色追蹤相似，大家都需要首先進行顏色校正。
+顏色追蹤相似前大家都需要首先進行顏色校正。
 
 您可以定義顏色的名稱。KOI可以校正並追蹤多種顏色。
 
@@ -51,10 +51,9 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 將程式下載到Microbit上。
 
-將要追蹤的筆直線狀物件放在鏡頭前（例如原子筆），按下按鍵A進行顏色校正。
+將要追蹤色塊物件放在鏡頭前（例如原子筆），按下按鍵A進行顏色校正。
 
-校正成功後，可以看到被偵測線段的2組座標顯示在Microbit的顯示屏上。
-
+校正成功後，可以看到被偵測色塊的2組座標顯示在Microbit的顯示屏上。
 
 ## 進階程式
 
@@ -64,22 +63,21 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 請按照圖例連接OLED與Robotbit，確認妥當接線後再打開電源。
 
-
 ![](KOI12/03.png)
 
 編寫程式：
 
-![](KOI12/codeoled.png)
+![](KOI12/codeoled_blob.png)
 
-程式流程與基本程式相同，可以看到被偵測線段的2組座標顯示在OLED顯示屏上。
+程式流程與基本程式相同，可以看到被偵測色塊的2組座標顯示在OLED顯示屏上。
 
 ![](KOI12/01.png)
 
 ## 參考程式
 
-[1. 線條檢測HEX (插件0.6.8)](https://makecode.microbit.org/_T9747v0Vdd2q)
+[1. 色塊檢測HEX (插件0.6.8)](https://makecode.microbit.org/_V4UeaJYT61YP)
 
-[2. 線條檢測+OLED HEX (插件0.6.8)](https://makecode.microbit.org/_MViMLk0uhb70)
+[2. 色塊檢測+OLED HEX (插件0.6.8)](https://makecode.microbit.org/_2DKRWfEXTW9M)
 
 ## 插件版本與更新
 
@@ -99,7 +97,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 ·    答：不行，必須要接5V！
 
-### 3： 如何提高巡線的準確性？
+### 3： 如何提高色塊的準確性？
 
 ·    答：盡量保持簡潔的背景，並使用與背景顏色有明顯分別的物件。
 

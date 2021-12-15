@@ -175,9 +175,9 @@
 
 ![](./iotimage/thingspeak_code1.png)
 
-[WiFiBrick參考程式](https://makecode.microbit.org/_HqyRtK7oMTb9)
+[WiFiBrick參考程式](https://makecode.microbit.org/_L71FkV3wkEV4)
 
-[KOI參考程式](https://makecode.microbit.org/_E0V37dJJ3Yoq)
+[KOI參考程式](https://makecode.microbit.org/_UzsL7JKtuJi6)
 
 發佈成功的話，在ThingSpeak的頁面上會看到剛才發布的信息。
 
@@ -193,9 +193,9 @@
 
 ![](./iotimage/thingspeak_code2.png)
 
-[WiFiBrick參考程式](https://makecode.microbit.org/_Tm9Yj66WhWy8)
+[WiFiBrick參考程式](https://makecode.microbit.org/_JKeC421rpUx2)
 
-[KOI參考程式](https://makecode.microbit.org/_M5PDc49U7Wcj)
+[KOI參考程式](https://makecode.microbit.org/_a0saR4h5E1Fo)
 
 相信大家已具體掌握如何利用免費thingspeak 的方法, 歡迎把所製作的IoT 項目whatsapp到micro:bit 群組分享與交流！
 

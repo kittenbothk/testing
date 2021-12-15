@@ -20,9 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI12/calibrate.png" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI12/calibrate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI12/code.png" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI12/code.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI12/codeoled.png" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI12/codeoled.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI12_linetrace.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI12_linetrace.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wifibrick/IFTTT/makercloud.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/IFTTT/makercloud.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wifibrick/IFTTT/thingspeak.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/IFTTT/thingspeak.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/MC_TS.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/MC_TS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wifibrick/futureboard/makercloud.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/futureboard/makercloud.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +59,6 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file:////192.168.2.68/Share Files/Kittenbot/Product/Future board/Demo Case/05_19 區天文台/hko.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
