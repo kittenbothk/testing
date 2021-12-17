@@ -106,4 +106,3 @@ ThingSpeak作為免費的IoT平台，的確是方便大家可以實現IoT應用�
 - MQTT主題: channels/[頻道ID]/subscribe/fields/field[欄位號碼]
 
 ![](./images/18.png)
-

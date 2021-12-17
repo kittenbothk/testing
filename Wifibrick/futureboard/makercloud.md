@@ -19,3 +19,19 @@
 
 ![](./images/mc1.png)
 
+### 發佈信息到MakerCloud
+
+搭建出以下程式，按下A鍵將數據發送到MakerCloud。數據發布的格式請參考下圖。
+
+![](./images/mc2.png)
+
+![](./images/mc3.png)
+
+### 讀取MakerCloud信息
+
+搭建出以下程式，讀取MakerCloud上的數據。
+
+讀取的數據會顯示在屏幕上面。
+
+![](./images/mc4.png)
+
