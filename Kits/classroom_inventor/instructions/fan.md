@@ -12,7 +12,7 @@
 
 ![](../images/fan_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_LsLWea63oXHe)
+[參考程式下載](https://makecode.microbit.org/_55LfwC4fHEw8)
 
 ## 模型玩法
 

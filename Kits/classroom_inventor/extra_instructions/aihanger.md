@@ -14,7 +14,7 @@
 
 ![](../images/extra_hanger_code2.png)
 
-[參考程式下載](https://makecode.microbit.org/_i6od5EPD2PT8)
+[參考程式下載](https://makecode.microbit.org/_32XacpDsK4CW)
 
 ### 主程式
 
