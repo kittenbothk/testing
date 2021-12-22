@@ -14,7 +14,7 @@
 
 ![](../images/extra_trafficlight_code2.png)
 
-[參考程式下載](https://makecode.microbit.org/_1xAgL0RtD6fy)
+[參考程式下載](https://makecode.microbit.org/_AqhbAq1U6KJ9)
 
 ### 主程式
 

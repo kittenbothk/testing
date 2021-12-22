@@ -12,7 +12,7 @@
 
 ![](../images/candle_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_5ALf1ygV8EVU)
+[參考程式下載](https://makecode.microbit.org/_FEcRtAXx0AWi)
 
 ## 模型玩法
 
