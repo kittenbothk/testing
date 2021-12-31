@@ -14,16 +14,16 @@
 
 ![](../images/extra_safe_code2.png)
 
-[參考程式下載](https://makecode.microbit.org/_Hir6kKLXcYUk)
+[參考程式下載](https://makecode.microbit.org/_KYj17kX2AhF8)
 
 ### 主程式
 
 ![](../images/extra_safe_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_D8jDyuUzs4pP)
+[參考程式下載](https://makecode.microbit.org/_90xH0A0fmiRV)
 
 ## 模型玩法
 
-首先使用訓練程式，按A將人臉加到資料庫。
+首先使用訓練程式，按A或B將人臉加到資料庫。
 
 然後用主程式，按A辨認人臉，如果人臉是在資料庫裡就打開保險箱。按B鎖上保險箱。

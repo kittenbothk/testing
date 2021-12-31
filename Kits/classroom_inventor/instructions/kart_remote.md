@@ -14,13 +14,13 @@
 
 ![](../images/kart_code2.png)
 
-[參考程式下載](https://makecode.microbit.org/_WjpcefWkccgi)
+[參考程式下載](https://makecode.microbit.org/_YeCK5aEFfP0p)
 
 ### 三輪車參考程式
 
 ![](../images/kart_code3.png)
 
-[參考程式下載](https://makecode.microbit.org/_R28XdPCxb17e)
+[參考程式下載](https://makecode.microbit.org/_WcKYvVXvWR9v)
 
 ## 模型玩法
 
