@@ -13,3 +13,4 @@
     streetlamp.md
     ruler.md
     rc_kart.md
+    parking.md
