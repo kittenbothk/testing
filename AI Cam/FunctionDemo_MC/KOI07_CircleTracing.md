@@ -26,7 +26,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 完整參考程式：
 
-  ![](KOI07/02-1.png)
+  ![](KOI07/code1.png)
 
 ### 臨界值
 
@@ -36,10 +36,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 臨界值越大，干擾越少，但識別難度也會提高。因此需要自己根據場景多做測試。
 
-  ![](KOI06/02-1.png)
-
 ## 程式運行流程
-
 
 把程式下載到Microbit 上, 按下Microbit 上的A鍵. Microbit 點陣會顯示出檢測所得之半徑值 (佔KOI 的螢幕長度計算, 最大r 值在105 - 110 左右); 
 
@@ -57,21 +54,17 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 ![](KOI06/03-1.png)
 
-![](KOI06/03-1.png)
-
 ### 編寫程式
 
 ### 加入OLED的插件： https://github.com/KittenBot/pxt-oled
 
- ![](KOI07/03-1.png)
-
- ![](KOI06/04-1.png)
+ ![](KOI07/code2.png)
 
 ## 參考程式
 
-[1. 圓形追踪 HEX (插件0.5.7)](https://makecode.microbit.org/_h87fXzXxPhWU)
+[1. 圓形追踪 HEX (插件0.6.8)](https://makecode.microbit.org/_P3wiD8Mur89Y)
 
-[2. 圓形追踪, OLED顯示HEX (插件0.5.7)](https://makecode.microbit.org/_TWT2uPR6ziYh)
+[2. 圓形追踪, OLED顯示HEX (插件0.6.8)](https://makecode.microbit.org/_5E21sPM6vaqV)
 
 ## 插件版本與更新
 

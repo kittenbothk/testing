@@ -2,8 +2,6 @@
 
 常規的英文字串可以顯示在KOI的螢幕上。但它有別於Microbit點陣屏顯示的字串，KOI螢幕資訊列印僅僅是作為輔助資訊。
 
-
-
 ## 编寫顯示資訊程式
 
 ![](../../functional_module/PWmodules/images/mcbanner.png)
@@ -30,23 +28,17 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
  ![](KOI02/04-1.png)
 
-
-
 完整參考程式：
 
- ![](KOI02/03-1.png)
-
-
+ ![](KOI02/code.png)
 
 ## 程式運行流程
 
 把程式下載到Microbit上，按下Microbit的按鍵A，KOI螢幕上會顯示Kittenbot; 按下Microbit的按鍵B，KOI螢幕上會顯示KOI , 維持2秒。
 
-
-
 ## 參考程式
 
-[螢幕顯示資訊HEX (插件0.5.7)](https://makecode.microbit.org/_haY9xhetabD6)
+[螢幕顯示資訊HEX (插件0.6.8)](https://makecode.microbit.org/_0jMehKiwH60v)
 
 
 ## 插件版本與更新

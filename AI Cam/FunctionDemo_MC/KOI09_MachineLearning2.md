@@ -2,17 +2,11 @@
 
 在上一節教程，我們已經學習訓練物件辨識的模型，所以在本節教程我們將會學習如何利用模型進行物件辨識。
 
-
-
 ## 插入MicroSD卡
 
-機器學習過程中訓練的圖像會暫存在SD卡，而且我們需要將訓練的模型儲存下來，所以使用機器學習時請確保SD卡已經插在卡槽。      
-
-
+機器學習過程中訓練的圖像會暫存在SD卡，而且我們需要將訓練的模型儲存下來，所以使用機器學習時請確保SD卡已經插在卡槽。
 
 ![](KOI04/02.png)
-
-
 
 ## 編寫模型訓練程式
 
@@ -36,7 +30,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 參考程式：
 
-![](KOI09/run2.png)
+![](KOI09/runcode1.png)
 
     模型儲存的格式可以為.bin或者.json
     例:aaa.json或aaa.bin
@@ -59,7 +53,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 ## 參考程式
 
-[KOI 分類運行 HEX網址 (插件0.5.7)](https://makecode.microbit.org/_a4uJT9TgVPba)
+[KOI 分類運行 HEX網址 (插件0.6.8)](https://makecode.microbit.org/_brxd3HUKCCxc)
 
 ## 插件版本與更新
 

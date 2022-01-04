@@ -30,7 +30,7 @@ btn1和btn2分別指的是按鍵A與按鍵B的按鍵狀態。
 
 完整參考程式：
 
-![](KOI01/03-2.png)
+![](KOI01/code.png)
 
 ## 程式運行流程
 
@@ -39,7 +39,7 @@ btn1和btn2分別指的是按鍵A與按鍵B的按鍵狀態。
 
 ## 參考程式
 
-[KOI AB 按鍵應用HEX (插件0.5.7)](https://makecode.microbit.org/_cjVL49CmfWKJ)
+[KOI AB 按鍵應用HEX (插件0.6.8)](https://makecode.microbit.org/_LMD1x65LgU2E)
 
 ## 插件版本與更新
 

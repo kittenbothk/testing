@@ -12,8 +12,6 @@ KOI上自帶收音咪和喇叭，可以實現錄音與播放的功能。同時�
 
 使用錄音功能必須保證在開機前把記憶體卡插好，KOI支援16G或以下的記憶卡。
 
-
-
 ## 编寫錄音與播放程式
 
 ![](../../functional_module/PWmodules/images/mcbanner.png)
@@ -34,13 +32,9 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
  ![](KOI05/04.png)
 
-
-
 完整參考程式：
 
-  ![](KOI05/03-1.png)
-
-
+  ![](KOI05/code.png)
 
 ## 程式運行流程
 
@@ -49,11 +43,9 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 1. 按下Microbit的按鍵A，對著收音咪進行說話錄音。錄製完畢後，喇叭會播放剛才錄製的音訊。
 2. 當按下Microbit的按鍵B，喇叭播放對應的音訊。
 
-
-
 ## 參考程式
 
-[KOI錄音與播放Hex (插件0.5.7)](https://makecode.microbit.org/_irkWewakW2Fo)
+[KOI錄音與播放Hex (插件0.6.8)](https://makecode.microbit.org/_Tc1EmKJ8eWuR)
 
 
 ## 插件版本與更新

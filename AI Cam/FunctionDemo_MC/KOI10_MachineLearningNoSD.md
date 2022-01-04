@@ -26,7 +26,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 參考程式：
 
-![](KOI10/1.png)
+![](KOI09/code1.png)
 
 ## 程式流程
 
@@ -48,8 +48,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 ## 參考程式
 
-[KOI 機器學習 HEX (插件0.5.4)](https://makecode.microbit.org/_8Ag5b2gjogvq)
-
+[KOI 機器學習 HEX (插件0.6.8)](https://makecode.microbit.org/_8ML1iwdqUF0W)
 
 ## 插件版本與更新
 

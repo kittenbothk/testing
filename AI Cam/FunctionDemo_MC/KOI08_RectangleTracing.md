@@ -26,7 +26,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 完整參考程式：
 
-![](KOI08/02-1.png)
+![](KOI08/code1.png)
 
 ### 臨界值
 
@@ -54,13 +54,13 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 ### 加入OLED的插件： https://github.com/KittenBot/pxt-oled**
 
-![](KOI08/03-1.png)
+![](KOI08/code2.png)
 
 ## 參考程式
 
-[1. 方形追踪 HEX (插件0.5.7)](https://makecode.microbit.org/_2i4V1rWPUWiu)
+[1. 方形追踪 HEX (插件0.6.8)](https://makecode.microbit.org/_HaYX6MH8VAD5)
 
-[2. 方形追踪, OLED顯示HEX (插件0.5.7)](https://makecode.microbit.org/_JA5eX5EAHcJp)
+[2. 方形追踪, OLED顯示HEX (插件0.6.8)](https://makecode.microbit.org/_LmE8H5efoffA)
 
 
 ## 插件版本與更新

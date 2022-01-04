@@ -30,7 +30,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 編寫程式：
 
-![](KOI13/4.png)
+![](KOI13/code3.png)
 
 ## 程式流程
 
@@ -48,7 +48,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 ## 參考程式
 
-[1. 語音辨識儲存模型HEX網址(固件v1.12.0_插件0.6.4)](https://makecode.microbit.org/_FdvWMfaoFHUb)
+[1. 語音辨識儲存模型HEX網址(插件0.6.8)](https://makecode.microbit.org/_4Rt8VJ33HY88)
 
 ## 插件版本與更新
 

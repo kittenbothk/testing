@@ -2,8 +2,6 @@
 
 KOI有個優勢，可以旋轉攝像頭，旋轉範圍0~180°。但螢幕是不會檢測到鏡頭現在是處於前置或者後置模式，因此我們需要用程式中的積木塊進行設置。
 
-
-
 ## 编寫方向設定程式
 
 ![](../../functional_module/PWmodules/images/mcbanner.png)
@@ -30,17 +28,9 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
  ![](KOI03/04.png)
 
-
-
-
-
 完整參考程式：
 
- ![](KOI03/03.png)
-
-
-
-
+ ![](KOI03/code.png)
 
 ## 程式運行流程
 
@@ -50,11 +40,9 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 2: 當按下Microbit的按鍵B，Microbit點陣顯”B“，當鏡頭與螢幕相反朝向時，圖像顯示為反。
 
-
-
 ## 參考程式
 
-[LCD方向設定HEX網址 (插件0.5.7)](https://makecode.microbit.org/_HEfgPi4YxbTa)
+[LCD方向設定HEX網址 (插件0.6.8)](https://makecode.microbit.org/_fp73TjXML9MR)
 
 ## 插件版本與更新
 

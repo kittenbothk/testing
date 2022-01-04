@@ -22,7 +22,25 @@
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI01_ABButton.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI01_ABButton.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI02_Printer.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI02_Printer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI03_LCDirection.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI03_LCDirection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI04_ScreenCapture.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI04_ScreenCapture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI05_RecAndPlay.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI05_RecAndPlay.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI06_BarQRCodeReading.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI06_BarQRCodeReading.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI07_CircleTracing.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI07_CircleTracing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI08_RectangleTracing.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI08_RectangleTracing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI09_MachineLearning1.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI09_MachineLearning1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI09_MachineLearning2.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI09_MachineLearning2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI10_MachineLearningNoSD.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI10_MachineLearningNoSD.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI11_face.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI11_face.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI13_VoiceRec.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI13_VoiceRec.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI13_VoiceRecLoad.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI13_VoiceRecLoad.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI13_VoiceRecSave.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI13_VoiceRecSave.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI14_time.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI14_time.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI14_wifi.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI14_wifi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI15_FaceRecog.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI15_FaceRecog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI16_TTS.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI Cam/FunctionDemo_MC/KOI16_TTS.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

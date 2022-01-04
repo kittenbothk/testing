@@ -37,7 +37,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 假如你使用Makercloud創客雲平台，可以參考： [創客雲教學](../../Wifibrick/MakeCode/makercloud)
 
-![](KOI14/9.png)
+![](KOI14/code2.png)
 
 ## 程式流程
 
@@ -56,7 +56,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 ## 參考程式
 
-[1. 物聯網HEX網址(固件v1.9.5_插件0.5.7)](https://makecode.microbit.org/_4UPgr7az71g1)
+[1. 物聯網HEX網址(插件0.6.8)](https://makecode.microbit.org/_4KXi32WvUE26)
 
 ## 插件版本與更新
 

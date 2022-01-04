@@ -4,8 +4,6 @@
 
 ·    二維碼(QR Code)用於支付場景或者社交場景。
 
-
-
 ## 編寫Bar Code及QR Code讀取程式
 
 ![](../../functional_module/PWmodules/images/mcbanner.png)
@@ -22,18 +20,13 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 ### [詳細方法](../../Makecode/powerBrickMC)
 
-
 讀取標籤積木塊：
 
  ![](KOI06/01.png)
 
-
-
 完整參考程式：
 
-  ![](KOI06/02-1.png)
-
-
+  ![](KOI06/code1.png)
 
 ## 程式運行流程
 
@@ -41,8 +34,6 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 1. 把Bar Code 放到KOI 鏡頭前, 按下Microbit的按鍵A，進行識別;  Bar Code 數字便會顯示在KOI 的螢幕上。
 2. 把QR Code 放到KOI 鏡頭前, 按下Microbit的按鍵B，進行識別;  QR Code 所含的資訊便會顯示在KOI 的螢幕上。
-
-
 
 ## 進階程式
 
@@ -54,23 +45,17 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
  ![](KOI06/03-1.png)
 
-
-
 ### 編寫程式
 
 ### 加入OLED的插件： https://github.com/KittenBot/pxt-oled
 
- ![](KOI06/04-1.png)
-
-
-
-
+ ![](KOI06/code2.png)
 
 ## 參考程式
 
-[1. 讀取Bar Code及QR Code HEX (插件0.5.7)](https://makecode.microbit.org/_bUKY6cULX7E8)
+[1. 讀取Bar Code及QR Code HEX (插件0.6.8)](https://makecode.microbit.org/_gckdFPXUEgto)
 
-[2. 讀取Bar Code及QR Code, OLED顯示HEX (插件0.5.7)](https://makecode.microbit.org/_9VxF5J8Tu3kD)
+[2. 讀取Bar Code及QR Code, OLED顯示HEX (插件0.6.8)](https://makecode.microbit.org/_bXFegEPx6Vv7)
 
 [Bar Code 及 QR Code Sample](https://bit.ly/KOIBarAndQRCodeSample)
 

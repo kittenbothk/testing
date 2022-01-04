@@ -27,7 +27,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
     文字變語音需要連接WIFI。假如你已經入網，之後不需要每次都運行入網的積木。
 
-![](KOI16/2.png)
+![](KOI16/code1.png)
 
 ## 程式流程
 
@@ -46,7 +46,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 ## 參考程式
 
-[1. 文字變語音HEX網址(固件v1.9.5_插件0.5.7)](https://makecode.microbit.org/_H8JEtf7DR1D4)
+[1. 文字變語音HEX網址(插件0.6.8)](https://makecode.microbit.org/_RJ9A2a5jsgAe)
 
 ## 插件版本與更新
 

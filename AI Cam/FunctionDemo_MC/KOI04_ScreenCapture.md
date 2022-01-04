@@ -2,15 +2,11 @@
 
 既然我們的AI模組有攝像頭，那麼我們能不能做成類似拍照功能，把圖片保存下載來呢？答案當然，可以，而且還能進行圖片瀏覽。
 
-
-
 ### 裝上SD卡
 
  ![](KOI04/02-1.png)
 
 ![](KOI04/01.png)
-
- 
 
 ## 编寫顯示資訊程式
 
@@ -32,15 +28,9 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
   ![](KOI04/06.png)
 
-
-
 完整參考程式：
 
- ![](KOI04/03.png)
-
-
-
-
+ ![](KOI04/code1.png)
 
 ## 程式運行流程
 
@@ -50,20 +40,17 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 2. 按下Microbit的按鍵B，即可顯示剛才拍的圖片
 
-   
-
 ## 進階程式
 
 上面的程式是拍照一次後就會覆蓋，只能保存一張照片，不符合真實使用場景。因此這裡引入變數，用於以序號形式保存照片，可以保存多張照片。
 
-![](KOI04/05.png)
+![](KOI04/code2.png)
 
 ## 參考程式
 
-[1. 影像截圖與顯示HEX網址 (插件0.5.7)](https://makecode.microbit.org/_ATq6rYToD0K0)
+[1. 影像截圖與顯示HEX網址 (插件0.6.8)](https://makecode.microbit.org/_LAuVdULAbJD2)
 
-[2. 連續影像截圖與顯示HEX網址 (插件0.5.7)](https://makecode.microbit.org/_LqehKgCrmhbF)
-
+[2. 連續影像截圖與顯示HEX網址 (插件0.6.8)](https://makecode.microbit.org/_RY4VyqdWm7zT)
 
 ## 插件版本與更新
 

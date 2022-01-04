@@ -4,15 +4,11 @@
 
 在本節教程，大家將會學到如何使用內建的機器學習功能，輕鬆簡易地為機器學習模型進行訓練。
 
-
 ## 插入MicroSD卡
 
 機器學習過程中訓練的圖像會暫存在SD卡，而且我們需要將訓練的模型儲存下來，所以使用機器學習時請確保SD卡已經插在卡槽。      
 
-
 ![](KOI04/02.png)
-
-
 
 ## 編寫模型訓練程式
 
@@ -36,7 +32,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 參考程式：
 
-![](KOI09/trainercode.png)
+![](KOI09/trainercode1.png)
 
     模型儲存的格式可以為.bin或者.json
     例:aaa.json或aaa.bin
@@ -66,7 +62,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 ## 參考程式
 
-[KOI 分類Trainer HEX網址 (插件0.5.7)](https://makecode.microbit.org/_fu6daWaf1EcA)
+[KOI 分類Trainer HEX網址 (插件0.6.8)](https://makecode.microbit.org/_7wiA511Kk32h)
 
 ## 插件版本與更新
 

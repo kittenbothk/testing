@@ -24,7 +24,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 編寫程式：
 
-![](KOI14/8.png)
+![](KOI14/code1.png)
 
     網絡時間是一組列陣，時間的格式是：年、月、日、時、分、秒。
     而這程式為例，時間的索引第3項和第4項分別就是時和分了。
@@ -37,7 +37,7 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 ## 參考程式
 
-[1. 獲取網絡時間HEX網址(固件v1.12.0_插件0.6.4)](https://makecode.microbit.org/_00TEM37w41MM)
+[1. 獲取網絡時間HEX網址(插件0.6.8)](https://makecode.microbit.org/_Dsi7YtP6p6JJ)
 
 ## 插件版本與更新
 
