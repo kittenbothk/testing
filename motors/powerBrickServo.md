@@ -146,7 +146,13 @@ Geekservo舵機 (HKBD8005A)
 
 ![](./images/kbbanner.png)
 
+### 這教學使用Microbit作例子，每款擴展板/主控板的使用教學請參考相應頁面。
+
 ### Armourbit，Robotbit與Meowbit編程方法一樣，請加載相應插件
+
+### Armourbit
+
+--- 
 
 ### 加載PowerBrick插件
 
@@ -156,13 +162,31 @@ Geekservo舵機 (HKBD8005A)
 
 ### 舵機積木塊
 
+![](./kbimages/kbservoblocks_armourbit.png)
+
+### 舵機編程
+
+![](./kbimages/9gservo_armourbit_kb_code.png)
+
+[參考程式下載](https://bit.ly/PowerbrickM12_01sb3)
+
+### Robotbit
+
+---
+
+### 加載Robotbit插件
+
+在左上角小貓logo旁邊的硬件欄選擇Microbit，加載Microbit與Robotbit插件。
+
+![](./images/addRB.png)
+
+### 舵機積木塊
+
 ![](./kbimages/kbservoblocks.png)
 
 ### 舵機編程
 
-![](./kbimages/kbservo.png)
-
-[參考程式下載](https://bit.ly/PowerbrickM12_01sb3)
+![](./kbimages/9gservo_robotbit_kb_code.png)
 
 ## FAQ
 

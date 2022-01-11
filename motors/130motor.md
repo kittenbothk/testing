@@ -144,6 +144,8 @@
 
 ![](./images/kbbanner.png)
 
+### 這教學使用Microbit作例子，每款擴展板/主控板的使用教學請參考相應頁面。
+
 ### Armourbit
 
 --- 
@@ -152,19 +154,17 @@
 
 在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
 
-![](./images/addextension.png)
+![](./kbimages/addextension.png)
 
 ### 電機積木塊
 
-![](./images/2kkbmotorblocks.png)
+![](./kbimages/kbmotorblocks_armourbit.png)
 
 ### 電機編程
 
-![](./images/2kkbmotor.png)
+![](./kbimages/9gmotor_armourbit_kb_code.png)
 
 [參考程式下載](https://bit.ly/PowerbrickM11_01sb3)
-
-[參考程式網址](https://makecode.microbit.org/_RYHivyayYL4q)
 
 ### Robotbit
 
@@ -178,13 +178,11 @@
 
 ### 電機積木塊
 
-![](./images/rbmotorblocks.png)
+![](./kbimages/kbmotorblocks.png)
 
 ### 電機編程
 
-![](./images/rbmotorcode.png)
-
-
+![](./kbimages/9gmotor_robotbit_kb_code.png)
 
 ## FAQ
 

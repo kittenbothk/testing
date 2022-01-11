@@ -124,6 +124,8 @@ T/T減速直流電機(HKBD8004B)
 
 ![](./images/kbbanner.png)
 
+### 這教學使用Microbit作例子，每款擴展板/主控板的使用教學請參考相應頁面。
+
 ### Armourbit
 
 --- 
@@ -136,11 +138,13 @@ T/T減速直流電機(HKBD8004B)
 
 ### 電機積木塊
 
-![](./kbimages/kbmotorblocks.png)
+![](./kbimages/kbmotorblocks_armourbit.png)
 
 ### 電機編程
 
-![](./kbimages/kbmotor.png)
+![](./kbimages/9gmotor_armourbit_kb_code.png)
+
+[參考程式下載](https://bit.ly/PowerbrickM11_01sb3)
 
 ### Robotbit
 
@@ -154,16 +158,14 @@ T/T減速直流電機(HKBD8004B)
 
 ### 電機積木塊
 
-![](./images/rbmotorblocks.png)
+![](./kbimages/kbmotorblocks.png)
 
 ### 電機編程
 
-![](./images/rbmotorcode.png)
-
+![](./kbimages/9gmotor_robotbit_kb_code.png)
 
 ## FAQ
 
 1：為什麼我點擊積木塊沒有反應呢？
 
 首先確保已經連接好Microbit，然後上載韌體再試一試。
-

@@ -157,23 +157,7 @@ Geekservo電機 (HKBD8006A)
 
 ![](./images/kbbanner.png)
 
-### Robotbit
-
----
-
-### 加載Robotbit插件
-
-在左上角小貓logo旁邊的硬件欄選擇Microbit，加載Microbit與Robotbit插件。
-
-![](./images/addRB.png)
-
-### 電機積木塊
-
-![](./images/rbmotorblocks.png)
-
-### 電機編程
-
-![](./images/rbmotorcode.png)
+### 這教學使用Microbit作例子，每款擴展板/主控板的使用教學請參考相應頁面。
 
 ### Armourbit
 
@@ -187,14 +171,31 @@ Geekservo電機 (HKBD8006A)
 
 ### 電機積木塊
 
+![](./kbimages/kbmotorblocks_armourbit.png)
+
+### 電機編程
+
+![](./kbimages/9gmotor_armourbit_kb_code.png)
+
+[參考程式下載](https://bit.ly/PowerbrickM11_01sb3)
+
+### Robotbit
+
+---
+
+### 加載Robotbit插件
+
+在左上角小貓logo旁邊的硬件欄選擇Microbit，加載Microbit與Robotbit插件。
+
+![](./images/addRB.png)
+
+### 電機積木塊
+
 ![](./kbimages/kbmotorblocks.png)
 
 ### 電機編程
 
-![](./kbimages/kbmotor.png)
-
-[參考程式下載](https://bit.ly/PowerbrickM11_01sb3)
-
+![](./kbimages/9gmotor_robotbit_kb_code.png)
 
 ## FAQ
 
