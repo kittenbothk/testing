@@ -4,6 +4,12 @@ Robotbit亦支援在Kittenblock上編程。
 
 有關Kittenblock的介紹可以參考：[Kittenblock大全](../KittenBlock/index)
 
+### 這教學會使用Micro:bit V1或V2作例子，有關未來板或Meowbit的Robotbit Edu使用教學請參考相關的教學。
+
+[未來板Robotbit使用教學](../../futureboard/kittenblock/robotbit.md)
+
+[Meowbit Robotbit使用教學](../../meowbit/meowbit_robotbit.md)
+
 ## Kittenblock編程
 
 ![](../../functional_module/PWmodules/images/kbbanner.png)
@@ -50,7 +56,7 @@ Kittenbot每款電機的詳細教學可以參考：[電機教學](../../motors/i
 
     電機速度範圍由-255至255
 
-![](../RBimage/kb_code1.png)
+![](../RBimage/motor_code_kb.png)
 
 ### 2. 舵機編程
 
@@ -67,7 +73,7 @@ Kittenbot每款舵機的詳細教學可以參考：[舵機教學](../../motors/i
     由於舵機轉動需要時間，所以我們需要加一個短暫的停頓(pause)，給予舵機足夠時間轉動。
     一般舵機的轉向角度範圍由0至180度
     
-![](../RBimage/kb_code2.png)
+![](../RBimage/servo_code_kb.png)
 
 ### 3. 步進電機編程
 
@@ -81,7 +87,7 @@ Kittenbot每款電機的詳細教學可以參考：[電機教學](../../motors/i
 
     步進電機的角度範圍為-360至360度
 
-![](../RBimage/kb_code3.png)
+![](../RBimage/stepper_code_kb.png)
 
 ### 4. 蜂鳴器編程
 

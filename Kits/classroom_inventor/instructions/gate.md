@@ -12,7 +12,7 @@
 
 ![](../images/gate_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_b8s5xLE59eqC)
+[參考程式下載](https://makecode.microbit.org/_6sfaCkU7w8ur)
 
 ## 模型玩法
 
