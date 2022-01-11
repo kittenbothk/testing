@@ -93,15 +93,15 @@ Geekservo風扇 (HKBA8021A)
 
 詳情請參考: [Makecode插件版本更換](../../Makecode/makecode_extensionUpdate)
 
-
 ## KittenBlock編程教學
 
-![](../motors/images/kbbanner.png)
+![](./PWmodules/images/kbbanner.png)
 
+### 這教學使用Microbit作例子，每款擴展板/主控板的使用教學請參考相應頁面。
 
 ### Armourbit
 
----
+--- 
 
 ### 加載PowerBrick插件
 
@@ -111,11 +111,13 @@ Geekservo風扇 (HKBA8021A)
 
 ### 電機積木塊
 
-![](../motors/kbimages/kbmotorblocks.png)
+![](../motors/kbimages/kbmotorblocks_armourbit.png)
 
 ### 電機編程
 
-![](../motors/kbimages/kbmotor.png)
+![](../motors/kbimages/9gmotor_armourbit_kb_code.png)
+
+[參考程式下載](https://bit.ly/PowerbrickM11_01sb3)
 
 ### Robotbit
 
@@ -129,12 +131,14 @@ Geekservo風扇 (HKBA8021A)
 
 ### 電機積木塊
 
-![](../motors/images/rbmotorblocks.png)
+![](../motors/kbimages/kbmotorblocks.png)
 
 ### 電機編程
 
-![](../motors/images/rbmotorcode.png)
+![](../motors/kbimages/9gmotor_robotbit_kb_code.png)
 
+## FAQ
 
+1：為什麼我點擊積木塊沒有反應呢？
 
-
+首先確保已經連接好Microbit，然後上載韌體再試一試。

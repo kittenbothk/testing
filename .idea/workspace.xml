@@ -21,15 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/motors/130motor.md" beforeDir="false" afterPath="$PROJECT_DIR$/motors/130motor.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/motors/2kgMotor.md" beforeDir="false" afterPath="$PROJECT_DIR$/motors/2kgMotor.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/motors/2kgServo.md" beforeDir="false" afterPath="$PROJECT_DIR$/motors/2kgServo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/motors/9g.md" beforeDir="false" afterPath="$PROJECT_DIR$/motors/9g.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/motors/kbimages/kbmotorblocks.png" beforeDir="false" afterPath="$PROJECT_DIR$/motors/kbimages/kbmotorblocks.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/motors/kbimages/kbservoblocks.png" beforeDir="false" afterPath="$PROJECT_DIR$/motors/kbimages/kbservoblocks.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/motors/powerBrickMotor.md" beforeDir="false" afterPath="$PROJECT_DIR$/motors/powerBrickMotor.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/motors/powerBrickServo.md" beforeDir="false" afterPath="$PROJECT_DIR$/motors/powerBrickServo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/motors/ttmotor.md" beforeDir="false" afterPath="$PROJECT_DIR$/motors/ttmotor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/legofan.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/legofan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/waterTank.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/waterTank.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -117,25 +117,48 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 ![](./PWmodules/images/kbbanner.png)
 
+### 這教學使用Microbit作例子，每款擴展板/主控板的使用教學請參考相應頁面。
+
+### Armourbit
+
+--- 
+
 ### 加載PowerBrick插件
 
 在左上角小貓logo旁邊的硬件欄選擇PowerBrick，加載Microbit與Powerbrick插件。
 
-![](./PWmodules/images/addextension.png)
+![](../motors/kbimages/addextension.png)
 
 ### 電機積木塊
 
-![](./PWmodules/kbimages/kbmotorblocks.png)
+![](../motors/kbimages/kbmotorblocks_armourbit.png)
 
 ### 電機編程
 
-![](./PWmodules/kbimages/kbpumpcode.png)
+![](../motors/kbimages/9gmotor_armourbit_kb_code.png)
 
 [參考程式下載](https://bit.ly/PowerbrickM11_01sb3)
+
+### Robotbit
+
+---
+
+### 加載Robotbit插件
+
+在左上角小貓logo旁邊的硬件欄選擇Microbit，加載Microbit與Robotbit插件。
+
+![](../motors/images/addRB.png)
+
+### 電機積木塊
+
+![](../motors/kbimages/kbmotorblocks.png)
+
+### 電機編程
+
+![](../motors/kbimages/9gmotor_robotbit_kb_code.png)
 
 ## FAQ
 
 1：為什麼我點擊積木塊沒有反應呢？
 
 首先確保已經連接好Microbit，然後上載韌體再試一試。
-
