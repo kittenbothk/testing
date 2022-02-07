@@ -14,6 +14,11 @@ KittenBot希望透過此套件，培養學生對環保與保護地球的意識�
 - 支援MakeCode編程
 - 提供輕巧的收納盒，方便課堂完成後收拾物資
 
+## 套件規格
+
+- 包裝尺寸：31cm x 17cm x 14 cm
+- 支援主控板：Micro:bit，未來板
+
 ## 套件內容
 
 ### 配搭Robotbit使用
@@ -35,7 +40,13 @@ KittenBot希望透過此套件，培養學生對環保與保護地球的意識�
 - 塑膠積木
 - 積木底板
 
+## 套件包裝
+
+每套AI/AIoT 智能回收箱套件都附有一個帶有手抽的收納盒。
+
+![](./images/box7.jpg)
+
 ## 示範短片
 
-[![](images/4.png)](https://www.youtube.com/watch?v=0fLbJzQTp8I)
+[![](./images/4.png)](https://www.youtube.com/watch?v=0fLbJzQTp8I)
 

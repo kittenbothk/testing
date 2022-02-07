@@ -20,7 +20,7 @@
 
 ![](../images/extra_trafficlight_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_i0JT9q5h10oo)
+[參考程式下載](https://makecode.microbit.org/_9uwACpK50L0K)
 
 ## 模型玩法
 
