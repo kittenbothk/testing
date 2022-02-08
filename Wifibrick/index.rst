@@ -10,5 +10,5 @@
     wifibrick/index.rst
     IoTPlatform/index
     MakeCode/index
-    futureboard/thingspeak.md
+    futureboard/index
     IFTTT/index.rst
