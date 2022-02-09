@@ -8,4 +8,3 @@
     :glob:
 
     thingspeak.md
-    makercloud.md

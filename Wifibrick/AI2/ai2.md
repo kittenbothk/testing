@@ -88,15 +88,15 @@ MakerCloud創客雲有官方的AI2插件和教學，詳情請參考：
 
 ![](./images/17.png)
 
-在topic的一欄裡面填入主題名稱。教學會根據ThingSpeak的話題填寫。
+在topic的一欄裡面填入主題名稱。本教學將會按照ThingSpeak的格式填寫。
 
 ![](./images/18.png)
 
-在message一欄裏面填入要發佈的信息。
+在message一欄裏面填入要發佈的信息。將隨機取數放到數據訊息裡面。
 
 ![](./images/19.png)
 
-對於ThingSpeak的編程，請使用join將數據欄與數據訊息合併。並將隨機取數放到數據訊息裡面。
+對於ThingSpeak的編程，請使用join將數據欄與數據訊息合併。
 
 ![](./images/20.png)
 
