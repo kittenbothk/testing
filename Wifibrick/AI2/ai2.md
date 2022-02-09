@@ -129,3 +129,9 @@ MakerCloud創客雲有官方的AI2插件和教學，詳情請參考：
 ![](./images/25.png)
 
 ![](./images/26.jpg)
+
+## 下載AI2參考程式
+
+大家可以下載以下參考AI2程式，只要填入ThingSpeak的登入資料就可以不需任何編程試玩MIT AI2與IoT平台的互動。
+
+[AI2參考程式下載](https://drive.google.com/file/d/1g0Bf8zQGRk6PEBNDGzEWxrBTcfsoehhQ/view?usp=sharing)

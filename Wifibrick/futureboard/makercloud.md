@@ -27,6 +27,10 @@
 
 ![](./images/mc3.png)
 
+發佈之後檢查MakerCloud，你應該會看到發布的數據。
+
+![](./images/mc8.png)
+
 ### 讀取MakerCloud信息
 
 搭建出以下程式，讀取MakerCloud上的數據。
@@ -34,4 +38,14 @@
 讀取的數據會顯示在屏幕上面。
 
 ![](./images/mc4.png)
+
+![](./images/mc5.png)
+
+測試程式後你會發現顯示的數據會包含_dn和_dsn。
+
+![](./images/mc6.jpg)
+
+要解決這個問題，您可以參考以下程式，將訊息裏數據的部分單獨地抽取出來。
+
+![](./images/mc7.png)
 
