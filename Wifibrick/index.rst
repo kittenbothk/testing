@@ -12,3 +12,4 @@
     MakeCode/index
     futureboard/index
     IFTTT/index.rst
+    AI2/ai2.md

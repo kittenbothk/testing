@@ -10,7 +10,7 @@
 
 KittenBot亦有提供個別平台的IoT使用教學，如有興趣請參考以下篇章。
 
-[未來板與ThingSpeak快速入門](../../Wifibrick/futureboard/thingspeak.md)
+[未來板與各IoT平台編程教學](../../Wifibrick/futureboard/index)
 
 ## IoT積木塊
 
