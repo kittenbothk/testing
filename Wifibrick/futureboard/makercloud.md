@@ -50,3 +50,7 @@
 ![](./images/mc7.png)
 
 ![](./images/mc9.jpg)
+
+或者你可以使用包含積木來進行條件比較。
+
+![](./images/mc10.png)

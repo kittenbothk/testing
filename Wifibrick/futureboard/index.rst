@@ -9,3 +9,4 @@
 
     thingspeak.md
     makercloud.md
+    objectblock.md
