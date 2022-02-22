@@ -10,7 +10,7 @@ MakerCloud創客雲有官方的AI2插件和教學，詳情請參考：
 
 ## ThingSpeak或其他IoT平台與MIT AI2編程教學
 
-### 一般使用MQTT的IoT平台都可以支援MIT AI2，不過此教學會以ThingSpeak平台作為例子。
+### 一般使用MQTT的IoT平台都可以支援MIT AI2，不過本教學會以ThingSpeak平台作為例子。
 
 由於MIT AI2沒有內建的MQTT支援，請前往以下網站下載第三方的MQTT插件。
 

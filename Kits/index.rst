@@ -71,6 +71,12 @@
 
 .. toctree::
     :maxdepth: 2
+    :caption: 四驅麥輪車2KG版
+
+    mecanum_2kg/index
+
+.. toctree::
+    :maxdepth: 2
     :caption: MR STEMer Kart Lite套件
 
     robotbit_kart/index
