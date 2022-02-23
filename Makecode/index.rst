@@ -8,3 +8,4 @@ MakeCode編程平台的教學。
 
     powerBrickMC.md
     makecode_extensionUpdate.md
+    bluetooth.md
