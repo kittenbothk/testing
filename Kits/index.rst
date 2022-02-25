@@ -47,9 +47,15 @@
 
 .. toctree::
     :maxdepth: 2
-    :caption: IoT Made Easy智能家居學習套
+    :caption: IoT Made Easy智能家居學習套件
 
     smart_home_iot/index
+
+.. toctree::
+    :maxdepth: 2
+    :caption: KittenBot體適能測試套件
+
+    fitness/index
 
 .. toctree::
     :maxdepth: 2
