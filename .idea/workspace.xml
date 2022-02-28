@@ -21,10 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/fitness/images/plank.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/fitness/images/plank.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/fitness/images/plank_wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/fitness/images/plank_wire.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/fitness/images/plank_wire.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/fitness/images/plank_wire.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/fitness/images/situp.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/fitness/images/situp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/fitness/images/pushup_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/fitness/images/pushup_code.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/fitness/plank.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/fitness/plank.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/fitness/pushup.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/fitness/pushup.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/fitness/sitandreach.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/fitness/sitandreach.md" afterDir="false" />
