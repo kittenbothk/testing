@@ -11,3 +11,9 @@
 ## 參考接線
 
 ![](./images/plank_wire.png)
+
+## 參考程式
+
+![](./images/plank_code.png)
+
+[參考程式下載](https://makecode.microbit.org/_f9kYzjA12RMg)

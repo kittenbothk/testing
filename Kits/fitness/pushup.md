@@ -11,3 +11,9 @@
 ## 參考接線
 
 ![](./images/pushup_wire.png)
+
+## 參考程式
+
+![](./images/pushup_code.png)
+
+[參考程式下載](https://makecode.microbit.org/_MCWTMM1x1L1m)

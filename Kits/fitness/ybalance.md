@@ -10,4 +10,36 @@
 
 ## 參考接線
 
-![](./images/ybalance_wire.png)
+### 感應器
+
+![](./images/ybalance_sensor_wire.png)
+
+### 感應器(控制器)
+
+![](./images/ybalance_controller_wire.png)
+
+## 參考程式
+
+### 感應器(前)
+
+![](./images/ybalance_f_code.png)
+
+[感應器(前)參考程式下載](https://makecode.microbit.org/_Tf63UpRzp9xK)
+
+### 感應器(左)
+
+![](./images/ybalance_l_code.png)
+
+[感應器(左)參考程式下載](https://makecode.microbit.org/_K3Jhvx9qDLRE)
+
+### 感應器(右)
+
+![](./images/ybalance_r_code.png)
+
+[感應器(右))參考程式下載](https://makecode.microbit.org/_Y3mKwmWcxiey)
+
+### 感應器(控制器)
+
+![](./images/ybalance_controller_code.png)
+
+[感應器(控制器)參考程式下載](https://makecode.microbit.org/_TUKAEaFcqdVM)
