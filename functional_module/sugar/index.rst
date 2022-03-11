@@ -6,7 +6,6 @@ Sugar系列模組教學
 .. toctree::
     :maxdepth: 1
 
-    sugarbox.md
     sugar_button.md
     sugar_pir.md
     sugar_line.md
@@ -20,4 +19,4 @@ Sugar系列模組教學
     sugar_env.md
     sugar_joystick.md
     sugar_tof.md
-    sugar_lens.md
+    sugar_asr.md
