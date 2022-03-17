@@ -1,5 +1,7 @@
 # mBridge轉接板
 
+![](../RBimage/mbridge8.jpg)
+
 ![](../RBimage/mbridge1.jpg)
 
 mBridge是KittenBot為了讓Micro:bit兼容使用RJ25接口的模組的一款轉接板，只要將轉接板插在Robotbit 2.2上就可以為Robotbit帶來4個RJ25接口的連接功能，可以在MakeCode上簡單地令Micro:bit使用RJ25感應器。
@@ -25,7 +27,29 @@ mBridge是KittenBot為了讓Micro:bit兼容使用RJ25接口的模組的一款轉
 
 ![](../RBimage/mbridge2.png)
 
-![](../RBImage/mbridge4.png)
+## 使用方法
+
+1.將mBridge轉接板插在Robotbit 2.2上，將電源開關與舵機接口對準轉接板上的空格即可。
+
+![](../RBimage/mbridge9.jpg)
+
+2. 將塑膠鈕釘套安裝在Robotbit底座上。
+
+![](../RBimage/mbridge10.jpg)
+
+![](../RBimage/mbridge11.jpg)
+
+3. 將Robotbit底座安裝在小車上。
+
+![](../RBimage/mbridge12.jpg)
+
+4. 插入塑膠釘子，固定Robotbit與小車。
+
+![](../RBimage/mbridge13.jpg)
+
+5. 將Robotbit安裝好。
+
+![](../RBimage/mbridge14.jpg)
 
 ## MakeCode編程教學
 

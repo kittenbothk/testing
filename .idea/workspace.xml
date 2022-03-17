@@ -21,8 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microbit_eboard/Robotbit/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/Robotbit/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_asr.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_asr.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microbit_eboard/Robotbit/mbridge.md" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/Robotbit/mbridge.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
