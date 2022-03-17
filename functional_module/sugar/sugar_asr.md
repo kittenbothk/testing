@@ -96,6 +96,10 @@
 
 [參考程式下載](https://makecode.microbit.org/_F68D6iWFUMvi)
 
+### 參考程式用法：
+
+喚醒語音模組之後對語音模組說出Lamp On或Lamp Off，Micro:bit上的LED就會亮起相應的燈。
+
 ### 未來板KittenBlock編程教學
 
 ![](../PWmodules/images/kbbanner.png)

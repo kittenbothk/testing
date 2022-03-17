@@ -12,3 +12,4 @@ RobotBit的資訊。
     robotbitMC.md
     robotbitKB.md
     robotbitShield.md
+    mbridge.md
