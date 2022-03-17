@@ -4,7 +4,7 @@
 
 ![](../RBimage/mbridge1.jpg)
 
-mBridge是KittenBot為了讓Micro:bit兼容使用RJ25接口的模組的一款轉接板，只要將轉接板插在Robotbit 2.2上就可以為Robotbit帶來4個RJ25接口的連接功能，可以在MakeCode上簡單地令Micro:bit使用RJ25感應器。
+mBridge是KittenBot為了讓Micro:bit兼容使用RJ25接口的模組而設計的一款轉接板，只要將轉接板插在Robotbit 2.2上就可以為Robotbit帶來4個RJ25接口的連接功能，可以在MakeCode上簡單地令Micro:bit使用RJ25感應器。
 
 ## 產品特色
 
