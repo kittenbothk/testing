@@ -36,7 +36,7 @@
 
 ![](./images/ybalance_r_code.png)
 
-[感應器(右))參考程式下載](https://makecode.microbit.org/_Y3mKwmWcxiey)
+[感應器(右)參考程式下載](https://makecode.microbit.org/_Y3mKwmWcxiey)
 
 ### 感應器(控制器)
 
