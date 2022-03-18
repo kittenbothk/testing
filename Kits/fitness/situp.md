@@ -2,7 +2,7 @@
 
 以超聲波測距檢測用戶完成臥仰起坐的次數，然後上傳至物聯網平台。
 
-![](./images/situp.png)
+![](./images/pushup.png)
 
 ## 搭建說明書
 
@@ -10,32 +10,22 @@
 
 ## 參考接線
 
-### 臥仰起坐(下感應器)
+### 臥仰起坐
 
 ![](./images/pushup_wire.png)
 
-### 臥仰起坐(上感應器)
-
-![](./images/situp_wire1.png)
-
 ## 參考程式
 
-### 臥仰起坐(下感應器)參考程式
+### 臥仰起坐參考程式
 
-![](./images/situp_code1.png)
+![](./images/situp_code3.png)
 
-[臥仰起坐(下)參考程式下載](https://makecode.microbit.org/_Lax55gFC03iT)
+[臥仰起坐參考程式下載](https://makecode.microbit.org/_MpRaVHYYLKg7)
 
-### 臥仰起坐(上感應器)參考程式
-
-![](./images/situp_code2.png)
-
-[臥仰起坐(上)參考程式下載](https://makecode.microbit.org/_JkjfXiiFgUuk)
 
 ## 使用方法
 
-1. 將臥仰起坐(上感應器)的超聲波感應器固定在牆上，感應器的高度需要大約與用家頭部高度相若。
-2. 將臥仰起坐(下感應器)放在地上，並將超聲波感應器固定在用家頭部旁邊的地上。
+1. 將臥仰起坐的超聲波感應器固定在牆上，感應器的高度需要大約與用家頭部高度相若。
 3. 開動Robotbit，等待WifiBrick連接到MakerCloud。
 4. 當用戶做臥仰起坐時，需要將身體撐起，直至進入感應器的80cm範圍內，此時感應器會發出聲響並顯示剔號，示意用家已達到要求。
 5. 然後需要將身體躺下，直至感應器發出聲響並顯示剔號，示意用家可以撐起身體繼續。
