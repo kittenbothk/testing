@@ -1,6 +1,6 @@
 # KittenBot體適能測驗套件
 
-![](./images/Model.png)
+![](./images/complete_Set.png)
 
 KittenBot體適能測驗套件是一套針對體適能測驗而設計的一套教育套件，套件包含5組體適能測驗。包括掌上壓、仰臥起坐、坐地前伸、Y平衡和平板支撐合共5款體能測驗。套件配合WifiBrick與IoT平台使用，實現體適能測驗的物聯網應用。KittenBot希望透過此套件將STEM與體育結合起來，讓學生學習編程之餘養成運動的好習慣。
 
