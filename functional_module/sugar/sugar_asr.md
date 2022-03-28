@@ -65,7 +65,7 @@
 執行類:
 1. Open Door / Open Window / Open Curtains / Hanger Out
     - 控制模組的舵機接口
-2. Close Door / Close Window / Close Curains / Hanger In
+2. Close Door / Close Window / Close Curtains / Hanger In
     - 控制模組的舵機接口
 3. Fan On
     - 控制模組的電機接口
