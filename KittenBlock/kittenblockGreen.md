@@ -48,5 +48,10 @@ Windows系統：
 
 ![](../functional_module/PWmodules/kbimages/an07.png)
 
-
 ![](../functional_module/PWmodules/kbimages/update4.png)
+
+### 2. KittenBlock的硬件欄顯示沒有硬件
+
+![](./images/nohardware.png)
+
+### 解決方法：重新啟動KittenBlock
