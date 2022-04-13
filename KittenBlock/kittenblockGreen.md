@@ -14,7 +14,7 @@ Windows系統：
 
 ### 安裝KittenBlock
 
-打開Kittenblock.rar檔。
+打開Kittenblock.zip檔。
 
 ![](./images/187install1.png)
 
