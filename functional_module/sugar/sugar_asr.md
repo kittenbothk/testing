@@ -96,18 +96,44 @@
 
 ![](./images/asr_commands.png)
 
-### 參考程式
+### 語音辨識參考程式
 
 ![](./images/asr_code1.png)
 
 [參考程式下載](https://makecode.microbit.org/_F68D6iWFUMvi)
 
-### 參考程式用法：
+參考程式用法：
 
 喚醒語音模組之後對語音模組說出Lamp On或Lamp Off，Micro:bit上的LED就會亮起相應的燈。
+
+### 語音播報參考程式
+
+![](./images/asr_code3.png)
+
+[參考程式下載](https://makecode.microbit.org/_YzeeikHkPApz)
+
+      注意：2個語音播報指令之間需要加等待，等待上一個語音播報完成，否則語音播報會重疊。
+
+參考程式用法:
+
+按下A鍵或B鍵，語音模組就會說出相應指令。
 
 ### 未來板KittenBlock編程教學
 
 ![](../PWmodules/images/kbbanner.png)
 
+### 語音辨識參考程式
+
 ![](./images/asr_code2.png)
+
+參考程式用法：
+
+喚醒語音模組之後對語音模組說出Lamp On或Lamp Off，Micro:bit上的LED就會亮起相應的燈。
+
+### 語音播報參考程式
+
+![](./images/asr_code4.png)
+
+參考程式用法:
+
+按下A鍵或B鍵，語音模組就會說出相應指令。

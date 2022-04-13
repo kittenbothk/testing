@@ -6,7 +6,7 @@ KittenBlock是KittenBot的自家編程平台。
 
 ### 下載地址
 
-Windows 10系統：
+Windows系統：
 
 打開連結： [Kittenblock 1.87 下載](http://bit.ly/KittenblockHK187) ，下載KittenBlock。
 
