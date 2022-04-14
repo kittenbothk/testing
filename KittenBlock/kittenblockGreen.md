@@ -8,21 +8,23 @@ KittenBlock是KittenBot的自家編程平台。
 
 Windows系統：
 
-打開連結： [Kittenblock 1.87 下載](http://bit.ly/KittenblockHK187) ，下載KittenBlock。
+打開連結： [Kittenblock 1.87 下載](https://drive.google.com/file/d/1rM3ByEvJRCVqOo1O06LcZqTOC8nu1kZi/view?usp=sharing) ，下載KittenBlock。
 
 ![](./images/187download.png)  
 
 ### 安裝KittenBlock
 
-打開Kittenblock.zip檔。
+右鍵zip檔案，在開啟檔案的選項裡面選擇Windows檔案總管，打開Kittenblock.zip檔。
 
-![](./images/187install1.png)
+    你亦都可以使用winrar等的程式打開及解壓縮。
+
+![](./images/green_zip_install1.png)
 
 將內容解壓到桌面。
 
     注意！Kittenblock資料夾不能夠放到另一個資料夾入面！
 
-![](./images/187install2.png)
+![](./images/green_zip_install2.png)
 
 點擊Kittenblock.exe打開Kittenblock。
 
