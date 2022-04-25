@@ -46,6 +46,12 @@
     ai_recycle/index
 
 .. toctree::
+    :maxdepth: 1
+    :caption: 智能漂書櫃教育版
+
+    booksharing/index
+
+.. toctree::
     :maxdepth: 2
     :caption: IoT Made Easy智能家居學習套件
 

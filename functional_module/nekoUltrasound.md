@@ -28,6 +28,12 @@
 
 ![](./images/ultraSound1.jpg)
 
+## Robotbit EdU
+
+![](./images/nekoultrasound_wire_edu.png)
+
+## Robotbit 2.2
+
 ### 超聲波模組v2
 
 超聲波模組v2需要接A(RGB燈)和D(超聲波)接口。
