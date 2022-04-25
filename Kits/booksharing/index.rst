@@ -5,3 +5,6 @@
     :maxdepth: 1
 
     intro.md
+    instructions.md
+    makercloud.md
+    ai2.md
