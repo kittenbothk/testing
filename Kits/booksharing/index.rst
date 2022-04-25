@@ -8,3 +8,5 @@
     instructions.md
     makercloud.md
     ai2.md
+    futureboard.md
+    microbit.md
