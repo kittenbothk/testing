@@ -48,13 +48,7 @@
 
  ![](./iotimage/iot-60-1.png)
 
-按以下次序組織積木
-
- ![](./iotimage/iot-39-01.png)
-
-如採用了Armoubit, 初始化部份只需改用以下積木便可
-
- ![](./iotimage/iot-49-1.png)
+--------------
 
 1. 按前章接線情況, 修改初始化中Tx , Rx 所對應的Pin號。積木的Rx 及 Tx 是對應micro:bit 的一端。
 
@@ -66,11 +60,21 @@
 
 3. WifiBrick只能連接到2.4GHz之網絡，請確保網絡合乎規格。
 
-進入下一步前, 建議先把本章程式下載到microbit 運行, 測試把wifibrick 連到網絡; 如連線順利便可進一步組織核心功能。
+### Robotbit/IOBit
 
 ![](./iotimage/wifi_code1.png)
 
-[Wifibrick連線到網絡](https://makecode.microbit.org/_ErmXcmDV91cw)
+[Wifibrick連線到網絡(Robotbit/IOBit)](https://makecode.microbit.org/_ErmXcmDV91cw)
+
+### Armourbit
+
+![](./iotimage/wifi_code2.png)
+
+[Wifibrick連線到網絡(Armourbit)](https://makecode.microbit.org/_2vTCK4Wob5Um)
+
+-----------------
+
+進入下一步前, 建議先把本章程式下載到microbit 運行, 測試把wifibrick 連到網絡; 如連線順利便可進一步組織核心功能。
 
 [**短片參考**](https://youtu.be/v6yIrGqzqO4)
 
@@ -175,9 +179,9 @@
 
 ![](./iotimage/thingspeak_code1.png)
 
-[WiFiBrick參考程式](https://makecode.microbit.org/_L71FkV3wkEV4)
+[WiFiBrick參考程式](https://makecode.microbit.org/_93d4Ez5qL1iC)
 
-[KOI參考程式](https://makecode.microbit.org/_UzsL7JKtuJi6)
+[KOI參考程式](https://makecode.microbit.org/_7sR03CL49ebj)
 
 發佈成功的話，在ThingSpeak的頁面上會看到剛才發布的信息。
 
@@ -193,9 +197,9 @@
 
 ![](./iotimage/thingspeak_code2.png)
 
-[WiFiBrick參考程式](https://makecode.microbit.org/_JKeC421rpUx2)
+[WiFiBrick參考程式](https://makecode.microbit.org/_FEhijMY0ig37)
 
-[KOI參考程式](https://makecode.microbit.org/_a0saR4h5E1Fo)
+[KOI參考程式](https://makecode.microbit.org/_ec2FpyU2ihub)
 
 相信大家已具體掌握如何利用免費thingspeak 的方法, 歡迎把所製作的IoT 項目whatsapp到micro:bit 群組分享與交流！
 

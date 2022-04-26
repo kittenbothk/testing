@@ -84,6 +84,10 @@ Armourbit 是Powerbrick 套件中的micro:bit擴展盒。只要把micro:bit 插�
 
  ![](./introimage/wifi-12-1.png)
 
+我們在MakeCode裡面就要相應地選擇Port2。
+
+![](./introimage/armourbit.png)
+
 ### Robotbit Edu
 
 [Robotbit Edu詳細介紹](../../Microbit_eboard/Robotbit_edu/robotbitedu.md)
@@ -96,6 +100,10 @@ Robotbit Edu上已經提供了4pin的通訊接口，我們只需要將WifiBrick�
 
 ![](./introimage/wifibrick_edu.png)
 
+下圖解有助稍後了解在編程中的設定
+
+ ![](./introimage/wifi-18-1.png)
+
 由於Robotbit Edu的通訊接口使用了P2與P12，我們在MakeCode裡面就要相應地選擇引腳。
 
 ![](./introimage/edu2.png)
@@ -106,13 +114,11 @@ Robotbit 是Kittenbot 一款長青的擴展板, 兼容自家大部份外置模�
 
 [Robotbit 詳細介紹](https://kittenbothk.readthedocs.io/en/latest/Microbit%20eboard/Robotbitfull.html#)
 
-採用ph2.0 4pin 轉杜邦線; 利用杜邦端, 分別接到Robotbit 的G, V, P1, P2 (P12也可)
+採用ph2.0 4pin 轉杜邦線; 利用杜邦端, 分別接到Robotbit 的G, V, P2, P12
 
  ![](./introimage/wifi-16-1.png)
 
 接線示意圖
-
- ![](./introimage/wifi-20-1.png)
 
 ![](./introimage/wifibrick_robotbit.png)
 
@@ -120,15 +126,23 @@ Robotbit 是Kittenbot 一款長青的擴展板, 兼容自家大部份外置模�
 
  ![](./introimage/wifi-18-1.png)
 
+![](./introimage/edu2.png)
+
 ### IoBit
 
 IoBit 接Wifibrick 的方法跟上述接Robotbit 的方法大同小異, 都是選定Rx, Tx 接到那支pin 就可以了。
 
-下圖是接到IoBit 的G, V, P1, P2
+下圖是接到IoBit 的G, V, P2, P12
 
- ![](./introimage/wifi-21-1.png)
+ ![](./introimage/iobit.png)
 
-### WifiBrick指示燈詳解
+## 編程方法
+
+有關各平台與WifiBrick的編程方法請參考以下指引：
+
+[MakeCode編程方法](../MakeCode/index.rst)
+
+## WifiBrick指示燈詳解
 
 1. 當啟動電源後，紅色燈會亮起。
 ![](./introimage/led1.png)

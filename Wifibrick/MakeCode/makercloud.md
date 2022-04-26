@@ -18,6 +18,12 @@ MakerCloud有提供官方的教學，此頁面僅為KittenBot HK提供的教學�
 
     KOI也支援Makercloud。
 
+## 硬件準備
+
+在編程前請確保硬件及接線沒有問題。
+
+[硬件接線方法](../wifibrick/Wifibrick_intro.md#接線方法)
+
 ## 第一步：平台準備
 
 我們首先要登入MakerCloud平台，設立好MQTT主題。
@@ -122,13 +128,13 @@ koi插件地址：https://github.com/scaleinnotech/pxt-makercloud-koi
 
 ![](./iotimage/mc9.png)
 
-[參考程式下載](https://makecode.microbit.org/_5gv25KKz2Y7d)
+[參考程式下載](https://makecode.microbit.org/_KiMFEa7Kv4p1)
 
 ### KOI參考程式
 
 ![](./iotimage/mc18.png)
 
-[參考程式下載](https://makecode.microbit.org/_RR6exEM0R9uz)
+[參考程式下載](https://makecode.microbit.org/_3ue0j0gjbaRY)
 
 ## 總結：
 
