@@ -4,11 +4,9 @@
 
 ![](./images/futureboardcode1.png)
 
-[範例程式下載](booksharing.sb3)
+[範例程式下載(右鍵->另存連結為)](booksharing.sb3)
 
-[KOI聲音檔下載](sounds.zip)
-
-    右鍵->另存連結為
+[KOI聲音檔下載(右鍵->另存連結為)](sounds.zip)
 
 ## 修改範例程式
 
@@ -27,3 +25,7 @@
 ## 範例程式使用方法
 
 請參考以下短片。
+
+[![](./images/video1.png)](https://bit.ly/OnePileEduDemo)
+
+[智能漂書機(教育版)示範](https://bit.ly/OnePileEduDemo)

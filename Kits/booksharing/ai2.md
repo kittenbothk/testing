@@ -2,9 +2,7 @@
 
 ## 下載AI2範例程式
 
-[AI2範例程式](booksharing_edu_samplecode.aia)
-
-    右鍵->另存連結為
+[AI2範例程式(右鍵->另存連結為)](booksharing_edu_samplecode.aia)
 
 ## 修改ai2應用程式
 

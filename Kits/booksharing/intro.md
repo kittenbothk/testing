@@ -30,6 +30,12 @@
 - 18650鋰電池 *1
 - 積木包 *1
 
+## 示範短片
+
+[![](./images/video1.png)](https://bit.ly/OnePileEduDemo)
+
+[智能漂書機(教育版)示範](https://bit.ly/OnePileEduDemo)
+
 ## 產品展示
 
 ![](./images/model_microbit_2.png)
