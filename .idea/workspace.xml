@@ -20,29 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/MC_TS.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/MC_TS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/kb10.png" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/kb10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/kb7.png" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/kb7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/kittenbot_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/kittenbot_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/kittenbot_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/kittenbot_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/mc18.png" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/mc18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/mc5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/mc5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/mc6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/mc6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/mc9.png" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/mc9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/thingspeak_code1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/thingspeak_code1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/thingspeak_code2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/thingspeak_code2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/thingspeak_mc.png" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/thingspeak_mc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/wifi_code1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/iotimage/wifi_code1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/MakeCode/makercloud.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/MakeCode/makercloud.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/wifibrick/Wifibrick_intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/wifibrick/Wifibrick_intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/wifibrick/introimage/edu2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/wifibrick/introimage/edu2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/wifibrick/introimage/wifi-18-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/wifibrick/introimage/wifi-18-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/wifibrick/introimage/wifibrick_edu.png" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/wifibrick/introimage/wifibrick_edu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/wifibrick/introimage/wifibrick_edu.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/wifibrick/introimage/wifibrick_edu.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/wifibrick/introimage/wifibrick_robotbit.png" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/wifibrick/introimage/wifibrick_robotbit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wifibrick/wifibrick/introimage/wifibrick_robotbit.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Wifibrick/wifibrick/introimage/wifibrick_robotbit.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
