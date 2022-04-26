@@ -1,8 +1,8 @@
 # AI2手機應用程式設定教學
 
-## 範例應用程式aia
+## 下載AI2範例程式
 
-![](./images/app1.png)
+[AI2範例程式](booksharing_edu_samplecode.aia)
 
 ## 修改ai2應用程式
 
