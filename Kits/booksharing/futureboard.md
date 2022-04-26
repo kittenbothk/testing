@@ -6,6 +6,10 @@
 
 [範例程式下載](booksharing.sb3)
 
+[KOI聲音檔下載](sounds.zip)
+
+    右鍵->另存連結為
+
 ## 修改範例程式
 
 修改Wifi登入資料。

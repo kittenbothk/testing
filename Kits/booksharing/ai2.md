@@ -4,6 +4,8 @@
 
 [AI2範例程式](booksharing_edu_samplecode.aia)
 
+    右鍵->另存連結為
+
 ## 修改ai2應用程式
 
 ### 1. 修改UpdateBook頁面
