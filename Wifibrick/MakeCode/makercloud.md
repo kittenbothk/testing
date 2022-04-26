@@ -22,7 +22,7 @@ MakerCloud有提供官方的教學，此頁面僅為KittenBot HK提供的教學�
 
 在編程前請確保硬件及接線沒有問題。
 
-[硬件接線方法](../wifibrick/Wifibrick_intro.md#接線方法)
+[硬件接線方法](../wifibrick/Wifibrick_intro.md#id5)
 
 ## 第一步：平台準備
 

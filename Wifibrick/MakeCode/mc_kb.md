@@ -6,6 +6,12 @@
 
 ![](../../functional_module/PWmodules/images/kbbanner.png)
 
+## 硬件準備
+
+在編程前請確保硬件及接線沒有問題。
+
+[硬件接線方法](../wifibrick/Wifibrick_intro.md#id5)
+
 ## 前言：
 
 在這節教程，我們將會學習使用WifiBrick和KOI與Kittenblock的程式溝通。

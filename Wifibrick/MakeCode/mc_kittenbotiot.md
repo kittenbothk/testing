@@ -8,6 +8,13 @@
 
 在這節教程，我們將會學習使用WifiBrick和KOI與Kittenbot自家IoT平台溝通。
 
+## 硬件準備
+
+在編程前請確保硬件及接線沒有問題。
+
+[硬件接線方法](../wifibrick/Wifibrick_intro.md#id5)
+
+
 ## 第一步：平台準備
 
 請先登入Kittenbot IoT，然後建立一個新話題。

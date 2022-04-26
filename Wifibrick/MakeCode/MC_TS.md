@@ -36,6 +36,12 @@
 
 ### 假如你使用KOI，請加載KOI插件
 
+## 硬件準備
+
+在編程前請確保硬件及接線沒有問題。
+
+[硬件接線方法](../wifibrick/Wifibrick_intro.md#id5)
+
 ### 1. 讓Wifibrick連線到網絡
 
 ------
