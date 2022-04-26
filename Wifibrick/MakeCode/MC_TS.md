@@ -40,7 +40,7 @@
 
 在編程前請確保硬件及接線沒有問題。
 
-[硬件接線方法](../wifibrick/Wifibrick_intro.md#id5)
+[硬件接線方法](https://kittenbothk.readthedocs.io/en/latest/Wifibrick/wifibrick/Wifibrick_intro.html#id5)
 
 ### 1. 讓Wifibrick連線到網絡
 
