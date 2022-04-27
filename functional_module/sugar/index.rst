@@ -20,3 +20,4 @@ Sugar系列模組教學
     sugar_joystick.md
     sugar_tof.md
     sugar_asr.md
+    sugar_lens.md
