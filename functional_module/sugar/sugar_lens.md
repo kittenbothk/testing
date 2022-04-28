@@ -12,9 +12,43 @@ Sugar Lens是Sugar感應器系列入面的FPV鏡頭模組，配合接收器可�
 - 頻率：5300MHz~5900MHz
 - 頻道：40條
 
+## 產品展示
+
+![](./images/lens2.jpg)
+
+![](./images/lens5.jpg)
+
+![](./images/lens6.jpg)
+
 ## 產品接線
 
 用3Pin 連接線將模組與Robotbit Edu連接起來。
+
+![](./images/lens_wire.png)
+
+## 操作教學
+
+Sugar Lens的頂部有一粒黑色按鍵，這個按鍵可以設置鏡頭的頻道設定。
+
+### 1. 一般運作時，鏡頭會亮起紅燈及藍燈。
+
+![](./images/lens7.jpg)
+
+### 2. 長按按鍵，鏡頭就會進入設定模式。
+
+![](./images/lens8.gif)
+
+### 3. 紅燈閃一下，代表正在設定小頻道。籃色燈閃的次數表示現時小頻道的數值(片段中閃了三下，代表小頻道為3)。輕按一下按鍵，改變小頻道(0至8)。
+
+![](./images/lens9.gif)
+
+### 4. 再長按按鍵，紅燈閃兩下，代表正在設定大頻道。藍色燈閃的次數代表大頻道的數值(片段中閃一下，代表大頻道為A)。輕按一下按鍵，改變大頻道(A至E)。
+
+![](./images/lens10.gif)
+
+### 5. 再長按按鍵，紅燈閃三下，代表正在設定影像方向(片段中閃一下，代表影像方向為正常)。輕按一下按鍵，改變影像方向(正常/上下倒轉)。
+
+![](./images/lens11.gif)
 
 ## MakeCode編程教學
 
@@ -22,13 +56,7 @@ Sugar Lens是Sugar感應器系列入面的FPV鏡頭模組，配合接收器可�
 
 ![](./images/lens_code.png)
 
-[參考程式](https://makecode.microbit.org/_MoR9hkbRjLsh)
-
 用數位寫入就可以控制鏡頭的開關。
 
-### 你亦可以用插件地址搜尋
-
-Sugar插件：https://github.com/KittenBot/pxt-sugar
-
-### [詳細方法](../../Makecode/powerBrickMC)
+[參考程式](https://makecode.microbit.org/_MoR9hkbRjLsh)
 
