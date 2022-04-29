@@ -7,3 +7,7 @@ Micro:bit發明家套件的升級ASR案例。
     :maxdepth: 1
 
     asr.md
+    asr_fan.md
+    asr_hanger.md
+    asr_light.md
+    asr_smarthome.md
