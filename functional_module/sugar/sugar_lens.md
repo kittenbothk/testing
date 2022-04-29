@@ -1,4 +1,4 @@
-# Sugar Lens
+# Sugar Lens 鏡頭模組
 
 ![](./images/lens1.jpg)
 
