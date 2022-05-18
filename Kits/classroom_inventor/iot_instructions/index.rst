@@ -7,3 +7,8 @@ Micro:bit發明家套件的升級WifiBrick案例。
     :maxdepth: 1
 
     iot.md
+    iot_streetlamp.md
+    iot_hanger.md
+    iot_gate.md
+    iot_safe.md
+    iot_firealarm.md
