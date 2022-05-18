@@ -1,6 +1,12 @@
 # IoT智能路燈
 
+![](./images/iot_streetlamp.png)
+
 ## 組裝說明書下載
+
+#### 右擊->另存為...
+
+[組裝說明書](./images/streetlamp.pdf)
 
 ## 參考程式
 

@@ -1,6 +1,12 @@
 # IoT智能防火警報
 
+![](./images/firealarm.png)
+
 ## 組裝說明書下載
+
+#### 右擊->另存為...
+
+[組裝說明書](./images/firealarm.pdf)
 
 ## 參考程式
 
