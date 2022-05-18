@@ -8,6 +8,8 @@
 
 [組裝說明書](./images/streetlamp.pdf)
 
+![](./images/lamp_wire.png)
+
 ## 參考程式
 
 ![](./images/lamp_code.png)

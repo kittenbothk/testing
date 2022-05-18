@@ -8,6 +8,8 @@
 
 [組裝說明書](./images/gate.pdf)
 
+![](./images/gate_wire.png)
+
 ## 參考程式
 
 ![](./images/gate_code.png)

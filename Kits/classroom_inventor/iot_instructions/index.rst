@@ -10,5 +10,5 @@ Micro:bit發明家套件的升級WifiBrick案例。
     iot_streetlamp.md
     iot_hanger.md
     iot_gate.md
-    iot_safe.md
+    iot_lock.md
     iot_firealarm.md

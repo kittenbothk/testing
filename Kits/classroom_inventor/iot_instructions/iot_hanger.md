@@ -8,6 +8,8 @@
 
 [組裝說明書](./images/hanger.pdf)
 
+![](./images/lock_wire.png)
+
 ## 參考程式
 
 ![](./images/hanger_code.png)

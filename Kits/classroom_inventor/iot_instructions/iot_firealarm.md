@@ -14,6 +14,8 @@
 
 [參考程式](https://makecode.microbit.org/_h0qb5PCtjhAV)
 
+![](./images/firealarm_wire.png)
+
 ## 模型玩法
 
 1. 填入Wifi登入資料與MakerCloud主題名稱。
