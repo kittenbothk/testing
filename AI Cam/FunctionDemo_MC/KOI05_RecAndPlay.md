@@ -40,13 +40,12 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 把程式下載到Microbit, 
 
-1. 按下Microbit的按鍵A，對著收音咪進行說話錄音。錄製完畢後，喇叭會播放剛才錄製的音訊。
-2. 當按下Microbit的按鍵B，喇叭播放對應的音訊。
+1. 按下Microbit的按鍵A，對著收音咪進行說話錄音。
+2. 當按下Microbit的按鍵B，喇叭會播放剛才錄製的音訊。
 
 ## 參考程式
 
 [KOI錄音與播放Hex (插件0.6.8)](https://makecode.microbit.org/_Tc1EmKJ8eWuR)
-
 
 ## 插件版本與更新
 
@@ -77,4 +76,9 @@ KOI插件：https://github.com/KittenBot/pxt-KOI
 
 ### 5: 為什麼我預載了音頻檔到SD卡，在KOI播放不了？
 
-·    答：因為KOI對音頻檔案有限制，長度必須要是少於3.75秒，大小要少於512KB和位元速率要是少於512kbps。
+·    答：因為KOI對音頻檔案有限制，長度必須要是少於3.75秒，大小要少於512KB和位元速率要是少於256kbps。
+
+###6: 我可以播放在電腦錄製的音頻檔案嗎？
+
+·    答：可以，KittenBot推薦使用Audacity，詳情請參閱以下教學。
+        

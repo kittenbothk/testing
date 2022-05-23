@@ -12,6 +12,7 @@ Makecode上KOI各種功能編程指引
     KOI03_LCDirection
     KOI04_ScreenCapture
     KOI05_RecAndPlay
+    audacity.md
     KOI06_BarQRCodeReading
     KOI07_CircleTracing
     KOI08_RectangleTracing

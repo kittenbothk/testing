@@ -14,12 +14,8 @@ MR STEMER 3合1格鬥小車套件是一套針對Microbit而設計的一套競技
 2. 18650鋰電池x1(只限標準版)
 3. 積木包x1
 4. 65mm 車輪x2
-5. GeekServo電機x2
-6. GeekServo舵機x1
-10. JoyFrog手掣x1
-11. Microbit電池盒x1
-12. Microbit矽膠套x1
-14. USB線x1
+5. GeekServo 9g電機x2
+6. GeekServo 9g舵機x1
 
 ## 套件特色
 
