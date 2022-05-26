@@ -19,8 +19,6 @@ Micro:bit小發明家套件是Kittenbot針對STEM普及教育而設計的套件�
 
 ![](./images/1.png)
 
-![](./images/content.png)
-
 - Micro:bit V2 x1(選配)
 - Robotbit Edu x1
 - Robotbit底座 x1
