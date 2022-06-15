@@ -8,19 +8,19 @@
 
 ### 1. 打開KLink然後進入KittenCode。
 
-![](./images/micropython1.png)
+![](../images/micropython1.png)
 
 ### 2. 在KittenCode選擇硬件模式，然後選擇未來板。
 
-![](./images/micropython2.png)
+![](../images/micropython2.png)
 
 ### 3. 連接未來板串口。
 
-![](./images/micropython3.png)
+![](../images/micropython3.png)
 
 ### 4. 編寫簡單的程式顯示字符測試在線運行。
 
-![](./images/micropython4.png)
+![](../images/micropython4.png)
 
 ## 未來板MicroPython編程教學
 

@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="" />
+    <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/kittenblock/microphone.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/kittenblock/microphone.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/micropython/api9.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/api9.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/micropython/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/micropython/micropython.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/micropython.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
