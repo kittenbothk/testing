@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="" />
+    <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/bathtub.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/bathtub.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/door.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/door.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/sink.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/sink.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/stove.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/stove.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
