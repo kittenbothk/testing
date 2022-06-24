@@ -24,6 +24,8 @@
 
 ![](../images/sink_code_kb.png)
 
+[參考程式(右擊，另存為)](./smartSink.sb3)
+
 ## 示範短片
 
 [![](../images/sink_video.png)](https://www.youtube.com/watch?v=LwzhAub01sQ)

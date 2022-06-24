@@ -24,7 +24,9 @@
 
 ![](../images/door_code_kb.png)
 
-[參考程式資源包]()
+[參考程式(右擊，另存為)](./smartWindow.sb3)
+
+[參考圖檔下載(右擊，另存為)](./windowpic.rar)
 
 ## 示範短片
 

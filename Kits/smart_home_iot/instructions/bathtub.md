@@ -22,6 +22,10 @@
 
 ![](../images/bathtub_code_kb.png)
 
+[參考程式(右擊，另存為)](./smartBathtub.sb3)
+
+[參考圖檔下載(右擊，另存為)](./bathpic.rar)
+
 ## 示範短片
 
 [![](../images/battub_video.png)](https://www.youtube.com/watch?v=tRQiIUIZCpo&t=1s)
