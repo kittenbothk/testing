@@ -76,6 +76,10 @@
     3in1/index
 
 .. toctree::
+    :maxdepth: 1
+    :caption: Robotbit基礎小車
+
+.. toctree::
     :maxdepth: 2
     :caption: 四驅麥輪車套件
 
