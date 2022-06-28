@@ -21,6 +21,15 @@
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/basic_kart/ai.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/basic_kart/ai.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/basic_kart/images/ai_run_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/basic_kart/images/ai_run_code.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/basic_kart/images/rc_code2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/basic_kart/images/rc_code2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/basic_kart/images/ultrasound_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/basic_kart/images/ultrasound_code.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/basic_kart/images/wiring.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/basic_kart/images/wiring.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/basic_kart/instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/basic_kart/instructions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/basic_kart/line.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/basic_kart/line.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/basic_kart/rc.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/basic_kart/rc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/basic_kart/ultrasound.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/basic_kart/ultrasound.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

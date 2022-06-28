@@ -8,4 +8,4 @@
 
 ## 參考接線圖
 
-![](./images/wiring.svg)
+![](./images/wiring.png)
