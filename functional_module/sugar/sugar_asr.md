@@ -88,9 +88,15 @@
 
 ![](../PWmodules/images/mcbanner.png)
 
-### 加載語音模組插件：
+### 加載Sugar插件：
 
-語音模組插件：https://github.com/kittenbothk/pxt-KittenASR
+### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)
+
+![](./images/sugar_search.png)
+
+### 你亦可以用插件地址搜尋
+
+Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 ### [詳細方法](../../Makecode/powerBrickMC)
 
@@ -98,25 +104,21 @@
 
 ![](./images/asr_commands.png)
 
+### Sugar語音模組積木
+
+![](./images/asr_sugar_1.png)
+
 ### 語音辨識參考程式
 
-![](./images/asr_code1.png)
+![](./images/asr_sugar_2.png)
 
-[參考程式下載](https://makecode.microbit.org/_F68D6iWFUMvi)
+[參考程式下載](https://makecode.microbit.org/_RCWckUH0bcXe)
+
+      注意：2個語音播報指令之間需要加等待，等待上一個語音播報完成，否則語音播報會重疊。
 
 參考程式用法：
 
 喚醒語音模組之後對語音模組說出Lamp On或Lamp Off，Micro:bit上的LED就會亮起相應的燈。
-
-### 語音播報參考程式
-
-![](./images/asr_code3.png)
-
-[參考程式下載](https://makecode.microbit.org/_YzeeikHkPApz)
-
-      注意：2個語音播報指令之間需要加等待，等待上一個語音播報完成，否則語音播報會重疊。
-
-參考程式用法:
 
 按下A鍵或B鍵，語音模組就會說出相應指令。
 
