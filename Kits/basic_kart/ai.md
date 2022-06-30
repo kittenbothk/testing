@@ -12,7 +12,7 @@
 
 ![](./images/ai_run_code.png)
 
-[主程式](https://makecode.microbit.org/_RYJTbJh7DaUh)
+[主程式](https://makecode.microbit.org/_dp6WqU3d3bEf)
 
 ## 玩法
 
