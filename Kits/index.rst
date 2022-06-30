@@ -79,6 +79,8 @@
     :maxdepth: 1
     :caption: Robotbit基礎小車
 
+    basic_kart/index
+
 .. toctree::
     :maxdepth: 2
     :caption: 四驅麥輪車套件
