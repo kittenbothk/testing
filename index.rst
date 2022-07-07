@@ -4,6 +4,12 @@
 
 .. toctree::
     :maxdepth: 1
+    :caption: JacDac介紹
+
+    jacdac/jacdac.md
+
+.. toctree::
+    :maxdepth: 1
     :caption: BBC micro:bit第二代
 
     microbitv2/intro.md
