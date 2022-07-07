@@ -8,6 +8,8 @@ Jacdac是由微軟專為電子元件編程而開發的協議制式，Jacdac強�
 
 ## 微軟Jacdac與KittenBot
 
+![](./images/banner.png)
+
 Jacdac支援多種主控，除了電腦及智能裝置之外亦支援如Arduino及Raspberry Pi等的微電腦。
 
 ### 而在Micro:bit及各款電子元件的設計和支援上，Kittenbot更加成為了微軟的官方合作夥伴，與微軟合作設計和開發符合Micro:bit甚至其他主控使用的Jacdac模組。
@@ -17,6 +19,20 @@ Jacdac支援多種主控，除了電腦及智能裝置之外亦支援如Arduino�
 ### [Hackster.io: 微軟與KittenBot合作推出市場上第一款支援Jacdac的硬件](https://www.hackster.io/news/microsoft-kittenbot-launch-the-first-jacdac-standard-microcontroller-kits-and-software-apis-9faec87abe70)
 
 ![](./images/1.png)
+
+## Jacdac與Micro:bit
+
+透過Micro:bit V2，用家就可以輕易地對Jacdac模組進行編程。目前，MakeCode已經添加對Jacdac模組的支援插件，用戶只需要在擴展欄搜尋Jacdac就可以使用得到。
+
+![](./images/3.png)
+
+由於Jacdac是一套全新的標準，用家需要使用符合Jacdac規格的硬件，目前Kittenbot為唯一生產Jacdac套件的公司。
+
+![](./images/kit_full.png)
+
+將Micro:bit插在Jacdapter上就可以為Micro:bit帶來Jacdac接口。
+
+![](./images/jacdapter1.jpg)
 
 ## 詳細了解Jacdac
 
@@ -34,8 +50,6 @@ Jacdac支援多種主控，除了電腦及智能裝置之外亦支援如Arduino�
 為了解決以上問題，微軟對Jacdac做了特別的設計。
 
 首先，所有Jacdac的硬件都會使用同一個官方插件，不論廠商不論硬件類型，用家都能夠輕易找到適用的編程積木。
-
-![](./images/3.png)
 
 ![](./images/2.png)
 
