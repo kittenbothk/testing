@@ -79,4 +79,8 @@ Jacdac支援多種主控，除了電腦及智能裝置之外亦支援如Arduino�
 
 ![](./images/breadboard.png)
 
+## Jacdac短片
+
 ### [Micro:bit官方Jacdac示範](https://www.youtube.com/watch?v=Jqn2YCUkWqk)
+
+### [外國用家率先試玩](https://www.youtube.com/watch?v=VMBNxTSGWsI)

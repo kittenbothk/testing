@@ -6,7 +6,7 @@
     :maxdepth: 1
     :caption: JacDac介紹
 
-    jacdac/jacdac.md
+    jacdac/index
 
 .. toctree::
     :maxdepth: 1
