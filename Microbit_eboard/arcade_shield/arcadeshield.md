@@ -39,23 +39,27 @@
 
 ![](./images/arcade5.png)
 
-## 啟用『Experimental Hardware』
-## 這設定只需完成一次，不需要之後每次都設定
+### 啟用『Experimental Hardware』
+### 這設定只需完成一次，不需要之後每次都設定
 
 ![](./images/arcade6.png)
 
-## 選擇硬體
+### 選擇硬體
 
 ![](./images/arcade7.png)
 
-## 選擇『N3』
+### 選擇『N3』
 
 ![](./images/arcade8.png)
 
-## 下載到Micro:bit V2上
+### 下載到Micro:bit V2上
 
 ![](./images/arcade9.png)
 
-## 打開電源
+### 打開電源
 
 ![](./images/power.png)
+
+## Newbit的Jacdac接口可以連接各種Jacdac模組
+
+![](./images/jacdac.jpg)

@@ -3,7 +3,7 @@
 歡迎來到Kittenbot HK的Coding & STEM Sharing Hub，這裡可以找到Kittenbot 的編程與STEM產品學習資訊﹑使用秘訣﹑應用分享及購買方法等… 讓”貓粉”能夠集中在這裏找到最新的”貓訊”
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :caption: JacDac介紹
 
     jacdac/index
