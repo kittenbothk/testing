@@ -31,12 +31,11 @@
 
 ### 水溫感應器編程
 
-    使用水溫感應器必須將電阻設為上，否則會不能運作。
     V1.5和V1的Micro:bit暫時未支援水溫感應器，請見諒。
 
 ![](./images/watertemp_code.png)
 
-[參考程式網址](https://makecode.microbit.org/_CA4EcbK879x2)
+[參考程式網址](https://makecode.microbit.org/_AzuDq10cEWFb)
 
 ## 插件版本與更新
 
