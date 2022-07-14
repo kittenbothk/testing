@@ -22,25 +22,9 @@
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/images/turbidity2.png" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/images/turbidity2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/images/ultraSoundv1_wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/images/ultraSoundv1_wire.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/images/ultraSoundv2_wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/images/ultraSoundv2_wire.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/nekoUltrasound.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/nekoUltrasound.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_asr.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_asr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_button.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_button.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_env.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_env.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_fire.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_fire.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_joystick.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_joystick.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_light.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_light.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_line.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_line.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_magnet.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_magnet.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_pir.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_pir.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_potentialmeter.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_potentialmeter.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_soil.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_soil.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_tof.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_tof.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_water.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_water.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/turbidity.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/turbidity.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/watertemp.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/watertemp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacdac/images/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/jacdac/images/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacdac/images/button2.png" beforeDir="false" afterPath="$PROJECT_DIR$/jacdac/images/button2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacdac/images/rotary2.png" beforeDir="false" afterPath="$PROJECT_DIR$/jacdac/images/rotary2.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
