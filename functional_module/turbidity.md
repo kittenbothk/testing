@@ -24,7 +24,11 @@
 
 ![](./PWmodules/images/mcbanner.png)
 
-### 加載污水混濁度感應器插件：https://github.com/kittenbothk/pxt-KittenTurbidity
+### 在擴展頁直接搜尋Robotbit (Robotbit已經過微軟認證，可以直接搜尋)
+
+![](./images/robotbit_search.gif)
+
+### 感應器Plus插件：https://github.com/kittenbothk/pxt-SensorPlus
 
 ### [詳細方法](../Makecode/powerBrickMC)
 

@@ -26,7 +26,7 @@
 
 ### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)
 
-![](./images/sugar_search.png)
+![](./images/sugar_search.gif)
 
 ### 你亦可以用插件地址搜尋
 
@@ -37,6 +37,10 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 ![](./images/button_mc_code.png)
 
 [參考程式](https://makecode.microbit.org/_EUeXbC8c5195)
+
+![](./images/button_mc_code2.png)
+
+[參考程式](https://makecode.microbit.org/_a3wE97V67EWA)
 
 ### Kittenblock 編程教學
 

@@ -26,7 +26,7 @@
 
 ### 在擴展頁直接搜尋sugar (sugar已經過微軟認證，可以直接搜尋)
 
-![](./images/sugar_search.png)
+![](./images/sugar_search.gif)
 
 ### 你亦可以用插件地址搜尋
 

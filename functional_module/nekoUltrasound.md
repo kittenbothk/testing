@@ -2,9 +2,11 @@
 
 貓耳超聲波 (HKBM8014A)
 
+![](./images/ultrasound3.png)
+
 ![](./images/ultrasound2.png)
 
-![](./images/ultrasound3.png)
+![](./images/ultrasound_v3_render.png)
 
 這是一隻超聲波測距模組。
 
@@ -34,15 +36,15 @@
 
 ## Robotbit 2.2
 
-### 超聲波模組v2
+### 超聲波模組v1
 
-超聲波模組v2需要接A(RGB燈)和D(超聲波)接口。
+超聲波模組v1需要接A(RGB燈)和D(超聲波)接口。
 
 ![](./images/ultraSoundv2_wire.png)
 
-### 超聲波模組v1
+### 超聲波模組v2
 
-超聲波模組v1只需要接Ultr接口。
+超聲波模組v2只需要接Ultr接口。
 
 ![](./images/ultraSoundv1_wire.png)
 
@@ -60,7 +62,7 @@
 
 ### 在擴展頁直接搜尋robotbit (robotbit已經過微軟認證，可以直接搜尋)
 
-![](./images/robotbit_search.png)
+![](./images/robotbit_search.gif)
 
 ### 你亦可以用插件地址搜尋
 
@@ -72,13 +74,19 @@ robotbit插件：https://github.com/KittenBot/pxt-robotbit
 
 ![](./images/ultraSound_blocks.png)
 
-#### 距離檢測編程：
+#### 距離檢測編程(有洞版)：
+
+![](./images/ultraSound_v3_code.png)
+
+[參考程式網址](https://makecode.microbit.org/_Xoggf6RR4JVs)
+
+#### 距離檢測編程(RGB)：
 
 ![](./images/ultraSound_code1.png)
 
 [參考程式網址](https://makecode.microbit.org/_Lt021WgXuWfz)
 
-### RGB燈編程(只限v2)：
+### RGB燈編程(RGB)：
 
 ![](./images/ultraSound_code2.png)
 
@@ -122,7 +130,6 @@ Robotbit插件可能會不定時推出更新，改進功能。亦有時候我們
 
 詳情請參考: [Makecode插件版本更換](../../Makecode/makecode_extensionUpdate)
 
-
 ## KittenBlock編程教學
 
 ![](./PWmodules/images/kbbanner.png)
@@ -139,10 +146,3 @@ Robotbit插件可能會不定時推出更新，改進功能。亦有時候我們
 
 ![](./images/ultraSound_code5.png)
 
-## Mu Editor編程教學
-
-#### 距離檢測編程：
-
-![](./images/ultraSound_code6.png)
-
-    超聲波模組的原理是使用數位寫入發射訊號，然後量度訊號反彈回到模組的時間，然後將時間乘以音波速度得知距離。

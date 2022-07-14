@@ -22,7 +22,7 @@
 
 ## MakeCode編程教學
 
-![](../PWmodules/images/mcbanner.png)
+![](../PWmodules/images/mcbanner.gif)
 
 ### 加載Sugar插件：
 
