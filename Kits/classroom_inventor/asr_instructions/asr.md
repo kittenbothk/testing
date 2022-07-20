@@ -2,6 +2,12 @@
 
 在發明家套件上加入一隻ASR語音模塊就可以模擬智能家居的應用案例。
 
+## 示範短片
+
+[![](./images/video.png)](https://www.youtube.com/watch?v=3de0GvBT5aY)
+
+[示範短片](https://www.youtube.com/watch?v=3de0GvBT5aY)
+
 ## 語音操控小夜燈
 
 ![](../images/asr_1.png)

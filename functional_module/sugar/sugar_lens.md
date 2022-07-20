@@ -31,11 +31,19 @@ Sugar Lens是Sugar感應器系列入面的FPV鏡頭模組，配合接收器可�
 
 ![](../PWmodules/images/mcbanner.png)
 
+### 在擴展頁直接搜尋Robotbit (Robotbit已經過微軟認證，可以直接搜尋)
+
+![](./images/robotbit_search.gif)
+
+### 感應器Plus插件：https://github.com/kittenbothk/pxt-SensorPlus
+
+### [詳細方法](../Makecode/powerBrickMC)
+
 ![](./images/lens_code.png)
 
 用數位寫入就可以控制鏡頭的開關。
 
-[參考程式](https://makecode.microbit.org/_MoR9hkbRjLsh)
+[參考程式](https://makecode.microbit.org/_JMrYPzC3uigE)
 
 
 ## 操作教學

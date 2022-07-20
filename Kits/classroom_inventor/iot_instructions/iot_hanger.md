@@ -10,7 +10,7 @@
 
 ![](./images/lock_wire.png)
 
-## 參考程式
+## 參考程式(MakerCloud版本)
 
 ![](./images/hanger_code.png)
 
@@ -20,3 +20,14 @@
 
 1. 填入Wifi登入資料與MakerCloud主題名稱。
 2. 在MakerCloud發佈文字訊息”Out”或”In”，模型就會伸出或收回晾衣架。
+
+## 參考程式(ObjectBlocks版本)
+
+![](./images/hanger_code_objectblocks.png)
+
+[參考程式](https://makecode.microbit.org/_DMcdUw6rRbzW)
+
+## 模型玩法
+
+1. 填入Wifi登入資料、ObjectBlocks登入資料與ObjectBlocks主題名稱。
+2. 在ObjectBlocks發佈文字訊息”Out”或”In”，模型就會伸出或收回晾衣架。
