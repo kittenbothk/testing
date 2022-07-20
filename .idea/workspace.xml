@@ -20,17 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_firealarm.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_firealarm.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_gate.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_gate.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_hanger.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_hanger.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_lock.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_lock.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_streetlamp.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_streetlamp.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/images/turbidity2.png" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/images/turbidity2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/lens_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/lens_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_lens.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_lens.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

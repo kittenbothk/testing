@@ -16,6 +16,12 @@
 
 [參考程式](https://makecode.microbit.org/_h0qb5PCtjhAV)
 
+## MakerCloud平台設定
+
+![](./images/fire_makercloud1.png)
+
+![](./images/fire_makercloud2.png)
+
 ## 模型玩法
 
 1. 填入Wifi登入資料與MakerCloud主題名稱。
@@ -26,6 +32,12 @@
 ![](./images/firealarm_code_objectblock.png)
 
 [參考程式](https://makecode.microbit.org/_f9vErLVbc57d)
+
+## ObjectBlocks平台設定
+
+![](./images/fire_objectblocks1.png)
+
+![](./images/fire_objectblocks2.png)
 
 ## 模型玩法
 

@@ -16,6 +16,12 @@
 
 [參考程式](https://makecode.microbit.org/_gspRu6UMDTpb)
 
+## MakerCloud平台設定
+
+![](./images/gate_makercloud1.png)
+
+![](./images/gate_makercloud2.png)
+
 ## 模型玩法
 
 1. 填入Wifi登入資料與MakerCloud主題名稱。
@@ -27,6 +33,12 @@
 ![](./images/gate_code_objectblocks.png)
 
 [參考程式](https://makecode.microbit.org/_Jd2gqadbAdC5)
+
+## ObjectBlocks平台設定
+
+![](./images/gate_objectblocks1.png)
+
+![](./images/gate_objectblocks2.png)
 
 ## 模型玩法
 
