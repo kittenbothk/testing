@@ -95,6 +95,12 @@
 
 .. toctree::
     :maxdepth: 2
+    :caption: 全地形越野遙控坦克
+
+    rc_tank/index
+
+.. toctree::
+    :maxdepth: 2
     :caption: MR STEMer Kart Lite套件
 
     robotbit_kart/index
