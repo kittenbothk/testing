@@ -10,7 +10,7 @@
 - 兼容樂高積木，擴展性高
 - 全方位移動，新穎兼靈活性高
 - 使用2KG電機，性能強勁
-- 支援MakeCode和Kittenblock編程3
+- 支援MakeCode和Kittenblock編程
 
 ## 套件內容
 
