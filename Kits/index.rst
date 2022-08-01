@@ -101,6 +101,12 @@
 
 .. toctree::
     :maxdepth: 2
+    :caption: 倉庫貨物管理系統
+
+    inventory_system/index
+
+.. toctree::
+    :maxdepth: 2
     :caption: MR STEMer Kart Lite套件
 
     robotbit_kart/index
