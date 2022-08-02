@@ -104,7 +104,7 @@
 
 ![](./images/objectblocks4.png)
 
-新增數據源，將渠道信息添加到數據源。
+新增工具顯示渠道信息。
 
 ![](./images/objectblocks5.png)
 
