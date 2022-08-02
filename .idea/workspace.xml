@@ -21,6 +21,15 @@
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/images/armour_wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/images/armour_wire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/images/armourbit_wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/images/armourbit_wire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/images/objectblock_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/images/objectblock_code.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/images/offline_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/images/offline_code.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/images/online_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/images/online_code.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/images/robotbit2.2wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/images/robotbit2.2wire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/images/robotbitedu_wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/images/robotbitedu_wire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/images/train_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/images/train_code.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/tutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/tutorial.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/rc_tank/tank.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/rc_tank/tank.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -38,7 +38,7 @@
 
 ## AIoT智能回收箱參考程式
 
-### MakerCloud平台版本
+## MakerCloud平台版本
 
 ![](./images/online_code.png)
 
@@ -52,7 +52,29 @@
 2. 按B確認KOI已成功連接網絡，並連接MakerCloud平台。
 3. KOI會說出辨認到的垃圾類別，然後打開相應的回收箱。
 
-### ObjectBlocks平台版本
+### MakerCloud平台設定教學
+
+建立MakerCloud主題，並建立3個數據類型paper、can、bottle。
+
+![](./images/makercloud1.png)
+
+為每個數據類型建立圖表。
+
+![](./images/makercloud2.png)
+
+建立儀表板，將建立的3個圖表添加到裡面。
+
+![](./images/makercloud3.png)
+
+![](./images/makercloud4.png)
+
+![](./images/makercloud5.png)
+
+![](./images/makercloud6.png)
+
+![](./images/makercloud7.png)
+
+## ObjectBlocks平台版本
 
 ![](./images/objectblock_code.png)
 
@@ -65,3 +87,57 @@
 1. 按A啟動辨認功能。
 2. 按B確認KOI已成功連接網絡，並連接ObjectBlocks平台。
 3. KOI會說出辨認到的垃圾類別，然後打開相應的回收箱。
+
+### ObjectBlocks平台設定
+
+建立ObjectBlocks平台話題。
+
+![](./images/objectblocks1.png)
+
+建立3個渠道Paper、Plastic、Can。(必須剔選webhook選項)
+
+![](./images/objectblocks2.png)
+
+![](./images/objectblocks3.png)
+
+建立儀表板。
+
+![](./images/objectblocks4.png)
+
+新增數據源，將渠道信息添加到數據源。
+
+![](./images/objectblocks5.png)
+
+![](./images/objectblocks6.png)
+
+## ThingSpeak平台版本
+
+![](./images/thingspeak_code.png)
+
+[Armourbit版參考程式](https://makecode.microbit.org/_dT5avA893heD)
+
+[Robotbit版參考程式](https://makecode.microbit.org/_Lo5grsEu8HeX)
+
+### 辨認方法
+
+1. 按A啟動辨認功能。
+2. 按B確認KOI已成功連接網絡，並連接ThingSpeak平台。
+3. KOI會說出辨認到的垃圾類別，然後打開相應的回收箱。
+
+### ThingSpeak平台設定
+
+設立新ThingSpeak頻道。
+
+![](./images/thingspeak1.png)
+
+將頻道設為公開。
+
+![](./images/thingspeak2.png)
+
+添加MQTT裝置存取話題訊息。
+
+![](./images/thingspeak3.png)
+
+在程式裡填入登入資料。
+
+![](./images/thingspeak4.png)
