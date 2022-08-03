@@ -63,3 +63,38 @@
 新增工具顯示渠道信息。
 
 ![](./images/objectblocks6.png)
+
+## ThingSpeak版參考程式
+
+![](./images/code_thingspeak.png)
+
+[參考程式](https://makecode.microbit.org/_aiDRt45hRiCR)
+
+### 模型玩法
+
+1. 在程式填入Wifi的登入資料和ThingSpeak的主題資料
+2. 在程式裡填入與貨品相應的RFID編號
+3. 開啟電源後等待WifiBrick連接到ThingSpeak
+4. 按A鍵啟動輸送帶，B鍵停止輸送帶
+5. 當RFID魔塊感應到貨物的RFID晶片後，Micro:bit會顯示RFID資訊，並且會將貨物資料上傳到ThingSpeak平台
+    
+   
+    注意：由於ThingSpeak只支援數字，所以ThingSpeak不支援顯示貨品名稱和ID
+
+### ThingSpeak平台設定教學
+
+建立ThingSpeak頻道，設定數據欄Robotbit，KOI，Armourbit，Item。
+
+![](./images/thingspeak1.png)
+
+將頻道設為公開。
+
+![](./images/thingspeak2.png)
+
+設定新MQTT Device。
+
+![](./images/thingspeak3.png)
+
+請好好保管ThingSpeak存取登入密碼。
+
+![](./images/thingspeak4.png)

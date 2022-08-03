@@ -21,10 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/images/objectblocks5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/images/objectblocks5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/images/objectblocks6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/images/objectblocks6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/ai_recycle/tutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/ai_recycle/tutorial.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/inventory_system/code.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/inventory_system/code.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/inventory_system/images/code_objectblocks.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/inventory_system/images/code_objectblocks.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
