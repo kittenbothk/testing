@@ -6,6 +6,8 @@ IoT Made Easy智能家居學習套件使用說明書
 
     makercloud.md
     ifttt.md
+    objectblocks.md
+    thingspeak.md
     stove.md
     door.md
     bathtub.md

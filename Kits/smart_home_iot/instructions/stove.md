@@ -12,19 +12,35 @@
 
 ![](../images/stove_wire.png)
 
-## 參考程式
+## MakerCloud版參考程式
 
 ### Micro:bit
 
-![](../images/stove_code_mc.png)
+![](../images/stove_code_mc_makercloud.png)
 
-[參考程式](https://makecode.microbit.org/_Abo2V2PDdY5R)
+[參考程式](https://makecode.microbit.org/_3UcLxDX53MJu)
 
 ### 未來板
 
-![](../images/stove_code_kb.png)
+![](../images/stove_code_kb_makercloud.png)
 
-[參考程式(右擊，另存為)](./smartStove.sb3)
+[參考程式(右擊，另存為)](./smartStove_makercloud.sb3)
+
+[參考圖檔下載(右擊，另存為)](./stovepic.rar)
+
+## ObjectBlocks版參考程式
+
+### Micro:bit
+
+![](../images/stove_code_mc_objectblocks.png)
+
+[參考程式](https://makecode.microbit.org/_adD1DLHuChzq)
+
+### 未來板
+
+![](../images/stove_code_kb_objectblocks.png)
+
+[參考程式(右擊，另存為)](./smartStove_objectblocks.sb3)
 
 [參考圖檔下載(右擊，另存為)](./stovepic.rar)
 

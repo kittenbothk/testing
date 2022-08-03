@@ -68,7 +68,7 @@
 
 ![](./images/code_thingspeak.png)
 
-[參考程式](https://makecode.microbit.org/_aiDRt45hRiCR)
+[參考程式](https://makecode.microbit.org/_RU8DYRgbm1os)
 
 ### 模型玩法
 

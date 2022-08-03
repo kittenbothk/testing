@@ -10,7 +10,7 @@
 
 ![](../images/bathtub_wire.png)
 
-## 參考程式
+## MakerCloud版參考程式
 
 ### Micro:bit
 
@@ -20,14 +20,29 @@
 
 ### 未來板
 
-![](../images/bathtub_code_kb.png)
+![](../images/bathtub_code_kb_makercloud.png)
 
 [參考程式(右擊，另存為)](./smartBathtub.sb3)
 
 [參考圖檔下載(右擊，另存為)](./bathpic.rar)
+
+## ObjectBlocks版參考程式
+
+### Micro:bit
+
+![](../images/bathtub_code_mc_objectblocks.png)
+
+[參考程式](https://makecode.microbit.org/_HKCbzPb8yLqJ)
+
+### 未來板
+
+![](../images/bathtub_code_kb_objectblocks.png)
+
+[參考程式(右擊，另存為)](./smartBathtub_objectblocks.sb3)
 
 ## 示範短片
 
 [![](../images/battub_video.png)](https://www.youtube.com/watch?v=tRQiIUIZCpo&t=1s)
 
 [示範短片](https://www.youtube.com/watch?v=tRQiIUIZCpo&t=1s)
+
