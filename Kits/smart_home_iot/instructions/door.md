@@ -44,6 +44,30 @@
 
 [參考圖檔下載(右擊，另存為)](./windowpic.rar)
 
+## Thingspeak版參考程式
+
+### Micro:bit
+
+![](../images/door_code_mc_thingspeak.png)
+
+[參考程式](https://makecode.microbit.org/_f3w3Pj2wP12x)
+
+### 未來板
+
+![](../images/door_code_kb_thingspeak.png)
+
+[參考程式(右擊，另存為)](./smartWindow_thingspeak.sb3)
+
+[參考圖檔下載(右擊，另存為)](./windowpic.rar)
+
+### 手動發布ThingSpeak信息控制窗戶
+
+將以下網址複製到瀏覽器貼上，更改為field5，將數值改為想發布的數值(0/1/2)。
+
+![](../images/thingspeak5.png)
+
+![](../images/thingspeak6.png)
+
 ## 示範短片
 
 [![](../images/door_video.png)](https://www.youtube.com/watch?v=nLj0LCgN1Uk)

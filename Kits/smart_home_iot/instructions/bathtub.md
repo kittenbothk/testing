@@ -40,6 +40,20 @@
 
 [參考程式(右擊，另存為)](./smartBathtub_objectblocks.sb3)
 
+## ThingSpeak版參考程式
+
+### Micro:bit
+
+![](../images/bathtub_code_mc_thingspeak.png)
+
+[參考程式](https://makecode.microbit.org/_hikfod0kXi2V)
+
+### 未來板
+
+![](../images/bathtub_code_kb_thingspeak.png)
+
+[參考程式(右擊，另存為)](./smartBathtub_thingspeak.sb3)
+
 ## 示範短片
 
 [![](../images/battub_video.png)](https://www.youtube.com/watch?v=tRQiIUIZCpo&t=1s)

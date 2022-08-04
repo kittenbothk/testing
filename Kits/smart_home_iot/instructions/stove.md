@@ -44,6 +44,20 @@
 
 [參考圖檔下載(右擊，另存為)](./stovepic.rar)
 
+## ThingSpeak版參考程式
+
+### Micro:bit
+
+![](../images/stove_code_mc_thingspeak.png)
+
+[參考程式](https://makecode.microbit.org/_FLJUbz7JUi1T)
+
+### 未來板
+
+![](../images/stove_code_kb_thingspeak.png)
+
+[參考程式(右擊，另存為)](./smartStove_thingspeak.sb3)
+
 ## 示範短片
 
 [![](../images/stove_video.png)](https://www.youtube.com/watch?v=n7rE02r8EJo)

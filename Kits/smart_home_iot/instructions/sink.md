@@ -40,6 +40,20 @@
 
 [參考程式(右擊，另存為)](./smartSink_objectblocks.sb3)
 
+## ThingSpeak版參考程式
+
+### Micro:bit
+
+![](../images/sink_code_mc_thingspeak.png)
+
+[參考程式](https://makecode.microbit.org/_8omTCjHcjDi0)
+
+### 未來版
+
+![](../images/sink_code_kb_thingspeak.png)
+
+[參考程式(右擊，另存為)](./smartSink_thingspeak.sb3)
+
 ## 示範短片
 
 [![](../images/sink_video.png)](https://www.youtube.com/watch?v=LwzhAub01sQ)
