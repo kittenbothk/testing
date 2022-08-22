@@ -20,20 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/images/bathtub_code_kb_makercloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/images/bathtub_code_kb_makercloud.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/images/bathtub_code_kb_objectblocks.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/images/bathtub_code_kb_objectblocks.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/images/bathtub_code_mc_objectblocks.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/images/bathtub_code_mc_objectblocks.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/images/door_code_kb.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/images/door_code_kb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/images/door_code_mc.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/images/door_code_mc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/images/door_code_mc_makercloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/images/door_code_mc_makercloud.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/images/door_code_mc_objectblocks.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/images/door_code_mc_objectblocks.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/images/thingspeak1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/images/thingspeak1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/bathtub.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/bathtub.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/door.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/door.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/sink.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/sink.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/stove.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/stove.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/thingspeak.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/thingspeak.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +52,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file:////192.168.2.68/Share Files/Kittenbot/Product/Future board/Demo Case/05_19 區天文台/hko.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
