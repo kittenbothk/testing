@@ -4,9 +4,7 @@
 
 ## 組裝說明書下載
 
-#### 右擊->另存為...
-
-[組裝說明書](./images/streetlamp.pdf)
+[下載組裝說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/classroom_inventor/iot_instructions/images/streetlamp.pdf)
 
 ![](./images/lamp_wire.png)
 

@@ -4,7 +4,7 @@
 
 ![](./images/instruction.png)
 
-[下載搭建說明書(右鍵->另存為)](./images/tank.pdf)
+[下載搭建說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/rc_tank/images/tank.pdf)
 
 ## 接線教學
 

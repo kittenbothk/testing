@@ -4,7 +4,7 @@
 
 ## 搭建說明書
 
-[下載搭建說明書(右擊，另存為)](../images/bath.pdf)
+[下載搭建說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart_home_iot/images/bath.pdf)
 
 ## 參考接線
 
@@ -22,9 +22,9 @@
 
 ![](../images/bathtub_code_kb_makercloud.png)
 
-[參考程式(右擊，另存為)](./smartBathtub.sb3)
+[參考程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart_home_iot/instructions/smartBathtub.sb3)
 
-[參考圖檔下載(右擊，另存為)](./bathpic.rar)
+[參考圖檔下載](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart_home_iot/instructions/bathpic.rar)
 
 ## ObjectBlocks版參考程式
 
@@ -38,7 +38,7 @@
 
 ![](../images/bathtub_code_kb_objectblocks.png)
 
-[參考程式(右擊，另存為)](./smartBathtub_objectblocks.sb3)
+[參考程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart_home_iot/instructions/smartBathtub_objectblocks.sb3)
 
 ## ThingSpeak版參考程式
 
@@ -52,7 +52,7 @@
 
 ![](../images/bathtub_code_kb_thingspeak.png)
 
-[參考程式(右擊，另存為)](./smartBathtub_thingspeak.sb3)
+[參考程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart_home_iot/instructions/smartBathtub_thingspeak.sb3)
 
 ## 示範短片
 

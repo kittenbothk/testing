@@ -6,7 +6,7 @@
 
 ## 搭建說明書
 
-[下載搭建說明書(右擊，另存為)](../images/window.pdf)
+[下載搭建說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart_home_iot/images/window.pdf)
 
 ## 參考接線
 
@@ -24,9 +24,9 @@
 
 ![](../images/door_code_kb.png)
 
-[參考程式(右擊，另存為)](./smartWindow_makercloud.sb3)
+[參考程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart_home_iot/instructions/smartWindow_makercloud.sb3)
 
-[參考圖檔下載(右擊，另存為)](./windowpic.rar)
+[參考圖檔下載](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart_home_iot/instructions/windowpic.rar)
 
 ## ObjectBlocks版參考程式
 
@@ -40,9 +40,9 @@
 
 ![](../images/door_code_kb_objectblocks.png)
 
-[參考程式(右擊，另存為)](./smartWindow_objectblocks.sb3)
+[參考程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart_home_iot/instructions/smartWindow_objectblocks.sb3)
 
-[參考圖檔下載(右擊，另存為)](./windowpic.rar)
+[參考圖檔下載](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart_home_iot/instructions/windowpic.rar)
 
 ## Thingspeak版參考程式
 
@@ -56,9 +56,9 @@
 
 ![](../images/door_code_kb_thingspeak.png)
 
-[參考程式(右擊，另存為)](./smartWindow_thingspeak.sb3)
+[參考程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart_home_iot/instructions/smartWindow_thingspeak.sb3)
 
-[參考圖檔下載(右擊，另存為)](./windowpic.rar)
+[參考圖檔下載](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart_home_iot/instructions/windowpic.rar)
 
 ### 手動發布ThingSpeak信息控制窗戶
 

@@ -1,5 +1,13 @@
 # 倉庫貨物管理系統參考程式
 
+## RFID參考程式
+
+使用這程式查看RFID晶片ID。
+
+![](./images/rfid_code.png)
+
+[Sample Program](https://makecode.microbit.org/_7mTPaUfz5FLd)
+
 ## MakerCloud版參考程式
 
 ![](./images/code_makercloud.png)

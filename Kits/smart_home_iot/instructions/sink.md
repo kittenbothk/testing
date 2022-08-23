@@ -6,7 +6,7 @@
 
 ## 搭建說明書
 
-[下載搭建說明書(右擊，另存為)](../images/sink.pdf)
+[下載搭建說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart_home_iot/images/stove.pdf)
 
 ## 參考接線
 
@@ -24,7 +24,7 @@
 
 ![](../images/sink_code_kb_makercloud.png)
 
-[參考程式(右擊，另存為)](./smartSink_makercloud.sb3)
+[參考程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart_home_iot/instructions/smartSink_makercloud.sb3)
 
 ## ObjectBlocks版參考程式
 
@@ -38,7 +38,7 @@
 
 ![](../images/sink_code_kb_objectblocks.png)
 
-[參考程式(右擊，另存為)](./smartSink_objectblocks.sb3)
+[參考程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart_home_iot/instructions/smartSink_objectblocks.sb3)
 
 ## ThingSpeak版參考程式
 
@@ -52,7 +52,7 @@
 
 ![](../images/sink_code_kb_thingspeak.png)
 
-[參考程式(右擊，另存為)](./smartSink_thingspeak.sb3)
+[參考程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/smart_home_iot/instructions/smartSink_thingspeak.sb3)
 
 ## 示範短片
 

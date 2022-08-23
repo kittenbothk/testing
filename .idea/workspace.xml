@@ -22,6 +22,24 @@
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/basic_kart/instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/basic_kart/instructions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/booksharing/instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/booksharing/instructions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/asr_instructions/asr_fan.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/asr_instructions/asr_fan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/asr_instructions/asr_hanger.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/asr_instructions/asr_hanger.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/asr_instructions/asr_light.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/asr_instructions/asr_light.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/asr_instructions/asr_smarthome.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/asr_instructions/asr_smarthome.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_firealarm.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_firealarm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_gate.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_gate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_hanger.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_hanger.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_lock.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_lock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_streetlamp.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/iot_instructions/iot_streetlamp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/inventory_system/code.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/inventory_system/code.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/inventory_system/instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/inventory_system/instructions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/mecanum_2kg/instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/mecanum_2kg/instructions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/rc_tank/instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/rc_tank/instructions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/bathtub.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/bathtub.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/door.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/door.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/sink.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/sink.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/stove.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/smart_home_iot/instructions/stove.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

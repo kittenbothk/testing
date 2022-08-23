@@ -4,6 +4,8 @@
 
 ## 組裝說明書下載
 
+[下載組裝說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/classroom_inventor/asr_instructions/asr_hanger.pdf)
+
 ## 參考程式
 
 ![](../images/asr_hanger_code.png)

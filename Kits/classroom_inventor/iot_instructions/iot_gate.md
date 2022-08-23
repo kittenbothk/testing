@@ -4,9 +4,7 @@
 
 ## 組裝說明書下載
 
-#### 右擊->另存為...
-
-[組裝說明書](./images/gate.pdf)
+[下載組裝說明書](./images/gate.pdf)
 
 ![](./images/gate_wire.png)
 
@@ -14,7 +12,7 @@
 
 ![](./images/gate_code.png)
 
-[參考程式](https://makecode.microbit.org/_gspRu6UMDTpb)
+[參考程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/classroom_inventor/iot_instructions/images/gate.pdf)
 
 ## MakerCloud平台設定
 

@@ -4,7 +4,7 @@
 
 ![](./images/instruction.png)
 
-[下載搭建說明書(右鍵->另存為)](./images/belt.pdf)
+[下載搭建說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/inventory_system/images/belt.pdf)
 
 ## 接線教學
 
