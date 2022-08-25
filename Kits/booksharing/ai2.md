@@ -2,7 +2,7 @@
 
 ## 下載AI2範例程式
 
-[AI2範例程式(右鍵->另存連結為)](booksharing_edu_samplecode.aia)
+[AI2範例程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/booksharing/booksharing_edu_samplecode.aia)
 
 ## 修改ai2應用程式
 

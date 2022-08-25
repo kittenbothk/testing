@@ -4,9 +4,9 @@
 
 ![](./images/futureboardcode1.png)
 
-[範例程式下載(右鍵->另存連結為)](booksharing.sb3)
+[範例程式下載](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/booksharing/booksharing.sb3)
 
-[KOI聲音檔下載(右鍵->另存連結為)](sounds.zip)
+[KOI聲音檔下載](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/booksharing/sounds.zip)
 
 ## 修改範例程式
 

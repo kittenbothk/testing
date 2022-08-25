@@ -6,7 +6,7 @@
 
 [範例程式下載](https://makecode.microbit.org/_3Hpip4ibfThu)
 
-[KOI聲音檔下載(右鍵->另存連結為)](sounds.zip)
+[KOI聲音檔下載](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/booksharing/sounds.zip)
 
 ## 修改範例程式
 

@@ -9,3 +9,5 @@
     inventory.md
     instructions.md
     code.md
+    futureboard_code.md
+    platform_setup.md
