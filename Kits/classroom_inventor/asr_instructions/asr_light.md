@@ -10,7 +10,7 @@
 
 ![](../images/asr_nightlight_code.png)
 
-[參考程式](https://makecode.microbit.org/_6eW1zjM1khzr)
+[參考程式](https://makecode.microbit.org/_W5eeHJCdxJJk)
 
 ## 模型玩法
 

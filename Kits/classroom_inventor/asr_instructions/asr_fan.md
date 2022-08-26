@@ -10,7 +10,7 @@
 
 ![](../images/asr_fan_code.png)
 
-[參考程式](https://makecode.microbit.org/_MbDM9p836J66)
+[參考程式](https://makecode.microbit.org/_43oAoe5qib1y)
 
 ## 模型玩法
 

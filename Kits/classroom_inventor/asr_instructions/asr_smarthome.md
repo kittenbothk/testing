@@ -10,7 +10,7 @@
 
 ![](../images/asr_smarthome_code.png)
 
-[參考程式](https://makecode.microbit.org/_4r7iMiU8M9Lo)
+[參考程式](https://makecode.microbit.org/_9eVFgrfckURa)
 
 ## 模型玩法
 
