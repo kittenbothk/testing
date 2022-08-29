@@ -6,6 +6,10 @@
 
 [下載組裝說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/classroom_inventor/asr_instructions/asr_night_light.pdf)
 
+## 參考接線
+
+![](../images/asr_nightlight_wire.png)
+
 ## 參考程式
 
 ![](../images/asr_nightlight_code.png)

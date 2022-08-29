@@ -20,38 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/asr_instructions/asr_fan.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/asr_instructions/asr_fan.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/asr_instructions/asr_hanger.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/asr_instructions/asr_hanger.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/asr_instructions/asr_light.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/asr_instructions/asr_light.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/asr_instructions/asr_smarthome.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/asr_instructions/asr_smarthome.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/asr_fan_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/asr_fan_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/asr_hanger_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/asr_hanger_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/asr_nightlight_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/asr_nightlight_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/asr_smarthome_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/asr_smarthome_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/broadcast_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/broadcast_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/candle_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/candle_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_fan_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_fan_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_gate_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_gate_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_gate_code2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_gate_code2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_hanger_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_hanger_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_hanger_code2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_hanger_code2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_safe_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_safe_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_safe_code2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_safe_code2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_trafficlight_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_trafficlight_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_trafficlight_code2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/extra_trafficlight_code2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/fan_cod.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/fan_cod.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/fan_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/fan_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/firealarm_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/firealarm_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/gate_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/gate_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/hanger_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/hanger_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/kart_code1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/kart_code1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/kart_code2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/kart_code2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/kart_code3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/kart_code3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/nightlight_cod.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/nightlight_cod.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/broadcast.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/broadcast.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/inventory_system/platform_setup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/fan_wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/fan_wire.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

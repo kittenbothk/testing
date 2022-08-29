@@ -6,6 +6,10 @@
 
 [下載組裝說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/classroom_inventor/asr_instructions/asr_fan.pdf)
 
+## 參考接線
+
+![](../images/asr_fan_wire.png)
+
 ## 參考程式
 
 ![](../images/asr_fan_code.png)
