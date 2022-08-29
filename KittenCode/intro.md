@@ -10,13 +10,17 @@ Python編程在STEM編程教育的重要性越來越大，香港教育局已經�
 
 ![](./images/dse.png)
 
+## 下載KittenCode
+
+[下載KittenCode]()
+
 ## 功能和特點
 
 - 支援Python REPL編程
     - REPL即是交互式編譯器，就是你可以在控制台輸入一行行的代碼，它就會即時運行。
     
 - 支援MicroPython對硬件編程
-    - 可以對Micro:bit、KOI和Meowbit等的MicroPython硬件編程
+    - 可以對Micro:bit、KOI和未來板、Meowbit等的MicroPython硬件編程
     - 可以實現連線實時互動，亦可以上傳程式實現離線運行
     
 - 支援下載第三方庫
@@ -24,5 +28,3 @@ Python編程在STEM編程教育的重要性越來越大，香港教育局已經�
     - 下載第三方Python庫，輕易學習AI，Machine Learning等的新技術
     
 - 介面簡潔易明
-
-- 登錄KZone，分享大家的編程作品

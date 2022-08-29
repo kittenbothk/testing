@@ -10,10 +10,12 @@ KittenCode裏已經預載了數個示範程式，讓大家快速測試KittenCode
 
 ![](./images/demo2.png)
 
-### 3. 程式就會自動載入
+### 3. 導入範例程式
 
 ![](./images/demo3.png)
 
 ### 4. 運行程式
+
+![](./images/demo5.png)
 
 ![](./images/demo4.png)
