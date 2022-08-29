@@ -6,7 +6,7 @@
 
 ## 搭建說明書
 
-[搭建說明書下載]()
+[搭建說明書下載](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/fitness/images/sitandreach.pdf)
 
 ## 參考接線
 
