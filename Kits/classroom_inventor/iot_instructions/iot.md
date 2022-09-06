@@ -1,4 +1,4 @@
-# 發明家套件WifiBrick升級案例一覽
+# 發明家套件IoT升級案例一覽
 
 只要在發明家套件上加上一隻WifiBrick就可以實現IoT物聯網的應用案例。IoT應用案例可以支援各種物聯網平台，包括MakerCloud和ObjectBlocks。
 
