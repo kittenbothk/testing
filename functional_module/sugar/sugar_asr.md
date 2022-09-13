@@ -71,6 +71,12 @@ Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 按下A鍵或B鍵，語音模組就會說出相應指令。
 
+### 示範短片
+
+[![](./images/asr_video.png)](https://www.youtube.com/watch?v=nvV9uM8g3gs)
+
+[示範短片](https://www.youtube.com/watch?v=nvV9uM8g3gs)
+
 ### 未來板KittenBlock編程教學
 
 ![](../PWmodules/images/kbbanner.png)
