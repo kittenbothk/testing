@@ -9,6 +9,7 @@ Microbit擴展板
 
     Robotbit_edu/index
     Robotbit/index
+    edu_vs_2.2/differences.md
     ../functional_module/PWmodules/Armourbit.md
     sugarbox/index
     arcade_shield/index

@@ -66,57 +66,7 @@ Robotbit示範短片:
 - 18650電池電壓：3.7V   
 - USB輸入電壓：5V   
 - VM引腳最大：1A（在板載電池的支持下）   
-- 綠色端子電壓(外部電源輸入)：5V（最大支持6V輸入，切勿接超6V的電壓，最大電流支持3A）   
-
-## 軟件支援 
-
-配套硬件：Microbit   
-
-編程平台：Kittenblock(基於Scratch3.0) / Microsoft Makecode / Python(Mu editor) 
-
-### Microsoft MakeCode
-
-![](../../functional_module/PWmodules/images/mcbanner.png)
-
-### ![](../RBimage/04_1.png)
-
-#### 1. 在makecode添加包中直接搜索Robotbit（Robotbit插件已經通過微軟官方認證)  
-
-![](../RBimage/38_01.png)   
-       
-![](../RBimage/39_1.png)
-
-#### 2. 在Kittenbot makecode離線版本中，添加包列表可以顯示Robotbit以及其他集成擴展包（Robotbit可以離線加載不依靠網絡，其他的擴展包不可以）  
-
-#### 加載成功
-
-![](../images/success.png)
-
-### KittenBlock（Kittenbot 圖形化編程軟件 基於Scratch 3.0）
-
-![](../../functional_module/PWmodules/images/kbbanner.png) 
-
-#### 1. 打開Kittenblock, 把microbit 插到電腦USB port後, 按下圖次序點選     
-
-![](../RBimage/40_01.png)
-
-#### 2. 把micro:bit 跟kittenblock 連接                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
- 
- ![](../RBimage/41_01.png)
-
-#### 3. 連接後，可見左側自動加載包含Robotbit的插件分欄可供使用。 
-                                                                                            
-![](../RBimage/43_1.png) 
-
-### Python   
-
-Robotbit也支援kittenblock的python代碼編程模式 
-
-利用積木塊搭建好程序段後，點擊"舞台代碼"切換按鈕，便可立即看到micropython代碼框
-
-![](../RBimage/44_1.png)   
- 
-![](../RBimage/45_1.png)
+- 綠色端子電壓(外部電源輸入)：5V（最大支持6V輸入，切勿接超6V的電壓，最大電流支持3A）
 
 ## 接口介紹 
                                                                                                                                                                                                                                                                                                                                                                                                             
@@ -313,15 +263,55 @@ P0-P2支持數字讀寫和模擬類比(Analogue)，P8、P12-P15只支持數位(D
 
 ### ![](../RBimage/z3.gif)
 
+## 軟件支援 
 
+配套硬件：Microbit   
 
-## Robotbit Makecode 積木詳細教學
+編程平台：Kittenblock(基於Scratch3.0) / Microsoft Makecode / Python(Mu editor) 
 
-Robotbit 為以Micro:bit 作主控的製作注入強大而靈活的功能, Kittenbot 亦為新增功能製作了相關的編程積木, 詳情請參考以下使用手冊。
+### Microsoft MakeCode
 
-[Robot:bit 2.0 詳細使用手冊](https://goo.gl/9E3c6Q)
+![](../../functional_module/PWmodules/images/mcbanner.png)
 
+### ![](../RBimage/04_1.png)
 
+#### 1. 在makecode添加包中直接搜索Robotbit（Robotbit插件已經通過微軟官方認證)  
+
+![](../RBimage/38_01.png)   
+       
+![](../RBimage/39_1.png)
+
+#### 2. 在Kittenbot makecode離線版本中，添加包列表可以顯示Robotbit以及其他集成擴展包（Robotbit可以離線加載不依靠網絡，其他的擴展包不可以）  
+
+#### 加載成功
+
+![](../images/success.png)
+
+### KittenBlock（Kittenbot 圖形化編程軟件 基於Scratch 3.0）
+
+![](../../functional_module/PWmodules/images/kbbanner.png) 
+
+#### 1. 打開Kittenblock, 把microbit 插到電腦USB port後, 按下圖次序點選     
+
+![](../RBimage/40_01.png)
+
+#### 2. 把micro:bit 跟kittenblock 連接                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+ 
+ ![](../RBimage/41_01.png)
+
+#### 3. 連接後，可見左側自動加載包含Robotbit的插件分欄可供使用。 
+                                                                                            
+![](../RBimage/43_1.png) 
+
+### Python   
+
+Robotbit也支援kittenblock的python代碼編程模式 
+
+利用積木塊搭建好程序段後，點擊"舞台代碼"切換按鈕，便可立即看到micropython代碼框
+
+![](../RBimage/44_1.png)   
+ 
+![](../RBimage/45_1.png)
 
 ## FAQ常見問題與解答
 
