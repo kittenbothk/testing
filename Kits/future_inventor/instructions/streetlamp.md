@@ -6,7 +6,7 @@
 
 ## 組裝說明書
 
-[組裝說明書下載(右鍵->另存為)](./pdf/streetlamp.pdf)
+[組裝說明書下載(右鍵->另存為)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/instructions/pdf/streetlamp.pdf)
 
 ## 參考接線
 
@@ -20,7 +20,7 @@
 
 ![](../images/streetlamp_code.png)
 
-[參考程式下載(右鍵->另存為)](./sb3/streetlamp.sb3)
+[參考程式下載(右鍵->另存為)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/instructions/sb3/streetlamp.sb3)
 
 ### Kittenblock控制端
 
@@ -28,7 +28,7 @@
 
 ![](../images/streetlamp_iot_code.png)
 
-[參考程式下載(右鍵->另存為)](./sb3/streetlamp_iot.sb3)
+[參考程式下載(右鍵->另存為)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/instructions/sb3/streetlamp_iot.sb3)
 
 ## 模型玩法
 

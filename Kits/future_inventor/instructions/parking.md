@@ -6,7 +6,7 @@
 
 ## 組裝說明書
 
-[組裝說明書下載(右鍵->另存為)](./pdf/parking.pdf)
+[組裝說明書下載(右鍵->另存為)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/instructions/pdf/parking.pdf)
 
 ## 參考接線
 
@@ -16,7 +16,7 @@
 
 ![](../images/parking_code.png)
 
-[參考程式下載(右鍵->另存為)](./sb3/parking.sb3)
+[參考程式下載(右鍵->另存為)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/instructions/sb3/parking.sb3)
 
 ## 模型玩法
 

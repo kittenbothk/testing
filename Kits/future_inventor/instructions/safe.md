@@ -6,7 +6,7 @@
 
 ## 組裝說明書
 
-[組裝說明書下載(右鍵->另存為)](./pdf/safe.pdf)
+[組裝說明書下載(右鍵->另存為)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/instructions/pdf/safe.pdf)
 
 ## 參考接線
 
@@ -16,7 +16,7 @@
 
 ![](../images/safe_code.png)
 
-[參考程式下載(右鍵->另存為)](./sb3/safe.sb3)
+[參考程式下載(右鍵->另存為)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/instructions/sb3/safe.sb3)
 
 ## 模型玩法
 
