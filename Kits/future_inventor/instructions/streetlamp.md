@@ -6,7 +6,7 @@
 
 ## 組裝說明書
 
-[組裝說明書下載](www.google.com)
+[組裝說明書下載(右鍵->另存為)](./pdf/streetlamp.pdf)
 
 ## 參考接線
 
@@ -14,11 +14,13 @@
 
 ## 參考程式
 
-### Kittenblock控制端
+### 未來板控制端
 
     請在Kittenblock開啟本地IoT伺服器，並自行將伺服器的ip填入程式。
 
 ![](../images/streetlamp_code.png)
+
+[參考程式下載(右鍵->另存為)](./sb3/streetlamp.sb3)
 
 ### Kittenblock控制端
 
@@ -26,7 +28,7 @@
 
 ![](../images/streetlamp_iot_code.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載(右鍵->另存為)](./sb3/streetlamp_iot.sb3)
 
 ## 模型玩法
 

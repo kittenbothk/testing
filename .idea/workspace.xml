@@ -22,11 +22,16 @@
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microbit_eboard/edu_vs_2.2/differences.md" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/edu_vs_2.2/differences.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microbit_eboard/edu_vs_2.2/images/comparison1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/edu_vs_2.2/images/comparison1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microbit_eboard/edu_vs_2.2/images/versus.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/edu_vs_2.2/images/versus.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microbit_eboard/edu_vs_2.2/images/versus1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/edu_vs_2.2/images/versus1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microbit_eboard/edu_vs_2.2/images/活頁簿1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Microbit_eboard/edu_vs_2.2/images/活頁簿1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/parking.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/parking.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/rc_kart.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/rc_kart.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/ruler.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/ruler.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/safe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/safe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/streetlamp.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/streetlamp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/timer.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/timer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/trafficlamp.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/trafficlamp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/weather.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/weather.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/welcome.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/welcome.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/index.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

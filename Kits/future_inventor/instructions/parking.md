@@ -6,7 +6,7 @@
 
 ## 組裝說明書
 
-[組裝說明書下載](www.google.com)
+[組裝說明書下載(右鍵->另存為)](./pdf/parking.pdf)
 
 ## 參考接線
 
@@ -16,7 +16,7 @@
 
 ![](../images/parking_code.png)
 
-[參考程式下載](www.google.com)
+[參考程式下載(右鍵->另存為)](./sb3/parking.sb3)
 
 ## 模型玩法
 

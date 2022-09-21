@@ -6,7 +6,7 @@
 
 ## 組裝說明書
 
-[組裝說明書下載](www.google.com)
+[組裝說明書下載(右鍵->另存為)](./pdf/trafficlight.pdf)
 
 ## 參考接線
 
