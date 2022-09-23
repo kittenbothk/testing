@@ -35,3 +35,9 @@
 3. 坐直然後將手伸直，按下控制器的A鍵，量度起始的位置。
 4. 身體向前伸，同時保持伸直手臂，當去到盡頭的時候按下控制器的B鍵。
 5. 感應器會顯示坐地前伸的距離並將數據發布到物聯網。
+
+## 示範短片
+
+[![](./images/sitandreach_video.png)](https://www.youtube.com/watch?v=_Z5N6bXnpIs)
+
+[](https://www.youtube.com/watch?v=_Z5N6bXnpIs)
