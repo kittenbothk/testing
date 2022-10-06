@@ -12,7 +12,7 @@ Python編程在STEM編程教育的重要性越來越大，香港教育局已經�
 
 ## 下載KittenCode
 
-[下載KittenCode]()
+[下載KittenCode](https://bit.ly/kittencodeDL)
 
 ## 功能和特點
 
