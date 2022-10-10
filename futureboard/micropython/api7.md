@@ -37,6 +37,12 @@
     
 取得未來版的獨特實體地址。
 
+### 5. 檔案下載
+
+    wifi.download("url","name")
+
+下載檔案到SD卡，url為檔案網網址，name為檔案名稱。
+
 ### 1~4使用範例
 
     #/bin/python

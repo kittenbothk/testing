@@ -1,4 +1,4 @@
-# 未來板MicroPython編程11：I2C
+# 未來板MicroPython編程13：I2C
 
 ## 導入未來板庫
 
