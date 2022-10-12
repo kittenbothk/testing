@@ -11,4 +11,5 @@ Micro:bit發明家套件的IoT升級案例。
     iot_hanger.md
     iot_gate.md
     iot_lock.md
+    iot_safe.md
     iot_firealarm.md
