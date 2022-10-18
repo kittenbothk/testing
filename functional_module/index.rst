@@ -21,6 +21,7 @@
 
     turbidity.md
     watertemp.md
+    kittenclock.md
     airquality.md
     infratemp.md
     waterTank.md
