@@ -8,7 +8,7 @@ KittenBlock是KittenBot的自家編程平台。
 
 Windows系統：
 
-打開連結： [Kittenblock 1.87 下載](https://drive.google.com/file/d/1rM3ByEvJRCVqOo1O06LcZqTOC8nu1kZi/view?usp=sharing) ，下載KittenBlock。
+打開連結： [Kittenblock 1.88 下載](https://drive.google.com/file/d/1V7PHnfeK2i3HSGDhZrAw_ZxraskrtVN4/view?usp=sharing) ，下載KittenBlock。
 
 ![](./images/187download.png)  
 
