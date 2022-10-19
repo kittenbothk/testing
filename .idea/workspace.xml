@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/sb3/streetlamp.sb3" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/sb3/streetlamp.sb3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/streetlamp.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/streetlamp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/PWmodules/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/PWmodules/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/kittenclock.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/kittenclock.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
