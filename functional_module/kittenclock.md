@@ -65,8 +65,4 @@ KittenClock時鐘模組可以獲取現時時間，並且在斷電後仍能靠板
 
 ### Micro:bit
 
-[![](./images/turbidity6.png)](https://youtu.be/4ePV6fmwoAA?t=77)
-
-### 未來板
-
-[![](./images/turbidity5.png)](https://youtu.be/4ePV6fmwoAA?t=7)
+[![](./images/kittenclock8.png)](https://www.youtube.com/watch?v=mO0ABHGqSdo)

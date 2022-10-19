@@ -7,6 +7,7 @@ PowerBrick魔塊教學
     :maxdepth: 1
 
     powerBrickMakeCodeExt.md
+    poweredu.md
     Armourbit.md
     powerBrickPowerBank.md
     powerBrickEnvironment.md
