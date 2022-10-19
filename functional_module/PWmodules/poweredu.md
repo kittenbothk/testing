@@ -1,4 +1,4 @@
-# PowerBrick模組在Robotbit上使用
+# PowerBrick模組在MakeCode上編程(Robotbit)
 
 KittenBot開發了新MakeCode插件，容許用家在Robotbit上使用PowerBrick模組。
 
@@ -26,7 +26,7 @@ KittenBot開發了新MakeCode插件，容許用家在Robotbit上使用PowerBrick
 
 ## Powerbrick模組與Robotbit的接線教學
 
-### 一般模組
+### 一般魔塊(超聲波魔塊，溫濕度魔塊，雨滴水位魔塊，土壤濕度魔塊，按鍵魔塊，巡線魔塊，全彩RGB)
 
 在PowerBrick模組的背面，你會看到接口的一端有標記著G、V、A、B的記號。這些標記分別代表了模組的Ground，電源，引腳A和引腳B，通常Powerbrick的模組功能是由2支引腳來實現。
 
@@ -44,17 +44,17 @@ KittenBot開發了新MakeCode插件，容許用家在Robotbit上使用PowerBrick
 
 ![](./images/poweredu8.png)
 
-### MP3模組
+### MP3魔塊
 
-對於MP3模組，只需要將相應的引腳接到Robotbit的串口接頭(P2，P12)即可。
+對於MP3魔塊，只需要將相應的引腳接到Robotbit的串口接頭(P2，P12)即可。
 
 ![](./images/poweredu7.png)
 
 ![](./images/poweredu8.png)
 
-### I2C模組
+### I2C模組(RFID感應魔塊，顏色手勢感應魔塊，紅外線測溫魔塊)
 
-由於Robotbit Edu上已經有I2C的防反插接口，所以I2C模組可以直接插到接口上使用。
+由於Robotbit Edu上已經有I2C的防反插接口，所以I2C魔塊可以直接插到接口上使用。
 
 ![](./images/poweredu10.png)
 

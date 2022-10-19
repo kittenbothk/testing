@@ -1,4 +1,4 @@
-# PowerBrick在MakeCode上編程
+# PowerBrick模組在MakeCode上編程(Armourbit)
 
 ![](./images/mcbanner.png)
 
