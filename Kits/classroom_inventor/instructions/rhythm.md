@@ -12,7 +12,7 @@
 
 ![](../images/rhythm_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_gCcc9XVe7YLm)
+[參考程式下載](https://makecode.microbit.org/_RXLe9CWVK63i)
 
 ## 模型玩法
 

@@ -12,7 +12,7 @@
 
 ![](../images/hanger_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_T08TXpDpdhrL)
+[參考程式下載](https://makecode.microbit.org/_AmUaFuJx28EV)
 
 ## 模型玩法
 

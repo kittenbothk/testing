@@ -12,7 +12,7 @@
 
 ![](../images/firealarm_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_UTFC59a5m1Fq)
+[參考程式下載](https://makecode.microbit.org/_dbrY2iaAuc4v)
 
 ## 模型玩法
 

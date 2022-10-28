@@ -12,7 +12,7 @@
 
 ![](../images/nightlight_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_PW3VzdLFr5hu)
+[參考程式下載](https://makecode.microbit.org/_EsDXUqdKKMET)
 
 ## 模型玩法
 

@@ -12,7 +12,7 @@
 
 ![](../images/zombie_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_0tMVP3EsaHLL)
+[參考程式下載](https://makecode.microbit.org/_TTWM7o6TCPmt)
 
 ## 模型玩法
 

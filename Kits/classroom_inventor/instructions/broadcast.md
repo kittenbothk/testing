@@ -12,7 +12,7 @@
 
 ![](../images/broadcast_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_RT4Uf7RzcH4d)
+[參考程式下載](https://makecode.microbit.org/_frT5KTajLgvX)
 
 ## 模型玩法
 

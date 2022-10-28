@@ -12,7 +12,7 @@
 
 ![](../images/plant_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_RmuazT3u3KAD)
+[參考程式下載](https://makecode.microbit.org/_JPkV4gUKKYjU)
 
 ## 模型玩法
 

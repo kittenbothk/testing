@@ -12,7 +12,7 @@
 
 ![](../images/safe_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_4Wg2cdE1g75K)
+[參考程式下載](https://makecode.microbit.org/_15PgwD3tDDR9)
 
 ## 模型玩法
 

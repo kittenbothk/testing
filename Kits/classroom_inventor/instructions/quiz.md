@@ -12,7 +12,7 @@
 
 ![](../images/quiz_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_acKe5J6UxioC)
+[參考程式下載](https://makecode.microbit.org/_WFcW5gHhA0Vu)
 
 ## 模型玩法
 

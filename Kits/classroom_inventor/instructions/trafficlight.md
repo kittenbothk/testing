@@ -12,8 +12,8 @@
 
 ![](../images/trafficlight_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_efiLX59R5C43)
+[參考程式下載](https://makecode.microbit.org/_dgD5e1hisM4j)
 
 ## 模型玩法
 
-按下A鍵，綠燈會亮起。
+按下A鍵，綠燈會亮起。15秒後紅燈會亮起。

@@ -12,7 +12,7 @@
 
 ![](../images/piano_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_WMPXPP522Fqt)
+[參考程式下載](https://makecode.microbit.org/_X3eJyy7r755z)
 
 ## 模型玩法
 
