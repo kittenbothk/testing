@@ -16,7 +16,7 @@
 
 ![](./images/pushup_code.png)
 
-[參考程式下載](https://makecode.microbit.org/_J0LH7kKtrYwA)
+[參考程式下載](https://makecode.microbit.org/_hKHH8cTzbeLF)
 
 ## 使用方法
 

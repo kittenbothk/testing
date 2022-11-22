@@ -108,9 +108,15 @@
 
 .. toctree::
     :maxdepth: 2
+    :caption: 積木版Robotbit機械臂
+
+    lego_robot_arm/intro.md
+
+.. toctree::
+    :maxdepth: 2
     :caption: Robotbit機械臂
 
-    robotic_arm/index
+    robotic_arm/intro.md
 
 .. toctree::
     :maxdepth: 2
