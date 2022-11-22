@@ -251,6 +251,8 @@ texinfo_documents = [
 
 html_logo = 'images/sharinghub_logo.png'
 
+html_favicon = 'images/icon.ico'
+
 html_theme_options = {
     'canonical_url': '',
     # 'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
