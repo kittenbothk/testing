@@ -60,6 +60,12 @@
 
 .. toctree::
     :maxdepth: 2
+    :caption: 積木版機械臂
+
+    lego_robot_arm/intro.md
+
+.. toctree::
+    :maxdepth: 2
     :caption: KittenBot體適能測試套件
 
     fitness/index
@@ -105,12 +111,6 @@
     :caption: MR STEMer Kart Lite套件
 
     robotbit_kart/index
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 積木版Robotbit機械臂
-
-    lego_robot_arm/intro.md
 
 .. toctree::
     :maxdepth: 2
