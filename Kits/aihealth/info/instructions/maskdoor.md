@@ -14,11 +14,19 @@
 
 ## 參考程式
 
-[口罩佩戴偵測器參考程式__KOI固件版本1.12.0__插件版本0.6.7](https://makecode.microbit.org/_97xbjsJXpfmo)
+### 模型訓練程式
+
+![](./images/mask_train_code.png)
+
+### 口罩辨認程式
 
 ![](./images/maskdoorcode.png)
 
+[口罩佩戴偵測器參考程式](https://makecode.microbit.org/_93vXqc757UKc)
+
 ## 模型玩法
+
+### 模型訓練程式
 
 1. 打開電源後，等待10秒讓KOI完全開機。
 
@@ -26,9 +34,13 @@
 
 3. 除下口罩，將鏡頭準自己然後按下B按鍵進行訓練，重複大約3次。
 
-4. 按下KOI的B按鍵，對背景進行訓練。
+4. 按下KOI的A按鍵，對背景進行訓練。
 
-5. 按下KOI的A按鍵，KOI偵測到戴上口罩的人臉時，大閘會打開。
+5. 同時按下Microbit的A和B鍵，將模型儲存到SD卡上。
 
+### 口罩辨認程式
 
+1. 打開電源後，等待10秒讓KOI完全開機。
+
+2. 按下Microbit的A按鍵，KOI偵測到戴上口罩的人臉時，大閘會打開。
 

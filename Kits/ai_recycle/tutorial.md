@@ -27,9 +27,9 @@
 
 ![](./images/offline_code.png)
 
-[Armourbit版參考程式](https://makecode.microbit.org/_EErK8LD3U4zr)
+[Armourbit版參考程式](https://makecode.microbit.org/_PY2KHcH7WHUg)
 
-[Robotbit版參考程式](https://makecode.microbit.org/_3EFJLh3Tc7sL)
+[Robotbit版參考程式](https://makecode.microbit.org/_Kmi7b1JKW3sW)
 
 ### 辨認方法
 
@@ -42,9 +42,9 @@
 
 ![](./images/online_code.png)
 
-[Armourbit版參考程式](https://makecode.microbit.org/_2FLaVKhxbEWU)
+[Armourbit版參考程式](https://makecode.microbit.org/_9M9VDt2xMPpi)
 
-[Robotbit版參考程式](https://makecode.microbit.org/_hER07TKE3Uiz)
+[Robotbit版參考程式](https://makecode.microbit.org/_f6YdEkFRqWkF)
 
 ### 辨認方法
 
@@ -78,9 +78,9 @@
 
 ![](./images/objectblock_code.png)
 
-[Armourbit版參考程式](https://makecode.microbit.org/_E28TWW0Fe46L)
+[Armourbit版參考程式](https://makecode.microbit.org/_cVo50M4YRWRP)
 
-[Robotbit版參考程式](https://makecode.microbit.org/_0YgJR1hf7T5J)
+[Robotbit版參考程式](https://makecode.microbit.org/_LD78gk4K7iud)
 
 ### 辨認方法
 
@@ -114,7 +114,7 @@
 
 ![](./images/thingspeak_code.png)
 
-[Armourbit版參考程式](https://makecode.microbit.org/_dT5avA893heD)
+[Armourbit版參考程式](https://makecode.microbit.org/_f8eHEHJaT8MV)
 
 [Robotbit版參考程式](https://makecode.microbit.org/_Lo5grsEu8HeX)
 

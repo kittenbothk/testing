@@ -78,13 +78,9 @@ Geekservo舵機 (HKBD8005A)
 
 ![](./images/mcbanner.png)
 
-![](../meowbit/images/acbanner.png)
-
 ### 此模組可供Microbit和Meowbit使用。
 
-### ArmourBit與RobotBit的編程是一樣的。
-
-### ArmourBit
+## ArmourBit
 
 ### 加載Powerbrick插件：
 
@@ -94,7 +90,13 @@ Geekservo舵機 (HKBD8005A)
 
 ### [詳細方法](../Makecode/powerBrickMC)
 
-### RobotBit
+### 舵機編程
+
+![](./images/9gservo_code.png)
+
+[參考程式網址](https://makecode.microbit.org/_DzFfzKPmuM4s)
+
+## RobotBit
 
 ### 加載RobotBit插件：
 
@@ -106,13 +108,11 @@ Geekservo舵機 (HKBD8005A)
 
 ![](./images/servoblocks.png)
 
-## 舵機編程
+### 舵機編程
 
-![](./images/servo.png)
+![](./images/9gservo_code.png)
 
-[參考程式下載](https://bit.ly/PowerbrickM12_01Hex)
-
-[參考程式網址](https://makecode.microbit.org/_APuPfVUHtMpe)
+[參考程式網址](https://makecode.microbit.org/_YfJdx4FRx2eP)
 
 ### Makecode教學短片
 
@@ -120,7 +120,7 @@ Geekservo舵機 (HKBD8005A)
 
 ### Meowbit:
 
----
+![](../meowbit/images/acbanner.png)
 
 ### 加載robotbit插件：https://github.com/KittenBot/meow-robotbit
 
@@ -132,7 +132,7 @@ Geekservo舵機 (HKBD8005A)
 
 ## 電機編程
 
-![](../motors/images/servocode_meow.png)
+![](../motors/images/9gservo_code_meow.png)
 
 [參考程式網址](https://makecode.com/_WrrEcRhMm0o4)
 

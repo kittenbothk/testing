@@ -4,28 +4,28 @@
 
 ## 在KittenCode中使用未來板
 
-首先確保你已經安裝KLink。
+首先確保你已經安裝KittenCode。
 
-### 1. 打開KLink然後進入KittenCode。
+## 1. 打開KittenCode並切換至硬件互動模式
 
-![](../images/micropython1.png)
+![](../images/kittenCode1.png)
 
-### 2. 在KittenCode選擇硬件模式，然後選擇未來板。
+### 2. 在硬件欄選擇未來板
 
-![](../images/micropython2.png)
+![](../images/kittenCode2.png)
 
-### 3. 連接未來板串口。
+### 3. 使用USB線連接未來板，按KittenCode的連接按鍵
 
-![](../images/micropython3.png)
+![](../images/kittenCode3.png)
 
-### 4. 編寫簡單的程式顯示字符測試在線運行。
+### 4. 選擇USB串口
 
-![](../images/micropython4.png)
+![](../images/kittenCode4.png)
 
-## 未來板MicroPython編程教學
+### 5. 當按鍵變為綠色就代表連接成功
 
-有關未來板的MicroPython編程教學請參考：[MicroPython編程]()
+![](../images/kittenCode5.png)
 
-## Windows 7用家注意事項
+### 6. 在REPL控制台可以使用各種指令
 
-由於Windows 7可能缺乏驅動程式，請下載此檔案，手動安裝驅動程式。
+![](../images/kittenCode6.png)
