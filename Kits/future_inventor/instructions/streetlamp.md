@@ -25,7 +25,8 @@
 [參考程式下載(右鍵->另存為)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/instructions/sb3/streetlamp.sb3)
 
 ### Python參考程式
-
+    
+    #請在Kittenblock開啟本地IoT伺服器，並自行將伺服器的ip填入程式。
     #/bin/python
     
     from time import sleep

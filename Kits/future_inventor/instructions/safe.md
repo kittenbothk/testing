@@ -130,7 +130,7 @@
         break_in()
 
 
-[參考程式下載(右鍵->另存為)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/instructions/py/py.sb3)
+[參考程式下載(右鍵->另存為)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_inventor/instructions/py/safe.py)
 
 ## 模型玩法
 
