@@ -54,13 +54,13 @@
 
 .. toctree::
     :maxdepth: 2
-    :caption: 倉庫貨物管理系統
+    :caption: 工業4.0倉庫貨物管理系統
 
     inventory_system/index
 
 .. toctree::
     :maxdepth: 2
-    :caption: 積木版機械臂
+    :caption: 工業4.0機械臂
 
     lego_robot_arm/intro.md
 

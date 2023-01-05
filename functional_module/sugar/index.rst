@@ -20,4 +20,12 @@ Sugar系列模組教學
     sugar_joystick.md
     sugar_tof.md
     sugar_asr.md
+    sugar_stringlight.md
+    sugar_vibe.md
+    sugar_laser.md
+    sugar_env2.md
+    sugar_crash.md
+    sugar_watertemp.md
+    sugar_buzzer.md
+    sugar_touch.md
     sugar_lens.md

@@ -1,4 +1,4 @@
-# 倉庫貨物管理系統
+# 工業4.0倉庫貨物管理系統
 
 ![](./images/belt.png)
 
@@ -8,7 +8,8 @@
 
 - 基於Microbit的圖形化編程，更容易上手
 - 兼容樂高積木，擴展性高
-- 支援MakeCode和Kittenblock編程3
+- 支援MakeCode和Kittenblock編程
+- 應用到工業4.0的概念，例如物聯網，自動化等
 
 ## 套件內容
 
@@ -18,4 +19,10 @@
 - WifiBrick x1
 - Powerbrick RFID魔塊 x1
 - 18650鋰電池 x1
-- RFID晶片
+- RFID晶片 x5
+
+## 示範短片
+
+[![](./images/video.png)]((https://youtu.be/VdKa_Eb6fHo))
+
+[示範短片](https://youtu.be/VdKa_Eb6fHo)

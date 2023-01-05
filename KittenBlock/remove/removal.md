@@ -1,4 +1,4 @@
-# 完整移除KittenBlock
+# 完整移除KittenBlock 1.88
 
 由於只用Windows的解除安裝功能並不能夠完整地清除所有程式的檔案，我們需要進行額外步驟來完整清除KittenBlock。
 
