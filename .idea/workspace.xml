@@ -22,11 +22,24 @@
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/images/parking_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/images/parking_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/py/parking.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/py/parking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/safe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/safe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/sb3/parking.sb3" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/sb3/parking.sb3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/kart_wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/kart_wire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/kart_wire.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/kart_wire.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/nightlight_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/nightlight_code.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/nightlight_wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/nightlight_wire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/nightlight_wire.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/nightlight_wire.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/piano_wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/piano_wire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/piano_wire.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/piano_wire.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/quiz_wire.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/quiz_wire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/images/quiz_wire.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/images/quiz_wire.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/nightlight.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/classroom_inventor/instructions/nightlight.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/rc_kart.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/rc_kart.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kits/future_inventor/instructions/streetlamp.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/future_inventor/instructions/streetlamp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/inventory_system/futureboard_code.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/inventory_system/futureboard_code.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/lego_robot_arm/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/lego_robot_arm/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenBlock/kittenblockGreen.md" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/kittenblockGreen.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KittenCode/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/KittenCode/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/micropython/api14.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/micropython/api14.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureboard/updateHist.md" beforeDir="false" afterPath="$PROJECT_DIR$/futureboard/updateHist.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

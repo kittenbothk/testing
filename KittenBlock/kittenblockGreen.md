@@ -8,35 +8,51 @@ KittenBlock是KittenBot的自家編程平台。
 
 Windows系統：
 
-打開連結： [Kittenblock 1.88 下載](https://bit.ly/KittenblockHK188) ，下載KittenBlock。
+[Kittenblock 1.89 下載](https://bit.ly/KittenblockHK18911)
+
+MacOS系統：
+
+[Kittenblock 1.89 下載](https://bit.ly/KittenblockHK18911Mac)
 
 ![](./images/187download.png)  
 
-### 安裝KittenBlock
+### 安裝KittenBlock(Windows)
 
-右鍵zip檔案，在開啟檔案的選項裡面選擇Windows檔案總管，打開Kittenblock.zip檔。
+將KittenBlock.rar檔解壓縮。
 
-    你亦都可以使用winrar等的程式打開及解壓縮。
+    可以使用winrar等的程式打開及解壓縮。
 
-![](./images/green_zip_install1.png)
+![](./images/189_install1.png)
 
-將內容解壓到桌面。
+解壓縮後會得到一個KittenBlock的資料夾。
 
-    注意！Kittenblock資料夾不能夠放到另一個資料夾入面！
+![](./images/189_install2.png)
 
-![](./images/green_zip_install2.png)
+打開這個資料夾，打開KittenBlock.exe。
 
-點擊Kittenblock.exe打開Kittenblock。
+![](./images/189_install3.png)
 
-![](./images/187install3.png)
+#### 安裝示範短片
 
-## 安裝KittenBlock後，還要安裝驅動
+![](./images/189_install4.png)
+
+[Windows安裝示範短片](https://www.youtube.com/watch?v=sU0zmLy1aQ8)
+
+### 安裝KittenBlock後，還要安裝驅動
 
 點擊右上角的小齒輪。安裝Microbit COM和CH340。
 
-安裝過程大約需要數分鐘。
-
 ![](../functional_module/PWmodules/kbimages/an08.png)
+
+## 安裝KittenBlock(Mac)
+
+將KittenBlock zip檔解壓縮。等待解壓縮完成後打開KittenBlock應用程式即可。
+
+#### 安裝示範短片
+
+![](./images/189_mac1.png)
+
+[MacOS安裝示範短片](https://youtu.be/U8nrqviWDlI)
 
 ## 軟件排錯：
 

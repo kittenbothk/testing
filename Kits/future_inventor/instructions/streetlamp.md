@@ -12,7 +12,7 @@
 
 ![](../images/streetlamp_wire.png)
 
-## MakerCloud 參考程式
+## 參考程式
 
 ### 未來板控制端
 

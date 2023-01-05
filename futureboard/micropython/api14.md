@@ -139,11 +139,11 @@
     RFID().probe() #RFID探測
     RFID().uuid() #獲取UUID
     RFID().stop() #結束RFID探測
-    RFID().write(BLOCK, SECTOR, DATA) #RFID寫入數據
-    RFID().read(BLOCK, SECTOR) #RFID讀取數據
+    RFID().write(SECTOR, BLOCK, DATA) #RFID寫入數據
+    RFID().read(SECTOR, BLOCK) #RFID讀取數據
 
-- BLOCK為RFID分區，1~16。
-- SECTOR為RFID區塊，0~2。
+- SECTOR為RFID分區，1~16。
+- BLOCK為RFID區塊，0~2。
 - DATA為寫入的數據。
 
 ## 顏色手勢魔塊
