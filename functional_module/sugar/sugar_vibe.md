@@ -6,6 +6,8 @@
 
 ## 產品接線
 
+用3Pin 連接線將模組與Robotbit Edu連接起來。
+
 ## 編程教學
 
 # MakeCode編程教學
@@ -23,3 +25,7 @@
 Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 ### [詳細方法](../../Makecode/powerBrickMC)
+
+![](./images/vibe_code_mc.png)
+
+[參考程式](https://makecode.microbit.org/_M5z25r6t78FF)

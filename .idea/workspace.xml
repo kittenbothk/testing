@@ -20,15 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_hub.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_laser.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/inventory_system/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/inventory_system/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kits/inventory_system/inventory.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/inventory_system/inventory.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KittenBlock/remove/removal.md" beforeDir="false" afterPath="$PROJECT_DIR$/KittenBlock/remove/removal.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_buzzer.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_buzzer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_crash.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_crash.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_laser.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_laser.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_touch.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_touch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_vibe.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_vibe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

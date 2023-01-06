@@ -1,10 +1,14 @@
 # Sugar 蜂鳴器模組
 
+![](./images/buzzer.jpg)
+
 這是一個蜂鳴器模組，可以為Microbit V1+Robotbit EDU的用家補回蜂鳴器的功能。
 
 ## 產品參數
 
 ## 產品接線
+
+用3Pin 連接線將模組與Robotbit Edu連接起來。Micro:bit預設的蜂鳴器為P0。
 
 ## 編程教學
 
@@ -23,3 +27,10 @@
 Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 ### [詳細方法](../../Makecode/powerBrickMC)
+
+![](./images/buzzer_code_mc.png)
+
+[參考程式](https://makecode.microbit.org/_1aeAUP04fXAR)
+
+
+
