@@ -1,5 +1,7 @@
 # Sugar 震子模組
 
+![](./images/vibe.jpg)
+
 這是一個震子模組，啟動時會發出震動。
 
 ## 產品參數
@@ -10,7 +12,7 @@
 
 ## 編程教學
 
-# MakeCode編程教學
+### MakeCode編程教學
 
 ![](../PWmodules/images/mcbanner.png)
 

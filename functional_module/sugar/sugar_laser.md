@@ -1,5 +1,7 @@
 # Sugar 雷射模組
 
+![](./images/laser.jpg)
+
 這是一個雷射模組，啟動時會發出紅色的雷射光點，適合作雷射筆或逗貓之用。
 
 ## 產品參數
@@ -10,7 +12,7 @@
 
 ## 編程教學
 
-# MakeCode編程教學
+### MakeCode編程教學
 
 ![](../PWmodules/images/mcbanner.png)
 

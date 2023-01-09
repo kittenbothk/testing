@@ -1,5 +1,7 @@
 # Sugar 觸碰模組
 
+![](./images/touch.jpg)
+
 這是一個觸碰模組，可以探測得到手指觸碰。
 
 ## 產品參數
@@ -10,7 +12,7 @@
 
 ## 編程教學
 
-# MakeCode編程教學
+### MakeCode編程教學
 
 ![](../PWmodules/images/mcbanner.png)
 

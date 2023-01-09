@@ -1,14 +1,20 @@
 # Sugar 環境氣壓模組
 
+![](./images/envii.jpg)
+
 這個是環境氣壓模組，除了溫度之外它還可以探測到氣壓數值。
 
 ## 產品參數
 
+接口: I2C接口
+
 ## 產品接線
+
+用4PIN連接線將模組連接到Robotbit上的I2C接口。
 
 ## 編程教學
 
-# MakeCode編程教學
+### MakeCode編程教學
 
 ![](../PWmodules/images/mcbanner.png)
 
@@ -23,3 +29,7 @@
 Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 ### [詳細方法](../../Makecode/powerBrickMC)
+
+![](./images/envii_code_mc.png)
+
+[參考程式](https://makecode.microbit.org/_UHs8PafkARch)

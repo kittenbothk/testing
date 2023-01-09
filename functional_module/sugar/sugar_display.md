@@ -1,12 +1,20 @@
 # Sugar 數碼顯示模組
 
+![](./images/display.jpg)
+
+這是一個數碼顯示模組，可以用來顯示數字或時間等啲信息。
+
 ## 產品參數
+
+接口: I2C
 
 ## 產品接線
 
+用4PIN連接線將模組連接到Robotbit上的I2C接口。
+
 ## 編程教學
 
-# MakeCode編程教學
+### MakeCode編程教學
 
 ![](../PWmodules/images/mcbanner.png)
 
@@ -21,3 +29,7 @@
 Sugar插件：https://github.com/KittenBot/pxt-sugar
 
 ### [詳細方法](../../Makecode/powerBrickMC)
+
+![](./images/display_code_mc.png)
+
+[參考程式](https://makecode.microbit.org/_YWzKK8drJ9Fa)

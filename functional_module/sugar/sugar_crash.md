@@ -1,5 +1,7 @@
 # Sugar 碰撞模組
 
+![](./images/crash.jpg)
+
 這是一個碰撞模組，可以當作按鍵使用。
 
 ## 產品參數
@@ -10,7 +12,7 @@
 
 ## 編程教學
 
-# MakeCode編程教學
+### MakeCode編程教學
 
 ![](../PWmodules/images/mcbanner.png)
 
