@@ -114,12 +114,6 @@
 
 .. toctree::
     :maxdepth: 2
-    :caption: Robotbit機械臂
-
-    robotic_arm/intro.md
-
-.. toctree::
-    :maxdepth: 2
     :caption: Meowbit發明家套件
 
     meowbit_creator/index
@@ -129,6 +123,12 @@
     :caption: 紙電路教學套件
 
     paper_circuitry/index
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Robotbit機械臂
+
+    robotic_arm/intro.md
 
 .. toctree::
     :maxdepth: 2

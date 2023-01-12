@@ -22,15 +22,27 @@
     <list default="true" id="7ff9b44a-3ff7-4b57-8304-d0df97a852fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_buzzer.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_buzzer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_crash.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_crash.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_display.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_display.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_env2.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_env2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_hub.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_hub.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_laser.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_laser.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_stringlight.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_stringlight.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_touch.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_touch.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_vibe.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_vibe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/inventory_system/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/inventory_system/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kits/lego_robot_arm/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kits/lego_robot_arm/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/asr_sugar_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/asr_sugar_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/buzzer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/buzzer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/buzzer_code_mc.png" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/buzzer_code_mc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/crash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/crash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/crash_code_mc.png" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/crash_code_mc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/display.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/display.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/display_code_mc.png" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/display_code_mc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/envii.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/envii.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/envii_code_mc.png" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/envii_code_mc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/laser.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/laser.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/laser_code_mc.png" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/laser_code_mc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/stringlighjt_code_mc.png" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/stringlighjt_code_mc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/stringlight.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/stringlight.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/touch.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/touch.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/touch_code_mc.png" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/touch_code_mc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/vibe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/vibe.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/vibe_code_mc.png" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/vibe_code_mc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_module/sugar/images/watertemp_code_mc.png" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/images/watertemp_code_mc.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/functional_module/sugar/sugar_watertemp.md" beforeDir="false" afterPath="$PROJECT_DIR$/functional_module/sugar/sugar_watertemp.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -9,5 +9,5 @@
     inventory.md
     instructions.md
     code.md
-    futureboard_code.md
+    code_py.md
     platform_setup.md
