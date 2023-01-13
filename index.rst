@@ -27,6 +27,12 @@
     KittenCode/index
 
 .. toctree::
+    :maxdepth: 1
+    :caption: MicroCode介紹與使用方法
+
+    microcode/microcode.md
+
+.. toctree::
     :maxdepth: 2
     :caption: MakeCode介紹與使用方法
 
