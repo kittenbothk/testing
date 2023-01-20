@@ -19,6 +19,10 @@ MicroCode是由Microsoft開發的編程平台，它設計的目的是為了讓�
 - 實時編程+運行
     - 在電腦上的編程會在Micro:bit上實時同步下載
     - 亦實現可以離線編程
+
+- 支援Newbit Arcade Shield
+    - 能透過Newbit Arcade Shield脫離電腦下進行編程
+    - [Newbit Arcade Shield介紹](https://kittenbothk.readthedocs.io/en/latest/Microbit_eboard/arcade_shield/arcadeshield.html)
     
 - 支援Jacdac模組
     - 連接Jacdac模組加入更多玩法
