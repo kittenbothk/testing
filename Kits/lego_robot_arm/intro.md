@@ -133,3 +133,8 @@
 [參考程式(右擊->另存連結)](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/lego_robot_arm/robot_arm.py)
 
 
+## 示範短片
+
+[![](./images/video.png)](https://youtu.be/8Yhz4D-pZ-0)
+
+[示範短片](https://youtu.be/8Yhz4D-pZ-0)
