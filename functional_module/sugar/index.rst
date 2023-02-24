@@ -4,8 +4,8 @@ Sugar系列模組教學
 這裡集合了Sugar系列各款感應器模組的介紹與教學。
 
 .. toctree::
-    :caption: Sugar 一期感應器
     :maxdepth: 1
+    :caption: Sugar 一期感應器
 
     sugar_button.md
     sugar_pir.md
@@ -23,8 +23,9 @@ Sugar系列模組教學
     sugar_asr.md
 
 .. toctree::
-    :caption: Sugar 二期感應器
     :maxdepth: 1
+    :caption: Sugar 二期感應器
+    
     sugar_stringlight.md
     sugar_vibe.md
     sugar_laser.md

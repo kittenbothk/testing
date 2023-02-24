@@ -10,7 +10,7 @@
     PWmodules/index
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :caption: Sugar魔塊
 
     sugar/index
