@@ -1,6 +1,6 @@
-# Sugar I2C分線模組
+# Sugar二期 I2C分線模組
 
-![](./images/i2chub.jpg)
+![](./images/i2chub_render.png)
 
 I2C分線模組可以讓你連接多於一款I2C模組。
 

@@ -1,6 +1,6 @@
-# Sugar 數碼顯示模組
+# Sugar二期 數碼顯示模組
 
-![](./images/display.jpg)
+![](./images/display_render.png)
 
 這是一個數碼顯示模組，可以用來顯示數字或時間等啲信息。
 

@@ -1,6 +1,6 @@
-# Sugar 觸碰模組
+# Sugar二期 觸碰模組
 
-![](./images/touch.jpg)
+![](./images/touch_render.png)
 
 這是一個觸碰模組，可以探測得到手指觸碰。
 

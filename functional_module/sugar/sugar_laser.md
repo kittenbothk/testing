@@ -1,6 +1,6 @@
-# Sugar 雷射模組
+# Sugar二期 雷射模組
 
-![](./images/laser.jpg)
+![](./images/laser_render.png)
 
 這是一個雷射模組，啟動時會發出紅色的雷射光點，適合作雷射筆或逗貓之用。
 

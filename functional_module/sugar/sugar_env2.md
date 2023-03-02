@@ -1,6 +1,6 @@
-# Sugar 環境氣壓模組
+# Sugar二期 環境氣壓模組
 
-![](./images/envii.jpg)
+![](./images/envii_render.png)
 
 這個是環境氣壓模組，除了溫度之外它還可以探測到氣壓數值。
 

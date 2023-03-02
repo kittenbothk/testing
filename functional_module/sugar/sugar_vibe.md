@@ -1,6 +1,6 @@
-# Sugar 震子模組
+# Sugar二期 震子模組
 
-![](./images/vibe.jpg)
+![](./images/vibe_render.png)
 
 這是一個震子模組，啟動時會發出震動。
 

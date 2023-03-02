@@ -1,6 +1,6 @@
-# Sugar 燈串模組
+# Sugar二期 燈串模組
 
-![](./images/stringlight.jpg)
+![](./images/stringlight_render.png)
 
 這是一個燈串模組，柔軟的電線容許將模組繫在各種物件上作裝飾之用。
 

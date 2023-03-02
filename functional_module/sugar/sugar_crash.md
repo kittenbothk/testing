@@ -1,6 +1,6 @@
-# Sugar 碰撞模組
+# Sugar二期 碰撞模組
 
-![](./images/crash.jpg)
+![](./images/crash_render.png)
 
 這是一個碰撞模組，可以當作按鍵使用。
 

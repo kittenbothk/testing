@@ -1,6 +1,6 @@
-# Sugar 水溫模組
+# Sugar二期 水溫模組
 
-![](./images/watertemp1.jpg)
+![](./images/watertemp_render.png)
 
 這是一個水溫模組，防水的溫度感應器可以探測得到水溫。
 
