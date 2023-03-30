@@ -34,3 +34,5 @@ Sugar系列模組教學
     sugar_watertemp.md
     sugar_buzzer.md
     sugar_touch.md
+    sugar_display.md
+    sugar_hub.md

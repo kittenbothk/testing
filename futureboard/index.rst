@@ -24,3 +24,9 @@
 
     kittenblock/index
     micropython/index
+
+.. toctree::
+    :maxdepth: 1
+    :caption: K-Watch未來板擴展板
+
+    kwatch.md

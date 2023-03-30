@@ -66,6 +66,12 @@
 
 .. toctree::
     :maxdepth: 2
+    :caption: 未來板物聯氣象站套件
+
+    future_weather/index
+
+.. toctree::
+    :maxdepth: 2
     :caption: KittenBot體適能測試套件
 
     fitness/index
