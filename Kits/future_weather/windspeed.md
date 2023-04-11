@@ -1,4 +1,4 @@
-### 4. 風速檢測
+# 風速檢測
 
 ![](./images/windspeed.png)
 

@@ -1,4 +1,4 @@
-# 1. 溫度氣壓站
+# 溫度氣壓站
 
 ![](./images/temp_atmosphere.png)
 

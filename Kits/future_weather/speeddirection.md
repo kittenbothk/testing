@@ -1,4 +1,4 @@
-# 4+5. 風速+風向檢測
+# 風速+風向檢測
 
 ![](./images/windspeed%2Bdirection.png)
 

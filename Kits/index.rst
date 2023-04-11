@@ -65,7 +65,7 @@
     lego_robot_arm/intro.md
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :caption: 未來板物聯氣象站套件
 
     future_weather/index

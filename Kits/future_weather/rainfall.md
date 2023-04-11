@@ -1,4 +1,4 @@
-# 2. 雨量檢測
+# 雨量檢測
 
 ![](./images/rainfall.png)
 

@@ -1,4 +1,4 @@
-# 7. 完整氣象站
+# 完整氣象站
 
 ![](./images/complete_station.png)
 

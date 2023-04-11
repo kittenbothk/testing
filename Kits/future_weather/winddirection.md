@@ -1,4 +1,4 @@
-### 5. 風向檢測
+# 風向檢測
 
 ![](./images/wind_direction.png)
 
