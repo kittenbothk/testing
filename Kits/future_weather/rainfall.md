@@ -17,3 +17,5 @@
 ![](./images/rainfall_code.png)
 
 [下載範例程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/sb3/2_rainfall.sb3)
+
+[下載範例python程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/py/2_rainfall.py)

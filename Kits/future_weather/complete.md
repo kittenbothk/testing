@@ -12,7 +12,7 @@
 
 ## 接線圖
 
-![](./images/windspeed_wiring.png)
+![](./images/complete_wiring.png)
 
 ## 範例程式
 
@@ -21,10 +21,14 @@
 ![](./images/complete_code1.png)
 
 
-[下載範例程式](ttps://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/sb3/7_complete.sb3)
+[下載範例程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/sb3/7_complete.sb3)
+
+[下載範例python程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/py/7_complete.py)
 
 ### 副未來板程式(風向)
 
 ![](./images/complete_code2.png)
 
-[下載範例程式](ttps://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/sb3/7_complete_direction.sb3)
+[下載範例程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/sb3/7_complete_direction.sb3)
+
+[下載範例python程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/py/7_complete_direction.py)

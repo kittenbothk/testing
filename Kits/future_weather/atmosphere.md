@@ -17,3 +17,5 @@
 ![](./images/temp_atmosphere_code.png)
 
 [下載範例程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/sb3/1_temp_hpa.sb3)
+
+[下載範例python程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/py/1_temp_hpa.py)

@@ -1,6 +1,6 @@
 # 風速+風向檢測
 
-![](./images/windspeed%2Bdirection.png)
+![](./images/windspeed_direction.png)
 
 一個可以檢測風速和風向的模型。
 
@@ -22,8 +22,12 @@
 
 [下載範例程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/sb3/4_windspeed.sb3)
 
+[下載範例python程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/py/4_windspeed.py)
+
 ### 風向檢測
 
 ![](./images/winddirection_code.png)
 
 [下載範例程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/sb3/5_winddirection.sb3)
+
+[下載範例python程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/py/5_winddirection.py)

@@ -17,3 +17,5 @@
 ![](./images/windspeed_code.png)
 
 [下載範例程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/sb3/4_windspeed.sb3)
+
+[下載範例python程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/py/4_windspeed.py)
