@@ -8,7 +8,7 @@ KittenBlock是KittenBot的自家編程平台。
 
 Windows系統：
 
-[Kittenblock 1.89 下載](https://bit.ly/KittenblockHK18911)
+[Kittenblock 1.89.16 下載](https://drive.google.com/file/d/14lhHpzHQKgzpd0A8dJQ0i39rTHaPLDsO/view?usp=share_link)
 
 MacOS系統：
 
@@ -53,6 +53,12 @@ MacOS系統：
 ![](./images/189_mac1.png)
 
 [MacOS安裝示範短片](https://youtu.be/U8nrqviWDlI)
+
+## KittenBlock更新
+
+![](./images/update.png)
+
+    假如KittenBlock通知有更新可安裝的話，由於KittenBlock香港版與國內版有分別，請務必選擇暫不更新，以確保程式的穩定性。KittenBot HK會自行釋出KittenBlock的新版本。
 
 ## 軟件排錯：
 
