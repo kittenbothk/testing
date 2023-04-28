@@ -28,7 +28,7 @@
 
 ![](./images/robotbit_search.gif)
 
-### 感應器Plus插件：https://github.com/kittenbothk/pxt-SensorPlus
+### 感應器Plus插件：https://github.com/kittenbothk/pxt-ModulePlus
 
 ### [詳細方法](../Makecode/powerBrickMC)
 
