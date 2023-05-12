@@ -20,7 +20,7 @@
     :caption: 一般感應器
 
     turbidity.md
-    ph.md
+    ph.rst
     kittenclock.md
     airquality.md
     infratemp.md
