@@ -7,6 +7,7 @@ pH值感應器
     :maxdepth: 1
     
     ph.md
+    phtune.md
+    phuse.md
     phcalibrate.md
-
     

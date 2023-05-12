@@ -1,35 +1,23 @@
-## pH感應器初次實體校正
+# pH值感應器日常使用校正教學
 
-### pH計在出廠或長時間沒使用時，為了模組的準確性，Kittenbot建議首先對模組進行實體校正。
+假如覺得每次使用都要校正模組一點不方便，可以參考以下方法，將校正數值保存下來。
 
-### 此校正步驟只需進行一次，並非每次使用前都需要進行
+## pH感應器匯出/匯入校正數值
 
-請下載以下程式到micro:bit。
+### pH感應器的校正數值可以透過程式匯出，方便下次使用時不需要再進行軟體校正。
 
-![](./images/ph_calibration_code.png)
+![](./images/ph_export.png)
 
-[參考程式](https://makecode.microbit.org/_gmJbuk5UbHEs)
+### [參考程式](https://makecode.microbit.org/_ibPKjtApFKXm)
 
-### 請按使用一字螺絲批調節模組上的電位器。
+請將Micro:bit顯示的兩個數值抄下來。
 
-![](./images/ph2.png)
+![](./images/ph_export2.gif)
 
-### 將感應器的保護套拆開，然後浸入pH6.86校正液，並等待大約1分鐘。
+下次使用時，就可以將抄下來的A和B數值寫入設定積木，可以跳過校正步驟。
 
-### 當micro:bit顯示向上箭咀，請將模組上的電位器順時針扭動。
+    每隻pH感應器的校正數值都可能不一樣，有可能不可以共通使用。
+    
+![](./images/ph_export3.png)
 
-![](./images/ph_calibration_1.png)
-
-### 當micro:bit顯示向下箭咀，請將模組上的電位器逆時針扭動。
-
-![](./images/ph_calibration_2.png)
-
-### 請慢慢扭動電位器，直至micro:bit顯示圓圈圖案。
-
-![](./images/ph_calibration_3.png)
-
-## pH感應器MakeCode參考程式
-
-![](./images/ph_code_mc.png)
-
-[參考程式](https://makecode.microbit.org/_E14copgqscTP)
+### [參考程式](https://makecode.microbit.org/_1U7VAifgsduh)
