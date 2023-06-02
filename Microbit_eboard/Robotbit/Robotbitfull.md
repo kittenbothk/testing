@@ -2,11 +2,9 @@
 
 Robotbit擴展板(HKBK8001A)
 
-## Robotbit已經停產，並且已由Robotbit Edu取代，有興趣的用家請參考[Robotbit Edu介紹](../Robotbit_edu/robotbitedu.md)
-
 ## 產品名稱：
 
-**Robotbit (Version 2.2) (已停產)**
+**Robotbit (Version 2.2)**
 
 適用於校本中小學生編程教育 / 培訓機構 / 編程愛好者
 

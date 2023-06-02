@@ -12,7 +12,7 @@ Windows系統：
 
 MacOS系統：
 
-[Kittenblock 1.89 下載](https://bit.ly/KittenblockHK18911Mac)
+[Kittenblock 1.89.16 下載](https://drive.google.com/file/d/1GyXevj5wRmOn6bFWKoL-dXH4c27bKATG/view?usp=sharing)
 
 ![](./images/187download.png)  
 

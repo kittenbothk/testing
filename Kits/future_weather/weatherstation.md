@@ -13,6 +13,7 @@
 - Sugar 雷射測距模組 *1
 - Sugar 磁力感應模組 *1
 - Sugar 氣壓海拔模組 *1
+- Sugar 灰度感應模組 *1
 - Sugar I2C分線模組 *1
 - 組裝積木包
 
@@ -42,7 +43,5 @@
 ![](./images/wind_direction.png)
 
 ### 5. 完整氣象站
-
-    (這模型需要2塊未來板)
 
 ![](./images/complete_station.png)

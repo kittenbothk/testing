@@ -1,4 +1,4 @@
-RobotBit (已停產)
+RobotBit 2.2
 ====================
 
 RobotBit的資訊。
