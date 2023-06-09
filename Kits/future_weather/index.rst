@@ -7,9 +7,4 @@
     :maxdepth: 1
 
     weatherstation.md
-    atmosphere.md
-    rainfall.md
-    windspeed.md
-    winddirection.md
-    speeddirection.md
-    complete.md
+    future_iobit.rst
