@@ -66,9 +66,9 @@
 
 .. toctree::
     :maxdepth: 1
-    :caption: 未來板物聯氣象站套件
+    :caption: 物聯氣象站套件
 
-    future_weather/index
+    weatherstation/index
 
 .. toctree::
     :maxdepth: 2
