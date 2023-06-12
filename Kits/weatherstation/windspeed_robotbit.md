@@ -10,7 +10,7 @@
 
 ## 接線圖
 
-![](./images/windspeed_wiring.png)
+![](./images/windspeed_robotbit_wiring.png)
 
 ## 範例程式
 

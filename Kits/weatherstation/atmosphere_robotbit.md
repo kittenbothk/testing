@@ -10,7 +10,7 @@
 
 ## 接線圖
 
-![](./images/temp_atmosphere_wiring.png)
+![](./images/temp_atmosphere_robotbit_wiring.png)
 
 ## 範例程式
 

@@ -10,7 +10,7 @@
 
 ## 接線圖
 
-![](./images/rainfall_wiring.png)
+![](./images/rainfall_robotbit_wiring.png)
 
 ## 範例程式
 
