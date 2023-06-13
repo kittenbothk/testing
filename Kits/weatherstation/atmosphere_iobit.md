@@ -6,16 +6,22 @@
 
 ## 搭建說明書
 
-[下載搭建說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/instructions/temp_atmosphere.pdf)
+[下載搭建說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/weatherstation/instructions/temp_atmosphere.pdf)
 
 ## 接線圖
 
 ![](./images/temp_atmosphere_wiring.png)
 
-## 範例程式
+## 未來板範例程式
 
 ![](./images/temp_atmosphere_code.png)
 
-[下載範例程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/sb3/1_temp_hpa.sb3)
+[下載範例程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/weatherstation/sb3/1_temp_hpa.sb3)
 
-[下載範例python程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/py/1_temp_hpa.py)
+[下載範例python程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/weatherstation/py/1_temp_hpa.py)
+
+## Micro:bit範例程式
+
+![](./images/temp_atmosphere_code_mc.png)
+
+[下載範例程式](https://makecode.microbit.org/_2bzDffdpHh5A)

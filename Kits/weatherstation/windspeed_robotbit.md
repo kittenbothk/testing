@@ -6,7 +6,7 @@
 
 ## 搭建說明書
 
-[下載搭建說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/instructions/windspeed_robotbit.pdf)
+[下載搭建說明書](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/weatherstation/instructions/windspeed_robotbit.pdf)
 
 ## 接線圖
 
@@ -16,6 +16,6 @@
 
 ![](./images/windspeed_code.png)
 
-[下載範例程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/sb3/4_windspeed.sb3)
+[下載範例程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/weatherstation/sb3/4_windspeed.sb3)
 
-[下載範例python程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/future_weather/py/4_windspeed.py)
+[下載範例python程式](https://github.com/kittenbothk/kittenbothk/raw/master/Kits/weatherstation/py/4_windspeed.py)
