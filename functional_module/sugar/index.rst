@@ -36,3 +36,4 @@ Sugar系列模組教學
     sugar_touch.md
     sugar_display.md
     sugar_hub.md
+    sugar_gray.md
